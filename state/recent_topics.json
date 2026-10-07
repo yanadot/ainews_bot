@@ -24,6 +24,31 @@
       "topic": "Nous Research подтвердила оценку $1.5 млрд и запустила Hermes for Businesses",
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
       "ts": "2026-10-07T22:10:23Z"
+    },
+    {
+      "topic": "Broadcom собирает $50B+ финансирования под чипы OpenAI, Oracle и SpaceX ищут похожие сделки",
+      "url": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/",
+      "ts": "2026-10-07T22:44:41Z"
+    },
+    {
+      "topic": "Mistral выпустила Large 4 ('Le Chonk') — триллион параметров, открытые веса",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "ts": "2026-10-07T22:44:42Z"
+    },
+    {
+      "topic": "OpenAI публикует 722 математические рукописи от непубличной внутренней модели",
+      "url": "https://github.com/openai/math",
+      "ts": "2026-10-07T22:44:42Z"
+    },
+    {
+      "topic": "Anthropic выпустила Claude Haiku 5.5, снизила цену кэша Sonnet 5.5 и добавила API-кредиты подписчикам",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "ts": "2026-10-07T22:44:43Z"
+    },
+    {
+      "topic": "Healthleap привлекла $38M на AI-скрининг недиагностированных пациентов в стационарах",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "ts": "2026-10-07T22:44:44Z"
     }
   ]
 }

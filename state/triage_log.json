@@ -1,375 +1,311 @@
 {
-  "run_at": "2026-10-07T22:02:15Z",
+  "run_at": "2026-10-07T23:15:00Z",
   "clusters": [
     {
       "cluster_id": "c1",
-      "topic": "OpenAI выпустила GPT-6 с Intelligent UI в ChatGPT",
-      "category": "lab_launch",
+      "topic": "Broadcom собирает $50B+ финансирования под чипы OpenAI, Oracle и SpaceX ищут похожие сделки",
+      "category": "big_news",
       "score": 5,
       "decision": "draft",
-      "reason": "флагманский запуск модели и нового интерфейса, факты сверены по двум независимым медиа (Verge, TechCrunch), первоисточник OpenAI недоступен (403), но цифры совпадают",
-      "primary_url": "https://openai.com/index/gpt-6-for-everyone",
+      "reason": "Крупнейшая инфраструктурная сделка дня, первоисточник (WSJ) подтверждён через независимое изложение фактов, цифры совпадают во всех найденных пересказах",
+      "primary_url": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/",
       "candidate_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-        "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-        "https://openai.com/index/gpt-6-for-everyone"
+        "https://www.techmeme.com/261007/p37#a261007p37"
       ]
     },
     {
       "cluster_id": "c2",
-      "topic": "Microsoft и Nvidia встраивают AI-агентов в Windows (MXC, Copilot Hybrid Intelligence, RTX Spark)",
+      "topic": "Anthropic выпустила Claude Haiku 5.5, снизила цену кэша Sonnet 5.5 и добавила API-кредиты подписчикам",
       "category": "lab_launch",
-      "score": 5,
+      "score": 4,
       "decision": "draft",
-      "reason": "крупный совместный ивент Microsoft/Nvidia, факты сверены напрямую по первоисточнику NVIDIA Blog и подтверждены Verge",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "reason": "Запуск модели крупной лабы с заметным ценовым ходом против OpenAI, факты сверены по anthropic.com и независимо подтверждены Simon Willison",
+      "primary_url": "https://www.anthropic.com/claude-haiku-5-5",
       "candidate_urls": [
-        "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-        "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-        "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
-        "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+        "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+        "https://www.techmeme.com/261007/p34#a261007p34",
+        "https://www.techmeme.com/261007/p33#a261007p33",
+        "https://www.techmeme.com/261007/p31#a261007p31"
       ]
     },
     {
       "cluster_id": "c3",
-      "topic": "Lambda поднимает до $4 млрд перед IPO",
-      "category": "funding",
-      "score": 5,
-      "decision": "draft",
-      "reason": "крупный раунд перед IPO, факты сверены напрямую по первоисточнику (TechCrunch, единственный источник в кластере)",
-      "primary_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "topic": "OpenAI раскатывает GPT-6 Intelligent UI в ChatGPT на всех платных тарифах",
+      "category": "lab_launch",
+      "score": 4,
+      "decision": "duplicate_recent",
+      "reason": "Тема уже закрыта постом за последние 72 часа (recent_topics: 'OpenAI выпустила GPT-6 с Intelligent UI в ChatGPT'). Новых фактов сверх объявления дат раскатки на Free/Go тарифы нет",
+      "primary_url": "https://www.techmeme.com/261007/p32#a261007p32",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/"
+        "https://www.techmeme.com/261007/p36#a261007p36",
+        "https://www.techmeme.com/261007/p32#a261007p32",
+        "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/"
       ]
     },
     {
       "cluster_id": "c4",
-      "topic": "Anthropic расширила программу Claude for Startups",
-      "category": "big_news",
-      "score": 4,
-      "decision": "draft",
-      "reason": "прямая практическая ценность для аудитории (стартапы/founders), факты сверены по первоисточнику в кластере (TechCrunch, цитирует официальное заявление Anthropic)",
-      "primary_url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "topic": "Sriram Krishnan поднимает ~$500M фонд под поздние AI-раунды с упором на нацбезопасность",
+      "category": "funding",
+      "score": 3,
+      "decision": "rejected",
+      "reason": "Это VC-фонд, а не продуктовая история; ракурс политический (national security), мало практического вывода для нашей аудитории",
+      "primary_url": "https://www.techmeme.com/261007/p35#a261007p35",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+        "https://www.techmeme.com/261007/p35#a261007p35"
       ]
     },
     {
       "cluster_id": "c5",
-      "topic": "Nous Research подтвердила оценку $1.5 млрд и запустила Hermes for Businesses",
-      "category": "funding",
-      "score": 4,
-      "decision": "draft",
-      "reason": "крупный раунд + запуск enterprise-продукта поверх открытого агента, факты сверены напрямую по первоисточнику в кластере (TechCrunch)",
-      "primary_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "topic": "Инженеры посадили GPT, Claude и Grok за руль Toyota Corolla",
+      "category": null,
+      "score": 2,
+      "decision": "rejected",
+      "reason": "Развлекательный эксперимент, не продуктовая и не рыночная новость",
+      "primary_url": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
+        "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/"
       ]
     },
     {
       "cluster_id": "c6",
-      "topic": "Healthleap раунд $38M на AI для мониторинга пациентов в больницах",
-      "category": "funding",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "прошло порог (funding выше $30M с внятным продуктом), но не влезло в лимит 5 черновиков за прогон",
-      "primary_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "topic": "Microsoft открыла предзаказ Surface RTX Spark Dev Box за $5,999",
+      "category": "startup_launch",
+      "score": 3,
+      "decision": "rejected",
+      "reason": "Нишевое dev-железо; основное событие (AI-агенты в Windows с Nvidia) уже закрыто темой за последние 72 часа, а здесь только цена предзаказа — недостаточно для топ-5",
+      "primary_url": "https://www.techmeme.com/261007/p29#a261007p29",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+        "https://www.techmeme.com/261007/p29#a261007p29"
       ]
     },
     {
       "cluster_id": "c7",
-      "topic": "Google DeepMind, Meta и Isomorphic Labs вложили $300M в проект 'виртуальной клетки' Biohub",
+      "topic": "Meta отчиталась о блокировке 33.2M единиц CSAM-контента в H1 2026",
       "category": "big_news",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "крупная межкорпоративная инвестиция в AI для науки, прошла порог, но не влезла в лимит 5",
-      "primary_url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "score": 2,
+      "decision": "rejected",
+      "reason": "Статистика модерации контента — важная тема safety, но не продуктовый и не рыночный сдвиг для аудитории канала",
+      "primary_url": "https://www.techmeme.com/261007/p28#a261007p28",
       "candidate_urls": [
-        "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell"
+        "https://www.techmeme.com/261007/p28#a261007p28"
       ]
     },
     {
       "cluster_id": "c8",
-      "topic": "OpenAI опубликовала новую партию решений математических задач",
-      "category": "lab_launch",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "заметный research-релиз фронтирной лабы, первоисточник открыт и подтверждён, но не влез в лимит 5",
-      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "topic": "Первый отчёт OpenAI об использовании ChatGPT подростками",
+      "category": "big_news",
+      "score": 2,
+      "decision": "rejected",
+      "reason": "Отчёт-метрика без рыночных последствий, не двигает индустрию",
+      "primary_url": "https://www.techmeme.com/261007/p27#a261007p27",
       "candidate_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-        "https://openai.com/index/sharing-ai-progress-in-mathematics"
+        "https://www.techmeme.com/261007/p27#a261007p27"
       ]
     },
     {
       "cluster_id": "c9",
-      "topic": "Google запустила сайт SynthID для проверки AI-контента",
-      "category": "lab_launch",
+      "topic": "Healthleap привлекла $38M на AI-скрининг недиагностированных пациентов в стационарах",
+      "category": "funding",
       "score": 4,
-      "decision": "over_limit",
-      "reason": "полезный консьюмерский инструмент от крупной лабы, прошёл порог, но не влез в лимит 5",
-      "primary_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+      "decision": "draft",
+      "reason": "Раунд ровно на уровне нашего ориентира по значимости (funding ≥$30M с понятным продуктовым выводом), факты сверены напрямую по эксклюзиву TechCrunch",
+      "primary_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+        "https://www.techmeme.com/261007/p25#a261007p25"
       ]
     },
     {
       "cluster_id": "c10",
-      "topic": "Google Labs запустила экспериментальную игровую платформу Playground",
-      "category": "lab_launch",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "новая продуктовая категория от крупной лабы, первоисточник Google Blog подтверждён, но не влезло в лимит 5",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "topic": "Пентагон ускоряет закупки AI через 5-минутные питч-видео (Tradewinds)",
+      "category": "big_news",
+      "score": 3,
+      "decision": "rejected",
+      "reason": "Расследовательский материал без чётких проверяемых сделок/цифр, узкая тема gov procurement, не профиль канала",
+      "primary_url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-        "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
       ]
     },
     {
       "cluster_id": "c11",
-      "topic": "ChatGPT for Teens под критикой: вовлекает подростков в кризисных ситуациях, Common Sense Media называет риск 'неприемлемым'",
+      "topic": "Маск заявил, что Grok Bot будет использовать модели конкурентов (Claude Opus 5.5, MidJourney, Suno)",
       "category": "big_news",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "значимый trust&safety-кейс крупной лабы, прошёл порог, но не влез в лимит 5",
-      "primary_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "score": 3,
+      "decision": "rejected",
+      "reason": "Источник — пересказ одного твита через The Information, деталей и подтверждённого масштаба изменения мало для фактчека и полноценного поста",
+      "primary_url": "https://www.techmeme.com/261007/p23#a261007p23",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-        "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+        "https://www.techmeme.com/261007/p23#a261007p23"
       ]
     },
     {
       "cluster_id": "c12",
-      "topic": "Meta запустила AI-инструменты для обнаружения рекламы, ведущей к CSAM-контенту",
-      "category": "big_news",
-      "score": 4,
-      "decision": "over_limit",
-      "reason": "значимая safety-инициатива крупной компании, прошла порог, но не влезла в лимит 5",
-      "primary_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "topic": "Статья Latent Space про cloud-native харнесс для агентов (Stacklok)",
+      "category": "analysis",
+      "score": 2,
+      "decision": "rejected",
+      "reason": "Аналитическая колонка про стартап без собственной новости — попадает под фильтр analysis без самостоятельного инфоповода",
+      "primary_url": "https://www.latent.space/p/stacklok",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+        "https://www.latent.space/p/stacklok"
       ]
     },
     {
       "cluster_id": "c13",
-      "topic": "Muse (Meta) запустился на iPad",
-      "category": "startup_launch",
+      "topic": "Wired протестировал агента OpenAI Dots",
+      "category": null,
       "score": 2,
       "decision": "rejected",
-      "reason": "мелкий апдейт уже запущенного месяц назад продукта (расширение на ещё один форм-фактор), не тянет на отдельную новость",
-      "primary_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "reason": "Личный обзор/мнение журналиста, не новость о запуске продукта",
+      "primary_url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
       "candidate_urls": [
-        "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
-        "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+        "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
       ]
     },
     {
       "cluster_id": "c14",
-      "topic": "OpenAI добавила College Planner и другие инструменты в ChatGPT for Teens",
-      "category": "lab_launch",
-      "score": 3,
+      "topic": "Штамп 'organic literature' для книг, написанных людьми",
+      "category": null,
+      "score": 1,
       "decision": "rejected",
-      "reason": "второстепенная фича для нишевого продукта (teen-режим), ниже порога для PM/founder-аудитории",
-      "primary_url": "https://openai.com/index/teens-learn-and-plan",
+      "reason": "Культурная тема на периферии AI-индустрии, не продуктовая новость",
+      "primary_url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
       "candidate_urls": [
-        "https://openai.com/index/teens-learn-and-plan",
-        "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
+        "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
       ]
     },
     {
       "cluster_id": "c15",
-      "topic": "Интервью Тони Фаделла о провале первой волны AI-гаджетов",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "мнение/интервью, не новость о событии",
-      "primary_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "topic": "OpenAI публикует 722 математические рукописи от непубличной внутренней модели",
+      "category": "big_news",
+      "score": 5,
+      "decision": "draft",
+      "reason": "Самая обсуждаемая AI-новость дня, проверена напрямую по репозиторию github.com/openai/math и независимо подтверждена Wired; резонанс в математическом сообществе делает её значимой для индустрии",
+      "primary_url": "https://github.com/openai/math",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/"
+        "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
+        "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
       ]
     },
     {
       "cluster_id": "c16",
-      "topic": "Промо TechCrunch Disrupt: Alexander Embiricos выступит на сцене",
-      "category": null,
-      "score": 1,
+      "topic": "Product Hunt: Reika — coding agent CLI под локальные модели",
+      "category": "startup_launch",
+      "score": 2,
       "decision": "rejected",
-      "reason": "анонс мероприятия/реклама билетов, не новость",
-      "primary_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+      "reason": "Мелкий продукт, неизвестная команда, порог для категории launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/reika",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
+        "https://www.producthunt.com/products/reika"
       ]
     },
     {
       "cluster_id": "c17",
-      "topic": "Промо TechCrunch Disrupt: программа круглых столов",
-      "category": null,
+      "topic": "Product Hunt: Aura by Neural — интерактивные интерфейсы из запросов",
+      "category": "startup_launch",
       "score": 1,
       "decision": "rejected",
-      "reason": "анонс мероприятия/реклама билетов, не новость",
-      "primary_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+      "reason": "Мелкий продукт, порог launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/aura-by-neural",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/"
+        "https://www.producthunt.com/products/aura-by-neural"
       ]
     },
     {
       "cluster_id": "c18",
-      "topic": "Промо TechCrunch Disrupt: 6 дней до открытия",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "анонс мероприятия/реклама билетов, не новость",
-      "primary_url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+      "topic": "Google выпустила Nano Banana 2.1 — дешевле и точнее в редактировании изображений",
+      "category": "lab_launch",
+      "score": 4,
+      "decision": "over_limit",
+      "reason": "Реальный и подтверждённый запуск крупной лабы (цена вдвое ниже, выше Elo по слепым тестам), прошёл порог, но не влез в лимит 5 черновиков — уступил более значимым историям дня",
+      "primary_url": "https://x.com/Google/status/2107501209154204148",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/"
+        "https://www.producthunt.com/products/google"
       ]
     },
     {
       "cluster_id": "c19",
-      "topic": "Экс-инженеры Ramp подняли $20M на платформу Melius",
-      "category": "funding",
-      "score": 3,
+      "topic": "Фильм 'Artificial' высмеивает создателей OpenAI",
+      "category": null,
+      "score": 1,
       "decision": "rejected",
-      "reason": "раунд ниже порога $30M, продукт (генерация рекламных креативов) не даёт достаточно сильного продуктового вывода",
-      "primary_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "reason": "Обзор фильма, не продуктовая и не рыночная новость",
+      "primary_url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/"
+        "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/"
       ]
     },
     {
       "cluster_id": "c20",
-      "topic": "Musubi выпустила открытую decision-модель PolicyLM-1.7B для модерации контента",
+      "topic": "Product Hunt: Basedash Mobile — голосовые запросы к данным",
       "category": "startup_launch",
-      "score": 3,
+      "score": 1,
       "decision": "rejected",
-      "reason": "нишевый игрок и узкая техническая аудитория, ниже порога для канала",
-      "primary_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "reason": "Мелкий продукт, порог launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/basedash",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/"
+        "https://www.producthunt.com/products/basedash"
       ]
     },
     {
       "cluster_id": "c21",
-      "topic": "LiquidAI выпустила мультимодальные decision-модели open d1",
+      "topic": "Product Hunt: Walrus Console — хранение и защита данных",
       "category": "startup_launch",
-      "score": 2,
+      "score": 1,
       "decision": "rejected",
-      "reason": "узкотехнический релиз для нишевой аудитории разработчиков edge-моделей",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "reason": "Мелкий продукт, порог launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/walrus-console",
       "candidate_urls": [
-        "https://huggingface.co/blog/LiquidAI/open-d1"
+        "https://www.producthunt.com/products/walrus-console"
       ]
     },
     {
       "cluster_id": "c22",
-      "topic": "NVIDIA Nemotron получила золото на IOI и IMO после fine-tuning",
-      "category": "lab_launch",
-      "score": 3,
+      "topic": "Product Hunt: StudyQuest — превращает конспекты в игры",
+      "category": "startup_launch",
+      "score": 1,
       "decision": "rejected",
-      "reason": "интересное техническое достижение, но узкая аудитория (research/benchmarks), ниже порога для канала",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "reason": "Мелкий продукт, порог launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/studyquest",
       "candidate_urls": [
-        "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+        "https://www.producthunt.com/products/studyquest"
       ]
     },
     {
       "cluster_id": "c23",
-      "topic": "Новый стандарт должен помочь AI-агентам проходить через блокировки сайтов",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "аналитический/обзорный материал о тренде, а не новость о конкретном событии",
-      "primary_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "topic": "Mistral выпустила Large 4 ('Le Chonk') — триллион параметров, открытые веса",
+      "category": "lab_launch",
+      "score": 5,
+      "decision": "draft",
+      "reason": "Крупный открытый фронтир-релиз европейской лабы, факты сверены напрямую по mistral.ai и независимо подтверждены Wired",
+      "primary_url": "https://mistral.ai/news/mistral-large-4/",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/"
+        "https://www.producthunt.com/products/mistral-7b",
+        "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/"
       ]
     },
     {
       "cluster_id": "c24",
-      "topic": "Hark выпустила приватного AI-ассистента",
+      "topic": "Product Hunt: Figma Agent — промпты и прототипирование на холсте",
       "category": "startup_launch",
       "score": 3,
       "decision": "rejected",
-      "reason": "небольшой игрок на перегретом рынке персональных агентов, ниже порога",
-      "primary_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "reason": "Известная компания, но это переход уже анонсированного в мае агента в GA, а не новый запуск; недостаточно нового для топ-5 в этом прогоне",
+      "primary_url": "https://www.producthunt.com/products/figma",
       "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/"
+        "https://www.producthunt.com/products/figma"
       ]
     },
     {
       "cluster_id": "c25",
-      "topic": "Как AI может изменить рынок доставки еды (кейс Bites vs DoorDash)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "аналитический/фичерный материал о рыночном тренде, а не новость о конкретном событии",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "candidate_urls": [
-        "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites"
-      ]
-    },
-    {
-      "cluster_id": "c26",
-      "topic": "Mirror Particle строит 'world model' поведения людей",
+      "topic": "Product Hunt: Featherweight Dictation — диктовка для Mac и Windows",
       "category": "startup_launch",
-      "score": 2,
-      "decision": "rejected",
-      "reason": "нишевый стартап, запуск приурочен к Startup Battlefield, ниже порога",
-      "primary_url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "candidate_urls": [
-        "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/"
-      ]
-    },
-    {
-      "cluster_id": "c27",
-      "topic": "Atlassian и OpenAI расширили партнёрство",
-      "category": "big_news",
-      "score": 3,
-      "decision": "rejected",
-      "reason": "расширение существующего партнёрства без конкретных новых фактов/цифр, ниже порога",
-      "primary_url": "https://openai.com/index/atlassian-partnership",
-      "candidate_urls": [
-        "https://openai.com/index/atlassian-partnership"
-      ]
-    },
-    {
-      "cluster_id": "c28",
-      "topic": "Radisson Hotel Group запустила поиск отелей в ChatGPT",
-      "category": "big_news",
-      "score": 2,
-      "decision": "rejected",
-      "reason": "кейс отдельного партнёра/клиента, не тянет на самостоятельную новость для аудитории",
-      "primary_url": "https://openai.com/index/radisson",
-      "candidate_urls": [
-        "https://openai.com/index/radisson"
-      ]
-    },
-    {
-      "cluster_id": "c29",
-      "topic": "Отчёт NVIDIA о том, почему телеком-операторы строят AI-стратегию на открытых моделях",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "материал в формате thought leadership/отчёта, а не новость о конкретном запуске или сделке",
-      "primary_url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-      "candidate_urls": [
-        "https://blogs.nvidia.com/blog/telecom-operators-open-models/"
-      ]
-    },
-    {
-      "cluster_id": "c30",
-      "topic": "Как Jump Trading использует ChatGPT для квант-исследований",
-      "category": null,
       "score": 1,
       "decision": "rejected",
-      "reason": "кейс клиента, явно исключён правилами отбора",
-      "primary_url": "https://openai.com/index/jump-trading",
+      "reason": "Мелкий продукт, порог launches не пройден",
+      "primary_url": "https://www.producthunt.com/products/featherweight-dictation",
       "candidate_urls": [
-        "https://openai.com/index/jump-trading"
+        "https://www.producthunt.com/products/featherweight-dictation"
       ]
     }
   ]

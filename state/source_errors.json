@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-07T22:02:15Z",
+  "checked_at": "2026-10-07T22:35:50Z",
   "errors": [
     {
       "id": "deepmind",
@@ -24,6 +24,18 @@
       "name": "Hacker News (AI, 200+)",
       "url": "https://hnrss.org/newest?points=200&count=50",
       "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    },
+    {
+      "id": "yc_launches",
+      "name": "Y Combinator Launches",
+      "url": "https://www.ycombinator.com/launches",
+      "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
+    },
+    {
+      "id": "import_ai",
+      "name": "Import AI (Jack Clark)",
+      "url": "https://importai.substack.com/feed",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
     }
   ]
 }
