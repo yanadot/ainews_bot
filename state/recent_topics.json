@@ -1,1 +1,29 @@
-{"topics": []}
+{
+  "topics": [
+    {
+      "topic": "OpenAI выпустила GPT-6 с Intelligent UI в ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "ts": "2026-10-07T22:10:21Z"
+    },
+    {
+      "topic": "Microsoft и Nvidia встраивают AI-агентов в Windows",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+      "ts": "2026-10-07T22:10:21Z"
+    },
+    {
+      "topic": "Lambda поднимает до $4 млрд перед IPO",
+      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "ts": "2026-10-07T22:10:22Z"
+    },
+    {
+      "topic": "Anthropic расширила программу Claude for Startups",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "ts": "2026-10-07T22:10:22Z"
+    },
+    {
+      "topic": "Nous Research подтвердила оценку $1.5 млрд и запустила Hermes for Businesses",
+      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "ts": "2026-10-07T22:10:23Z"
+    }
+  ]
+}

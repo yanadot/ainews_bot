@@ -1,1 +1,29 @@
-{"checked_at": null, "errors": []}
+{
+  "checked_at": "2026-10-07T22:02:15Z",
+  "errors": [
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 1"
+    },
+    {
+      "id": "meta_ai",
+      "name": "Meta AI",
+      "url": "https://ai.meta.com/blog/",
+      "error": "HTTPError: HTTP Error 400: Bad Request"
+    },
+    {
+      "id": "microsoft_ai",
+      "name": "Microsoft AI Blog",
+      "url": "https://blogs.microsoft.com/ai/feed/",
+      "error": "HTTPError: HTTP Error 410: Gone"
+    },
+    {
+      "id": "hn_ai",
+      "name": "Hacker News (AI, 200+)",
+      "url": "https://hnrss.org/newest?points=200&count=50",
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    }
+  ]
+}
