@@ -29,4 +29,4 @@ jobs:
 
       - name: Commit state
         if: always()
-        run: bash scripts/commit_state.sh "state: approvals"
+        run: bash scripts/commit_state.sh "state - approvals"

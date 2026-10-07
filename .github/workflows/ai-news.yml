@@ -77,4 +77,4 @@ jobs:
 
       - name: Commit state
         if: always()
-        run: bash scripts/commit_state.sh "state: ai-news run ${{ github.run_number }}"
+        run: bash scripts/commit_state.sh "state - ai-news run ${{ github.run_number }}"
