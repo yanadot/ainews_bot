@@ -23,7 +23,7 @@ from common import (
 )
 
 SUMMARY_LEN = 500
-MAX_TOTAL_CANDIDATES = 80
+MAX_TOTAL_CANDIDATES = 120
 
 
 def strip_tags(s):
