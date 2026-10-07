@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write(state/**)",
+      "Edit(state/**)",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "WebSearch",
+      "Bash(python3 scripts/extract.py:*)"
+    ],
+    "deny": [
+      "Write(.github/**)",
+      "Write(scripts/**)",
+      "Write(.claude/**)",
+      "Edit(.github/**)",
+      "Edit(scripts/**)",
+      "Edit(.claude/**)",
+      "Read(.env)",
+      "Read(.env.*)"
+    ]
+  }
+}
