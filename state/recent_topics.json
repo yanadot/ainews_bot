@@ -49,6 +49,31 @@
       "topic": "Healthleap привлекла $38M на AI-скрининг недиагностированных пациентов в стационарах",
       "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
       "ts": "2026-10-07T22:44:44Z"
+    },
+    {
+      "topic": "Manus (Butterfly Effect) привлекла $500+ млн после разрыва сделки с Meta",
+      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+      "ts": "2026-10-08T11:49:47Z"
+    },
+    {
+      "topic": "Anthropic выпустила публичную бету Claude for Google Workspace",
+      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "ts": "2026-10-08T11:49:48Z"
+    },
+    {
+      "topic": "SemiAnalysis: Китай нарастил 24 ГВт AI-дата-центров, еще 50 ГВт в планах, против 56 ГВт у США",
+      "url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
+      "ts": "2026-10-08T11:49:49Z"
+    },
+    {
+      "topic": "Association for Human Mathematics призвала бойкотировать OpenAI из-за публикации 722 математических рукописей",
+      "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
+      "ts": "2026-10-08T11:49:50Z"
+    },
+    {
+      "topic": "Виталик Бутерин поддержал призыв к 'бункер-режиму' крипто-кошельков из-за риска взлома криптографии AI-математикой",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "ts": "2026-10-08T11:49:51Z"
     }
   ]
 }
