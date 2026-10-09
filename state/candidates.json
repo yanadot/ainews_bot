@@ -1,6 +1,193 @@
 {
-  "collected_at": "2026-10-09T11:34:30Z",
+  "collected_at": "2026-10-09T19:08:45Z",
   "candidates": [
+    {
+      "source_id": "cohere",
+      "source_name": "Cohere Blog",
+      "source_role": "primary",
+      "title": "Shared or dedicated inference for Embed & RerankOct 09, 20267 min read",
+      "url": "https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank",
+      "canonical_url": "https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank",
+      "published": null,
+      "summary": "",
+      "found_at": "2026-10-09T19:08:43Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "canonical_url": "https://theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "published": "2026-10-09T18:06:57Z",
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M (Dominic-Madori Davis/TechCrunch)",
+      "url": "https://www.techmeme.com/261009/p20#a261009p20",
+      "canonical_url": "https://techmeme.com/261009/p20",
+      "published": "2026-10-09T17:35:02Z",
+      "summary": "Dominic-Madori Davis / TechCrunch : Vesta, which uses AI agents to automate much of the loan origination process, raised $30M led by Conversion, bringing its total funding to $85M — Vesta, an AI-native software startup that helps lenders originate mortgages, announced on Thursday that it raised a $30 million round led by Conversion Capital.",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "canonical_url": "https://theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "published": "2026-10-09T17:23:28Z",
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided […]",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+      "url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "canonical_url": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust",
+      "published": "2026-10-09T16:56:42Z",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+      "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+      "canonical_url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
+      "published": "2026-10-09T16:53:02Z",
+      "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Danu Robotics’ fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
+      "published": "2026-10-09T16:45:00Z",
+      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "We can’t help treating AI like it’s human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we",
+      "published": "2026-10-09T16:40:14Z",
+      "summary": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots (Jeff John Roberts/Fortune)",
+      "url": "https://www.techmeme.com/261009/p17#a261009p17",
+      "canonical_url": "https://techmeme.com/261009/p17",
+      "published": "2026-10-09T16:15:01Z",
+      "summary": "Jeff John Roberts / Fortune : Warehouse robotics startup Ultra raised a $12M seed and a $50M Series A, and expands its deal with Physical Intelligence to supply AI software for its robots — Finance editor Jeff John Roberts here. The explosive growth of the robotics industry in recent years is reflected in new technology feats …",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "a16z’s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+      "published": "2026-10-09T15:43:33Z",
+      "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "huggingface",
+      "source_name": "Hugging Face",
+      "source_role": "primary",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "canonical_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "published": "2026-10-09T15:20:29Z",
+      "summary": "",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed (Rashi Shrivastava/Forbes)",
+      "url": "https://www.techmeme.com/261009/p15#a261009p15",
+      "canonical_url": "https://techmeme.com/261009/p15",
+      "published": "2026-10-09T14:55:01Z",
+      "summary": "Rashi Shrivastava / Forbes : Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed — Palo Alto-based Sabi is betting its cap, outfitted with 100,000 sensors, will enable people to talk to their AI agents just by thinking.",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch (SemiAnalysis)",
+      "url": "https://www.techmeme.com/261009/p14#a261009p14",
+      "canonical_url": "https://techmeme.com/261009/p14",
+      "published": "2026-10-09T14:15:01Z",
+      "summary": "SemiAnalysis : Analysis of 857 releases from nine Chinese AI labs from 2021 to September 2026: just 3.6% included safety results from the developer and only 1.1% did at launch — AI safety is on fire. On 12 September 2026, Dario Amodei published an essay arguing that frontier labs must deliberately slow …",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise",
+      "published": "2026-10-09T14:00:00Z",
+      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
+      "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
+      "url": "https://www.techmeme.com/261009/p13#a261009p13",
+      "canonical_url": "https://techmeme.com/261009/p13",
+      "published": "2026-10-09T13:25:03Z",
+      "summary": "Bloomberg : Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev — TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago …",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison's Weblog",
+      "source_role": "analysis",
+      "title": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+      "canonical_url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice",
+      "published": "2026-10-09T12:54:06Z",
+      "summary": "I shipped a new feature for my blog today: the Newsletters page, which offers an index of all of the newsletters I've sent out, both my free weekly Substack and my monthly sponsors-only updates. I built the feature almost entirely using my voice, chatting away to my laptop while I cooked dinner. Codex voice mode I used the ChatGPT desktop app for this, in the Codex tab, using the voice conversation mode, running against a local development environment. Here's what that looks like: I started the ",
+      "found_at": "2026-10-09T19:08:44Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks (Brenda Goh/Reuters)",
+      "url": "https://www.techmeme.com/261009/p11#a261009p11",
+      "canonical_url": "https://techmeme.com/261009/p11",
+      "published": "2026-10-09T11:55:01Z",
+      "summary": "Brenda Goh / Reuters : The Chinese developer of ARTEX says they have converted the AI agent into a closed-source project after CrowdStrike said it was used to hack South Korean banks — The Chinese developer of ARTEX said they have converted the AI agent to a closed-source project after cybersecurity firms identified …",
+      "found_at": "2026-10-09T19:08:45Z"
+    },
     {
       "source_id": "techmeme",
       "source_name": "Techmeme",
@@ -88,6 +275,17 @@
       "published": "2026-10-09T07:00:00Z",
       "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
       "found_at": "2026-10-09T11:34:22Z"
+    },
+    {
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "source_role": "primary",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "canonical_url": "https://openai.com/index/asana-browser-agent",
+      "published": "2026-10-09T07:00:00Z",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "found_at": "2026-10-09T19:08:36Z"
     },
     {
       "source_id": "producthunt_ai",
@@ -198,6 +396,17 @@
       "published": "2026-10-08T21:54:31Z",
       "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
       "found_at": "2026-10-09T00:02:19Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "canonical_url": "https://theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "published": "2026-10-08T21:38:35Z",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to […]",
+      "found_at": "2026-10-09T19:08:38Z"
     },
     {
       "source_id": "wired_ai",
