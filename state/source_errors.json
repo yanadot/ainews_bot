@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-09T00:02:22Z",
+  "checked_at": "2026-10-09T11:34:30Z",
   "errors": [
     {
       "id": "meta_ai",
@@ -12,12 +12,6 @@
       "name": "Microsoft AI Blog",
       "url": "https://blogs.microsoft.com/ai/feed/",
       "error": "HTTPError: HTTP Error 410: Gone"
-    },
-    {
-      "id": "hn_ai",
-      "name": "Hacker News (AI, 200+)",
-      "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
     },
     {
       "id": "yc_launches",

@@ -1,6 +1,160 @@
 {
-  "collected_at": "2026-10-09T00:02:22Z",
+  "collected_at": "2026-10-09T11:34:30Z",
   "candidates": [
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction (Eli Tan/New York Times)",
+      "url": "https://www.techmeme.com/261009/p9#a261009p9",
+      "canonical_url": "https://techmeme.com/261009/p9",
+      "published": "2026-10-09T11:05:00Z",
+      "summary": "Eli Tan / New York Times : Sources detail Mark Zuckerberg's decision to launch Muse despite safety concerns, after seeing that AI startup Instinct's similar agent product gained traction — Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg's hand.",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Nvidia commits $1B over five years to build out the US' \"capacity for super intelligence research\" in fields including quantum computing, healthcare, and energy (Tobias Mann/The Register)",
+      "url": "https://www.techmeme.com/261009/p8#a261009p8",
+      "canonical_url": "https://techmeme.com/261009/p8",
+      "published": "2026-10-09T10:45:01Z",
+      "summary": "Tobias Mann / The Register : Nvidia commits $1B over five years to build out the US' “capacity for super intelligence research” in fields including quantum computing, healthcare, and energy — Commitment comes as GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers (Sarah Hilton/Bloomberg)",
+      "url": "https://www.techmeme.com/261009/p7#a261009p7",
+      "canonical_url": "https://techmeme.com/261009/p7",
+      "published": "2026-10-09T10:01:12Z",
+      "summary": "Sarah Hilton / Bloomberg : A slew of cyberattacks hit Japanese companies in September, exposing the data of millions and prompting calls for security checks, as AI lowers hacking barriers — A cascade of cyberattacks has hit Japanese companies over the past few weeks, prompting the government to call for security checks …",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "source_role": "media",
+      "title": "Even ‘Law & Order’ Is Terrified of AI",
+      "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
+      "canonical_url": "https://wired.com/story/even-law-and-order-is-terrified-of-ai",
+      "published": "2026-10-09T10:00:00Z",
+      "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "canonical_url": "https://theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "published": "2026-10-09T09:48:26Z",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was […]",
+      "found_at": "2026-10-09T11:34:25Z"
+    },
+    {
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review AI",
+      "source_role": "media",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "canonical_url": "https://technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no",
+      "published": "2026-10-09T09:00:00Z",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
+      "url": "https://www.techmeme.com/261009/p5#a261009p5",
+      "canonical_url": "https://techmeme.com/261009/p5",
+      "published": "2026-10-09T08:50:01Z",
+      "summary": "Michael Considine / CNBC : OpenAI says it didn't fire three researchers for “raising safety concerns or speaking out”, but due to violating “clear policies on handling sensitive” info — OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a “significant breach of trust.”",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "source_role": "primary",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "canonical_url": "https://openai.com/index/sophos",
+      "published": "2026-10-09T07:00:00Z",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "found_at": "2026-10-09T11:34:22Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "OpenPilot",
+      "url": "https://www.producthunt.com/products/openpilot",
+      "canonical_url": "https://producthunt.com/products/openpilot",
+      "published": "2026-10-09T05:53:51Z",
+      "summary": "Open-source desktop AI agent for any model you choose Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech (Financial Times)",
+      "url": "https://www.techmeme.com/261009/p2#a261009p2",
+      "canonical_url": "https://techmeme.com/261009/p2",
+      "published": "2026-10-09T05:05:01Z",
+      "summary": "Financial Times : Sources: SoftBank is seeking to raise up to $100B from Gulf investors for a fund to buy companies and improve their operations with AI and other advanced tech — Founder and chief executive Masayoshi Son has held talks with senior figures in the UAE in recent weeks",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "iwant",
+      "url": "https://www.producthunt.com/products/iwant",
+      "canonical_url": "https://producthunt.com/products/iwant",
+      "published": "2026-10-09T04:20:47Z",
+      "summary": "Find available GPUs and host open models in one command Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections that will offer AI policy education to candidates in both parties (Emily Forlini/Fortune)",
+      "url": "https://www.techmeme.com/261009/p1#a261009p1",
+      "canonical_url": "https://techmeme.com/261009/p1",
+      "published": "2026-10-09T04:05:01Z",
+      "summary": "Emily Forlini / Fortune : Anthropic is setting up a “presidential engagement” program for the 2028 US elections that will offer AI policy education to candidates in both parties — Anthropic is setting up a “presidential engagement” program ahead of the 2028 elections, building an in-house team …",
+      "found_at": "2026-10-09T11:34:30Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Assist",
+      "url": "https://www.producthunt.com/products/assist-5",
+      "canonical_url": "https://producthunt.com/products/assist-5",
+      "published": "2026-10-09T02:44:37Z",
+      "summary": "Invisible assistant, that lives in your MacBook’s notch Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review AI",
+      "source_role": "media",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "canonical_url": "https://technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "published": "2026-10-09T00:08:24Z",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
     {
       "source_id": "latent_space",
       "source_name": "Latent Space",
@@ -22,6 +176,17 @@
       "published": "2026-10-08T23:01:29Z",
       "summary": "Mikita Balesni / @balesni : AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI” — Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
       "found_at": "2026-10-09T00:02:22Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Sorted",
+      "url": "https://www.producthunt.com/products/sorted-6",
+      "canonical_url": "https://producthunt.com/products/sorted-6",
+      "published": "2026-10-08T22:52:23Z",
+      "summary": "Your private AI file organizer for Mac Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
     },
     {
       "source_id": "verge_ai",
@@ -299,6 +464,28 @@
       "found_at": "2026-10-08T19:34:01Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Odyssey 3",
+      "url": "https://www.producthunt.com/products/odyssey-3",
+      "canonical_url": "https://producthunt.com/products/odyssey-3",
+      "published": "2026-10-08T16:51:49Z",
+      "summary": "A world model that simulates physics in real time Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "canonical_url": "https://cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "published": "2026-10-08T16:45:58Z",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html Comments URL: https://news.ycombinator.com/item?id=50008187 Points: 399 # Comments: 265",
+      "found_at": "2026-10-09T11:34:26Z"
+    },
+    {
       "source_id": "latent_space",
       "source_name": "Latent Space",
       "source_role": "analysis",
@@ -453,6 +640,17 @@
       "found_at": "2026-10-08T19:34:01Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Refs",
+      "url": "https://www.producthunt.com/products/refs",
+      "canonical_url": "https://producthunt.com/products/refs",
+      "published": "2026-10-08T14:22:26Z",
+      "summary": "Give Claude better references for your videos Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
       "source_role": "media",
@@ -539,6 +737,83 @@
       "published": "2026-10-08T12:00:00Z",
       "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
       "found_at": "2026-10-09T00:02:18Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "canonical_url": "https://github.com/openai/math/blob/main/history.md",
+      "published": "2026-10-08T08:08:37Z",
+      "summary": "Article URL: https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50003107 Points: 340 # Comments: 3",
+      "found_at": "2026-10-09T11:34:26Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "canonical_url": "https://reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "published": "2026-10-08T07:07:34Z",
+      "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 200 # Comments: 83",
+      "found_at": "2026-10-09T11:34:26Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "canonical_url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "published": "2026-10-08T07:05:40Z",
+      "summary": "https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50002650 Points: 325 # Comments: 579",
+      "found_at": "2026-10-09T11:34:26Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Pine Computer",
+      "url": "https://www.producthunt.com/products/pine-computer",
+      "canonical_url": "https://producthunt.com/products/pine-computer",
+      "published": "2026-10-08T06:42:34Z",
+      "summary": "A cloud computer built for AI to get jobs done Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Playground by Google Labs",
+      "url": "https://www.producthunt.com/products/google-labs",
+      "canonical_url": "https://producthunt.com/products/google-labs",
+      "published": "2026-10-08T03:24:04Z",
+      "summary": "Create, play, and share your own games with Google AI Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Microsoft Surface Laptop Ultra",
+      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "canonical_url": "https://producthunt.com/products/microsoft-surface-laptop-ultra",
+      "published": "2026-10-08T02:29:49Z",
+      "summary": "Run 120B AI models locally on Microsoft's new Surface Discussion | Link",
+      "found_at": "2026-10-09T11:34:28Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "canonical_url": "https://dgt.is/blog/2026-10-07-deepseek-freek-out",
+      "published": "2026-10-08T00:14:48Z",
+      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 821 # Comments: 726",
+      "found_at": "2026-10-09T11:34:26Z"
     },
     {
       "source_id": "openai",
