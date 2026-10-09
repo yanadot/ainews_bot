@@ -1,6 +1,116 @@
 {
-  "collected_at": "2026-10-08T19:34:01Z",
+  "collected_at": "2026-10-09T00:02:22Z",
   "candidates": [
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_role": "analysis",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "canonical_url": "https://latent.space/p/ainews-not-much-happened-today-60f",
+      "published": "2026-10-08T23:29:43Z",
+      "summary": "a quiet day.",
+      "found_at": "2026-10-09T00:02:21Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
+      "url": "https://www.techmeme.com/261008/p49#a261008p49",
+      "canonical_url": "https://techmeme.com/261008/p49",
+      "published": "2026-10-08T23:01:29Z",
+      "summary": "Mikita Balesni / @balesni : AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for “prioritizing safety over the near-term interests of OpenAI” — Two other safety researchers and I were fired from OpenAI last week. We wrote this letter to leadership. I believe we were fired for prioritizing safety over the near-term interests of OpenAI as a corporation.",
+      "found_at": "2026-10-09T00:02:22Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "canonical_url": "https://theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "published": "2026-10-08T21:54:31Z",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's […]",
+      "found_at": "2026-10-09T00:02:19Z"
+    },
+    {
+      "source_id": "wired_ai",
+      "source_name": "Wired AI",
+      "source_role": "media",
+      "title": "Inside Elon Musk’s Midterm Spending Spree",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
+      "canonical_url": "https://wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree",
+      "published": "2026-10-08T21:14:12Z",
+      "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
+      "found_at": "2026-10-09T00:02:21Z"
+    },
+    {
+      "source_id": "nvidia",
+      "source_name": "NVIDIA Blog",
+      "source_role": "primary",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "canonical_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents",
+      "published": "2026-10-08T21:06:35Z",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "found_at": "2026-10-09T00:02:19Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "canonical_url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+      "published": "2026-10-08T21:00:00Z",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+      "found_at": "2026-10-09T00:02:19Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds (Bloomberg)",
+      "url": "https://www.techmeme.com/261008/p47#a261008p47",
+      "canonical_url": "https://techmeme.com/261008/p47",
+      "published": "2026-10-08T20:40:01Z",
+      "summary": "Bloomberg : USV raised $900M, including a $500M early-stage fund, up from $275M in 2024, cuts its general partnership to four investors, and aims to lead more AI rounds — New York City-based venture firm Union Square Ventures is reinventing itself to better compete in the artificial intelligence race …",
+      "found_at": "2026-10-09T00:02:22Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review (Anthropic)",
+      "url": "https://www.techmeme.com/261008/p45#a261008p45",
+      "canonical_url": "https://techmeme.com/261008/p45",
+      "published": "2026-10-08T20:23:09Z",
+      "summary": "Anthropic : Anthropic launches OSS Scanner, which provides free, opt-in security audits for open-source projects by sending AI-generated reports without human review — We're launching OSS Scanner, an opt-in vulnerability scanner for the open-source ecosystem informed by our experience using Claude …",
+      "found_at": "2026-10-09T00:02:22Z"
+    },
+    {
+      "source_id": "verge_ai",
+      "source_name": "The Verge AI",
+      "source_role": "media",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "canonical_url": "https://theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "published": "2026-10-08T20:22:54Z",
+      "summary": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times. The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that […]",
+      "found_at": "2026-10-09T00:02:19Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "canonical_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
+      "published": "2026-10-08T20:04:26Z",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+      "found_at": "2026-10-09T00:02:19Z"
+    },
     {
       "source_id": "anthropic",
       "source_name": "Anthropic",
@@ -423,6 +533,17 @@
       "source_id": "openai",
       "source_name": "OpenAI",
       "source_role": "primary",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "canonical_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "published": "2026-10-08T12:00:00Z",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "found_at": "2026-10-09T00:02:18Z"
+    },
+    {
+      "source_id": "openai",
+      "source_name": "OpenAI",
+      "source_role": "primary",
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "canonical_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -440,6 +561,17 @@
       "published": "2026-10-08T00:00:00Z",
       "summary": "Diffusion-based models decompose sampling into many small Gaussian denoising steps, an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice the likelihood framework in the process. We introduce Normalizing Trajectory Models (NTM), which models each reverse step as an expressive conditional normalizing flow with exact likelihood training. Ar",
       "found_at": "2026-10-08T19:33:56Z"
+    },
+    {
+      "source_id": "huggingface",
+      "source_name": "Hugging Face",
+      "source_role": "primary",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "canonical_url": "https://huggingface.co/blog/building-with-ml-intern",
+      "published": "2026-10-08T00:00:00Z",
+      "summary": "",
+      "found_at": "2026-10-09T00:02:19Z"
     },
     {
       "source_id": "huggingface",
