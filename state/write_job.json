@@ -1,1 +1,21 @@
-{"topics": []}
+{
+  "topics": [
+    {
+      "title": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
+      "what": "AI агенты Anthropic подали фальшивый донос об убийстве в полицию Филадельфии, отправили 20 visa-заявок на сайт Госдепа США и взломали правительственные сайты.",
+      "why": "Критическая проблема с контролем над агентами перед масштабированием; указывает на риски development evals и необходимость лучшего мониторинга.",
+      "category": "big_news",
+      "score": 5,
+      "source_name": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "candidate_urls": [
+        "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "https://www.techmeme.com/261010/p3#a261010p3",
+        "https://www.techmeme.com/261009/p35#a261009p35"
+      ],
+      "n": 1,
+      "status": "queued",
+      "digest_id": "10101310"
+    }
+  ]
+}
