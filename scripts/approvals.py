@@ -1,18 +1,25 @@
-"""Process admin actions from Telegram (getUpdates) without Claude.
+"""Process admin actions from Telegram (getUpdates). No Claude here.
 
+- digest number button → queue the topic for a full post (the workflow then runs the writer)
 - «✅ В канал»  → copy the draft to CHANNEL_ID as is, button → «Опубликовано»
 - «❌ Мимо»     → button → «Пропущено»
 - reply to a draft with own text ≥150 chars → publish that text with its formatting
 - reply shorter than 150 chars → not published, ask for the whole post
 - /start while ADMIN_CHAT_ID is unset → answer with the chat_id
 Updates from other chat_ids are ignored. The getUpdates offset lives in state/tg_offset.json.
+
+At the end, queued topics are written to state/write_job.json and has_queue=true|false
+goes to $GITHUB_OUTPUT. A topic gets MAX_WRITE_ATTEMPTS writer runs, then it is dropped.
 """
+import os
 import sys
 
-from common import TelegramError, admin_chat_id, channel_id, load_state, log, save_state, tg
+from common import TelegramError, admin_chat_id, channel_id, iso, load_state, log, now_utc, save_state, tg
+from send_digest import topic_keyboard
 
 MIN_REPLY_LEN = 150
 SERVICE_MARK = "🗂"
+MAX_WRITE_ATTEMPTS = 2
 
 
 def done_markup(label):
@@ -50,7 +57,10 @@ def handle_callback(cq, admin, channel):
     chat = (msg.get("chat") or {}).get("id")
     if (cq.get("from") or {}).get("id") != admin and chat != admin:
         return
-    action = cq.get("data")
+    action = cq.get("data") or ""
+    if action.startswith("t:"):
+        handle_topic_pick(cq, action, chat, msg)
+        return
     if action == "done":
         answer(cq["id"], "Уже обработано")
         return
@@ -71,6 +81,62 @@ def handle_callback(cq, admin, channel):
         tg("editMessageReplyMarkup", chat_id=chat, message_id=msg["message_id"],
            reply_markup=done_markup("❌ Пропущено"))
         answer(cq["id"], "Пропущено")
+
+
+def handle_topic_pick(cq, action, chat, msg):
+    _, digest_id, n = action.split(":", 2)
+    store = load_state("topics.json", {"digests": {}})
+    digest = store["digests"].get(digest_id)
+    topic = next((t for t in (digest or {}).get("topics", []) if str(t["n"]) == n), None)
+    if topic is None:
+        answer(cq["id"], "Эта подборка устарела")
+        return
+    if topic.get("status", "offered") != "offered":
+        answer(cq["id"], f"Тема {n} уже в работе")
+        return
+    topic["status"] = "queued"
+    save_state("topics.json", store)
+    queue = load_state("write_queue.json", {"queue": []})
+    queue["queue"].append({"digest_id": digest_id, "n": topic["n"], "attempts": 0, "queued_at": iso(now_utc())})
+    save_state("write_queue.json", queue)
+    try:
+        tg("editMessageReplyMarkup", chat_id=chat, message_id=msg["message_id"],
+           reply_markup=topic_keyboard(digest_id, digest["topics"]))
+    except TelegramError as e:
+        log(f"editMessageReplyMarkup: {e}")
+    answer(cq["id"], f"Пишу пост по теме {n}")
+    tg("sendMessage", chat_id=chat, text=f"✍️ Пишу пост: «{topic['title']}». Черновик придёт сюда.")
+
+
+def prepare_write_job(admin):
+    """Turn the queue into state/write_job.json for the writer; drop topics that failed too often."""
+    queue = load_state("write_queue.json", {"queue": []})
+    store = load_state("topics.json", {"digests": {}})
+    job, keep = [], []
+    for item in queue["queue"]:
+        digest = store["digests"].get(item["digest_id"], {})
+        topic = next((t for t in digest.get("topics", []) if t["n"] == item["n"]), None)
+        if topic is None:
+            continue
+        if item["attempts"] >= MAX_WRITE_ATTEMPTS:
+            topic["status"] = "failed"
+            if admin is not None:
+                tg("sendMessage", chat_id=admin,
+                   text=f"⚠️ Не получилось написать пост «{topic['title']}» за {MAX_WRITE_ATTEMPTS} попытки. "
+                        "Смотри лог workflow approvals.")
+            continue
+        item["attempts"] += 1
+        keep.append(item)
+        job.append({**topic, "digest_id": item["digest_id"]})
+    save_state("write_queue.json", {"queue": keep})
+    save_state("topics.json", store)
+    save_state("write_job.json", {"topics": job})
+    save_state("drafts.json", {})  # the writer must produce a fresh one
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a") as f:
+            f.write(f"has_queue={'true' if job else 'false'}\n")
+    log(f"write job: {len(job)} topic(s)")
 
 
 def handle_message(msg, admin, channel):
@@ -148,6 +214,7 @@ def main():
         # confirm on Telegram's side too, so a lost state commit can't replay a publish
         tg("getUpdates", offset=offset, timeout=0, limit=1)
     log(f"approvals done, offset={offset}")
+    prepare_write_job(admin)
 
 
 if __name__ == "__main__":

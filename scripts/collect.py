@@ -5,7 +5,7 @@
   only remembers the links it sees, so the archive does not turn into drafts.
 
 URL dedup happens here against state/seen.json. Entries are marked seen only after
-send_drafts.py succeeds, so a failed Claude run retries them next time.
+send_digest.py succeeds, so a failed Claude run retries them (for LEFTOVER_TTL_H).
 Writes has_candidates=true|false to $GITHUB_OUTPUT.
 """
 import html
@@ -22,8 +22,11 @@ from common import (
     load_seen, load_state, log, now_utc, parse_iso, prune_seen, save_state,
 )
 
-SUMMARY_LEN = 500
-MAX_TOTAL_CANDIDATES = 120
+SUMMARY_LEN = 300
+MAX_TOTAL_CANDIDATES = 60   # what the digest model reads; keeps the cheap step cheap
+MAX_NEW_PER_SOURCE = 8     # one noisy source must not crowd out the rest
+LEFTOVER_TTL_H = 12        # candidates from a failed run are retried, but not forever
+ROLE_RANK = {"primary": 0, "media": 1, "aggregator": 2, "launches": 3, "analysis": 4}
 
 
 def strip_tags(s):
@@ -144,7 +147,12 @@ def main():
 
     # Leftovers from a run where Claude failed stay in play.
     previous = load_state("candidates.json", {}).get("candidates", [])
-    candidates = {c["canonical_url"]: c for c in previous if c["canonical_url"] not in seen["urls"]}
+    leftover_cutoff = now_utc() - timedelta(hours=LEFTOVER_TTL_H)
+    candidates = {
+        c["canonical_url"]: c for c in previous
+        if c["canonical_url"] not in seen["urls"]
+        and (parse_iso(c.get("found_at", "")) or now_utc()) >= leftover_cutoff
+    }
     errors = []
 
     for src in sources:
@@ -183,6 +191,8 @@ def main():
                 continue
             if not keyword_ok(src, e):
                 continue
+            if new_count >= src.get("max_new", MAX_NEW_PER_SOURCE):
+                break
             candidates[canon] = {
                 "source_id": sid,
                 "source_name": src.get("name", sid),
@@ -199,14 +209,16 @@ def main():
             seen["initialized_sources"].append(sid)
         log(f"[{sid}] ok: {len(entries)} entries, {new_count} new" + (" (baseline run)" if first_run else ""))
 
+    # newest first, then primary sources ahead of media/launches/analysis when trimming
     ordered = sorted(candidates.values(), key=lambda c: c["published"] or c["found_at"], reverse=True)
+    ordered.sort(key=lambda c: ROLE_RANK.get(c.get("source_role"), 5))
     ordered = ordered[:MAX_TOTAL_CANDIDATES]
 
     save_state("seen.json", seen)
     save_state("source_errors.json", {"checked_at": iso(now_utc()), "errors": errors})
     save_state("recent_topics.json", load_recent_topics())
     save_state("candidates.json", {"collected_at": iso(now_utc()), "candidates": ordered})
-    save_state("drafts.json", {})  # Claude must write a fresh one this run
+    save_state("digest.json", {})  # the digest model must write a fresh one this run
 
     log(f"candidates: {len(ordered)}, source errors: {len(errors)}")
     out = os.environ.get("GITHUB_OUTPUT")

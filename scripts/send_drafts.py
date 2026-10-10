@@ -1,17 +1,17 @@
 """Send Claude's drafts (state/drafts.json) to the admin chat for moderation.
 
 Each draft = two messages: a service line and the post with
-«✅ В канал» / «❌ Мимо» buttons. After a successful send, every candidate of this
-run is marked seen, draft topics go to recent_topics.json, and candidates/drafts
-are cleared. If drafts.json is missing or invalid, the script fails and nothing is
-marked seen, so the next run retries.
+«✅ В канал» / «❌ Мимо» buttons. Drafts are written for topics picked from the digest
+(state/write_job.json). After the send, those topics are marked written and leave the
+write queue; draft topics go to recent_topics.json. If drafts.json is missing or
+invalid, the script fails and the topics stay queued for the next attempt.
 """
 import html
 import sys
 
 from common import (
     MAX_DRAFTS_PER_RUN, TelegramError, admin_chat_id, html_to_text, iso, load_recent_topics,
-    load_seen, load_state, log, now_utc, sanitize_html, save_state, tg,
+    load_state, log, now_utc, sanitize_html, save_state, tg,
 )
 
 SERVICE_MARK = "🗂"
@@ -45,7 +45,7 @@ def main():
 
     data = load_state("drafts.json", None)
     if not isinstance(data, dict) or not isinstance(data.get("drafts"), list):
-        sys.exit("state/drafts.json is missing or invalid; candidates stay unseen for the next run")
+        sys.exit("state/drafts.json is missing or invalid; topics stay queued for the next attempt")
 
     drafts = [d for d in data["drafts"] if isinstance(d, dict) and d.get("post_html")]
     drafts.sort(key=lambda d: -int(d.get("score") or 0))
@@ -76,15 +76,25 @@ def main():
                                  "url": d.get("source_url", ""), "ts": iso(now_utc())})
 
     if drafts and not sent:
-        sys.exit("no draft could be sent; candidates stay unseen for the next run")
+        sys.exit("no draft could be sent; topics stay queued for the next attempt")
 
-    # Everything Claude looked at this run is now seen, taken or not.
-    seen = load_seen()
-    for c in load_state("candidates.json", {}).get("candidates", []):
-        seen["urls"][c["canonical_url"]] = iso(now_utc())
-    save_state("seen.json", seen)
+    # Topics of this job leave the queue: written now, or dropped by Claude as unverifiable.
+    job = load_state("write_job.json", {}).get("topics", [])
+    done = {(t["digest_id"], t["n"]) for t in job}
+    queue = load_state("write_queue.json", {"queue": []})
+    queue["queue"] = [q for q in queue["queue"] if (q["digest_id"], q["n"]) not in done]
+    store = load_state("topics.json", {"digests": {}})
+    for digest_id, n in done:
+        for t in store["digests"].get(digest_id, {}).get("topics", []):
+            if t["n"] == n:
+                t["status"] = "written"
+    if not drafts and job:
+        tg("sendMessage", chat_id=chat,
+           text="⚠️ По выбранной теме пост не написан: факты не подтвердились по первоисточнику.")
+    save_state("write_queue.json", queue)
+    save_state("topics.json", store)
+    save_state("write_job.json", {"topics": []})
     save_state("recent_topics.json", topics)
-    save_state("candidates.json", {"collected_at": None, "candidates": []})
     save_state("drafts.json", {})  # no "drafts" key: the next run must write a fresh file
     log(f"drafts sent: {sent}/{len(drafts)}")
 
