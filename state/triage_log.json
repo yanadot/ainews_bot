@@ -1,301 +1,54 @@
 {
-  "run_at": "2026-10-08T11:41:02Z",
-  "clusters": [
+  "run_at": "2026-10-10T13:10:43Z",
+  "candidates": 50,
+  "offered": [
     {
-      "cluster_id": "c1",
-      "topic": "Manus (Butterfly Effect) привлекла $500+ млн после разрыва сделки с Meta",
-      "category": "funding",
+      "n": 1,
+      "title": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
       "score": 5,
-      "decision": "draft",
-      "reason": "Крупный раунд (намного выше порога ~$30M) известного AI-агент стартапа с ярким геополитическим контекстом; первоисточник CNBC открыт, факты (инвесторы, история с Meta, ожидаемая оценка по Bloomberg) сверены.",
-      "primary_url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-      "candidate_urls": ["https://www.techmeme.com/261008/p11#a261008p11"]
+      "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
     },
     {
-      "cluster_id": "c2",
-      "topic": "Anthropic выпустила публичную бету Claude for Google Workspace",
-      "category": "lab_launch",
+      "n": 2,
+      "title": "Jev достигла $7.5B оценки за 3 недели после запуска",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+    },
+    {
+      "n": 3,
+      "title": "OpenAI выложил 722 математические работы; математики в шоке",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+    },
+    {
+      "n": 4,
+      "title": "Сенат США: крупные tech-компании врали о затратах на AI дата-центры",
       "score": 4,
-      "decision": "draft",
-      "reason": "Заметный запуск крупной лабы, прямая конкуренция с Gemini на территории Google Workspace; первоисточник claude.com открыт, все детали (планы, функции в Docs/Sheets/Slides) сверены напрямую.",
-      "primary_url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "candidate_urls": ["https://www.producthunt.com/products/claude-for-google-workspace"]
+      "source_url": "https://www.techmeme.com/261010/p1#a261010p1"
     },
     {
-      "cluster_id": "c3",
-      "topic": "SemiAnalysis: Китай нарастил 24 ГВт AI-дата-центров, еще 50 ГВт в планах, против 56 ГВт у США",
-      "category": "big_news",
+      "n": 5,
+      "title": "Cloudflare выпустила Clef-omni: decision model с аудио и видео",
       "score": 4,
-      "decision": "draft",
-      "reason": "Новые количественные данные SemiAnalysis о гонке AI-инфраструктуры реально двигают понимание рынка; цифры сверены напрямую по newsletter.semianalysis.com (24 ГВт операционных, +20 ГВт в стройке, +30 ГВт анонсировано, 56 ГВт у США).",
-      "primary_url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
-      "candidate_urls": ["https://www.techmeme.com/261008/p7#a261008p7"]
+      "source_url": "https://www.techmeme.com/261009/p34#a261009p34"
     },
     {
-      "cluster_id": "c4",
-      "topic": "Association for Human Mathematics призвала бойкотировать OpenAI из-за публикации 722 математических рукописей",
-      "category": "big_news",
+      "n": 6,
+      "title": "OpenAI Dots vs Meta Muse: agent-война за приватность",
       "score": 4,
-      "decision": "draft",
-      "reason": "Новый факт (реакция профсообщества, призыв к бойкоту) помимо уже отражённой в recent_topics новости о самой публикации 722 рукописей — иной угол, подтверждён по первоисточнику (заявление AHM в блоге Терренса Тао).",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
-      "candidate_urls": ["https://www.techmeme.com/261008/p9#a261008p9"]
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
     },
     {
-      "cluster_id": "c5",
-      "topic": "Виталик Бутерин поддержал призыв к 'бункер-режиму' крипто-кошельков из-за риска взлома криптографии AI-математикой",
-      "category": "big_news",
+      "n": 7,
+      "title": "Amazon и Microsoft отказались от NDA на data-center сделки",
       "score": 4,
-      "decision": "draft",
-      "reason": "Кластер из двух материалов (Aaronson и Cointelegraph/Buterin) про один нарратив; первоисточник — статья Cointelegraph с цитатами Джастина Дрейка и Бутерина, факты (ECDSA, lattice-криптография, сроки) сверены напрямую. Пост Aaronson в кластер включён как контекст, но его анонимные утверждения в пост не попали.",
-      "primary_url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "candidate_urls": [
-        "https://www.techmeme.com/261008/p6#a261008p6",
-        "https://www.techmeme.com/261008/p5#a261008p5"
-      ]
+      "source_url": "https://techcrunch.com/2026/10/09/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
     },
     {
-      "cluster_id": "c6",
-      "topic": "Финляндия: планируемые и действующие инвестиции в дата-центры превысили €67 млрд",
-      "category": "big_news",
+      "n": 8,
+      "title": "OpenAI уволила 3 safety-исследователей за нарушение доверия",
       "score": 4,
-      "decision": "over_limit",
-      "reason": "Тема верифицирована (Bloomberg, €67B), но лимит в 5 черновиков уже заполнен более приоритетными новостями; к тому же тематически пересекается с кластером c3 про AI-инфраструктуру.",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-08/finland-s-data-center-tally-tops-67-billion-on-ai-boom",
-      "candidate_urls": ["https://www.techmeme.com/261008/p17#a261008p17"]
-    },
-    {
-      "cluster_id": "c7",
-      "topic": "Claude Haiku 5.5 (Anthropic)",
-      "category": "lab_launch",
-      "score": 4,
-      "decision": "duplicate_recent",
-      "reason": "Уже отражено в recent_topics.json (выпуск Claude Haiku 5.5, снижение цены кэша Sonnet 5.5) с меткой 2026-10-07T22:44:43Z; в новых материалах (Latent Space, Product Hunt) нет новых фактов сверх этого.",
-      "primary_url": "https://www.anthropic.com/claude-haiku-5-5",
-      "candidate_urls": [
-        "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-        "https://www.producthunt.com/products/claude-haiku-5-5"
-      ]
-    },
-    {
-      "cluster_id": "c8",
-      "topic": "Atomic Machines (Emeryville) — AI для дизайна MEMS, профиль NYT",
-      "category": "startup_launch",
-      "score": 3,
-      "decision": "rejected",
-      "reason": "Это фичер-профиль компании (вышла из стелса ранее, $250M уже привлечено ранее), а не новое событие дня; ниже порога score 4.",
-      "primary_url": "https://www.techmeme.com/261008/p8#a261008p8",
-      "candidate_urls": ["https://www.techmeme.com/261008/p8#a261008p8"]
-    },
-    {
-      "cluster_id": "c9",
-      "topic": "ФРС США: AI-инвестиции как драйвер инфляции на товары",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Макроэкономическая аналитика, не продуктовая новость, низкая релевантность для аудитории.",
-      "primary_url": "https://www.techmeme.com/261008/p15#a261008p15",
-      "candidate_urls": ["https://www.techmeme.com/261008/p15#a261008p15"]
-    },
-    {
-      "cluster_id": "c10",
-      "topic": "ICANN: заявки на домены .agent, .agi, .asi",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Курьёзная, но малозначимая новость, не двигает рынок.",
-      "primary_url": "https://www.techmeme.com/261008/p13#a261008p13",
-      "candidate_urls": ["https://www.techmeme.com/261008/p13#a261008p13"]
-    },
-    {
-      "cluster_id": "c11",
-      "topic": "Tristan Harris: Center for Humane Technology сокращает штат",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "Новость про некоммерческую организацию, не про AI-продукт/компанию/рынок.",
-      "primary_url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-      "candidate_urls": ["https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/"]
-    },
-    {
-      "cluster_id": "c12",
-      "topic": "AI-прорывы в робототехнике не изменят жизнь в ближайшее время",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "Аналитическая колонка/мнение, без собственной новости.",
-      "primary_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "candidate_urls": ["https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"]
-    },
-    {
-      "cluster_id": "c13",
-      "topic": "Путь к безопасному автономному индустриальному AI",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "Спонсорский/аналитический материал, без конкретной новости.",
-      "primary_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
-      "candidate_urls": ["https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"]
-    },
-    {
-      "cluster_id": "c14",
-      "topic": "ClawCall (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск на Product Hunt, не громкая команда/категория.",
-      "primary_url": "https://www.producthunt.com/products/clawcall",
-      "candidate_urls": ["https://www.producthunt.com/products/clawcall"]
-    },
-    {
-      "cluster_id": "c15",
-      "topic": "Tonefold (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/tonefold",
-      "candidate_urls": ["https://www.producthunt.com/products/tonefold"]
-    },
-    {
-      "cluster_id": "c16",
-      "topic": "Strac Comply (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/strac-comply",
-      "candidate_urls": ["https://www.producthunt.com/products/strac-comply"]
-    },
-    {
-      "cluster_id": "c17",
-      "topic": "Semwright (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/semwright",
-      "candidate_urls": ["https://www.producthunt.com/products/semwright"]
-    },
-    {
-      "cluster_id": "c18",
-      "topic": "Polylane for Vercel (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/polylane",
-      "candidate_urls": ["https://www.producthunt.com/products/polylane"]
-    },
-    {
-      "cluster_id": "c19",
-      "topic": "Epilude Narrator (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/epilude",
-      "candidate_urls": ["https://www.producthunt.com/products/epilude"]
-    },
-    {
-      "cluster_id": "c20",
-      "topic": "Simo (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/simo-3",
-      "candidate_urls": ["https://www.producthunt.com/products/simo-3"]
-    },
-    {
-      "cluster_id": "c21",
-      "topic": "judged.systems (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/judged-systems",
-      "candidate_urls": ["https://www.producthunt.com/products/judged-systems"]
-    },
-    {
-      "cluster_id": "c22",
-      "topic": "Clippo (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/clippo-2",
-      "candidate_urls": ["https://www.producthunt.com/products/clippo-2"]
-    },
-    {
-      "cluster_id": "c23",
-      "topic": "aegis (Product Hunt)",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "Мелкий запуск в сфере личной безопасности, не про AI-продукт/рынок в нужном масштабе.",
-      "primary_url": "https://www.producthunt.com/products/aegis-14",
-      "candidate_urls": ["https://www.producthunt.com/products/aegis-14"]
-    },
-    {
-      "cluster_id": "c24",
-      "topic": "Hallmonitor (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/hallmonitor",
-      "candidate_urls": ["https://www.producthunt.com/products/hallmonitor"]
-    },
-    {
-      "cluster_id": "c25",
-      "topic": "SineFrame M3 (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/sineframe-m3",
-      "candidate_urls": ["https://www.producthunt.com/products/sineframe-m3"]
-    },
-    {
-      "cluster_id": "c26",
-      "topic": "NOVA CLI v1.0 (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/nova-18",
-      "candidate_urls": ["https://www.producthunt.com/products/nova-18"]
-    },
-    {
-      "cluster_id": "c27",
-      "topic": "Liquid Inference (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/liquid-inference",
-      "candidate_urls": ["https://www.producthunt.com/products/liquid-inference"]
-    },
-    {
-      "cluster_id": "c28",
-      "topic": "Typeling (Product Hunt)",
-      "category": null,
-      "score": 1,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, не AI-специфичный в достаточной мере.",
-      "primary_url": "https://www.producthunt.com/products/typeling",
-      "candidate_urls": ["https://www.producthunt.com/products/typeling"]
-    },
-    {
-      "cluster_id": "c29",
-      "topic": "Hark (Product Hunt)",
-      "category": null,
-      "score": 2,
-      "decision": "rejected",
-      "reason": "Мелкий запуск, score ниже порога.",
-      "primary_url": "https://www.producthunt.com/products/hark-3",
-      "candidate_urls": ["https://www.producthunt.com/products/hark-3"]
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
     }
   ]
 }

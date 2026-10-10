@@ -74,6 +74,54 @@
       "topic": "Виталик Бутерин поддержал призыв к 'бункер-режиму' крипто-кошельков из-за риска взлома криптографии AI-математикой",
       "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
       "ts": "2026-10-08T11:49:51Z"
+    },
+    {
+      "topic": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jev достигла $7.5B оценки за 3 недели после запуска",
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI выложил 722 математические работы; математики в шоке",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Сенат США: крупные tech-компании врали о затратах на AI дата-центры",
+      "url": "https://www.techmeme.com/261010/p1#a261010p1",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cloudflare выпустила Clef-omni: decision model с аудио и видео",
+      "url": "https://www.techmeme.com/261009/p34#a261009p34",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI Dots vs Meta Muse: agent-война за приватность",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon и Microsoft отказались от NDA на data-center сделки",
+      "url": "https://techcrunch.com/2026/10/09/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI уволила 3 safety-исследователей за нарушение доверия",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "ts": "2026-10-10T13:10:43Z",
+      "kind": "offered"
     }
   ]
 }
