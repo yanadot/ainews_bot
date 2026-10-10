@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-10-09T23:41:01Z",
+  "checked_at": "2026-10-10T10:52:25Z",
   "errors": [
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "error": "ParseError: not well-formed (invalid token): line 1, column 1"
+    },
     {
       "id": "meta_ai",
       "name": "Meta AI",

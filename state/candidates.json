@@ -1,6 +1,149 @@
 {
-  "collected_at": "2026-10-09T23:41:01Z",
+  "collected_at": "2026-10-10T10:52:25Z",
   "candidates": [
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_role": "analysis",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "canonical_url": "https://latent.space/p/ainews-typesafejev-at-100m-arr-75b",
+      "published": "2026-10-10T06:45:57Z",
+      "summary": "Wow.",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share (Bloomberg)",
+      "url": "https://www.techmeme.com/261010/p8#a261010p8",
+      "canonical_url": "https://techmeme.com/261010/p8",
+      "published": "2026-10-10T06:35:01Z",
+      "summary": "Bloomberg : A look at differing revenue calculations of Anthropic and OpenAI, as Anthropic books gross sales through cloud partners, while OpenAI records only its net share — When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have run into a problem …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market (Yifan Yu/Nikkei Asia)",
+      "url": "https://www.techmeme.com/261010/p6#a261010p6",
+      "canonical_url": "https://techmeme.com/261010/p6",
+      "published": "2026-10-10T06:15:00Z",
+      "summary": "Yifan Yu / Nikkei Asia : Chip design software leader Synopsys says it is exploring partnerships with Chinese AI labs to develop AI-powered chip design tools for the Chinese market — PALO ALTO, California — Chip design software leader Synopsys says it is looking to help Chinese companies develop chips faster …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+      "url": "https://www.techmeme.com/261010/p3#a261010p3",
+      "canonical_url": "https://techmeme.com/261010/p3",
+      "published": "2026-10-10T05:20:01Z",
+      "summary": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed — The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits (Nik Popli/Time)",
+      "url": "https://www.techmeme.com/261010/p1#a261010p1",
+      "canonical_url": "https://techmeme.com/261010/p1",
+      "published": "2026-10-10T05:05:00Z",
+      "summary": "Nik Popli / Time : A US Senate investigation led by Senators Warren, Van Hollen, and Blumenthal says some hyperscalers misled the public about AI data centers' costs and benefits — Nik Popli … As the world's biggest technology companies race to build data centers across the country to power an AI boom …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Lune",
+      "url": "https://www.producthunt.com/products/lune-research",
+      "canonical_url": "https://producthunt.com/products/lune-research",
+      "published": "2026-10-10T03:56:36Z",
+      "summary": "The search engine built for scientific AI agents Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions (Tim Fernholz/TechCrunch)",
+      "url": "https://www.techmeme.com/261009/p35#a261009p35",
+      "canonical_url": "https://techmeme.com/261009/p35",
+      "published": "2026-10-10T03:30:01Z",
+      "summary": "Tim Fernholz / TechCrunch : Anthropic says it is barring live internet access for internal evals until monitoring is reliable, after its agents exploited websites and bypassed restrictions — Anthropic said its models exploited websites on the internet, including some run by U.S. government agencies …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash's price below Jev's (Cloudflare)",
+      "url": "https://www.techmeme.com/261009/p34#a261009p34",
+      "canonical_url": "https://techmeme.com/261009/p34",
+      "published": "2026-10-10T02:40:00Z",
+      "summary": "Cloudflare : Cloudflare debuts Clef-omni, an open-weight decision model supporting audio and video input alongside text and image, and cuts Clef-flash's price below Jev's — Following last week's release of Clef and Clef-flash, Cloudflare's open-weight decision models, we decided to bring forth more gifts.",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "Sources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request (Wall Street Journal)",
+      "url": "https://www.techmeme.com/261009/p33#a261009p33",
+      "canonical_url": "https://techmeme.com/261009/p33",
+      "published": "2026-10-10T01:45:01Z",
+      "summary": "Wall Street Journal : Sources: Dario Amodei spoke with Meta's Alexandr Wang earlier this year, hoping to source more compute; Meta declined the request — Bitter rivals are forming alliances and executives are having to personally intervene over the scramble for resources to fuel the AI boom",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techmeme",
+      "source_name": "Techmeme",
+      "source_role": "aggregator",
+      "title": "In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation (Brian Krebs/Krebs on Security)",
+      "url": "https://www.techmeme.com/261009/p32#a261009p32",
+      "canonical_url": "https://techmeme.com/261009/p32",
+      "published": "2026-10-10T01:10:02Z",
+      "summary": "Brian Krebs / Krebs on Security : In PA, FBI agents arrested a co-founder of a Canadian cybersecurity firm specializing in ransomware negotiations, as part of the ShinyHunters investigation — Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection …",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Maildun for Mac",
+      "url": "https://www.producthunt.com/products/maildun-for-mac",
+      "canonical_url": "https://producthunt.com/products/maildun-for-mac",
+      "published": "2026-10-10T01:06:33Z",
+      "summary": "Design on-brand emails by hand, with AI, or over MCP Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "source_role": "analysis",
+      "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+      "url": "https://www.latent.space/p/biohub-deepmind",
+      "canonical_url": "https://latent.space/p/biohub-deepmind",
+      "published": "2026-10-10T00:31:26Z",
+      "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding, Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build AI that truly understands biology.",
+      "found_at": "2026-10-10T10:52:25Z"
+    },
+    {
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "source_role": "media",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+      "published": "2026-10-10T00:18:32Z",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "found_at": "2026-10-10T10:52:17Z"
+    },
     {
       "source_id": "techmeme",
       "source_name": "Techmeme",
@@ -24,6 +167,17 @@
       "found_at": "2026-10-09T23:41:01Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "PixRater",
+      "url": "https://www.producthunt.com/products/pixrater",
+      "canonical_url": "https://producthunt.com/products/pixrater",
+      "published": "2026-10-09T22:26:44Z",
+      "summary": "Cull and rate your photos faster Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
       "source_role": "media",
@@ -33,6 +187,17 @@
       "published": "2026-10-09T22:22:18Z",
       "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
       "found_at": "2026-10-09T23:40:57Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "AgentDock",
+      "url": "https://www.producthunt.com/products/agentdock",
+      "canonical_url": "https://producthunt.com/products/agentdock",
+      "published": "2026-10-09T21:55:39Z",
+      "summary": "Answer Claude Code & Codex from one Inbox, in any terminal Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
     },
     {
       "source_id": "techcrunch_ai",
@@ -123,6 +288,28 @@
       "found_at": "2026-10-09T19:08:43Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Microsoft-Decision-1",
+      "url": "https://www.producthunt.com/products/microsoft-decision-1",
+      "canonical_url": "https://producthunt.com/products/microsoft-decision-1",
+      "published": "2026-10-09T18:50:17Z",
+      "summary": "Microsoft’s decision model for agents and workflows Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "ej",
+      "url": "https://www.producthunt.com/products/ej-jev-but-for-edge-devices",
+      "canonical_url": "https://producthunt.com/products/ej-jev-but-for-edge-devices",
+      "published": "2026-10-09T18:42:37Z",
+      "summary": "An 11MB local model for typed decisions in one pass Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
       "source_id": "verge_ai",
       "source_name": "The Verge AI",
       "source_role": "media",
@@ -132,6 +319,17 @@
       "published": "2026-10-09T18:06:57Z",
       "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the […]",
       "found_at": "2026-10-09T19:08:38Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "The Computer Game",
+      "url": "https://www.producthunt.com/products/the-computer-game",
+      "canonical_url": "https://producthunt.com/products/the-computer-game",
+      "published": "2026-10-09T17:52:22Z",
+      "summary": "Build the best computer, from stone tools to your own chips Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
     },
     {
       "source_id": "techmeme",
@@ -165,6 +363,17 @@
       "published": "2026-10-09T17:02:31Z",
       "summary": "Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 229 # Comments: 197",
       "found_at": "2026-10-09T23:40:59Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "KernelAI",
+      "url": "https://www.producthunt.com/products/kernelai",
+      "canonical_url": "https://producthunt.com/products/kernelai",
+      "published": "2026-10-09T16:58:13Z",
+      "summary": "53 open models from 15 labs, running entirely on your phone Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
     },
     {
       "source_id": "techcrunch_ai",
@@ -244,6 +453,17 @@
       "found_at": "2026-10-09T19:08:38Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "Claude Dashboards & Motion",
+      "url": "https://www.producthunt.com/products/claude-dashboards-motion",
+      "canonical_url": "https://producthunt.com/products/claude-dashboards-motion",
+      "published": "2026-10-09T15:13:51Z",
+      "summary": "Ask Claude for live dashboards and animated explainers Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
       "source_id": "techmeme",
       "source_name": "Techmeme",
       "source_role": "aggregator",
@@ -253,6 +473,17 @@
       "published": "2026-10-09T14:55:01Z",
       "summary": "Rashi Shrivastava / Forbes : Sabi, which is building a baseball cap that uses 100K non-contact neuro-sensors to convert neural signals into text prompts for AI systems, raised a $50M seed — Palo Alto-based Sabi is betting its cap, outfitted with 100,000 sensors, will enable people to talk to their AI agents just by thinking.",
       "found_at": "2026-10-09T19:08:45Z"
+    },
+    {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "GitGlow",
+      "url": "https://www.producthunt.com/products/gitglow-2",
+      "canonical_url": "https://producthunt.com/products/gitglow-2",
+      "published": "2026-10-09T14:21:14Z",
+      "summary": "Review your code and your agents' changes before you ship Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
     },
     {
       "source_id": "techmeme",
@@ -398,6 +629,17 @@
       "found_at": "2026-10-09T11:34:30Z"
     },
     {
+      "source_id": "producthunt_ai",
+      "source_name": "Product Hunt (AI)",
+      "source_role": "launches",
+      "title": "PocketWebTools for Mac",
+      "url": "https://www.producthunt.com/products/pocketwebtools",
+      "canonical_url": "https://producthunt.com/products/pocketwebtools",
+      "published": "2026-10-09T07:00:05Z",
+      "summary": "Local AI chat, transcription and video tools in one Mac app Discussion | Link",
+      "found_at": "2026-10-10T10:52:24Z"
+    },
+    {
       "source_id": "openai",
       "source_name": "OpenAI",
       "source_role": "primary",
@@ -495,6 +737,17 @@
       "published": "2026-10-08T23:29:43Z",
       "summary": "a quiet day.",
       "found_at": "2026-10-09T00:02:21Z"
+    },
+    {
+      "source_id": "hn_ai",
+      "source_name": "Hacker News (AI, 200+)",
+      "source_role": "aggregator",
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "canonical_url": "https://karagila.org/2026/openai-pp",
+      "published": "2026-10-08T23:29:43Z",
+      "summary": "Article URL: https://karagila.org/2026/openai-pp/ Comments URL: https://news.ycombinator.com/item?id=50013902 Points: 203 # Comments: 303",
+      "found_at": "2026-10-10T10:52:22Z"
     },
     {
       "source_id": "techmeme",
@@ -1067,138 +1320,6 @@
       "published": "2026-10-08T12:00:00Z",
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "found_at": "2026-10-08T19:33:52Z"
-    },
-    {
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "source_role": "primary",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "canonical_url": "https://openai.com/index/legalon-halves-codex-costs",
-      "published": "2026-10-08T12:00:00Z",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "found_at": "2026-10-09T00:02:18Z"
-    },
-    {
-      "source_id": "hn_ai",
-      "source_name": "Hacker News (AI, 200+)",
-      "source_role": "aggregator",
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "url": "https://github.com/openai/math/blob/main/history.md",
-      "canonical_url": "https://github.com/openai/math/blob/main/history.md",
-      "published": "2026-10-08T08:08:37Z",
-      "summary": "Article URL: https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50003107 Points: 340 # Comments: 3",
-      "found_at": "2026-10-09T11:34:26Z"
-    },
-    {
-      "source_id": "hn_ai",
-      "source_name": "Hacker News (AI, 200+)",
-      "source_role": "aggregator",
-      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "canonical_url": "https://reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-      "published": "2026-10-08T07:07:34Z",
-      "summary": "Article URL: https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9 Comments URL: https://news.ycombinator.com/item?id=50002665 Points: 200 # Comments: 83",
-      "found_at": "2026-10-09T11:34:26Z"
-    },
-    {
-      "source_id": "hn_ai",
-      "source_name": "Hacker News (AI, 200+)",
-      "source_role": "aggregator",
-      "title": "OpenAI withdraws three mathematical results",
-      "url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "canonical_url": "https://twitter.com/danintheory/status/2108065033070789090",
-      "published": "2026-10-08T07:05:40Z",
-      "summary": "https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50002650 Points: 325 # Comments: 579",
-      "found_at": "2026-10-09T11:34:26Z"
-    },
-    {
-      "source_id": "producthunt_ai",
-      "source_name": "Product Hunt (AI)",
-      "source_role": "launches",
-      "title": "Pine Computer",
-      "url": "https://www.producthunt.com/products/pine-computer",
-      "canonical_url": "https://producthunt.com/products/pine-computer",
-      "published": "2026-10-08T06:42:34Z",
-      "summary": "A cloud computer built for AI to get jobs done Discussion | Link",
-      "found_at": "2026-10-09T11:34:28Z"
-    },
-    {
-      "source_id": "producthunt_ai",
-      "source_name": "Product Hunt (AI)",
-      "source_role": "launches",
-      "title": "Playground by Google Labs",
-      "url": "https://www.producthunt.com/products/google-labs",
-      "canonical_url": "https://producthunt.com/products/google-labs",
-      "published": "2026-10-08T03:24:04Z",
-      "summary": "Create, play, and share your own games with Google AI Discussion | Link",
-      "found_at": "2026-10-09T11:34:28Z"
-    },
-    {
-      "source_id": "producthunt_ai",
-      "source_name": "Product Hunt (AI)",
-      "source_role": "launches",
-      "title": "Microsoft Surface Laptop Ultra",
-      "url": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
-      "canonical_url": "https://producthunt.com/products/microsoft-surface-laptop-ultra",
-      "published": "2026-10-08T02:29:49Z",
-      "summary": "Run 120B AI models locally on Microsoft's new Surface Discussion | Link",
-      "found_at": "2026-10-09T11:34:28Z"
-    },
-    {
-      "source_id": "hn_ai",
-      "source_name": "Hacker News (AI, 200+)",
-      "source_role": "aggregator",
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
-      "canonical_url": "https://dgt.is/blog/2026-10-07-deepseek-freek-out",
-      "published": "2026-10-08T00:14:48Z",
-      "summary": "Article URL: https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/ Comments URL: https://news.ycombinator.com/item?id=50000488 Points: 821 # Comments: 726",
-      "found_at": "2026-10-09T11:34:26Z"
-    },
-    {
-      "source_id": "openai",
-      "source_name": "OpenAI",
-      "source_role": "primary",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "canonical_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "published": "2026-10-08T00:00:00Z",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "found_at": "2026-10-08T19:33:52Z"
-    },
-    {
-      "source_id": "apple_ml",
-      "source_name": "Apple Machine Learning Research",
-      "source_role": "primary",
-      "title": "Normalizing Trajectory Models",
-      "url": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
-      "canonical_url": "https://machinelearning.apple.com/research/normalizing-trajectory-models",
-      "published": "2026-10-08T00:00:00Z",
-      "summary": "Diffusion-based models decompose sampling into many small Gaussian denoising steps, an assumption that breaks down when generation is compressed to a few coarse transitions. Existing few-step methods address this through distillation, consistency training, or adversarial objectives, but sacrifice the likelihood framework in the process. We introduce Normalizing Trajectory Models (NTM), which models each reverse step as an expressive conditional normalizing flow with exact likelihood training. Ar",
-      "found_at": "2026-10-08T19:33:56Z"
-    },
-    {
-      "source_id": "huggingface",
-      "source_name": "Hugging Face",
-      "source_role": "primary",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "canonical_url": "https://huggingface.co/blog/building-with-ml-intern",
-      "published": "2026-10-08T00:00:00Z",
-      "summary": "",
-      "found_at": "2026-10-09T00:02:19Z"
-    },
-    {
-      "source_id": "huggingface",
-      "source_name": "Hugging Face",
-      "source_role": "primary",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "published": "2026-10-07T13:21:03Z",
-      "summary": "",
-      "found_at": "2026-10-08T19:33:55Z"
     }
   ]
 }
