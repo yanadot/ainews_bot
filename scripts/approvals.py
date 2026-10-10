@@ -190,9 +190,11 @@ def main():
     channel = channel_id()
     state = load_state("tg_offset.json", {"offset": 0})
     offset = state.get("offset", 0)
+    long_poll = int(os.environ.get("LONG_POLL") or 0)
 
     while True:
-        updates = tg("getUpdates", offset=offset or None, timeout=0, limit=100,
+        # LONG_POLL>0 (listen.sh) waits up to that many seconds for the first update
+        updates = tg("getUpdates", offset=offset or None, timeout=long_poll, limit=100,
                      allowed_updates=["message", "callback_query"])
         if not updates:
             break
@@ -207,6 +209,7 @@ def main():
                 log(f"update {u['update_id']}: {e}")
             # persist after each update so a crash never replays a publish
             save_state("tg_offset.json", {"offset": offset})
+        long_poll = 0
         if len(updates) < 100:
             break
 

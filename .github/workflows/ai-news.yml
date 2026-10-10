@@ -4,6 +4,8 @@ name: ai-news
 # with number buttons. Posts are written later, only for picked topics (approvals.yml).
 # GitHub delays and drops scheduled runs, so each slot has several triggers;
 # scripts/slot.py lets only the first one after the slot time do the work.
+# After the digest the job listens to Telegram for LISTEN_MINUTES (scripts/listen.sh),
+# so a picked topic is written within minutes instead of waiting for approvals.yml.
 on:
   schedule:
     - cron: "5,25,45 7 * * *"    # morning slot, 07:00 UTC
@@ -20,12 +22,13 @@ permissions:
 
 env:
   DIGEST_HOURS_UTC: "7,17"
+  LISTEN_MINUTES: "120"
   MAX_AGE_H: "36"
 
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
 
@@ -74,6 +77,18 @@ jobs:
         run: |
           python3 scripts/send_digest.py
           python3 scripts/slot.py done
+          bash scripts/commit_state.sh "state - digest ${{ github.run_number }}"
+
+      - name: Listen for topic picks and approvals
+        if: steps.collect.outputs.has_candidates == 'true' && steps.claude.outcome == 'success'
+        timeout-minutes: 130
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_CHAT_ID: ${{ secrets.ADMIN_CHAT_ID }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL || 'sonnet' }}
+        run: bash scripts/listen.sh
 
       - name: Show digest and source errors
         if: always() && steps.slot.outputs.due == 'true'
