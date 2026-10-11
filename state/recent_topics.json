@@ -1,81 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI выпустила GPT-6 с Intelligent UI в ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "ts": "2026-10-07T22:10:21Z"
-    },
-    {
-      "topic": "Microsoft и Nvidia встраивают AI-агентов в Windows",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-      "ts": "2026-10-07T22:10:21Z"
-    },
-    {
-      "topic": "Lambda поднимает до $4 млрд перед IPO",
-      "url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "ts": "2026-10-07T22:10:22Z"
-    },
-    {
-      "topic": "Anthropic расширила программу Claude for Startups",
-      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "ts": "2026-10-07T22:10:22Z"
-    },
-    {
-      "topic": "Nous Research подтвердила оценку $1.5 млрд и запустила Hermes for Businesses",
-      "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "ts": "2026-10-07T22:10:23Z"
-    },
-    {
-      "topic": "Broadcom собирает $50B+ финансирования под чипы OpenAI, Oracle и SpaceX ищут похожие сделки",
-      "url": "https://investinglive.com/stocks/wsj-broadcom-seeks-over-50-billion-for-openai-chips-as-oracle-spacex-chase-ai-debt-deals/",
-      "ts": "2026-10-07T22:44:41Z"
-    },
-    {
-      "topic": "Mistral выпустила Large 4 ('Le Chonk') — триллион параметров, открытые веса",
-      "url": "https://mistral.ai/news/mistral-large-4/",
-      "ts": "2026-10-07T22:44:42Z"
-    },
-    {
-      "topic": "OpenAI публикует 722 математические рукописи от непубличной внутренней модели",
-      "url": "https://github.com/openai/math",
-      "ts": "2026-10-07T22:44:42Z"
-    },
-    {
-      "topic": "Anthropic выпустила Claude Haiku 5.5, снизила цену кэша Sonnet 5.5 и добавила API-кредиты подписчикам",
-      "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "ts": "2026-10-07T22:44:43Z"
-    },
-    {
-      "topic": "Healthleap привлекла $38M на AI-скрининг недиагностированных пациентов в стационарах",
-      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "ts": "2026-10-07T22:44:44Z"
-    },
-    {
-      "topic": "Manus (Butterfly Effect) привлекла $500+ млн после разрыва сделки с Meta",
-      "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-      "ts": "2026-10-08T11:49:47Z"
-    },
-    {
-      "topic": "Anthropic выпустила публичную бету Claude for Google Workspace",
-      "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "ts": "2026-10-08T11:49:48Z"
-    },
-    {
-      "topic": "SemiAnalysis: Китай нарастил 24 ГВт AI-дата-центров, еще 50 ГВт в планах, против 56 ГВт у США",
-      "url": "https://newsletter.semianalysis.com/p/the-chinese-ai-infrastructure-boom",
-      "ts": "2026-10-08T11:49:49Z"
-    },
-    {
-      "topic": "Association for Human Mathematics призвала бойкотировать OpenAI из-за публикации 722 математических рукописей",
-      "url": "https://terrytao.wordpress.com/2026/10/07/ahm-statement-on-openais-october-6-release-of-mathematical-documents/",
-      "ts": "2026-10-08T11:49:50Z"
-    },
-    {
-      "topic": "Виталик Бутерин поддержал призыв к 'бункер-режиму' крипто-кошельков из-за риска взлома криптографии AI-математикой",
-      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
-      "ts": "2026-10-08T11:49:51Z"
-    },
-    {
       "topic": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "ts": "2026-10-10T13:10:43Z",
@@ -127,6 +52,60 @@
       "topic": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
       "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "ts": "2026-10-10T13:20:17Z"
+    },
+    {
+      "topic": "Надела: все модели AI нужно считать 'взломанными'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic получит $1.25B/месяц compute от SpaceX",
+      "url": "https://www.techmeme.com/261010/p12#a261010p12",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft-Decision-1: новый класс моделей для быстрых решений",
+      "url": "https://www.techmeme.com/261011/p2#a261011p2",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic закрыла интернет для тестирования агентов",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Physical AI: стартапы привлекли $48B в 2026",
+      "url": "https://www.techmeme.com/261011/p6#a261011p6",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Rein Security: $25M для защиты AI агентов",
+      "url": "https://www.techmeme.com/261011/p4#a261011p4",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia в переговорах о покупке Reflection AI",
+      "url": "https://www.techmeme.com/261010/p16#a261010p16",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple приняла команду и технологию от Huxe на подкасты",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
+      "url": "https://www.techmeme.com/261010/p14#a261010p14",
+      "ts": "2026-10-11T14:46:20Z",
+      "kind": "offered"
     }
   ]
 }

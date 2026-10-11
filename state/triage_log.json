@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-10-10T13:10:43Z",
-  "candidates": 50,
+  "run_at": "2026-10-11T14:46:20Z",
+  "candidates": 19,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
+      "title": "Надела: все модели AI нужно считать 'взломанными'",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
     },
     {
       "n": 2,
-      "title": "Jev достигла $7.5B оценки за 3 недели после запуска",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+      "title": "Anthropic получит $1.25B/месяц compute от SpaceX",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261010/p12#a261010p12"
     },
     {
       "n": 3,
-      "title": "OpenAI выложил 722 математические работы; математики в шоке",
-      "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+      "title": "Microsoft-Decision-1: новый класс моделей для быстрых решений",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261011/p2#a261011p2"
     },
     {
       "n": 4,
-      "title": "Сенат США: крупные tech-компании врали о затратах на AI дата-центры",
+      "title": "Anthropic закрыла интернет для тестирования агентов",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261010/p1#a261010p1"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
     },
     {
       "n": 5,
-      "title": "Cloudflare выпустила Clef-omni: decision model с аудио и видео",
+      "title": "Physical AI: стартапы привлекли $48B в 2026",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261009/p34#a261009p34"
+      "source_url": "https://www.techmeme.com/261011/p6#a261011p6"
     },
     {
       "n": 6,
-      "title": "OpenAI Dots vs Meta Muse: agent-война за приватность",
-      "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
+      "title": "Rein Security: $25M для защиты AI агентов",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261011/p4#a261011p4"
     },
     {
       "n": 7,
-      "title": "Amazon и Microsoft отказались от NDA на data-center сделки",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/09/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/"
+      "title": "Nvidia в переговорах о покупке Reflection AI",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261010/p16#a261010p16"
     },
     {
       "n": 8,
-      "title": "OpenAI уволила 3 safety-исследователей за нарушение доверия",
-      "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+      "title": "Apple приняла команду и технологию от Huxe на подкасты",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+    },
+    {
+      "n": 9,
+      "title": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261010/p14#a261010p14"
     }
   ]
 }

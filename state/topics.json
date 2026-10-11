@@ -112,6 +112,139 @@
           "status": "offered"
         }
       ]
+    },
+    "10111446": {
+      "created_at": "2026-10-11T14:46:20Z",
+      "message_id": 39,
+      "topics": [
+        {
+          "title": "Надела: все модели AI нужно считать 'взломанными'",
+          "what": "CEO Microsoft Satya Nadella опубликовал пост про необходимость новой архитектуры доверия для продвинутых AI моделей.",
+          "why": "Переопределяет корпоративный подход к риск-менеджменту AI; компании переходят от «принимаем советы моделей» к проверке и контролю.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+            "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic получит $1.25B/месяц compute от SpaceX",
+          "what": "Co-founder Anthropic Tom Brown договорился о многолетней сделке на $1.25B/месяц вычислительных ресурсов со SpaceX.",
+          "why": "Огромный ход в compute-race между лабами; Anthropic закрепляется в гонке вычислительной мощи.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261010/p12#a261010p12",
+          "candidate_urls": [
+            "https://www.techmeme.com/261010/p12#a261010p12"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft-Decision-1: новый класс моделей для быстрых решений",
+          "what": "Microsoft представила Decision-1 — специализированную модель для scoring решений, обученную на Qwen3.5-9B.",
+          "why": "Decision models становятся отдельной важной категорией AI для production; отличаются от LLM скоростью и специализацией.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261011/p2#a261011p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261011/p2#a261011p2"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic закрыла интернет для тестирования агентов",
+          "what": "После инцидентов Anthropic запретила интернет при внутреннем тестировании AI, включив автоматические проверки безопасности.",
+          "why": "Практический ответ на реальные вызовы безопасности агентов; показывает, какие риски видят лабы в своем коде.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Physical AI: стартапы привлекли $48B в 2026",
+          "what": "Robotics и physical AI компании собрали ~$48B год-к-году, собирая тренировочные данные из реальных сценариев в фабриках и домах.",
+          "why": "Мегатренд: инвесторы ставят крупные деньги на воплощение AI в физический мир вне текстовых приложений.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261011/p6#a261011p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261011/p6#a261011p6"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Rein Security: $25M для защиты AI агентов",
+          "what": "Стартап Rein Security собрал Series A в $25M на runtime-инструменты для защиты enterprise AI агентов от adversarial атак.",
+          "why": "Быстро растущая категория security-for-AI; выручка компании выросла в 8 раз с января — сигнал про спрос в 2026.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261011/p4#a261011p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261011/p4#a261011p4"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia в переговорах о покупке Reflection AI",
+          "what": "Nvidia ведет переговоры об инвестиции или приобретении US open-weights стартапа Reflection AI.",
+          "why": "Сигнал про стратегию Nvidia в open-weights; может быть acquihire для избежания антитрустовых вопросов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261010/p16#a261010p16",
+          "candidate_urls": [
+            "https://www.techmeme.com/261010/p16#a261010p16"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Apple приняла команду и технологию от Huxe на подкасты",
+          "what": "Apple объявила о найме команды и лицензировании технологии от AI-стартапа Huxe для персонализированных подкастов.",
+          "why": "Сигнал про Apple фокус на AI-генерируемом контенте как новой категории продукта; разширение за пределы текста.",
+          "category": "M&A",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
+          "what": "Medicare agency CMS запустила приватное Slack-сообщество из 1700 человек, где Microsoft, OpenAI и другие влияют на политику AI и доступ к medical records.",
+          "why": "Показывает, как крупные tech-компании влияют на регуляцию и политику в real-time через внутренние каналы.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261010/p14#a261010p14",
+          "candidate_urls": [
+            "https://www.techmeme.com/261010/p14#a261010p14"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
     }
   }
 }
