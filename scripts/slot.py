@@ -1,7 +1,8 @@
 """Decide whether a digest is due, so several cron triggers can cover one slot.
 
-GitHub delays and drops scheduled runs, so the digest workflow fires a few times
-around each slot. The first run after the slot time sends the digest; the rest exit.
+GitHub delays scheduled runs by hours and drops most of them, so the digest workflow
+fires a few times around each slot. The first run after the slot time sends the digest,
+however late; the rest exit.
 
   python3 scripts/slot.py check   → due=true|false to $GITHUB_OUTPUT
   python3 scripts/slot.py done    → remember the current slot as sent
@@ -14,7 +15,7 @@ from datetime import timedelta
 
 from common import load_state, log, now_utc, save_state
 
-LATE_WINDOW_H = 3  # after this, a missed slot is skipped rather than sent late
+LATE_WINDOW_H = 10  # GitHub has started "07:05" runs at 13:55; late beats never
 
 
 def current_slot():
