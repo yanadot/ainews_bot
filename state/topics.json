@@ -245,6 +245,54 @@
           "status": "written"
         }
       ]
+    },
+    "10111924": {
+      "created_at": "2026-10-11T19:24:56Z",
+      "message_id": 43,
+      "topics": [
+        {
+          "title": "Anthropic получает $1.3B/месяц от data center лизинга, подписала сделку с IREN",
+          "what": "Аналитики оценили лизинг data center Anthropic (245 MW) в ~$1.3B/месяц; компания подписала cloud deal с IREN для доступа к вычислительным ресурсам.",
+          "why": "Раскрывает финансовый масштаб инфра-игры в AI и новую стратегию Anthropic по монополизации compute через прямые сделки с провайдерами.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Techmeme (The Information)",
+          "source_url": "https://www.techmeme.com/261011/p9#a261011p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261011/p9#a261011p9"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "AI индустрия отказывается от NDA на data center сделки ради доверия",
+          "what": "Amazon, Microsoft и другие компании отказываются от non-disclosure agreements на data center сделки как способ убедить критиков в прозрачности инвестиций.",
+          "why": "Показывает растущее политическое давление на инфра-расходы AI; компании жертвуют конфиденциальностью для PR и преодоления морато́риев.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
+          "what": "Влиятельные фигуры из Silicon Valley начинают поддерживать инициативу президента переименовать artificial intelligence в super intelligence.",
+          "why": "Сигнал политического давления на терминологию и восприятие AI; может повлиять на регуляторику и брендинг продуктов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge AI",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+          ],
+          "n": 3,
+          "status": "offered"
+        }
+      ]
     }
   }
 }
