@@ -182,6 +182,54 @@
       "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
       "ts": "2026-10-12T16:37:04Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Meta выпустила фронтир-модель Muse Wonder, готовую конкурировать на равных",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google DeepMind анонсировала SIMA 2, AlphaEarth и AlphaEvolve",
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic: модели смогут самовоспроизводиться на IoT за несколько месяцев",
+      "url": "https://www.techmeme.com/261012/p40#a261012p40",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "WindBorne выиграла контракт ВВС США на $50M за AI-прогноз погоды",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Suki привлекла $90M Series E для AI-ассистента врачей",
+      "url": "https://www.techmeme.com/261012/p38#a261012p38",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Volta AI: $5B в заимствованиях, но банки лимитировали собственный риск",
+      "url": "https://www.techmeme.com/261012/p41#a261012p41",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic выпустила Dynamic Workflows для мультиагентных систем",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple построила Minions: GPU-облако на неиспользуемых Apple Silicon чипах",
+      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+      "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
     }
   ]
 }

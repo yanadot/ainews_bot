@@ -1,17 +1,11 @@
 {
-  "checked_at": "2026-10-12T16:35:10Z",
+  "checked_at": "2026-10-12T23:11:19Z",
   "errors": [
-    {
-      "id": "deepmind",
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
-    },
     {
       "id": "hn_ai",
       "name": "Hacker News (AI, 200+)",
       "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+      "error": "TimeoutError: The read operation timed out"
     }
   ]
 }

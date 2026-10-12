@@ -413,6 +413,115 @@
           "status": "offered"
         }
       ]
+    },
+    "10122313": {
+      "created_at": "2026-10-12T23:13:21Z",
+      "message_id": 48,
+      "topics": [
+        {
+          "title": "Meta выпустила фронтир-модель Muse Wonder, готовую конкурировать на равных",
+          "what": "Meta представила Muse Wonder и Muse Wonder Full — фронтир-модели, которые конкурируют с лучшими в индустрии. Будут доступны через Meta Model API и подписку Muse Code.",
+          "why": "Важный сигнал: Meta вернулась в гонку за лидерством. Wonder включает Active Memory и Active Focus для долгих агентских сессий. Переклассование моделей может переперечислить рынок.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "candidate_urls": [
+            "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+            "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+            "https://www.techmeme.com/261012/p35#a261012p35"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind анонсировала SIMA 2, AlphaEarth и AlphaEvolve",
+          "what": "DeepMind выпустила три системы: SIMA 2 (агент в 3D-мирах), AlphaEarthMap (карта планеты), AlphaEvolve (Gemini-агент для алгоритмов).",
+          "why": "Демонстрация масштаба возможностей. Каждая решает практическую задачу: обучение агентов, применение к науке, инженерии. Сигнал технологического лидерства DeepMind.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google DeepMind",
+          "source_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+          "candidate_urls": [
+            "https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/",
+            "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic: модели смогут самовоспроизводиться на IoT за несколько месяцев",
+          "what": "Исследователи Anthropic показали что маленькие модели могут быть способны к самовоспроизведению на IoT-девайсах (духовки, Android-ТВ) в течение месяцев.",
+          "why": "Потенциально критическая проблема безопасности. Само-репликация без контроля может стать вектором атаки. Проблема уже в повестке регуляторов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Anthropic",
+          "source_url": "https://www.techmeme.com/261012/p40#a261012p40",
+          "candidate_urls": [],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "WindBorne выиграла контракт ВВС США на $50M за AI-прогноз погоды",
+          "what": "Стартап WindBorne, использующий AI и метеозонды, выиграл контракт американских ВВС на $50M для предсказания погоды через AI.",
+          "why": "AI-решения переходят из стартапов в госконтракты. Оборона готова платить за AI-инновации. Для других стартапов — roadmap монетизации специализированных моделей.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "candidate_urls": [],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Suki привлекла $90M Series E для AI-ассистента врачей",
+          "what": "Suki (AI-система для медиков) собрала $90M в раунде Series E. Компания масштабирует агентские функции, прогнозирует $60–80M ARR в этом году.",
+          "why": "Один из успешных B2B-кейсов AI: вертикальное решение привлекает огромные инвестиции и генерирует реальный доход. Шаблон для других специализированных стартапов.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261012/p38#a261012p38",
+          "candidate_urls": [],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Volta AI: $5B в заимствованиях, но банки лимитировали собственный риск",
+          "what": "AI-стартап Volta структурировал $5B в кредитные линии с JPMorgan и Goldman, но банки взяли только $1.3B вместо полного объёма — редкий ход ограничения риска.",
+          "why": "Индустрия привлекает огромные суммы, но даже крупные банки начинают лимитировать риск-экспозицию. Сигнал: капитальная лёгкость может иссякнуть, займы могут подорожать.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261012/p41#a261012p41",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic выпустила Dynamic Workflows для мультиагентных систем",
+          "what": "Anthropic представила Dynamic Workflows — фреймворк для координации нескольких Claude-агентов в сложных многошаговых задачах.",
+          "why": "Практический ответ на запрос: как строить системы из нескольких агентов? Позаимствована философия Unix. Может стать стандартом в индустрии.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Latent Space",
+          "source_url": "https://www.latent.space/p/claude-dynamic-workflows",
+          "candidate_urls": [],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Apple построила Minions: GPU-облако на неиспользуемых Apple Silicon чипах",
+          "what": "Исследователи Apple разработали Minions — систему для превращения простоев M-серии чипов на десятках миллионов Mac в распределённый GPU-кластер для ML.",
+          "why": "Гениальная утилизация: вместо дорогих GPU используется уже проданное оборудование. Для Apple — конкурентный ход. Для индустрии — GPU-облако может быть дешевле.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Apple Machine Learning Research",
+          "source_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+          "candidate_urls": [],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
     }
   }
 }

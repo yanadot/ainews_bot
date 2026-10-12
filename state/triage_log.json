@@ -1,54 +1,54 @@
 {
-  "run_at": "2026-10-12T16:37:04Z",
-  "candidates": 16,
+  "run_at": "2026-10-12T23:13:21Z",
+  "candidates": 28,
   "offered": [
     {
       "n": 1,
-      "title": "Microsoft Maia 300: новый AI чип для inference",
+      "title": "Meta выпустила фронтир-модель Muse Wonder, готовую конкурировать на равных",
       "score": 5,
-      "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
+      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
     },
     {
       "n": 2,
-      "title": "Строительство 1GW AI датацентра обходится в $30B",
+      "title": "Google DeepMind анонсировала SIMA 2, AlphaEarth и AlphaEvolve",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261012/p24#a261012p24"
+      "source_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
     },
     {
       "n": 3,
-      "title": "Доступ к капиталу может стать bottleneck для AI",
+      "title": "Anthropic: модели смогут самовоспроизводиться на IoT за несколько месяцев",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261012/p18#a261012p18"
+      "source_url": "https://www.techmeme.com/261012/p40#a261012p40"
     },
     {
       "n": 4,
-      "title": "Microsoft платит Anthropic $2B+ в год",
+      "title": "WindBorne выиграла контракт ВВС США на $50M за AI-прогноз погоды",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261012/p23#a261012p23"
+      "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
     },
     {
       "n": 5,
-      "title": "NVIDIA открывает Vera Rubin для масштабирования AI",
+      "title": "Suki привлекла $90M Series E для AI-ассистента врачей",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+      "source_url": "https://www.techmeme.com/261012/p38#a261012p38"
     },
     {
       "n": 6,
-      "title": "Microsoft president: UK должен вести регуляцию AI",
+      "title": "Volta AI: $5B в заимствованиях, но банки лимитировали собственный риск",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+      "source_url": "https://www.techmeme.com/261012/p41#a261012p41"
     },
     {
       "n": 7,
-      "title": "DeepSeek инвестирует в робо-AI стартап Winverse",
+      "title": "Anthropic выпустила Dynamic Workflows для мультиагентных систем",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261012/p17#a261012p17"
+      "source_url": "https://www.latent.space/p/claude-dynamic-workflows"
     },
     {
       "n": 8,
-      "title": "Blueprints AI генерирует архитектурные чертежи за минуты",
+      "title": "Apple построила Minions: GPU-облако на неиспользуемых Apple Silicon чипах",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+      "source_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
     }
   ]
 }
