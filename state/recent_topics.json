@@ -134,6 +134,54 @@
       "topic": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
       "ts": "2026-10-11T20:02:57Z"
+    },
+    {
+      "topic": "Microsoft Maia 300: новый AI чип для inference",
+      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Строительство 1GW AI датацентра обходится в $30B",
+      "url": "https://www.techmeme.com/261012/p24#a261012p24",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Доступ к капиталу может стать bottleneck для AI",
+      "url": "https://www.techmeme.com/261012/p18#a261012p18",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft платит Anthropic $2B+ в год",
+      "url": "https://www.techmeme.com/261012/p23#a261012p23",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA открывает Vera Rubin для масштабирования AI",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft president: UK должен вести регуляцию AI",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek инвестирует в робо-AI стартап Winverse",
+      "url": "https://www.techmeme.com/261012/p17#a261012p17",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Blueprints AI генерирует архитектурные чертежи за минуты",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "ts": "2026-10-12T16:37:04Z",
+      "kind": "offered"
     }
   ]
 }

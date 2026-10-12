@@ -1,24 +1,54 @@
 {
-  "run_at": "2026-10-11T19:24:56Z",
-  "candidates": 4,
+  "run_at": "2026-10-12T16:37:04Z",
+  "candidates": 16,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic получает $1.3B/месяц от data center лизинга, подписала сделку с IREN",
+      "title": "Microsoft Maia 300: новый AI чип для inference",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261011/p9#a261011p9"
+      "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
     },
     {
       "n": 2,
-      "title": "AI индустрия отказывается от NDA на data center сделки ради доверия",
+      "title": "Строительство 1GW AI датацентра обходится в $30B",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+      "source_url": "https://www.techmeme.com/261012/p24#a261012p24"
     },
     {
       "n": 3,
-      "title": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
+      "title": "Доступ к капиталу может стать bottleneck для AI",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261012/p18#a261012p18"
+    },
+    {
+      "n": 4,
+      "title": "Microsoft платит Anthropic $2B+ в год",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261012/p23#a261012p23"
+    },
+    {
+      "n": 5,
+      "title": "NVIDIA открывает Vera Rubin для масштабирования AI",
+      "score": 4,
+      "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+    },
+    {
+      "n": 6,
+      "title": "Microsoft president: UK должен вести регуляцию AI",
       "score": 3,
-      "source_url": "https://theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+    },
+    {
+      "n": 7,
+      "title": "DeepSeek инвестирует в робо-AI стартап Winverse",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261012/p17#a261012p17"
+    },
+    {
+      "n": 8,
+      "title": "Blueprints AI генерирует архитектурные чертежи за минуты",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
     }
   ]
 }

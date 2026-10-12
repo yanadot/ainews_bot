@@ -293,6 +293,126 @@
           "status": "written"
         }
       ]
+    },
+    "10121637": {
+      "created_at": "2026-10-12T16:37:04Z",
+      "message_id": 47,
+      "topics": [
+        {
+          "title": "Microsoft Maia 300: новый AI чип для inference",
+          "what": "Microsoft анонсировала Maia 300 — третий генерации своего AI чипа на TSMC N2P; рассчитана на основную AI inference в облачных сервисах с развёртыванием с 2027 года.",
+          "why": "Снижает зависимость от NVIDIA; показывает стратегию облачных провайдеров на независимость в hardware.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+          "candidate_urls": [
+            "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
+            "https://www.techmeme.com/261012/p21#a261012p21",
+            "https://www.techmeme.com/261012/p29#a261012p29"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Строительство 1GW AI датацентра обходится в $30B",
+          "what": "Анализ Bloomberg: оснащение 1GW AI датацентра в Abilene, Texas стоит $30B ($17B на чипы, $3B на power, $2.4B на строительство).",
+          "why": "Показывает капитальные требования для AI инфраструктуры; влияет на финансовые модели компаний и стартапов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261012/p24#a261012p24",
+          "candidate_urls": [
+            "https://www.techmeme.com/261012/p24#a261012p24"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Доступ к капиталу может стать bottleneck для AI",
+          "what": "CEO Broadcom и Intel в Сингапуре предупредили, что доступ к капиталу и растущие ставки заёмки могут ограничить рост AI индустрии.",
+          "why": "Сигнал что экспоненциальный рост может замедлиться финансово; важно для инвесторов и стратегии компаний.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "CNBC",
+          "source_url": "https://www.techmeme.com/261012/p18#a261012p18",
+          "candidate_urls": [
+            "https://www.techmeme.com/261012/p18#a261012p18"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft платит Anthropic $2B+ в год",
+          "what": "The Information: Microsoft платит Anthropic свыше $2B в год; профиль Charles Lamanna, потенциального преемника Satya Nadella.",
+          "why": "Показывает масштабы вложений в AI и политику inside Microsoft; важно для понимания стратегии облачных игроков.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261012/p23#a261012p23",
+          "candidate_urls": [
+            "https://www.techmeme.com/261012/p23#a261012p23"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA открывает Vera Rubin для масштабирования AI",
+          "what": "NVIDIA представила архитектуру Vera Rubin на OCP Global Summit; помогает масштабировать AI фабрики через открытые стандарты инфраструктуры.",
+          "why": "Стандартизация ускоряет и удешевляет развёртывание AI сервисов; показывает экосистемный ход NVIDIA.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft president: UK должен вести регуляцию AI",
+          "what": "Brad Smith (президент Microsoft) призывает срочно регулировать AI; говорит, что молоко и стиралки имеют больше надзора, чем AI компании.",
+          "why": "Сигнал растущего давления на tech; показывает позицию лидеров индустрии в политическом дебате о регуляции.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek инвестирует в робо-AI стартап Winverse",
+          "what": "DeepSeek возглавляет раунд финансирования робо-AI стартапа Winverse AI (оценка ~$400M post-money); инвестирует десятки миллионов.",
+          "why": "DeepSeek расширяет вложения в physical AI и robotic autonomy; лабы диверсифицируют портфель за пределы текстовых моделей.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261012/p17#a261012p17",
+          "candidate_urls": [
+            "https://www.techmeme.com/261012/p17#a261012p17"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Blueprints AI генерирует архитектурные чертежи за минуты",
+          "what": "Blueprints AI (Santa Monica) выпустила софт, генерирующий соответствующие кодексу строительные чертежи из фото, PDF или эскиза за минуты.",
+          "why": "Практическое применение генеративного AI для автоматизации зарегулированного процесса; вертикальные приложения AI для специфических индустрий.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/"
+          ],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
     }
   }
 }
