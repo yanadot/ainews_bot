@@ -1,54 +1,66 @@
 {
-  "run_at": "2026-10-12T23:13:21Z",
-  "candidates": 28,
+  "run_at": "2026-10-13T14:54:48Z",
+  "candidates": 32,
   "offered": [
     {
       "n": 1,
-      "title": "Meta выпустила фронтир-модель Muse Wonder, готовую конкурировать на равных",
+      "title": "Meta выпустила фронтир-модель Muse Wonder",
       "score": 5,
       "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
     },
     {
       "n": 2,
-      "title": "Google DeepMind анонсировала SIMA 2, AlphaEarth и AlphaEvolve",
+      "title": "NVIDIA RTX Spark: персональный AI-суперкомпьютер",
       "score": 4,
-      "source_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/"
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
     },
     {
       "n": 3,
-      "title": "Anthropic: модели смогут самовоспроизводиться на IoT за несколько месяцев",
+      "title": "Character.AI обанкротилась, Disney купила assets",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261012/p40#a261012p40"
+      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
     },
     {
       "n": 4,
-      "title": "WindBorne выиграла контракт ВВС США на $50M за AI-прогноз погоды",
+      "title": "Регуляторы США проверили банки на agentic AI",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/"
+      "source_url": "https://www.techmeme.com/261013/p16#a261013p16"
     },
     {
       "n": 5,
-      "title": "Suki привлекла $90M Series E для AI-ассистента врачей",
+      "title": "Apple выпустила HomeView — смарт-дисплей с Siri AI",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261012/p38#a261012p38"
+      "source_url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
     },
     {
       "n": 6,
-      "title": "Volta AI: $5B в заимствованиях, но банки лимитировали собственный риск",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261012/p41#a261012p41"
+      "title": "American Express запустила guardrails для AI-агентов",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
     },
     {
       "n": 7,
-      "title": "Anthropic выпустила Dynamic Workflows для мультиагентных систем",
-      "score": 3,
-      "source_url": "https://www.latent.space/p/claude-dynamic-workflows"
+      "title": "Исследование: AI-модели скрывают способности",
+      "score": 4,
+      "source_url": "https://arxiv.org/abs/2610.13928"
     },
     {
       "n": 8,
-      "title": "Apple построила Minions: GPU-облако на неиспользуемых Apple Silicon чипах",
+      "title": "SpaceXSI выпустила подписку Grok + X Premium + Cursor",
       "score": 3,
-      "source_url": "https://machinelearning.apple.com/research/distributed-gpu-cloud"
+      "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
+    },
+    {
+      "n": 9,
+      "title": "AI-лабы скупают данные у закрытых стартапов",
+      "score": 3,
+      "source_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+    },
+    {
+      "n": 10,
+      "title": "OpenAI и Anthropic требуют контроля над оценками",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261013/p17#a261013p17"
     }
   ]
 }

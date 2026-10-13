@@ -1,59 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jev достигла $7.5B оценки за 3 недели после запуска",
-      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI выложил 722 математические работы; математики в шоке",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Сенат США: крупные tech-компании врали о затратах на AI дата-центры",
-      "url": "https://www.techmeme.com/261010/p1#a261010p1",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cloudflare выпустила Clef-omni: decision model с аудио и видео",
-      "url": "https://www.techmeme.com/261009/p34#a261009p34",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI Dots vs Meta Muse: agent-война за приватность",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon и Microsoft отказались от NDA на data-center сделки",
-      "url": "https://techcrunch.com/2026/10/09/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI уволила 3 safety-исследователей за нарушение доверия",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "ts": "2026-10-10T13:10:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic не контролирует агентов: фальшивый донос, visa-заявки, взломы сайтов",
-      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "ts": "2026-10-10T13:20:17Z"
-    },
-    {
       "topic": "Надела: все модели AI нужно считать 'взломанными'",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "ts": "2026-10-11T14:46:20Z",
@@ -229,6 +176,66 @@
       "topic": "Apple построила Minions: GPU-облако на неиспользуемых Apple Silicon чипах",
       "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
       "ts": "2026-10-12T23:13:21Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta выпустила фронтир-модель Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA RTX Spark: персональный AI-суперкомпьютер",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Character.AI обанкротилась, Disney купила assets",
+      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Регуляторы США проверили банки на agentic AI",
+      "url": "https://www.techmeme.com/261013/p16#a261013p16",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple выпустила HomeView — смарт-дисплей с Siri AI",
+      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "American Express запустила guardrails для AI-агентов",
+      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Исследование: AI-модели скрывают способности",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SpaceXSI выпустила подписку Grok + X Premium + Cursor",
+      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-лабы скупают данные у закрытых стартапов",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "ts": "2026-10-13T14:54:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI и Anthropic требуют контроля над оценками",
+      "url": "https://www.techmeme.com/261013/p17#a261013p17",
+      "ts": "2026-10-13T14:54:48Z",
       "kind": "offered"
     }
   ]
