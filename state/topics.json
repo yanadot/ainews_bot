@@ -558,6 +558,125 @@
           "status": "offered"
         }
       ]
+    },
+    "10132036": {
+      "created_at": "2026-10-13T20:36:35Z",
+      "message_id": 53,
+      "topics": [
+        {
+          "title": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
+          "what": "Google анонсировала Gemini 4 Argon, новую фронтирную модель, которая конкурирует с лучшими моделями индустрии по логике и сложным workflows.",
+          "why": "Может сдвинуть равновесие на рынке LLM и повлиять на стек инструментов в компаниях, переходящих с других моделей.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Google",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+            "https://deepmind.google/models/gemini/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI Higgsfield: видео до 10+ минут и голосовое кинопроизводство",
+          "what": "OpenAI выпустила Higgsfield, которая расширяет видео-генерацию с GPT-6 Astra до 10+ минут и добавляет voice filmmaking с GPT-Live.",
+          "why": "Меняет возможности контент-креаторов и может вытеснить профессиональный софт; важно для стартапов в медиа и творчестве.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+          "candidate_urls": [
+            "https://openai.com/index/higgsfield-longer-videos-voice"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind выпустила Gemini Robotics 2 для цельного управления роботами",
+          "what": "Google DeepMind анонсировала Gemini Robotics 2 — модель с «whole-body intelligence» для управления полным спектром робо-систем и манипуляций.",
+          "why": "Ускорит коммерциализацию робототехники; важно для стартапов в physical AI и robotics как следующий слой конкуренции.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google DeepMind",
+          "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
+          "candidate_urls": [
+            "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Pluto Security вышла из stealth с $42M Series A для мониторинга AI-агентов",
+          "what": "Pluto Security закрыла $42M (включая $34M Series A) и уже достигла $2M+ ARR, мониторя риски AI-агентов и vibe-coded приложений в компаниях.",
+          "why": "Сигнал роста рынка безопасности AI; актуально для компаний, развёртывающих internal AI agents и нуждающихся в guardrails.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
+          "candidate_urls": [
+            "https://www.techmeme.com/261013/p35#a261013p35"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Applied Intuition оценена в $30B+ для симуляции беспилотников",
+          "what": "Стартап по симуляции для беспилотников Applied Intuition получил инвестиции, которые оценили его в $30B+, вверх с $15B в июне.",
+          "why": "Указывает на масштаб капитальных вложений в infrastructure для autonomy; важна тенденция для планирования выхода на рынок.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261013/p39#a261013p39",
+          "candidate_urls": [
+            "https://www.techmeme.com/261013/p39#a261013p39"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic разработала Scion — замену git для своего монорепо на Claude",
+          "what": "Anthropic выпустила Scion — git-замену для монорепо, построенную за 5 месяцев с Claude, справляющуюся с 30K+ merges в день.",
+          "why": "Демонстрирует внутреннее применение Claude и масштабы Anthropic; показывает примеры инженерных инструментов на AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Anthropic",
+          "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
+          "candidate_urls": [
+            "https://www.techmeme.com/261013/p38#a261013p38"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Epic переходит на «AI-first» разработку Disney игры с Claude",
+          "what": "Epic Games переводит разработку неанонсированной Disney игры на «AI-first» с Claude и другими инструментами для кода и арта; проект отложен.",
+          "why": "Реальный пример внедрения Claude в production gamedev; полезный кейс для менеджеров в creative-индустрии на новых workflows.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+          "candidate_urls": [
+            "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI и Anthropic выступили перед британскими законодателями с требованием регуляции",
+          "what": "OpenAI и Anthropic выступили на парламентских слушаниях в UK, поддерживая регуляцию AI, пока разведка предупреждала о рисках биооружия.",
+          "why": "Сигнал консолидации позиции лидеров по регуляции; важно для понимания политического давления и правовых рисков для стартапов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
+          "candidate_urls": [
+            "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
+          ],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
     }
   }
 }

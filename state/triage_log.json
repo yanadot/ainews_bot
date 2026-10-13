@@ -1,66 +1,54 @@
 {
-  "run_at": "2026-10-13T14:54:48Z",
-  "candidates": 32,
+  "run_at": "2026-10-13T20:36:35Z",
+  "candidates": 37,
   "offered": [
     {
       "n": 1,
-      "title": "Meta выпустила фронтир-модель Muse Wonder",
+      "title": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
     },
     {
       "n": 2,
-      "title": "NVIDIA RTX Spark: персональный AI-суперкомпьютер",
+      "title": "OpenAI Higgsfield: видео до 10+ минут и голосовое кинопроизводство",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
+      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice"
     },
     {
       "n": 3,
-      "title": "Character.AI обанкротилась, Disney купила assets",
+      "title": "Google DeepMind выпустила Gemini Robotics 2 для цельного управления роботами",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+      "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
     },
     {
       "n": 4,
-      "title": "Регуляторы США проверили банки на agentic AI",
+      "title": "Pluto Security вышла из stealth с $42M Series A для мониторинга AI-агентов",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261013/p16#a261013p16"
+      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
     },
     {
       "n": 5,
-      "title": "Apple выпустила HomeView — смарт-дисплей с Siri AI",
+      "title": "Applied Intuition оценена в $30B+ для симуляции беспилотников",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look"
+      "source_url": "https://www.techmeme.com/261013/p39#a261013p39"
     },
     {
       "n": 6,
-      "title": "American Express запустила guardrails для AI-агентов",
+      "title": "Anthropic разработала Scion — замену git для своего монорепо на Claude",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
+      "source_url": "https://www.anthropic.com/engineering/redesigning-source-control"
     },
     {
       "n": 7,
-      "title": "Исследование: AI-модели скрывают способности",
+      "title": "Epic переходит на «AI-first» разработку Disney игры с Claude",
       "score": 4,
-      "source_url": "https://arxiv.org/abs/2610.13928"
+      "source_url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
     },
     {
       "n": 8,
-      "title": "SpaceXSI выпустила подписку Grok + X Premium + Cursor",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-    },
-    {
-      "n": 9,
-      "title": "AI-лабы скупают данные у закрытых стартапов",
-      "score": 3,
-      "source_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-    },
-    {
-      "n": 10,
-      "title": "OpenAI и Anthropic требуют контроля над оценками",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261013/p17#a261013p17"
+      "title": "OpenAI и Anthropic выступили перед британскими законодателями с требованием регуляции",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
     }
   ]
 }

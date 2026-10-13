@@ -1,11 +1,4 @@
 {
-  "checked_at": "2026-10-13T14:52:40Z",
-  "errors": [
-    {
-      "id": "deepmind",
-      "name": "Google DeepMind",
-      "url": "https://deepmind.google/discover/blog/",
-      "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
-    }
-  ]
+  "checked_at": "2026-10-13T20:33:06Z",
+  "errors": []
 }
