@@ -290,6 +290,60 @@
       "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
       "ts": "2026-10-13T20:36:35Z",
       "kind": "offered"
+    },
+    {
+      "topic": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
+      "url": "https://www.techmeme.com/261014/p15#a261014p15",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инженер OpenAI арестован за установку скрытого диктофона в офисе",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic открывает офис в Сингапуре с MOU правительства",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Scimplify привлекла $25M для AI-производства химикатов",
+      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Harmonic Security привлекла $50M для мониторинга AI в компаниях",
+      "url": "https://www.techmeme.com/261014/p17#a261014p17",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Industrial Next меняет роботов на минуты вместо недель",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google DeepMind даёт европейским учёным доступ к frontier AI",
+      "url": "https://www.techmeme.com/261014/p6#a261014p6",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Science Corporation имплантировала чип для восстановления зрения",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Исследование: AI-модели легко модифицируются для экстремизма",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
     }
   ]
 }

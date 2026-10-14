@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-10-13T20:36:35Z",
-  "candidates": 37,
+  "run_at": "2026-10-14T12:45:06Z",
+  "candidates": 28,
   "offered": [
     {
       "n": 1,
-      "title": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
+      "title": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
       "score": 5,
-      "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon"
+      "source_url": "https://www.techmeme.com/261014/p15#a261014p15"
     },
     {
       "n": 2,
-      "title": "OpenAI Higgsfield: видео до 10+ минут и голосовое кинопроизводство",
-      "score": 4,
-      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice"
+      "title": "Инженер OpenAI арестован за установку скрытого диктофона в офисе",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
     },
     {
       "n": 3,
-      "title": "Google DeepMind выпустила Gemini Robotics 2 для цельного управления роботами",
+      "title": "Anthropic открывает офис в Сингапуре с MOU правительства",
       "score": 4,
-      "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
+      "source_url": "https://www.anthropic.com/news/singapore-office-opening"
     },
     {
       "n": 4,
-      "title": "Pluto Security вышла из stealth с $42M Series A для мониторинга AI-агентов",
+      "title": "Scimplify привлекла $25M для AI-производства химикатов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache"
+      "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
     },
     {
       "n": 5,
-      "title": "Applied Intuition оценена в $30B+ для симуляции беспилотников",
+      "title": "Harmonic Security привлекла $50M для мониторинга AI в компаниях",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261013/p39#a261013p39"
+      "source_url": "https://www.techmeme.com/261014/p17#a261014p17"
     },
     {
       "n": 6,
-      "title": "Anthropic разработала Scion — замену git для своего монорепо на Claude",
+      "title": "Industrial Next меняет роботов на минуты вместо недель",
       "score": 4,
-      "source_url": "https://www.anthropic.com/engineering/redesigning-source-control"
+      "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
     },
     {
       "n": 7,
-      "title": "Epic переходит на «AI-first» разработку Disney игры с Claude",
+      "title": "Google DeepMind даёт европейским учёным доступ к frontier AI",
       "score": 4,
-      "source_url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
+      "source_url": "https://www.techmeme.com/261014/p6#a261014p6"
     },
     {
       "n": 8,
-      "title": "OpenAI и Anthropic выступили перед британскими законодателями с требованием регуляции",
-      "score": 4,
-      "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
+      "title": "Science Corporation имплантировала чип для восстановления зрения",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+    },
+    {
+      "n": 9,
+      "title": "Исследование: AI-модели легко модифицируются для экстремизма",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
     }
   ]
 }
