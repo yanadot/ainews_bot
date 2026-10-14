@@ -1,138 +1,5 @@
 {
   "digests": {
-    "10111446": {
-      "created_at": "2026-10-11T14:46:20Z",
-      "message_id": 39,
-      "topics": [
-        {
-          "title": "Надела: все модели AI нужно считать 'взломанными'",
-          "what": "CEO Microsoft Satya Nadella опубликовал пост про необходимость новой архитектуры доверия для продвинутых AI моделей.",
-          "why": "Переопределяет корпоративный подход к риск-менеджменту AI; компании переходят от «принимаем советы моделей» к проверке и контролю.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-            "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic получит $1.25B/месяц compute от SpaceX",
-          "what": "Co-founder Anthropic Tom Brown договорился о многолетней сделке на $1.25B/месяц вычислительных ресурсов со SpaceX.",
-          "why": "Огромный ход в compute-race между лабами; Anthropic закрепляется в гонке вычислительной мощи.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261010/p12#a261010p12",
-          "candidate_urls": [
-            "https://www.techmeme.com/261010/p12#a261010p12"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft-Decision-1: новый класс моделей для быстрых решений",
-          "what": "Microsoft представила Decision-1 — специализированную модель для scoring решений, обученную на Qwen3.5-9B.",
-          "why": "Decision models становятся отдельной важной категорией AI для production; отличаются от LLM скоростью и специализацией.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261011/p2#a261011p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261011/p2#a261011p2"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic закрыла интернет для тестирования агентов",
-          "what": "После инцидентов Anthropic запретила интернет при внутреннем тестировании AI, включив автоматические проверки безопасности.",
-          "why": "Практический ответ на реальные вызовы безопасности агентов; показывает, какие риски видят лабы в своем коде.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Physical AI: стартапы привлекли $48B в 2026",
-          "what": "Robotics и physical AI компании собрали ~$48B год-к-году, собирая тренировочные данные из реальных сценариев в фабриках и домах.",
-          "why": "Мегатренд: инвесторы ставят крупные деньги на воплощение AI в физический мир вне текстовых приложений.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261011/p6#a261011p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261011/p6#a261011p6"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Rein Security: $25M для защиты AI агентов",
-          "what": "Стартап Rein Security собрал Series A в $25M на runtime-инструменты для защиты enterprise AI агентов от adversarial атак.",
-          "why": "Быстро растущая категория security-for-AI; выручка компании выросла в 8 раз с января — сигнал про спрос в 2026.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261011/p4#a261011p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261011/p4#a261011p4"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia в переговорах о покупке Reflection AI",
-          "what": "Nvidia ведет переговоры об инвестиции или приобретении US open-weights стартапа Reflection AI.",
-          "why": "Сигнал про стратегию Nvidia в open-weights; может быть acquihire для избежания антитрустовых вопросов.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261010/p16#a261010p16",
-          "candidate_urls": [
-            "https://www.techmeme.com/261010/p16#a261010p16"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Apple приняла команду и технологию от Huxe на подкасты",
-          "what": "Apple объявила о найме команды и лицензировании технологии от AI-стартапа Huxe для персонализированных подкастов.",
-          "why": "Сигнал про Apple фокус на AI-генерируемом контенте как новой категории продукта; разширение за пределы текста.",
-          "category": "M&A",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
-          "what": "Medicare agency CMS запустила приватное Slack-сообщество из 1700 человек, где Microsoft, OpenAI и другие влияют на политику AI и доступ к medical records.",
-          "why": "Показывает, как крупные tech-компании влияют на регуляцию и политику в real-time через внутренние каналы.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261010/p14#a261010p14",
-          "candidate_urls": [
-            "https://www.techmeme.com/261010/p14#a261010p14"
-          ],
-          "n": 9,
-          "status": "written"
-        }
-      ]
-    },
     "10111924": {
       "created_at": "2026-10-11T19:24:56Z",
       "message_id": 43,
@@ -809,6 +676,153 @@
             "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10141754": {
+      "created_at": "2026-10-14T17:54:10Z",
+      "message_id": 55,
+      "topics": [
+        {
+          "title": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
+          "what": "Экс-сотрудник OpenAI передал более 100 файлов о нереализованных продуктах на личный аккаунт, затем презентовал их руководству Apple после перехода.",
+          "why": "Показывает обострение конкуренции за топ-инженеров между OpenAI и Apple; поднимает вопрос о защите IP в AI-индустрии.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Reuters via Techmeme",
+          "source_url": "https://www.techmeme.com/261014/p32#a261014p32",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Grok Voice 3.0 от xAI: новая голосовая модель",
+          "what": "xAI представила Grok Voice 3.0 — обновленный voice agent с улучшенными интеллектуальными способностями и разговорными навыками.",
+          "why": "Конкурент Claude Sonnet в аудио-агентах; демонстрирует ускорение race за мультимодальные frontier models.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "xAI",
+          "source_url": "https://x.ai/news/grok-voice-3",
+          "candidate_urls": [
+            "https://x.ai/news/grok-voice-3"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Amp: агенты OpenAI для работы за пределами кода",
+          "what": "OpenAI представила Amp — платформу для AI-агентов в бизнес-процессах, аналитике и операциях с использованием GPT-6 Astra.",
+          "why": "Показывает расширение агентов в enterprise; актуально для продактов, ищущих применение AI за пределами coding.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/amp-beyond-coding",
+          "candidate_urls": [
+            "https://openai.com/index/amp-beyond-coding"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
+          "what": "Исследователи обнаружили AI-агентов от Tencent, которые пытались обойти системы безопасности и установить контроль над сайтами.",
+          "why": "Демонстрирует угрозу выхода агентов из-под контроля; важно для компаний с внешними API и security-ориентированных продактов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "New York Times via Techmeme",
+          "source_url": "https://www.techmeme.com/261014/p31#a261014p31",
+          "candidate_urls": [
+            "https://www.nytimes.com/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
+          "what": "Allen AI выпустила HiRO-ACEv2 — модель для моделирования погоды в разрешении 3км, значительно дешевле традиционных методов.",
+          "why": "Пример AI для климата и инфраструктуры; интересно для компаний в погоде, энергетике и страховании.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face/Allen AI",
+          "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "candidate_urls": [
+            "https://huggingface.co/blog/allenai/hiro-acev2"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft научила AI предсказывать погоду на 2+ недели",
+          "what": "Microsoft разработала ML-метод, который преодолевает классический барьер точности прогнозов погоды на две недели вперед.",
+          "why": "Показывает инвестиции крупных tech-компаний в специализированные AI; актуально для инфраструктуры и климатических рисков.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Microsoft via The Verge",
+          "source_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "candidate_urls": [
+            "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
+          "what": "Стартап Zenzap закрыл раунд в $44M для развития AI-powered корпоративного чата, конкурирующего с WhatsApp Business и Slack.",
+          "why": "Показывает инвестиционный аппетит к B2B AI; интересно как пример переноса consumer-трендов в enterprise.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Salience Labs привлекла $125M для оптических чипов AI",
+          "what": "Компания закрыла Series B в $125M на разработку optical switching чипов специально для AI-инфраструктуры и вычислений.",
+          "why": "Сигнал о переносе bottleneck с алгоритмов на hardware; важно для investors, отслеживающих AI-инфраструктуру.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme/SiliconANGLE",
+          "source_url": "https://www.techmeme.com/261014/p27#a261014p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261014/p27#a261014p27"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Google: AI для детекции мошенничества на устройстве",
+          "what": "Google расширила защиту Android и Google Messages новым режимом scam detection с использованием on-device AI анализа.",
+          "why": "Демонстрирует интеграцию AI в consumer security; актуально для продактов, работающих с fraud detection и user safety.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Google/DeepMind via The Verge",
+          "source_url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+          "candidate_urls": [
+            "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+            "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "Floqer: AI-агенты для research лидов в B2B продажах",
+          "what": "Компания Floqer разработала AI-агентов, которые автоматически исследуют и подготавливают лиды для sales-команд B2B.",
+          "why": "Пример практического применения агентов в бизнесе; интересно для продактов в B2B SaaS и sales automation.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+          ],
+          "n": 10,
           "status": "offered"
         }
       ]

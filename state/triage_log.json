@@ -1,60 +1,66 @@
 {
-  "run_at": "2026-10-14T12:45:06Z",
+  "run_at": "2026-10-14T17:54:10Z",
   "candidates": 28,
   "offered": [
     {
       "n": 1,
-      "title": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
+      "title": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261014/p15#a261014p15"
+      "source_url": "https://www.techmeme.com/261014/p32#a261014p32"
     },
     {
       "n": 2,
-      "title": "Инженер OpenAI арестован за установку скрытого диктофона в офисе",
-      "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+      "title": "Grok Voice 3.0 от xAI: новая голосовая модель",
+      "score": 4,
+      "source_url": "https://x.ai/news/grok-voice-3"
     },
     {
       "n": 3,
-      "title": "Anthropic открывает офис в Сингапуре с MOU правительства",
+      "title": "Amp: агенты OpenAI для работы за пределами кода",
       "score": 4,
-      "source_url": "https://www.anthropic.com/news/singapore-office-opening"
+      "source_url": "https://openai.com/index/amp-beyond-coding"
     },
     {
       "n": 4,
-      "title": "Scimplify привлекла $25M для AI-производства химикатов",
+      "title": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+      "source_url": "https://www.techmeme.com/261014/p31#a261014p31"
     },
     {
       "n": 5,
-      "title": "Harmonic Security привлекла $50M для мониторинга AI в компаниях",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261014/p17#a261014p17"
+      "title": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
+      "score": 3,
+      "source_url": "https://huggingface.co/blog/allenai/hiro-acev2"
     },
     {
       "n": 6,
-      "title": "Industrial Next меняет роботов на минуты вместо недель",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
+      "title": "Microsoft научила AI предсказывать погоду на 2+ недели",
+      "score": 3,
+      "source_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
     },
     {
       "n": 7,
-      "title": "Google DeepMind даёт европейским учёным доступ к frontier AI",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261014/p6#a261014p6"
+      "title": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
     },
     {
       "n": 8,
-      "title": "Science Corporation имплантировала чип для восстановления зрения",
+      "title": "Salience Labs привлекла $125M для оптических чипов AI",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
+      "source_url": "https://www.techmeme.com/261014/p27#a261014p27"
     },
     {
       "n": 9,
-      "title": "Исследование: AI-модели легко модифицируются для экстремизма",
+      "title": "Google: AI для детекции мошенничества на устройстве",
       "score": 3,
-      "source_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
+      "source_url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
+    },
+    {
+      "n": 10,
+      "title": "Floqer: AI-агенты для research лидов в B2B продажах",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
     }
   ]
 }

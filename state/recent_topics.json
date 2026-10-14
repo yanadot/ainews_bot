@@ -1,65 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Надела: все модели AI нужно считать 'взломанными'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic получит $1.25B/месяц compute от SpaceX",
-      "url": "https://www.techmeme.com/261010/p12#a261010p12",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft-Decision-1: новый класс моделей для быстрых решений",
-      "url": "https://www.techmeme.com/261011/p2#a261011p2",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic закрыла интернет для тестирования агентов",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Physical AI: стартапы привлекли $48B в 2026",
-      "url": "https://www.techmeme.com/261011/p6#a261011p6",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Rein Security: $25M для защиты AI агентов",
-      "url": "https://www.techmeme.com/261011/p4#a261011p4",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia в переговорах о покупке Reflection AI",
-      "url": "https://www.techmeme.com/261010/p16#a261010p16",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple приняла команду и технологию от Huxe на подкасты",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
-      "url": "https://www.techmeme.com/261010/p14#a261010p14",
-      "ts": "2026-10-11T14:46:20Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "CMS собрала 1700 tech-лидеров в приватном Slack для политики",
-      "url": "https://www.cbsnews.com/news/ai-tech-leaders-trump-health-officials-slack/",
-      "ts": "2026-10-11T14:51:56Z"
-    },
-    {
       "topic": "Anthropic получает $1.3B/месяц от data center лизинга, подписала сделку с IREN",
       "url": "https://www.techmeme.com/261011/p9#a261011p9",
       "ts": "2026-10-11T19:24:56Z",
@@ -343,6 +284,66 @@
       "topic": "Исследование: AI-модели легко модифицируются для экстремизма",
       "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
       "ts": "2026-10-14T12:45:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
+      "url": "https://www.techmeme.com/261014/p32#a261014p32",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Grok Voice 3.0 от xAI: новая голосовая модель",
+      "url": "https://x.ai/news/grok-voice-3",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amp: агенты OpenAI для работы за пределами кода",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
+      "url": "https://www.techmeme.com/261014/p31#a261014p31",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft научила AI предсказывать погоду на 2+ недели",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Salience Labs привлекла $125M для оптических чипов AI",
+      "url": "https://www.techmeme.com/261014/p27#a261014p27",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google: AI для детекции мошенничества на устройстве",
+      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
+      "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Floqer: AI-агенты для research лидов в B2B продажах",
+      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+      "ts": "2026-10-14T17:54:10Z",
       "kind": "offered"
     }
   ]
