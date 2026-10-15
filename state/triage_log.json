@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-10-15T12:33:29Z",
-  "candidates": 32,
+  "run_at": "2026-10-15T17:19:57Z",
+  "candidates": 33,
   "offered": [
     {
       "n": 1,
-      "title": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
+      "title": "Meta выпустила Muse Spark Open — открытую фронтир-модель",
       "score": 5,
-      "source_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
+      "source_url": "https://www.techmeme.com/261015/p37#a261015p37"
     },
     {
       "n": 2,
-      "title": "Восемь штатов подали иски на OpenAI за вред детям и обман",
-      "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+      "title": "NVIDIA Nemotron 3.5 Super VL: 120B для enterprise-агентов",
+      "score": 4,
+      "source_url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/"
     },
     {
       "n": 3,
-      "title": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261015/p12#a261015p12"
+      "title": "NVIDIA RTX Spark: персональный AI-суперкомпьютер для ПК",
+      "score": 4,
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
     },
     {
       "n": 4,
-      "title": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261015/p20#a261015p20"
+      "title": "Mistral Timestral: probabilistic forecasting на 209M параметров",
+      "score": 4,
+      "source_url": "https://mistral.ai/news/timestral/"
     },
     {
       "n": 5,
-      "title": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
+      "title": "Google Universal Cart: AI-ассистент для покупок в поиске",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+      "source_url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
     },
     {
       "n": 6,
-      "title": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
+      "title": "BofA нанял 1000 контракторов на патчинг AI-найденных уязвимостей",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+      "source_url": "https://www.techmeme.com/261015/p27#a261015p27"
     },
     {
       "n": 7,
-      "title": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261015/p23#a261015p23"
+      "title": "DeepMind ускорила открытие антимикробных препаратов через AI",
+      "score": 3,
+      "source_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
     },
     {
       "n": 8,
-      "title": "YouTube добавил лейблы для AI-генерированной музыки",
+      "title": "Liquid AI выпустила LFM2.5-24B для on-device агентов",
       "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
+      "source_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
     },
     {
       "n": 9,
-      "title": "Figma объявила фичи для агентов на платформе",
+      "title": "Hugging Face выпустила FLUX.3 Image Klein для изображений",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+      "source_url": "https://huggingface.co/blog/flux-3"
     }
   ]
 }

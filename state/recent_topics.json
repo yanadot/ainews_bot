@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Microsoft Maia 300: новый AI чип для inference",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Строительство 1GW AI датацентра обходится в $30B",
-      "url": "https://www.techmeme.com/261012/p24#a261012p24",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Доступ к капиталу может стать bottleneck для AI",
-      "url": "https://www.techmeme.com/261012/p18#a261012p18",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft платит Anthropic $2B+ в год",
-      "url": "https://www.techmeme.com/261012/p23#a261012p23",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA открывает Vera Rubin для масштабирования AI",
-      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft president: UK должен вести регуляцию AI",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek инвестирует в робо-AI стартап Winverse",
-      "url": "https://www.techmeme.com/261012/p17#a261012p17",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Blueprints AI генерирует архитектурные чертежи за минуты",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "ts": "2026-10-12T16:37:04Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Meta выпустила фронтир-модель Muse Wonder, готовую конкурировать на равных",
       "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
       "ts": "2026-10-12T23:13:21Z",
@@ -381,6 +333,60 @@
       "topic": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "ts": "2026-10-15T14:00:27Z"
+    },
+    {
+      "topic": "Meta выпустила Muse Spark Open — открытую фронтир-модель",
+      "url": "https://www.techmeme.com/261015/p37#a261015p37",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA Nemotron 3.5 Super VL: 120B для enterprise-агентов",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA RTX Spark: персональный AI-суперкомпьютер для ПК",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Mistral Timestral: probabilistic forecasting на 209M параметров",
+      "url": "https://mistral.ai/news/timestral/",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google Universal Cart: AI-ассистент для покупок в поиске",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "BofA нанял 1000 контракторов на патчинг AI-найденных уязвимостей",
+      "url": "https://www.techmeme.com/261015/p27#a261015p27",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepMind ускорила открытие антимикробных препаратов через AI",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Liquid AI выпустила LFM2.5-24B для on-device агентов",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Hugging Face выпустила FLUX.3 Image Klein для изображений",
+      "url": "https://huggingface.co/blog/flux-3",
+      "ts": "2026-10-15T17:19:57Z",
+      "kind": "offered"
     }
   ]
 }
