@@ -1,29 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic получает $1.3B/месяц от data center лизинга, подписала сделку с IREN",
-      "url": "https://www.techmeme.com/261011/p9#a261011p9",
-      "ts": "2026-10-11T19:24:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI индустрия отказывается от NDA на data center сделки ради доверия",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-      "ts": "2026-10-11T19:24:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
-      "url": "https://theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "ts": "2026-10-11T19:24:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "ts": "2026-10-11T20:02:57Z"
-    },
-    {
       "topic": "Microsoft Maia 300: новый AI чип для inference",
       "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
       "ts": "2026-10-12T16:37:04Z",
@@ -344,6 +321,60 @@
       "topic": "Floqer: AI-агенты для research лидов в B2B продажах",
       "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
       "ts": "2026-10-14T17:54:10Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
+      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Восемь штатов подали иски на OpenAI за вред детям и обман",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
+      "url": "https://www.techmeme.com/261015/p12#a261015p12",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
+      "url": "https://www.techmeme.com/261015/p20#a261015p20",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
+      "url": "https://www.techmeme.com/261015/p23#a261015p23",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "YouTube добавил лейблы для AI-генерированной музыки",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "ts": "2026-10-15T12:33:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Figma объявила фичи для агентов на платформе",
+      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "ts": "2026-10-15T12:33:29Z",
       "kind": "offered"
     }
   ]

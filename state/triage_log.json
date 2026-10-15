@@ -1,66 +1,60 @@
 {
-  "run_at": "2026-10-14T17:54:10Z",
-  "candidates": 28,
+  "run_at": "2026-10-15T12:33:29Z",
+  "candidates": 32,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
+      "title": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261014/p32#a261014p32"
+      "source_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
     },
     {
       "n": 2,
-      "title": "Grok Voice 3.0 от xAI: новая голосовая модель",
-      "score": 4,
-      "source_url": "https://x.ai/news/grok-voice-3"
+      "title": "Восемь штатов подали иски на OpenAI за вред детям и обман",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
     },
     {
       "n": 3,
-      "title": "Amp: агенты OpenAI для работы за пределами кода",
-      "score": 4,
-      "source_url": "https://openai.com/index/amp-beyond-coding"
+      "title": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261015/p12#a261015p12"
     },
     {
       "n": 4,
-      "title": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261014/p31#a261014p31"
+      "title": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261015/p20#a261015p20"
     },
     {
       "n": 5,
-      "title": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/allenai/hiro-acev2"
+      "title": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
     },
     {
       "n": 6,
-      "title": "Microsoft научила AI предсказывать погоду на 2+ недели",
-      "score": 3,
-      "source_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
+      "title": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
     },
     {
       "n": 7,
-      "title": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
+      "title": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261015/p23#a261015p23"
     },
     {
       "n": 8,
-      "title": "Salience Labs привлекла $125M для оптических чипов AI",
+      "title": "YouTube добавил лейблы для AI-генерированной музыки",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261014/p27#a261014p27"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label"
     },
     {
       "n": 9,
-      "title": "Google: AI для детекции мошенничества на устройстве",
+      "title": "Figma объявила фичи для агентов на платформе",
       "score": 3,
-      "source_url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
-    },
-    {
-      "n": 10,
-      "title": "Floqer: AI-агенты для research лидов в B2B продажах",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
     }
   ]
 }

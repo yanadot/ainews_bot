@@ -1,53 +1,5 @@
 {
   "digests": {
-    "10111924": {
-      "created_at": "2026-10-11T19:24:56Z",
-      "message_id": 43,
-      "topics": [
-        {
-          "title": "Anthropic получает $1.3B/месяц от data center лизинга, подписала сделку с IREN",
-          "what": "Аналитики оценили лизинг data center Anthropic (245 MW) в ~$1.3B/месяц; компания подписала cloud deal с IREN для доступа к вычислительным ресурсам.",
-          "why": "Раскрывает финансовый масштаб инфра-игры в AI и новую стратегию Anthropic по монополизации compute через прямые сделки с провайдерами.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Techmeme (The Information)",
-          "source_url": "https://www.techmeme.com/261011/p9#a261011p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261011/p9#a261011p9"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "AI индустрия отказывается от NDA на data center сделки ради доверия",
-          "what": "Amazon, Microsoft и другие компании отказываются от non-disclosure agreements на data center сделки как способ убедить критиков в прозрачности инвестиций.",
-          "why": "Показывает растущее политическое давление на инфра-расходы AI; компании жертвуют конфиденциальностью для PR и преодоления морато́риев.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Silicon Valley следует за попыткой Trump переименовать AI в «super intelligence»",
-          "what": "Влиятельные фигуры из Silicon Valley начинают поддерживать инициативу президента переименовать artificial intelligence в super intelligence.",
-          "why": "Сигнал политического давления на терминологию и восприятие AI; может повлиять на регуляторику и брендинг продуктов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge AI",
-          "source_url": "https://theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
-          ],
-          "n": 3,
-          "status": "written"
-        }
-      ]
-    },
     "10121637": {
       "created_at": "2026-10-12T16:37:04Z",
       "message_id": 47,
@@ -823,6 +775,140 @@
             "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
           ],
           "n": 10,
+          "status": "offered"
+        }
+      ]
+    },
+    "10151233": {
+      "created_at": "2026-10-15T12:33:29Z",
+      "message_id": 56,
+      "topics": [
+        {
+          "title": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
+          "what": "Компания поднял раунд Series D оценкой $16B с $1B годовой выручки и стала самым дорогим AI-стартапом Нью-Йорка. Рост 3x за 5 месяцев.",
+          "why": "Инфра для агентов и inference быстро монетизируется. Сигнал что рынок созрел для enterprise AI-tools и готов платить.",
+          "category": "funding",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+          "candidate_urls": [
+            "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Восемь штатов подали иски на OpenAI за вред детям и обман",
+          "what": "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho и Montana подали иски к OpenAI с обвинением в вреде детям и введении потребителей в заблуждение относительно безопасности ChatGPT.",
+          "why": "Массовая регуляторная атака на лидера показывает усиление давления на AI-компании. Этот паттерн повторится для других лидеров.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
+          "what": "Abdulrahman Alfozan, инженер OpenAI, арестован за установку скрытого записывающего устройства. Плана бежать в Саудовскую Аравию.",
+          "why": "Инцидент показывает конкурентную борьбу между лидерами и риски утечек. Внимание к безопасности внутри лабов растёт.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Bloomberg/Techmeme",
+          "source_url": "https://www.techmeme.com/261015/p12#a261015p12",
+          "candidate_urls": [
+            "https://www.techmeme.com/261015/p12#a261015p12"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
+          "what": "Федеральная торговая комиссия начала масштабное расследование. Запросы покрывают инциденты безопасности, safeguarding и защиту потребителей.",
+          "why": "Регуляторы наступают: формальные требования к документам означают что правила стягиваются и неопределённость будет дорогой.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Axios/Techmeme",
+          "source_url": "https://www.techmeme.com/261015/p20#a261015p20",
+          "candidate_urls": [
+            "https://www.techmeme.com/261015/p20#a261015p20"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
+          "what": "Amazon выпустил два Bee-устройства: Frontier ($75 браслет) и Eclipse ($100 магнит на телефон) с $12/месяц подпиской для синтеза разговоров.",
+          "why": "Большие компании монетизируют AI-стартапы через железо. Показывает как акселерируется сегмент personal AI devices.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+            "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
+          "what": "Стартап разрабатывает AI для автоматизации дизайна процессоров. Система учится на каждой итерации и ускоряет цикл от недель к дням.",
+          "why": "Решение критической проблемы (compute shortage для AI). Привлекает капитал и показывает как AI становится инструментом для собственного масштабирования.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
+          "what": "Руководство OpenAI инструктировало команду о рисках промышленного шпионажа через honey pots и insider-угрозы. Требует усиления operec-security.",
+          "why": "Компании начинают защищаться от утечек IP. Сигнал что конкурентная борьба между лидерами обостряется и переходит в категорию serious threat.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wall Street Journal/Techmeme",
+          "source_url": "https://www.techmeme.com/261015/p23#a261015p23",
+          "candidate_urls": [
+            "https://www.techmeme.com/261015/p23#a261015p23"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "YouTube добавил лейблы для AI-генерированной музыки",
+          "what": "Платформа выпустила тег 'Made with AI' для треков которые альтерированы или полностью сгенерированы AI. Появляется в плеере.",
+          "why": "Платформы вводят прозрачность про AI. Тренд на лейблирование распространится и станет стандартом во всей индустрии.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+            "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Figma объявила фичи для агентов на платформе",
+          "what": "Figma добавила инструменты для определения как агенты работают с платформой и открыла code layers в открытую бету.",
+          "why": "Инструменты интегрируют agentification. Тренд что каждая B2B-платформа становится точкой для AI-automation.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]
