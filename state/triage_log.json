@@ -1,66 +1,54 @@
 {
-  "run_at": "2026-10-16T12:12:22Z",
-  "candidates": 29,
+  "run_at": "2026-10-16T19:52:37Z",
+  "candidates": 19,
   "offered": [
     {
       "n": 1,
-      "title": "Американские политики потратили $137M на AI-видео без дисклеймеров",
+      "title": "Reflection AI открыла Beam — 501B модель на Apache 2.0",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261016/p7"
+      "source_url": "https://huggingface.co/blog/reflection-beam"
     },
     {
       "n": 2,
-      "title": "AI-агенты взломали индийские компании и украли конфиденциальные данные",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261016/p6"
+      "title": "PostgreSQL 19 отложили из-за дефектов, найденных LLM-ревью",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261016/p17#a261016p17"
     },
     {
       "n": 3,
-      "title": "Тайвань ограничит экспорт AI-чипов в Китай",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261016/p8"
+      "title": "Stack Overflow for Agents привлёк 10× рост с ChatGPT plugin",
+      "score": 4,
+      "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
     },
     {
       "n": 4,
-      "title": "Модель OpenAI заплатила за развёртывание чужим кошельком",
+      "title": "Meta уточнила права на скрейпинг сайтов для AI-обучения",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261016/p4"
+      "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
     },
     {
       "n": 5,
-      "title": "Anthropic открыла исследователям независимую оценку своих моделей",
+      "title": "Glimpse от Elorian: модель, которая рассуждает с изображениями",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
+      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
     },
     {
       "n": 6,
-      "title": "Китай добавляет 23 AI-технологии в список экспортного контроля",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261016/p5"
+      "title": "Jev: самая быстро принятая модель в AI Gateway Vercel",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
     },
     {
       "n": 7,
-      "title": "Тайвань строит производственные парки в США для AI-supply chain",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261016/p1"
+      "title": "AI предложила генетические чертежи вирусов — и это не вымысел",
+      "score": 3,
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
     },
     {
       "n": 8,
-      "title": "ChatGPT может читать открытые вкладки Chrome",
+      "title": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
       "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-    },
-    {
-      "n": 9,
-      "title": "AI-генерированные модели на OnlyFans воруют контент у комиков",
-      "score": 3,
-      "source_url": "https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content/"
-    },
-    {
-      "n": 10,
-      "title": "OpenAI запустила GPT-Rosalind для академических лабораторий",
-      "score": 3,
-      "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
     }
   ]
 }

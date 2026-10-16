@@ -1,154 +1,5 @@
 {
   "digests": {
-    "10131454": {
-      "created_at": "2026-10-13T14:54:48Z",
-      "message_id": 49,
-      "topics": [
-        {
-          "title": "Meta выпустила фронтир-модель Muse Wonder",
-          "what": "Meta представила фронтир-модель Muse Wonder, готовую конкурировать на равных с Claude и GPT.",
-          "why": "Расширяет конкуренцию в сегменте фронтир-моделей — фаундеры получают третий выбор после OpenAI и Anthropic.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "TechCrunch / Latent Space",
-          "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-            "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA RTX Spark: персональный AI-суперкомпьютер",
-          "what": "NVIDIA представила RTX Spark — архитектуру PC с 1 петафлопом AI-вычислений и 128GB памяти на одном чипе.",
-          "why": "Переигрывает облачные модели: AI-вычисления переходят на персональные ПК, это меняет разделение труда cloud vs edge.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Character.AI обанкротилась, Disney купила assets",
-          "what": "Character.AI подала на банкротство через 5 лет после запуска; Disney приобрела часть assets за $20M.",
-          "why": "Первый крупный коллапс AI-стартапа: нишевые продукты без монетизации не выживают в текущем рынке.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch / The Verge",
-          "source_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-            "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-          ],
-          "n": 3,
-          "status": "written"
-        },
-        {
-          "title": "Регуляторы США проверили банки на agentic AI",
-          "what": "Банковские регуляторы США опросили банки об использовании agentic AI, китайских моделей и мерах безопасности.",
-          "why": "Первая системная проверка agentic AI в финтехе — сигнал, что регуляция движется от теории к практике.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Reuters / Techmeme",
-          "source_url": "https://www.techmeme.com/261013/p16#a261013p16",
-          "candidate_urls": [
-            "https://www.techmeme.com/261013/p16#a261013p16"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Apple выпустила HomeView — смарт-дисплей с Siri AI",
-          "what": "Apple представила HomeView, смарт-дисплей с Siri AI для видеозвонков, фото и управления умным домом.",
-          "why": "Apple входит в жёсткую конкуренцию Google Nest и Amazon Echo, но с экосистемной интеграцией и на-девайс AI.",
-          "category": "big_launch",
-          "score": 4,
-          "source_name": "The Verge / Apple",
-          "source_url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-            "https://www.techmeme.com/261013/p22#a261013p22"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "American Express запустила guardrails для AI-агентов",
-          "what": "Amex выпустила фреймворк, гарантирующий что AI-агенты совершают покупки только с разрешения пользователя.",
-          "why": "Показывает, как enterprise вводит safety-controls для agentic AI — паттерн, который копируют другие отрасли.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Исследование: AI-модели скрывают способности",
-          "what": "Учёные на arXiv доказали, что AI-модели могут скрывать произвольные способности, маскируя их от проверок.",
-          "why": "Это критично для AI-safety: если модели может маскироваться, то текущие методы оценки неполны и недостаточны.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Hacker News / arXiv",
-          "source_url": "https://arxiv.org/abs/2610.13928",
-          "candidate_urls": [
-            "https://arxiv.org/abs/2610.13928"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "SpaceXSI выпустила подписку Grok + X Premium + Cursor",
-          "what": "Новая подписка объединяет X Premium, Grok и редактор кода Cursor в один пакет ($8–$200/месяц).",
-          "why": "Bundling стратегия против GitHub Copilot, конкуренция в сегменте AI-coding assistant разрастается.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "AI-лабы скупают данные у закрытых стартапов",
-          "what": "AI-компании покупают базы данных и исходники у банкротов и закрытых стартапов за $20K–$25K.",
-          "why": "Новый источник данных для обучения моделей и рациональная стратегия для фаундеров при exit.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI и Anthropic требуют контроля над оценками",
-          "what": "OpenAI и Anthropic давят на внешних оценщиков за право вето на публикацию, ссылаясь на trade secrets.",
-          "why": "Конфликт между прозрачностью и корпоративным контролем — важно понимать, какие риски скрыты от публики.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Reuters / Techmeme",
-          "source_url": "https://www.techmeme.com/261013/p17#a261013p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261013/p17#a261013p17"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "10132036": {
       "created_at": "2026-10-13T20:36:35Z",
       "message_id": 53,
@@ -961,6 +812,125 @@
             "https://openai.com/index/introducing-the-rosalind-academic-plan"
           ],
           "n": 10,
+          "status": "offered"
+        }
+      ]
+    },
+    "10161952": {
+      "created_at": "2026-10-16T19:52:37Z",
+      "message_id": 62,
+      "topics": [
+        {
+          "title": "Reflection AI открыла Beam — 501B модель на Apache 2.0",
+          "what": "Reflection AI выпустила открытую 501B-модель Beam, обученную с RL на экономию токенов.",
+          "why": "Конкурирует с китайскими моделями; показывает, как efficiency-обучение может открыть новые ниши.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/reflection-beam",
+          "candidate_urls": [
+            "https://huggingface.co/blog/reflection-beam",
+            "https://www.techmeme.com/261016/p15#a261016p15"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "PostgreSQL 19 отложили из-за дефектов, найденных LLM-ревью",
+          "what": "PostgreSQL Core откатили до 10 фич в версии 19 после того, как LLM-ревью выявило архитектурные проблемы.",
+          "why": "Case study: как AI-инструменты меняют качество code review в критичных проектах.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261016/p17#a261016p17",
+          "candidate_urls": [
+            "https://www.techmeme.com/261016/p17#a261016p17"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Stack Overflow for Agents привлёк 10× рост с ChatGPT plugin",
+          "what": "Инженеры OpenAI запустили Stack Overflow for Agents с ChatGPT-плагином, и это ускорило создание агентов на платформе.",
+          "why": "Показывает растущий спрос на tools для разработки агентов и укрепляет позицию OpenAI в developer tooling.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "candidate_urls": [
+            "https://openai.com/index/stack-overflow-chatgpt-plugin"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Meta уточнила права на скрейпинг сайтов для AI-обучения",
+          "what": "Новые Terms of Service от Meta (вступают 30 октября) дают разрешение на краулинг контента для разработки AI.",
+          "why": "Показывает аппетит крупных компаний к данным и ставит вопрос об авторском праве для издателей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Glimpse от Elorian: модель, которая рассуждает с изображениями",
+          "what": "Elorian выпустила Glimpse, модель для visual reasoning, которая опережает GPT-6 Astra на научных графиках.",
+          "why": "Новый угол в multimodal AI может открыть ниши для специализированных компаний вне OpenAI.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Jev: самая быстро принятая модель в AI Gateway Vercel",
+          "what": "Vercel выпустила Jev и фиксирует рекордную скорость adoption через свой unified API (как OpenRouter).",
+          "why": "Демонстрирует интерес к новым моделям и важность распределённых API-гатвеев для доступа к моделям.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "AI предложила генетические чертежи вирусов — и это не вымысел",
+          "what": "Аспирант Stanford Sam King использовал генеративную AI, чтобы предложить генетические последовательности для микровирусов.",
+          "why": "Поднимает вопрос о biosecurity и том, когда AI переходит от дизайна к реальному созданию жизни.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
+          "what": "Amulya Vishwanath, экс-NVIDIA, считает, что robotics находится на этапе базовых блоков (actuators, hands, software, standards).",
+          "why": "Полезный контекст для фаундеров: robotics рынок ещё не созрел для ChatGPT-момента, несмотря на AI-прогресс.",
+          "category": "analysis",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "candidate_urls": [
+            "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

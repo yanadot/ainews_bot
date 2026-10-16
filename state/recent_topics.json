@@ -1,71 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Meta выпустила фронтир-модель Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA RTX Spark: персональный AI-суперкомпьютер",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Character.AI обанкротилась, Disney купила assets",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Регуляторы США проверили банки на agentic AI",
-      "url": "https://www.techmeme.com/261013/p16#a261013p16",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple выпустила HomeView — смарт-дисплей с Siri AI",
-      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "American Express запустила guardrails для AI-агентов",
-      "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Исследование: AI-модели скрывают способности",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SpaceXSI выпустила подписку Grok + X Premium + Cursor",
-      "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-лабы скупают данные у закрытых стартапов",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI и Anthropic требуют контроля над оценками",
-      "url": "https://www.techmeme.com/261013/p17#a261013p17",
-      "ts": "2026-10-13T14:54:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Character.AI обанкротилась, Disney купила assets",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "ts": "2026-10-13T14:59:18Z"
-    },
-    {
       "topic": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
       "ts": "2026-10-13T20:36:35Z",
@@ -398,6 +333,54 @@
       "topic": "OpenAI запустила GPT-Rosalind для академических лабораторий",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "ts": "2026-10-16T12:12:22Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Reflection AI открыла Beam — 501B модель на Apache 2.0",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "PostgreSQL 19 отложили из-за дефектов, найденных LLM-ревью",
+      "url": "https://www.techmeme.com/261016/p17#a261016p17",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Stack Overflow for Agents привлёк 10× рост с ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta уточнила права на скрейпинг сайтов для AI-обучения",
+      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Glimpse от Elorian: модель, которая рассуждает с изображениями",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jev: самая быстро принятая модель в AI Gateway Vercel",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI предложила генетические чертежи вирусов — и это не вымысел",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "ts": "2026-10-16T19:52:37Z",
       "kind": "offered"
     }
   ]
