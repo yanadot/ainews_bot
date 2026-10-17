@@ -1,6 +1,7 @@
 """Process admin actions from Telegram (getUpdates). No Claude here.
 
-- digest number button → queue the topic for a full post (the workflow then runs the writer)
+- digest number button → ask for a focus («на чём сделать фокус»); a reply with text, or
+  the «Пиши без вводной» button, queues the topic for a full post (the writer runs next)
 - «✅ В канал»  → copy the draft to CHANNEL_ID as is, button → «Опубликовано»
 - «❌ Мимо»     → button → «Пропущено»
 - reply to a draft with own text ≥150 chars → publish that text with its formatting
@@ -61,6 +62,9 @@ def handle_callback(cq, admin, channel):
     if action.startswith("t:"):
         handle_topic_pick(cq, action, chat, msg)
         return
+    if action.startswith("f:"):
+        handle_no_focus(cq, action, chat, msg)
+        return
     if action == "done":
         answer(cq["id"], "Уже обработано")
         return
@@ -83,29 +87,94 @@ def handle_callback(cq, admin, channel):
         answer(cq["id"], "Пропущено")
 
 
+def find_topic(store, digest_id, n):
+    digest = store["digests"].get(digest_id)
+    topic = next((t for t in (digest or {}).get("topics", []) if str(t["n"]) == str(n)), None)
+    return digest, topic
+
+
+def awaiting_focus(store):
+    """Topics picked from a digest that still wait for the admin's focus text."""
+    return [(did, t) for did, d in store["digests"].items()
+            for t in d.get("topics", []) if t.get("status") == "awaiting_focus"]
+
+
+def queue_topic(store, digest_id, topic, chat, focus):
+    topic["status"] = "queued"
+    topic["focus"] = focus
+    save_state("topics.json", store)
+    queue = load_state("write_queue.json", {"queue": []})
+    queue["queue"].append({"digest_id": digest_id, "n": topic["n"], "attempts": 0, "queued_at": iso(now_utc())})
+    save_state("write_queue.json", queue)
+    if topic.get("focus_msg_id"):
+        try:
+            tg("editMessageReplyMarkup", chat_id=chat, message_id=topic["focus_msg_id"],
+               reply_markup={"inline_keyboard": []})
+        except TelegramError as e:
+            log(f"editMessageReplyMarkup: {e}")
+    note = f" Фокус: {focus}" if focus else " Без вводной."
+    tg("sendMessage", chat_id=chat, text=f"✍️ Пишу пост: «{topic['title']}».{note}\nЧерновик придёт сюда.")
+
+
 def handle_topic_pick(cq, action, chat, msg):
     _, digest_id, n = action.split(":", 2)
     store = load_state("topics.json", {"digests": {}})
-    digest = store["digests"].get(digest_id)
-    topic = next((t for t in (digest or {}).get("topics", []) if str(t["n"]) == n), None)
+    digest, topic = find_topic(store, digest_id, n)
     if topic is None:
         answer(cq["id"], "Эта подборка устарела")
         return
     if topic.get("status", "offered") != "offered":
         answer(cq["id"], f"Тема {n} уже в работе")
         return
-    topic["status"] = "queued"
-    save_state("topics.json", store)
-    queue = load_state("write_queue.json", {"queue": []})
-    queue["queue"].append({"digest_id": digest_id, "n": topic["n"], "attempts": 0, "queued_at": iso(now_utc())})
-    save_state("write_queue.json", queue)
+    topic["status"] = "awaiting_focus"
     try:
         tg("editMessageReplyMarkup", chat_id=chat, message_id=msg["message_id"],
            reply_markup=topic_keyboard(digest_id, digest["topics"]))
     except TelegramError as e:
         log(f"editMessageReplyMarkup: {e}")
-    answer(cq["id"], f"Пишу пост по теме {n}")
-    tg("sendMessage", chat_id=chat, text=f"✍️ Пишу пост: «{topic['title']}». Черновик придёт сюда.")
+    answer(cq["id"], f"Тема {n}: жду вводную")
+    prompt = tg("sendMessage", chat_id=chat,
+                text=f"🎯 Тема {n}: «{topic['title']}»\n\n"
+                     "На чём сделать фокус? Ответь на это сообщение своей вводной — "
+                     "например, «сравни с Gemini и объясни, что это значит для маленьких команд». "
+                     "Или нажми кнопку, и я напишу без вводной.",
+                reply_markup={"inline_keyboard": [[{"text": "Пиши без вводной",
+                                                    "callback_data": f"f:{digest_id}:{n}"}]]})
+    topic["focus_msg_id"] = (prompt or {}).get("message_id")
+    save_state("topics.json", store)
+
+
+def handle_no_focus(cq, action, chat, msg):
+    _, digest_id, n = action.split(":", 2)
+    store = load_state("topics.json", {"digests": {}})
+    _, topic = find_topic(store, digest_id, n)
+    if topic is None or topic.get("status") != "awaiting_focus":
+        answer(cq["id"], "Уже в работе")
+        return
+    answer(cq["id"], "Пишу без вводной")
+    queue_topic(store, digest_id, topic, chat, "")
+
+
+def handle_focus_reply(msg, chat, text):
+    """A reply to the «на чём фокус?» prompt, or plain text while exactly one topic waits."""
+    store = load_state("topics.json", {"digests": {}})
+    waiting = awaiting_focus(store)
+    if not waiting:
+        return False
+    original = msg.get("reply_to_message")
+    if original:
+        match = [(d, t) for d, t in waiting if t.get("focus_msg_id") == original.get("message_id")]
+    else:
+        match = waiting if len(waiting) == 1 else []
+    if not match:
+        if not original and len(waiting) > 1:
+            tg("sendMessage", chat_id=chat,
+               text="Жду вводную по нескольким темам — ответь (reply) на нужный вопрос «На чём сделать фокус?».")
+            return True
+        return False
+    digest_id, topic = match[0]
+    queue_topic(store, digest_id, topic, chat, text.strip()[:1000])
+    return True
 
 
 def prepare_write_job(admin):
@@ -153,6 +222,9 @@ def handle_message(msg, admin, channel):
         return
 
     if admin is None or chat != admin:
+        return
+
+    if text.strip() and handle_focus_reply(msg, chat, text):
         return
 
     original = msg.get("reply_to_message")
