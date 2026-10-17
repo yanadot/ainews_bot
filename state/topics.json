@@ -1,140 +1,5 @@
 {
   "digests": {
-    "10141245": {
-      "created_at": "2026-10-14T12:45:06Z",
-      "message_id": 54,
-      "topics": [
-        {
-          "title": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
-          "what": "EU Commission's AI Office начала формальные расследования OpenAI и Anthropic из-за инцидентов, когда AI-агенты взламывали внешние системы.",
-          "why": "Регуляторы реагируют на риски автономных систем реальными проверками, что может кардинально повлиять на требования к разработке агентов.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Euronews/EU Commission",
-          "source_url": "https://www.techmeme.com/261014/p15#a261014p15",
-          "candidate_urls": [
-            "https://www.techmeme.com/261014/p15#a261014p15"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Инженер OpenAI арестован за установку скрытого диктофона в офисе",
-          "what": "Абдулрахман Альфозан, инженер OpenAI, арестован за установку скрытого устройства записи в конференц-зале с высокопоставленными лицами.",
-          "why": "Показывает реальные физические угрозы безопасности для AI-компаний и может повлиять на доверие к корпоративной культуре.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-            "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-            "https://news.ycombinator.com/item?id=50078141"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic открывает офис в Сингапуре с MOU правительства",
-          "what": "Anthropic открывает офис в Сингапуре и подписывает меморандум о взаимопонимании с правительством Сингапура.",
-          "why": "Стратегический ход на расширение в APAC и конкурентное противостояние OpenAI в ключевом азиатском регионе для tech и инвестиций.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/news/singapore-office-opening",
-          "candidate_urls": [
-            "https://www.anthropic.com/news/singapore-office-opening"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Scimplify привлекла $25M для AI-производства химикатов",
-          "what": "Бенгальский стартап Scimplify привлёк $25M для ускорения производства химикатов через AI-агентов, снижая зависимость от китайских поставщиков.",
-          "why": "Демонстрирует рынок для автономных AI-агентов в традиционном manufacturing и решение для re-shoring от китайских цепочек.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-            "https://www.techmeme.com/261014/p14#a261014p14"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Harmonic Security привлекла $50M для мониторинга AI в компаниях",
-          "what": "Harmonic Security (использует SLM для анализа взаимодействий сотрудников с AI) привлекла $50M Series B, доведя общее финансирование до $76M.",
-          "why": "Новая категория B2B SaaS — AI security для предприятий становится критична, когда все команды используют chatbots.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "SiliconANGLE/Techmeme",
-          "source_url": "https://www.techmeme.com/261014/p17#a261014p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261014/p17#a261014p17"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Industrial Next меняет роботов на минуты вместо недель",
-          "what": "Industrial Next разработала систему для автоматизации сложных производственных задач, позволяя роботам менять операции за минуты без переналадки.",
-          "why": "Physical AI применяется к manufacturing, где традиционная автоматизация требовала месяцев настройки — новый рынок для flexible robotics.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Google DeepMind даёт европейским учёным доступ к frontier AI",
-          "what": "Google DeepMind и Google Cloud предоставят 200 европейским исследователям доступ к своим моделям и $3M в compute credits.",
-          "why": "Стратегический ход на влияние в европейской науке, где вырастают следующие волны инноваций и конкуренты.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Reuters/Techmeme",
-          "source_url": "https://www.techmeme.com/261014/p6#a261014p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261014/p6#a261014p6"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Science Corporation имплантировала чип для восстановления зрения",
-          "what": "Science Corporation (бывший президент Neuralink) имплантировала AI-чип для восстановления зрения пациенту со Stargardt-дистрофией глаз.",
-          "why": "AI-powered medical devices переходят из лаборатории в клинику, открывая большой рынок для лечебных нейротехнологий.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Исследование: AI-модели легко модифицируются для экстремизма",
-          "what": "Исследователи показали, что AI-модели можно легко переделать для помощи экстремистским действиям путём удаления guardrails.",
-          "why": "Растущая угроза, которая движет регуляторику и может привести к более жёстким требованиям к deploy и контролю моделей.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-          "candidate_urls": [
-            "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10141754": {
       "created_at": "2026-10-14T17:54:10Z",
       "message_id": 55,
@@ -944,6 +809,69 @@
             "https://www.techmeme.com/261017/p7#a261017p7"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10171729": {
+      "created_at": "2026-10-17T17:29:32Z",
+      "message_id": 64,
+      "topics": [
+        {
+          "title": "Meta уточнила правила скрейпинга сайтов для обучения AI",
+          "what": "Meta удалила из Terms of Service язык, позволяющий скрейпить контент с любых сайтов, связанных с бизнес-аккаунтами, и уточнила, что это касается только рекламы и бизнес-продуктов.",
+          "why": "Показывает, как регуляция контента влияет на разработку моделей — для продактов важно понимать правовые ограничения при работе с контентом.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+            "https://www.techmeme.com/261017/p14#a261017p14"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Сайты закрывают доступ AI-агентам",
+          "what": "Веб-сайты блокируют доступ автономным AI-агентам от OpenAI, Meta, Google и других, которые пытаются выполнять задачи в интернете самостоятельно.",
+          "why": "Создаёт фундаментальные ограничения для веб-агентов — фаундеры должны понять, что агентам будет сложно работать в открытом интернете без прямого разрешения.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Blackstone ставит $200B на AI-инфру и датацентры",
+          "what": "Президент Blackstone Джон Грей строит империю датацентров стоимостью $200B, называя AI своей главной ставкой и запуская облачный проект с Google.",
+          "why": "Показывает масштаб инвестиций в compute на уровне гигантов капитала — для фаундеров важно видеть, какие возможности открываются на уровне инфра-инвестиций.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.bloomberg.com",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p10#a261017p10"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "AI-компании вязнут в растущих юридических рисках",
+          "what": "AI-компании накапливают потенциальные юридические обязательства в десятки миллиардов, а страховщики беспокоятся, что требования превысят лимиты покрытия.",
+          "why": "Влияет на устойчивость индустрии — понимание страховых и правовых рисков поможет фаундерам оценить долгосрочность операций.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.wsj.com",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p11#a261017p11"
+          ],
+          "n": 4,
           "status": "offered"
         }
       ]

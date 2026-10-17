@@ -1,60 +1,30 @@
 {
-  "run_at": "2026-10-17T11:30:41Z",
-  "candidates": 16,
+  "run_at": "2026-10-17T17:29:32Z",
+  "candidates": 14,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic привлекает $60B через Blackstone на покупку TPU",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261016/p29#a261016p29"
+      "title": "Meta уточнила правила скрейпинга сайтов для обучения AI",
+      "score": 4,
+      "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
     },
     {
       "n": 2,
-      "title": "Workday приобрела C1.ai для управления AI-агентами",
+      "title": "Сайты закрывают доступ AI-агентам",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261017/p1#a261017p1"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
     },
     {
       "n": 3,
-      "title": "Replit прекратила сотрудничество с Anthropic",
+      "title": "Blackstone ставит $200B на AI-инфру и датацентры",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "source_url": "https://www.bloomberg.com"
     },
     {
       "n": 4,
-      "title": "Anthropic: AI сокращает junior-найм, растит продуктивность",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261016/p30#a261016p30"
-    },
-    {
-      "n": 5,
-      "title": "Mistlabs привлекла $26M на ambient AI для iPhone",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261017/p2#a261017p2"
-    },
-    {
-      "n": 6,
-      "title": "Alexandr Wang — потенциальный преемник Цукерберга в Meta AI",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261017/p8#a261017p8"
-    },
-    {
-      "n": 7,
-      "title": "DeepSeek V4.1-Flash: image-to-text от китайского конкурента",
+      "title": "AI-компании вязнут в растущих юридических рисках",
       "score": 3,
-      "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-    },
-    {
-      "n": 8,
-      "title": "Scarlet привлекла $50M на сертификацию AI для медикаментов",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261017/p4#a261017p4"
-    },
-    {
-      "n": 9,
-      "title": "Reach Security привлекла $50M на AI-powered exposure management",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261017/p7#a261017p7"
+      "source_url": "https://www.wsj.com"
     }
   ]
 }

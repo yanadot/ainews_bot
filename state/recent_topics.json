@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
-      "url": "https://www.techmeme.com/261014/p15#a261014p15",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Инженер OpenAI арестован за установку скрытого диктофона в офисе",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic открывает офис в Сингапуре с MOU правительства",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Scimplify привлекла $25M для AI-производства химикатов",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Harmonic Security привлекла $50M для мониторинга AI в компаниях",
-      "url": "https://www.techmeme.com/261014/p17#a261014p17",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Industrial Next меняет роботов на минуты вместо недель",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind даёт европейским учёным доступ к frontier AI",
-      "url": "https://www.techmeme.com/261014/p6#a261014p6",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Science Corporation имплантировала чип для восстановления зрения",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Исследование: AI-модели легко модифицируются для экстремизма",
-      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "ts": "2026-10-14T12:45:06Z",
-      "kind": "offered"
-    },
-    {
       "topic": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
       "url": "https://www.techmeme.com/261014/p32#a261014p32",
       "ts": "2026-10-14T17:54:10Z",
@@ -387,6 +333,30 @@
       "topic": "Reach Security привлекла $50M на AI-powered exposure management",
       "url": "https://www.techmeme.com/261017/p7#a261017p7",
       "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta уточнила правила скрейпинга сайтов для обучения AI",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "ts": "2026-10-17T17:29:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Сайты закрывают доступ AI-агентам",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "ts": "2026-10-17T17:29:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Blackstone ставит $200B на AI-инфру и датацентры",
+      "url": "https://www.bloomberg.com",
+      "ts": "2026-10-17T17:29:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-компании вязнут в растущих юридических рисках",
+      "url": "https://www.wsj.com",
+      "ts": "2026-10-17T17:29:32Z",
       "kind": "offered"
     }
   ]
