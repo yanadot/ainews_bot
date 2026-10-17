@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI Higgsfield: видео до 10+ минут и голосовое кинопроизводство",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind выпустила Gemini Robotics 2 для цельного управления роботами",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Pluto Security вышла из stealth с $42M Series A для мониторинга AI-агентов",
-      "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Applied Intuition оценена в $30B+ для симуляции беспилотников",
-      "url": "https://www.techmeme.com/261013/p39#a261013p39",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic разработала Scion — замену git для своего монорепо на Claude",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Epic переходит на «AI-first» разработку Disney игры с Claude",
-      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI и Anthropic выступили перед британскими законодателями с требованием регуляции",
-      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
-      "ts": "2026-10-13T20:36:35Z",
-      "kind": "offered"
-    },
-    {
       "topic": "EU AI Office запустила проверки OpenAI и Anthropic по взломам агентов",
       "url": "https://www.techmeme.com/261014/p15#a261014p15",
       "ts": "2026-10-14T12:45:06Z",
@@ -381,6 +333,60 @@
       "topic": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
       "ts": "2026-10-16T19:52:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic привлекает $60B через Blackstone на покупку TPU",
+      "url": "https://www.techmeme.com/261016/p29#a261016p29",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Workday приобрела C1.ai для управления AI-агентами",
+      "url": "https://www.techmeme.com/261017/p1#a261017p1",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Replit прекратила сотрудничество с Anthropic",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic: AI сокращает junior-найм, растит продуктивность",
+      "url": "https://www.techmeme.com/261016/p30#a261016p30",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Mistlabs привлекла $26M на ambient AI для iPhone",
+      "url": "https://www.techmeme.com/261017/p2#a261017p2",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Alexandr Wang — потенциальный преемник Цукерберга в Meta AI",
+      "url": "https://www.techmeme.com/261017/p8#a261017p8",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek V4.1-Flash: image-to-text от китайского конкурента",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Scarlet привлекла $50M на сертификацию AI для медикаментов",
+      "url": "https://www.techmeme.com/261017/p4#a261017p4",
+      "ts": "2026-10-17T11:30:41Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Reach Security привлекла $50M на AI-powered exposure management",
+      "url": "https://www.techmeme.com/261017/p7#a261017p7",
+      "ts": "2026-10-17T11:30:41Z",
       "kind": "offered"
     }
   ]

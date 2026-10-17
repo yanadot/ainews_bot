@@ -1,124 +1,5 @@
 {
   "digests": {
-    "10132036": {
-      "created_at": "2026-10-13T20:36:35Z",
-      "message_id": 53,
-      "topics": [
-        {
-          "title": "Google выпустила Gemini 4 Argon — фронтирную модель нового поколения",
-          "what": "Google анонсировала Gemini 4 Argon, новую фронтирную модель, которая конкурирует с лучшими моделями индустрии по логике и сложным workflows.",
-          "why": "Может сдвинуть равновесие на рынке LLM и повлиять на стек инструментов в компаниях, переходящих с других моделей.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Google",
-          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-            "https://deepmind.google/models/gemini/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI Higgsfield: видео до 10+ минут и голосовое кинопроизводство",
-          "what": "OpenAI выпустила Higgsfield, которая расширяет видео-генерацию с GPT-6 Astra до 10+ минут и добавляет voice filmmaking с GPT-Live.",
-          "why": "Меняет возможности контент-креаторов и может вытеснить профессиональный софт; важно для стартапов в медиа и творчестве.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "candidate_urls": [
-            "https://openai.com/index/higgsfield-longer-videos-voice"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Google DeepMind выпустила Gemini Robotics 2 для цельного управления роботами",
-          "what": "Google DeepMind анонсировала Gemini Robotics 2 — модель с «whole-body intelligence» для управления полным спектром робо-систем и манипуляций.",
-          "why": "Ускорит коммерциализацию робототехники; важно для стартапов в physical AI и robotics как следующий слой конкуренции.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google DeepMind",
-          "source_url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-          "candidate_urls": [
-            "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Pluto Security вышла из stealth с $42M Series A для мониторинга AI-агентов",
-          "what": "Pluto Security закрыла $42M (включая $34M Series A) и уже достигла $2M+ ARR, мониторя риски AI-агентов и vibe-coded приложений в компаниях.",
-          "why": "Сигнал роста рынка безопасности AI; актуально для компаний, развёртывающих internal AI agents и нуждающихся в guardrails.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache",
-          "candidate_urls": [
-            "https://www.techmeme.com/261013/p35#a261013p35"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Applied Intuition оценена в $30B+ для симуляции беспилотников",
-          "what": "Стартап по симуляции для беспилотников Applied Intuition получил инвестиции, которые оценили его в $30B+, вверх с $15B в июне.",
-          "why": "Указывает на масштаб капитальных вложений в infrastructure для autonomy; важна тенденция для планирования выхода на рынок.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "The Information",
-          "source_url": "https://www.techmeme.com/261013/p39#a261013p39",
-          "candidate_urls": [
-            "https://www.techmeme.com/261013/p39#a261013p39"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic разработала Scion — замену git для своего монорепо на Claude",
-          "what": "Anthropic выпустила Scion — git-замену для монорепо, построенную за 5 месяцев с Claude, справляющуюся с 30K+ merges в день.",
-          "why": "Демонстрирует внутреннее применение Claude и масштабы Anthropic; показывает примеры инженерных инструментов на AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/engineering/redesigning-source-control",
-          "candidate_urls": [
-            "https://www.techmeme.com/261013/p38#a261013p38"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Epic переходит на «AI-first» разработку Disney игры с Claude",
-          "what": "Epic Games переводит разработку неанонсированной Disney игры на «AI-first» с Claude и другими инструментами для кода и арта; проект отложен.",
-          "why": "Реальный пример внедрения Claude в production gamedev; полезный кейс для менеджеров в creative-индустрии на новых workflows.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-          "candidate_urls": [
-            "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI и Anthropic выступили перед британскими законодателями с требованием регуляции",
-          "what": "OpenAI и Anthropic выступили на парламентских слушаниях в UK, поддерживая регуляцию AI, пока разведка предупреждала о рисках биооружия.",
-          "why": "Сигнал консолидации позиции лидеров по регуляции; важно для понимания политического давления и правовых рисков для стартапов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us",
-          "candidate_urls": [
-            "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10141245": {
       "created_at": "2026-10-14T12:45:06Z",
       "message_id": 54,
@@ -931,6 +812,138 @@
             "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "10171130": {
+      "created_at": "2026-10-17T11:30:41Z",
+      "message_id": 63,
+      "topics": [
+        {
+          "title": "Anthropic привлекает $60B через Blackstone на покупку TPU",
+          "what": "Anthropic предлагает Blackstone 10%+ доход на $9B в составе $60B долгового пакета для покупки Google TPU.",
+          "why": "Первый крупный финансовый ход на инфру, показывает масштабы инвестиций в AI и давление на рентабельность.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261016/p29#a261016p29",
+          "candidate_urls": [
+            "https://www.techmeme.com/261016/p29#a261016p29"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Workday приобрела C1.ai для управления AI-агентами",
+          "what": "Workday согласилась приобрести C1.ai (бывший ConductorOne), стартап по управлению identity для людей и AI-агентов.",
+          "why": "M&A в AI, сигнал что enterprise-ПО встраивает AI-агентов и нужны инструменты управления ими.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Portland Business Journal",
+          "source_url": "https://www.techmeme.com/261017/p1#a261017p1",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p1#a261017p1"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Replit прекратила сотрудничество с Anthropic",
+          "what": "Replit больше не работает с Anthropic; CEO назвал причинами затраты и стратегию. Партнёрство с OpenAI объявлено в августе.",
+          "why": "Переворот в стратегии популярного dev-инструмента, конкуренция между лабами за распределение через платформы.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic: AI сокращает junior-найм, растит продуктивность",
+          "what": "Отчёт Anthropic показал снижение найма entry-level техников, но выраженный рост продуктивности во всех отделах.",
+          "why": "Конкретные данные о реальном влиянии AI на workplace, помогает компаниям планировать AI-стратегию.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Anthropic",
+          "source_url": "https://www.techmeme.com/261016/p30#a261016p30",
+          "candidate_urls": [
+            "https://www.techmeme.com/261016/p30#a261016p30"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Mistlabs привлекла $26M на ambient AI для iPhone",
+          "what": "Ambi, приложение для iPhone, Apple Watch и Mac, учится о пользователе через разговоры, привлекло $26M pre-Series A.",
+          "why": "Новый класс personal AI на девайсах, показывает тренд на ambient computing с LLM вместо традиционных команд.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "SiliconANGLE",
+          "source_url": "https://www.techmeme.com/261017/p2#a261017p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p2#a261017p2"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Alexandr Wang — потенциальный преемник Цукерберга в Meta AI",
+          "what": "Financial Times профилировала 29-летнего главу Meta Superintelligence Labs как оператора с полной поддержкой Цукерберга.",
+          "why": "Сигнал о кадровых движениях в Meta и приоритизации AI как ядра компании на уровне CEO.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261017/p8#a261017p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p8#a261017p8"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek V4.1-Flash: image-to-text от китайского конкурента",
+          "what": "DeepSeek обновила модель V4.1 с поддержкой image-to-text, 763B параметров, на Hugging Face 6 часов назад.",
+          "why": "Конкурент OpenAI/Anthropic выпускает мультимодальную модель, давит на ценообразование и доступность моделей.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face / DeepSeek",
+          "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "candidate_urls": [
+            "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Scarlet привлекла $50M на сертификацию AI для медикаментов",
+          "what": "Scarlet (Лондон) по сертификации AI и ПО для медицинских устройств привлекла $50M Series B от Headline.",
+          "why": "Растущий регуляторный спрос на AI в healthcare, новая лакуна в рынке для compliance-oriented продуктов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Tech.eu",
+          "source_url": "https://www.techmeme.com/261017/p4#a261017p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p4#a261017p4"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Reach Security привлекла $50M на AI-powered exposure management",
+          "what": "Reach Security по управлению уязвимостями с AI привлекла $50M Series B от Top Tier Capital Partners.",
+          "why": "AI для security operations начинает привлекать серьёзные инвестиции, новый класс enterprise AI-продуктов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "FinTech Global",
+          "source_url": "https://www.techmeme.com/261017/p7#a261017p7",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p7#a261017p7"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]
