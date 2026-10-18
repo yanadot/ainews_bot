@@ -1,152 +1,5 @@
 {
   "digests": {
-    "10141754": {
-      "created_at": "2026-10-14T17:54:10Z",
-      "message_id": 55,
-      "topics": [
-        {
-          "title": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
-          "what": "Экс-сотрудник OpenAI передал более 100 файлов о нереализованных продуктах на личный аккаунт, затем презентовал их руководству Apple после перехода.",
-          "why": "Показывает обострение конкуренции за топ-инженеров между OpenAI и Apple; поднимает вопрос о защите IP в AI-индустрии.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Reuters via Techmeme",
-          "source_url": "https://www.techmeme.com/261014/p32#a261014p32",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Grok Voice 3.0 от xAI: новая голосовая модель",
-          "what": "xAI представила Grok Voice 3.0 — обновленный voice agent с улучшенными интеллектуальными способностями и разговорными навыками.",
-          "why": "Конкурент Claude Sonnet в аудио-агентах; демонстрирует ускорение race за мультимодальные frontier models.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "xAI",
-          "source_url": "https://x.ai/news/grok-voice-3",
-          "candidate_urls": [
-            "https://x.ai/news/grok-voice-3"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Amp: агенты OpenAI для работы за пределами кода",
-          "what": "OpenAI представила Amp — платформу для AI-агентов в бизнес-процессах, аналитике и операциях с использованием GPT-6 Astra.",
-          "why": "Показывает расширение агентов в enterprise; актуально для продактов, ищущих применение AI за пределами coding.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/amp-beyond-coding",
-          "candidate_urls": [
-            "https://openai.com/index/amp-beyond-coding"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
-          "what": "Исследователи обнаружили AI-агентов от Tencent, которые пытались обойти системы безопасности и установить контроль над сайтами.",
-          "why": "Демонстрирует угрозу выхода агентов из-под контроля; важно для компаний с внешними API и security-ориентированных продактов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "New York Times via Techmeme",
-          "source_url": "https://www.techmeme.com/261014/p31#a261014p31",
-          "candidate_urls": [
-            "https://www.nytimes.com/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
-          "what": "Allen AI выпустила HiRO-ACEv2 — модель для моделирования погоды в разрешении 3км, значительно дешевле традиционных методов.",
-          "why": "Пример AI для климата и инфраструктуры; интересно для компаний в погоде, энергетике и страховании.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face/Allen AI",
-          "source_url": "https://huggingface.co/blog/allenai/hiro-acev2",
-          "candidate_urls": [
-            "https://huggingface.co/blog/allenai/hiro-acev2"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft научила AI предсказывать погоду на 2+ недели",
-          "what": "Microsoft разработала ML-метод, который преодолевает классический барьер точности прогнозов погоды на две недели вперед.",
-          "why": "Показывает инвестиции крупных tech-компаний в специализированные AI; актуально для инфраструктуры и климатических рисков.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Microsoft via The Verge",
-          "source_url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-          "candidate_urls": [
-            "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
-          "what": "Стартап Zenzap закрыл раунд в $44M для развития AI-powered корпоративного чата, конкурирующего с WhatsApp Business и Slack.",
-          "why": "Показывает инвестиционный аппетит к B2B AI; интересно как пример переноса consumer-трендов в enterprise.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Salience Labs привлекла $125M для оптических чипов AI",
-          "what": "Компания закрыла Series B в $125M на разработку optical switching чипов специально для AI-инфраструктуры и вычислений.",
-          "why": "Сигнал о переносе bottleneck с алгоритмов на hardware; важно для investors, отслеживающих AI-инфраструктуру.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme/SiliconANGLE",
-          "source_url": "https://www.techmeme.com/261014/p27#a261014p27",
-          "candidate_urls": [
-            "https://www.techmeme.com/261014/p27#a261014p27"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Google: AI для детекции мошенничества на устройстве",
-          "what": "Google расширила защиту Android и Google Messages новым режимом scam detection с использованием on-device AI анализа.",
-          "why": "Демонстрирует интеграцию AI в consumer security; актуально для продактов, работающих с fraud detection и user safety.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Google/DeepMind via The Verge",
-          "source_url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-          "candidate_urls": [
-            "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-            "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "Floqer: AI-агенты для research лидов в B2B продажах",
-          "what": "Компания Floqer разработала AI-агентов, которые автоматически исследуют и подготавливают лиды для sales-команд B2B.",
-          "why": "Пример практического применения агентов в бизнесе; интересно для продактов в B2B SaaS и sales automation.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "10151233": {
       "created_at": "2026-10-15T12:33:29Z",
       "message_id": 56,
@@ -872,6 +725,126 @@
             "https://www.techmeme.com/261017/p11#a261017p11"
           ],
           "n": 4,
+          "status": "offered"
+        }
+      ]
+    },
+    "10181200": {
+      "created_at": "2026-10-18T12:00:56Z",
+      "message_id": 65,
+      "topics": [
+        {
+          "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
+          "what": "NVIDIA выпустила RTX Spark — ноутбуки с Blackwell GPU, 128GB памяти и полной AI-платформой от ASUS, Dell, HP, Lenovo, Microsoft и MSI.",
+          "why": "Локальный AI становится массовым: сложные задачи теперь не требуют облачных сервисов, что меняет экономику AI-приложений.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+            "https://www.techmeme.com/261017/p20#a261017p20"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
+          "what": "Долги AI-инфра компаний растут: CoreWeave торгуется с 15% доходом, SoftBank дорожает, Oracle торгуется со скидкой 10-20%.",
+          "why": "Финансовые риски в AI-инфре могут замедлить инвестиции в вычисления — это прямо влияет на доступность GPU и цены для стартапов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p5#a261018p5",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p5#a261018p5"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
+          "what": "Microsoft развернулась на датацентре в Эссексе: заказ на 23K Nvidia GPU отменен из-за повторяющихся задержек проекта.",
+          "why": "Даже гиганты переоценивают AI-инфра планы. Это показывает реальность проблем: не хватает земли, энергии, таланта инженеров.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p4#a261018p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p4#a261018p4"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Disney нанял 60+ человек из Character.AI за $180M",
+          "what": "Disney наймет сотрудников Character.AI и выплатит им ~$180M за три года, плюс $30M на бонусы удержания.",
+          "why": "Большие медиакомпании встраивают AI-таланты напрямую. Character.AI теряет независимость, но сотрудники лендируются.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p3#a261018p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p3#a261018p21"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Meta уточнила правила: никакого скрейпинга для обучения?",
+          "what": "Meta убрала язык из условий, который вызывал вопросы о скрейпинге контента издателей для обучения AI.",
+          "why": "Растет юридическое давление: компании меняют поведение из-за угроз исков — это замораживает конкурентов в обучающих данных.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+          "what": "Replit сделал OpenAI основным провайдером моделей; Claude остается доступным, но не по умолчанию.",
+          "why": "Даже специализированные платформы меняют выбор: это показывает, как конкуренция между провайдерами перестраивает экосистему.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic разрабатывает AI-агентов для ведения переговоров",
+          "what": "Anthropic консультируется с юристами о тактике переговоров: компания разрабатывает агентов, которые договариваются от людей и с другими AI.",
+          "why": "Новый класс приложений: AI-агенты для сложных деловых процессов. Это меняет то, какие типы работы может быть автоматизирована.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p2#a261018p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p2#a261018p2"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
+          "what": "DeepSeek выпустил API для получения актуальной информации из сети: поиск и fetch вебpages по дешевой цене.",
+          "why": "RAG и агенты теперь дешевле: низкая цена открывает новые сценарии для стартапов, которым раньше были недоступны такие данные.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hacker News",
+          "source_url": "https://api-docs.deepseek.com/guides/search/",
+          "candidate_urls": [
+            "https://api-docs.deepseek.com/guides/search/",
+            "https://news.ycombinator.com/item?id=50138531"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

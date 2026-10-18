@@ -1,30 +1,54 @@
 {
-  "run_at": "2026-10-17T17:29:32Z",
-  "candidates": 14,
+  "run_at": "2026-10-18T12:00:56Z",
+  "candidates": 16,
   "offered": [
     {
       "n": 1,
-      "title": "Meta уточнила правила скрейпинга сайтов для обучения AI",
-      "score": 4,
-      "source_url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+      "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
+      "score": 5,
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
     },
     {
       "n": 2,
-      "title": "Сайты закрывают доступ AI-агентам",
+      "title": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+      "source_url": "https://www.techmeme.com/261018/p5#a261018p5"
     },
     {
       "n": 3,
-      "title": "Blackstone ставит $200B на AI-инфру и датацентры",
+      "title": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
       "score": 4,
-      "source_url": "https://www.bloomberg.com"
+      "source_url": "https://www.techmeme.com/261018/p4#a261018p4"
     },
     {
       "n": 4,
-      "title": "AI-компании вязнут в растущих юридических рисках",
+      "title": "Disney нанял 60+ человек из Character.AI за $180M",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261018/p3#a261018p21"
+    },
+    {
+      "n": 5,
+      "title": "Meta уточнила правила: никакого скрейпинга для обучения?",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "n": 6,
+      "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "n": 7,
+      "title": "Anthropic разрабатывает AI-агентов для ведения переговоров",
       "score": 3,
-      "source_url": "https://www.wsj.com"
+      "source_url": "https://www.techmeme.com/261018/p2#a261018p2"
+    },
+    {
+      "n": 8,
+      "title": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
+      "score": 3,
+      "source_url": "https://api-docs.deepseek.com/guides/search/"
     }
   ]
 }

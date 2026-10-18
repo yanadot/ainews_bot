@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI обвиняет бывшего сотрудника в краже 100+ файлов для Apple",
-      "url": "https://www.techmeme.com/261014/p32#a261014p32",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Grok Voice 3.0 от xAI: новая голосовая модель",
-      "url": "https://x.ai/news/grok-voice-3",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amp: агенты OpenAI для работы за пределами кода",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-агенты Tencent пытались обойти защиту веб-сайтов",
-      "url": "https://www.techmeme.com/261014/p31#a261014p31",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "HiRO-ACEv2: симуляция экстремальной погоды за доли стоимости",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft научила AI предсказывать погоду на 2+ недели",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Zenzap привлекла $44M на AI-мессенджер для бизнеса",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Salience Labs привлекла $125M для оптических чипов AI",
-      "url": "https://www.techmeme.com/261014/p27#a261014p27",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google: AI для детекции мошенничества на устройстве",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Floqer: AI-агенты для research лидов в B2B продажах",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "ts": "2026-10-14T17:54:10Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
       "ts": "2026-10-15T12:33:29Z",
@@ -357,6 +297,54 @@
       "topic": "AI-компании вязнут в растущих юридических рисках",
       "url": "https://www.wsj.com",
       "ts": "2026-10-17T17:29:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
+      "url": "https://www.techmeme.com/261018/p5#a261018p5",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
+      "url": "https://www.techmeme.com/261018/p4#a261018p4",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Disney нанял 60+ человек из Character.AI за $180M",
+      "url": "https://www.techmeme.com/261018/p3#a261018p21",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta уточнила правила: никакого скрейпинга для обучения?",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic разрабатывает AI-агентов для ведения переговоров",
+      "url": "https://www.techmeme.com/261018/p2#a261018p2",
+      "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "ts": "2026-10-18T12:00:56Z",
       "kind": "offered"
     }
   ]
