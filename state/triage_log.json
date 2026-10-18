@@ -1,54 +1,66 @@
 {
-  "run_at": "2026-10-18T12:00:56Z",
-  "candidates": 16,
+  "run_at": "2026-10-18T18:18:23Z",
+  "candidates": 4,
   "offered": [
     {
       "n": 1,
-      "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
-      "score": 5,
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+      "title": "Disney нанял 60+ из Character.AI за $180M",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
     },
     {
       "n": 2,
-      "title": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
+      "title": "Anthropic привлекает $60B через Blackstone на TPU",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261018/p5#a261018p5"
+      "source_url": "https://www.techmeme.com/261016/p29#a261016p29"
     },
     {
       "n": 3,
-      "title": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
+      "title": "Blackstone инвестирует $200B в AI-инфраструктуру",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261018/p4#a261018p4"
+      "source_url": "https://www.bloomberg.com"
     },
     {
       "n": 4,
-      "title": "Disney нанял 60+ человек из Character.AI за $180M",
+      "title": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261018/p3#a261018p21"
+      "source_url": "https://www.techmeme.com/261018/p9#a261018p9"
     },
     {
       "n": 5,
-      "title": "Meta уточнила правила: никакого скрейпинга для обучения?",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+      "title": "Anthropic инвестирует в фонд общественного блага",
+      "score": 3,
+      "source_url": "https://anthropic.com/news/public-benefit-fund"
     },
     {
       "n": 6,
-      "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "title": "Microsoft отменила заказ на 23K чипов Nvidia",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261018/p4#a261018p4"
     },
     {
       "n": 7,
-      "title": "Anthropic разрабатывает AI-агентов для ведения переговоров",
+      "title": "Workday покупает C1.ai для управления AI-агентами",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261018/p2#a261018p2"
+      "source_url": "https://www.techmeme.com/261017/p1#a261017p1"
     },
     {
       "n": 8,
-      "title": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
+      "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+    },
+    {
+      "n": 9,
+      "title": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
       "score": 3,
       "source_url": "https://api-docs.deepseek.com/guides/search/"
+    },
+    {
+      "n": 10,
+      "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
+      "score": 3,
+      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
     }
   ]
 }

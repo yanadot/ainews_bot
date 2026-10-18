@@ -1,274 +1,5 @@
 {
   "digests": {
-    "10151233": {
-      "created_at": "2026-10-15T12:33:29Z",
-      "message_id": 56,
-      "topics": [
-        {
-          "title": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
-          "what": "Компания поднял раунд Series D оценкой $16B с $1B годовой выручки и стала самым дорогим AI-стартапом Нью-Йорка. Рост 3x за 5 месяцев.",
-          "why": "Инфра для агентов и inference быстро монетизируется. Сигнал что рынок созрел для enterprise AI-tools и готов платить.",
-          "category": "funding",
-          "score": 5,
-          "source_name": "Latent Space",
-          "source_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-          "candidate_urls": [
-            "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
-          ],
-          "n": 1,
-          "status": "written"
-        },
-        {
-          "title": "Восемь штатов подали иски на OpenAI за вред детям и обман",
-          "what": "Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho и Montana подали иски к OpenAI с обвинением в вреде детям и введении потребителей в заблуждение относительно безопасности ChatGPT.",
-          "why": "Массовая регуляторная атака на лидера показывает усиление давления на AI-компании. Этот паттерн повторится для других лидеров.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
-          "what": "Abdulrahman Alfozan, инженер OpenAI, арестован за установку скрытого записывающего устройства. Плана бежать в Саудовскую Аравию.",
-          "why": "Инцидент показывает конкурентную борьбу между лидерами и риски утечек. Внимание к безопасности внутри лабов растёт.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Bloomberg/Techmeme",
-          "source_url": "https://www.techmeme.com/261015/p12#a261015p12",
-          "candidate_urls": [
-            "https://www.techmeme.com/261015/p12#a261015p12"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
-          "what": "Федеральная торговая комиссия начала масштабное расследование. Запросы покрывают инциденты безопасности, safeguarding и защиту потребителей.",
-          "why": "Регуляторы наступают: формальные требования к документам означают что правила стягиваются и неопределённость будет дорогой.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Axios/Techmeme",
-          "source_url": "https://www.techmeme.com/261015/p20#a261015p20",
-          "candidate_urls": [
-            "https://www.techmeme.com/261015/p20#a261015p20"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
-          "what": "Amazon выпустил два Bee-устройства: Frontier ($75 браслет) и Eclipse ($100 магнит на телефон) с $12/месяц подпиской для синтеза разговоров.",
-          "why": "Большие компании монетизируют AI-стартапы через железо. Показывает как акселерируется сегмент personal AI devices.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-            "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
-          "what": "Стартап разрабатывает AI для автоматизации дизайна процессоров. Система учится на каждой итерации и ускоряет цикл от недель к дням.",
-          "why": "Решение критической проблемы (compute shortage для AI). Привлекает капитал и показывает как AI становится инструментом для собственного масштабирования.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
-          "what": "Руководство OpenAI инструктировало команду о рисках промышленного шпионажа через honey pots и insider-угрозы. Требует усиления operec-security.",
-          "why": "Компании начинают защищаться от утечек IP. Сигнал что конкурентная борьба между лидерами обостряется и переходит в категорию serious threat.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wall Street Journal/Techmeme",
-          "source_url": "https://www.techmeme.com/261015/p23#a261015p23",
-          "candidate_urls": [
-            "https://www.techmeme.com/261015/p23#a261015p23"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "YouTube добавил лейблы для AI-генерированной музыки",
-          "what": "Платформа выпустила тег 'Made with AI' для треков которые альтерированы или полностью сгенерированы AI. Появляется в плеере.",
-          "why": "Платформы вводят прозрачность про AI. Тренд на лейблирование распространится и станет стандартом во всей индустрии.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-            "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Figma объявила фичи для агентов на платформе",
-          "what": "Figma добавила инструменты для определения как агенты работают с платформой и открыла code layers в открытую бету.",
-          "why": "Инструменты интегрируют agentification. Тренд что каждая B2B-платформа становится точкой для AI-automation.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
-    "10151719": {
-      "created_at": "2026-10-15T17:19:57Z",
-      "message_id": 60,
-      "topics": [
-        {
-          "title": "Meta выпустила Muse Spark Open — открытую фронтир-модель",
-          "what": "Meta запустила Muse Spark Open: 816B параметров (42B активных) с 1M контекстом, мощная открытая модель для агентов.",
-          "why": "Конкурирует с OpenAI/Anthropic в открытых моделях; сдвигает выбор инженеров от замкнутых API.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Meta AI Research",
-          "source_url": "https://www.techmeme.com/261015/p37#a261015p37",
-          "candidate_urls": [
-            "https://www.techmeme.com/261015/p37#a261015p37"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA Nemotron 3.5 Super VL: 120B для enterprise-агентов",
-          "what": "NVIDIA выпустила Nemotron 3.5 Super VL (120B параметров) для enterprise-агентов; заявляет лучше фронтир на специализированных задачах.",
-          "why": "Открытая модель для специальных агентов; дешевле API, меняет выбор tool для интеграции AI в компании.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-            "https://www.techmeme.com/261015/p34#a261015p34"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA RTX Spark: персональный AI-суперкомпьютер для ПК",
-          "what": "NVIDIA анонсировала RTX Spark — ноутбуки для локального запуска AI-агентов с полной оптимизацией на Windows.",
-          "why": "Меняет парадигму: AI-агенты на локальных машинах вместо облака; влияет на архитектуру приватных AI-систем.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-            "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Mistral Timestral: probabilistic forecasting на 209M параметров",
-          "what": "Mistral выпустила Timestral — модель на 209M параметров для временных рядов, работает на CPU, конкурирует с крупными моделями.",
-          "why": "Открывает нишу эффективного forecasting; дешевый вариант для финансов, погоды, спроса вместо крупных моделей.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Mistral",
-          "source_url": "https://mistral.ai/news/timestral/",
-          "candidate_urls": [
-            "https://mistral.ai/news/timestral/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Google Universal Cart: AI-ассистент для покупок в поиске",
-          "what": "Google выпустила Universal Cart: AI-инструмент в поиске и Gemini для удобства кросс-магазинной покупки в одном месте.",
-          "why": "Практическое применение AI в e-commerce; Google монетизирует поиск через агента, меняет UX онлайн-торговли.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google",
-          "source_url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-            "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "BofA нанял 1000 контракторов на патчинг AI-найденных уязвимостей",
-          "what": "Bank of America наняла 1000 подрядчиков (Q2) для поддержки 3000 сотрудников в закрытии уязвимостей, обнаруженных AI-моделями.",
-          "why": "Показывает масштаб security-вызова от AI; банки вынуждены расширять инженерные команды для фронта защиты.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261015/p27#a261015p27",
-          "candidate_urls": [
-            "https://www.techmeme.com/261015/p27#a261015p27"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "DeepMind ускорила открытие антимикробных препаратов через AI",
-          "what": "Google DeepMind объявила о прорыве в автоматизированном открытии новых антибиотиков; результаты прошли лабораторные тесты.",
-          "why": "Прорыв в научной AI за границами текста; показывает потенциал для синтеза новых молекул и лекарств.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Google DeepMind",
-          "source_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-          "candidate_urls": [
-            "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Liquid AI выпустила LFM2.5-24B для on-device агентов",
-          "what": "Liquid AI анонсировала LFM2.5-24B-A2B: компактная модель 24B параметров для локального запуска быстрых агентов на устройствах.",
-          "why": "Растет стек edge-AI для приватности и скорости; конкурирует с Phi, Mistral Small за встроенные агенты.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Liquid AI",
-          "source_url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-          "candidate_urls": [
-            "https://www.liquid.ai/blog/lfm2-5-24b-a2b"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Hugging Face выпустила FLUX.3 Image Klein для изображений",
-          "what": "FLUX.3 Image Klein: новая компактная версия модели для генерации изображений, оптимизирована для скорости и памяти.",
-          "why": "Расширяет стек открытых моделей образов; конкурирует с коммерческими сервисами и давит на их цены.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/flux-3",
-          "candidate_urls": [
-            "https://huggingface.co/blog/flux-3"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10161212": {
       "created_at": "2026-10-16T12:12:22Z",
       "message_id": 61,
@@ -845,6 +576,152 @@
             "https://news.ycombinator.com/item?id=50138531"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "10181818": {
+      "created_at": "2026-10-18T18:18:23Z",
+      "message_id": 66,
+      "topics": [
+        {
+          "title": "Disney нанял 60+ из Character.AI за $180M",
+          "what": "После банкротства Character.AI Disney нанял большинство команды, включая бывшего CEO.",
+          "why": "Крупные компании покупают AI-таланты напрямую; это показывает, как индустрия реагирует на провалы стартапов.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic привлекает $60B через Blackstone на TPU",
+          "what": "Anthropic получила $60 млрд инвестиций через Blackstone для закупки TPU у Google.",
+          "why": "Огромный капитал на инфраструктуру; амбициозный ход конкурировать с OpenAI и Microsoft на уровне инвестиций.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261016/p29#a261016p29",
+          "candidate_urls": [
+            "https://www.techmeme.com/261016/p29"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Blackstone инвестирует $200B в AI-инфраструктуру",
+          "what": "Blackstone ставит $200 млрд на развитие AI-инфраструктуры, датацентров и оборудования.",
+          "why": "Финсектор видит AI-инфру как стратегический актив; это давит на капитальные расходы и конкуренцию по железу.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.bloomberg.com",
+          "candidate_urls": [
+            "https://www.bloomberg.com"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
+          "what": "Nvidia попросила Samsung, SK Hynix и Micron производить базовые dies для памяти на процессе TSMC 3nm; Samsung согласился.",
+          "why": "Первый раз Samsung производит на TSMC (конкурента), не на своём — давление на supply chain AI-чипов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Reuters/Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p9#a261018p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p9"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic инвестирует в фонд общественного блага",
+          "what": "Anthropic создаёт фонд для поддержки проектов, приносящих общественную пользу.",
+          "why": "Компания позиционирует себя как ответственный игрок; это сигнал о долгосрочной стратегии за пределами коммерции.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/news/public-benefit-fund",
+          "candidate_urls": [
+            "https://www.anthropic.com/news/public-benefit-fund"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft отменила заказ на 23K чипов Nvidia",
+          "what": "Microsoft значительно сократила заказы на GPU Nvidia, отменив 23 тысячи штук.",
+          "why": "Сигнал о сокращении расходов; Microsoft может сосредоточиться на собственном кремнии.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261018/p4#a261018p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261018/p4"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Workday покупает C1.ai для управления AI-агентами",
+          "what": "Workday приобрела C1.ai — платформу для управления AI-агентами в корпоративной среде.",
+          "why": "Корпоративный софт готовится к эпохе агентов; вектор развития для больших компаний и их продуктов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261017/p1#a261017p1",
+          "candidate_urls": [
+            "https://www.techmeme.com/261017/p1"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+          "what": "Replit — платформа для разработчиков — переключилась на OpenAI как модель по умолчанию вместо Anthropic.",
+          "why": "Платформы выбирают модели по производительности и надёжности; важный сигнал о рыночной позиции игроков.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
+          "what": "DeepSeek добавил поиск в интернете и fetch контента через API с ценой $0.75 за 1000 запросов.",
+          "why": "Супернизкая цена; прямой конкурент поискам OpenAI и Perplexity; показывает давление китайских игроков на цены.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "DeepSeek Docs",
+          "source_url": "https://api-docs.deepseek.com/guides/search/",
+          "candidate_urls": [
+            "https://api-docs.deepseek.com/guides/search/"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
+          "what": "Nvidia выпустила RTX Spark — локальный AI-суперкомпьютер для потребителей, доступны модели от $2,399.",
+          "why": "Мост между облачным AI и локальным; важно для разработчиков, фаундеров и маленьких компаний без бюджета на облако.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "NVIDIA Blogs",
+          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+          ],
+          "n": 10,
           "status": "offered"
         }
       ]

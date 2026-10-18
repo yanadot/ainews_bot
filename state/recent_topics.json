@@ -1,119 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Восемь штатов подали иски на OpenAI за вред детям и обман",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Сотрудник OpenAI арестован за скрытый диктофон в офисе",
-      "url": "https://www.techmeme.com/261015/p12#a261015p12",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "FTC выдал 50-страничные запросы на информацию OpenAI и Anthropic",
-      "url": "https://www.techmeme.com/261015/p20#a261015p20",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon запустил Bee: wearable для записи и анализа дня за $75–$100",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Ricursive Intelligence ставит на AI-дизайн чипов под compute-кризис",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI предупредила сотрудников о шпионаже и insider-угрозах",
-      "url": "https://www.techmeme.com/261015/p23#a261015p23",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "YouTube добавил лейблы для AI-генерированной музыки",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Figma объявила фичи для агентов на платформе",
-      "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-      "ts": "2026-10-15T12:33:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Modal достиг $1B ARR и $16B Series D — дека-единорог AI-инфры",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
-      "ts": "2026-10-15T14:00:27Z"
-    },
-    {
-      "topic": "Meta выпустила Muse Spark Open — открытую фронтир-модель",
-      "url": "https://www.techmeme.com/261015/p37#a261015p37",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA Nemotron 3.5 Super VL: 120B для enterprise-агентов",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA RTX Spark: персональный AI-суперкомпьютер для ПК",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Mistral Timestral: probabilistic forecasting на 209M параметров",
-      "url": "https://mistral.ai/news/timestral/",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google Universal Cart: AI-ассистент для покупок в поиске",
-      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "BofA нанял 1000 контракторов на патчинг AI-найденных уязвимостей",
-      "url": "https://www.techmeme.com/261015/p27#a261015p27",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepMind ускорила открытие антимикробных препаратов через AI",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Liquid AI выпустила LFM2.5-24B для on-device агентов",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Hugging Face выпустила FLUX.3 Image Klein для изображений",
-      "url": "https://huggingface.co/blog/flux-3",
-      "ts": "2026-10-15T17:19:57Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Американские политики потратили $137M на AI-видео без дисклеймеров",
       "url": "https://www.techmeme.com/261016/p7",
       "ts": "2026-10-16T12:12:22Z",
@@ -345,6 +232,66 @@
       "topic": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
       "url": "https://api-docs.deepseek.com/guides/search/",
       "ts": "2026-10-18T12:00:56Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Disney нанял 60+ из Character.AI за $180M",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic привлекает $60B через Blackstone на TPU",
+      "url": "https://www.techmeme.com/261016/p29#a261016p29",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Blackstone инвестирует $200B в AI-инфраструктуру",
+      "url": "https://www.bloomberg.com",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
+      "url": "https://www.techmeme.com/261018/p9#a261018p9",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic инвестирует в фонд общественного блага",
+      "url": "https://anthropic.com/news/public-benefit-fund",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft отменила заказ на 23K чипов Nvidia",
+      "url": "https://www.techmeme.com/261018/p4#a261018p4",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Workday покупает C1.ai для управления AI-агентами",
+      "url": "https://www.techmeme.com/261017/p1#a261017p1",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "ts": "2026-10-18T18:18:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
+      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
+      "ts": "2026-10-18T18:18:23Z",
       "kind": "offered"
     }
   ]
