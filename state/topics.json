@@ -711,8 +711,9 @@
             "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
           ],
           "n": 9,
-          "status": "awaiting_focus",
-          "focus_msg_id": 68
+          "status": "written",
+          "focus_msg_id": 68,
+          "focus": "если есть данные и доказательства тому что стало подтверждением что AI начал вести себя как игрок без явных указаний - добавь их. Дай детали про название игры, модель и цель эксперимента"
         }
       ]
     }
