@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-10-19T14:29:14Z",
-  "candidates": 18,
+  "run_at": "2026-10-19T20:08:43Z",
+  "candidates": 23,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic готовит модель с улучшенной интуицией и рассуждением",
+      "title": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261019/p25#a261019p25"
+      "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
     },
     {
       "n": 2,
-      "title": "Хакер взломал 100+ компаний с помощью армии AI-агентов",
+      "title": "Anthropic получит $45B от Nscale на инфраструктуру",
       "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+      "source_url": "https://www.techmeme.com/261019/p41"
     },
     {
       "n": 3,
-      "title": "Microsoft Project Perception: AI-агенты как инсайдер-угрозы",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p24#a261019p24"
+      "title": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
+      "score": 5,
+      "source_url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
     },
     {
       "n": 4,
-      "title": "Подозреваемый в шпионаже OpenAI контактировал с саудовским принцем",
+      "title": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p26#a261019p26"
+      "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
     },
     {
       "n": 5,
-      "title": "Демократы готовят жёсткую регуляцию AI-индустрии",
+      "title": "Nvidia выпустила открытые модели для запуска агентов",
       "score": 4,
-      "source_url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
+      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
     },
     {
       "n": 6,
-      "title": "doubleAI выпустила модель для оптимизации процессоров",
+      "title": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p21#a261019p21"
+      "source_url": "https://www.techmeme.com/261019/p35"
     },
     {
       "n": 7,
-      "title": "Tenstorrent привлёк $1.5B на разработку AI-чипов",
+      "title": "Meta показала Prometheus — суперкластер на 1 млн GPU",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p18#a261019p18"
+      "source_url": "https://www.techmeme.com/261019/p40"
     },
     {
       "n": 8,
-      "title": "Disney приобрела талант и технологию Character.AI через банкротство",
+      "title": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
       "score": 4,
-      "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
-    },
-    {
-      "n": 9,
-      "title": "Claude начал \"играть\" на виртуальном острове",
-      "score": 3,
-      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     }
   ]
 }

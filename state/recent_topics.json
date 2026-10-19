@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Reflection AI открыла Beam — 501B модель на Apache 2.0",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "PostgreSQL 19 отложили из-за дефектов, найденных LLM-ревью",
-      "url": "https://www.techmeme.com/261016/p17#a261016p17",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Stack Overflow for Agents привлёк 10× рост с ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta уточнила права на скрейпинг сайтов для AI-обучения",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Glimpse от Elorian: модель, которая рассуждает с изображениями",
-      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jev: самая быстро принятая модель в AI Gateway Vercel",
-      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI предложила генетические чертежи вирусов — и это не вымысел",
-      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "ts": "2026-10-16T19:52:37Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Anthropic привлекает $60B через Blackstone на покупку TPU",
       "url": "https://www.techmeme.com/261016/p29#a261016p29",
       "ts": "2026-10-17T11:30:41Z",
@@ -292,6 +244,54 @@
       "topic": "Claude начал \"играть\" на виртуальном острове",
       "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "ts": "2026-10-19T14:47:21Z"
+    },
+    {
+      "topic": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic получит $45B от Nscale на инфраструктуру",
+      "url": "https://www.techmeme.com/261019/p41",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia выпустила открытые модели для запуска агентов",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
+      "url": "https://www.techmeme.com/261019/p35",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta показала Prometheus — суперкластер на 1 млн GPU",
+      "url": "https://www.techmeme.com/261019/p40",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+      "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
     }
   ]
 }

@@ -1,124 +1,5 @@
 {
   "digests": {
-    "10161952": {
-      "created_at": "2026-10-16T19:52:37Z",
-      "message_id": 62,
-      "topics": [
-        {
-          "title": "Reflection AI открыла Beam — 501B модель на Apache 2.0",
-          "what": "Reflection AI выпустила открытую 501B-модель Beam, обученную с RL на экономию токенов.",
-          "why": "Конкурирует с китайскими моделями; показывает, как efficiency-обучение может открыть новые ниши.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/reflection-beam",
-          "candidate_urls": [
-            "https://huggingface.co/blog/reflection-beam",
-            "https://www.techmeme.com/261016/p15#a261016p15"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "PostgreSQL 19 отложили из-за дефектов, найденных LLM-ревью",
-          "what": "PostgreSQL Core откатили до 10 фич в версии 19 после того, как LLM-ревью выявило архитектурные проблемы.",
-          "why": "Case study: как AI-инструменты меняют качество code review в критичных проектах.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261016/p17#a261016p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261016/p17#a261016p17"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Stack Overflow for Agents привлёк 10× рост с ChatGPT plugin",
-          "what": "Инженеры OpenAI запустили Stack Overflow for Agents с ChatGPT-плагином, и это ускорило создание агентов на платформе.",
-          "why": "Показывает растущий спрос на tools для разработки агентов и укрепляет позицию OpenAI в developer tooling.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "candidate_urls": [
-            "https://openai.com/index/stack-overflow-chatgpt-plugin"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Meta уточнила права на скрейпинг сайтов для AI-обучения",
-          "what": "Новые Terms of Service от Meta (вступают 30 октября) дают разрешение на краулинг контента для разработки AI.",
-          "why": "Показывает аппетит крупных компаний к данным и ставит вопрос об авторском праве для издателей.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Glimpse от Elorian: модель, которая рассуждает с изображениями",
-          "what": "Elorian выпустила Glimpse, модель для visual reasoning, которая опережает GPT-6 Astra на научных графиках.",
-          "why": "Новый угол в multimodal AI может открыть ниши для специализированных компаний вне OpenAI.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Jev: самая быстро принятая модель в AI Gateway Vercel",
-          "what": "Vercel выпустила Jev и фиксирует рекордную скорость adoption через свой unified API (как OpenRouter).",
-          "why": "Демонстрирует интерес к новым моделям и важность распределённых API-гатвеев для доступа к моделям.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "AI предложила генетические чертежи вирусов — и это не вымысел",
-          "what": "Аспирант Stanford Sam King использовал генеративную AI, чтобы предложить генетические последовательности для микровирусов.",
-          "why": "Поднимает вопрос о biosecurity и том, когда AI переходит от дизайна к реальному созданию жизни.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Robotics всё ещё в «Lego era» — мнение ветерана NVIDIA",
-          "what": "Amulya Vishwanath, экс-NVIDIA, считает, что robotics находится на этапе базовых блоков (actuators, hands, software, standards).",
-          "why": "Полезный контекст для фаундеров: robotics рынок ещё не созрел для ChatGPT-момента, несмотря на AI-прогресс.",
-          "category": "analysis",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-          "candidate_urls": [
-            "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10171130": {
       "created_at": "2026-10-17T11:30:41Z",
       "message_id": 63,
@@ -714,6 +595,124 @@
           "status": "written",
           "focus_msg_id": 68,
           "focus": "если есть данные и доказательства тому что стало подтверждением что AI начал вести себя как игрок без явных указаний - добавь их. Дай детали про название игры, модель и цель эксперимента"
+        }
+      ]
+    },
+    "10192008": {
+      "created_at": "2026-10-19T20:08:43Z",
+      "message_id": 73,
+      "topics": [
+        {
+          "title": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
+          "what": "Стартап Tenstorrent достиг оценки $6.2 млрд, привлекая $1.5 млрд инвестиций для разработки открытых AI-чипов, отказавшись от поглощения.",
+          "why": "Показывает растущую конкуренцию за альтернативы Nvidia и укрепляет позицию open-weight чипов в стеке enterprise AI.",
+          "category": "funding",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic получит $45B от Nscale на инфраструктуру",
+          "what": "Anthropic ведёт переговоры о сделке на $45 млрд с компанией Nscale для развития 460MW вычислительной мощности на базе чипов Vera Rubin в Западной Виргинии.",
+          "why": "Раскрывает масштабы инвестиций, необходимых для конкуренции в эру больших моделей, и указывает на стратегию Anthropic по захвату собственной инфраструктуры.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Bloomberg via Techmeme",
+          "source_url": "https://www.techmeme.com/261019/p41",
+          "candidate_urls": [
+            "https://www.techmeme.com/261019/p41"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
+          "what": "Судья постановил оставить в тюрьме Абдулрахмана Альфозана (инженера OpenAI), обвиняемого в шпионаже на саудовское правительство; судья отклонил его поручительство.",
+          "why": "Высокопрофильный инцидент, касающийся безопасности данных и контроля над исходными кодами в AI-компаниях; может повлиять на политику найма и доступа.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
+          "candidate_urls": [
+            "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
+          "what": "Платформа OpenCode (конкурент Claude Code и Cursor) подверглась взлому; хакеры украли API-ключи и начали списывать средства со счётов разработчиков.",
+          "why": "Показывает уязвимости в экосистеме облачных AI-инструментов и риск привязки данных к сторонним платформам; актуально при выборе инструмента кодирования.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia выпустила открытые модели для запуска агентов",
+          "what": "Nvidia объявила о новых открытых моделях для приватного запуска AI-агентов в корпоративных датацентрах и на персональных компьютерах без облака.",
+          "why": "Смещение спроса в сторону локальных и приватных агентов открывает новые каналы монетизации для Nvidia за пределы чипов.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
+          "what": "DeepSeek тесно работает с Huawei над архитектурой будущих AI-чипов и планирует использовать Ascend 950DT для pre-training к концу 2026 года.",
+          "why": "Раскрывает связи в китайской AI-экосистеме и вторую волну альтернативных чипов за пределами Nvidia; важно для отслеживания геополитических тенденций.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Information via Techmeme",
+          "source_url": "https://www.techmeme.com/261019/p35",
+          "candidate_urls": [
+            "https://www.techmeme.com/261019/p35"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Meta показала Prometheus — суперкластер на 1 млн GPU",
+          "what": "Meta раскрыла детали Prometheus, гигаватного суперкластера в Огайо, который в полной конфигурации содержит около 1 млн GPU и использовался для обучения Muse.",
+          "why": "Демонстрирует масштабы инвестиций в инфраструктуру и конкурентную динамику в market of scale между Meta, Anthropic и другими гигантами.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Engineering at Meta",
+          "source_url": "https://www.techmeme.com/261019/p40",
+          "candidate_urls": [
+            "https://www.techmeme.com/261019/p40"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
+          "what": "MIT Technology Review анализирует парадокс: стандарты для агентов упрощают их работу, но усиливают спам, отслеживание и вытеснение обычных юзеров.",
+          "why": "Вскрывает конфликт интересов между разработчиками агентов и пользователями; важна для понимания будущей регуляции веб-стандартов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
+          ],
+          "n": 8,
+          "status": "offered"
         }
       ]
     }
