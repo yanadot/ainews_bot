@@ -711,7 +711,8 @@
             "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
           ],
           "n": 9,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 68
         }
       ]
     }
