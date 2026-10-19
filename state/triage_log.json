@@ -1,66 +1,60 @@
 {
-  "run_at": "2026-10-18T18:18:23Z",
-  "candidates": 4,
+  "run_at": "2026-10-19T14:29:14Z",
+  "candidates": 18,
   "offered": [
     {
       "n": 1,
-      "title": "Disney нанял 60+ из Character.AI за $180M",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
+      "title": "Anthropic готовит модель с улучшенной интуицией и рассуждением",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261019/p25#a261019p25"
     },
     {
       "n": 2,
-      "title": "Anthropic привлекает $60B через Blackstone на TPU",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261016/p29#a261016p29"
+      "title": "Хакер взломал 100+ компаний с помощью армии AI-агентов",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
     },
     {
       "n": 3,
-      "title": "Blackstone инвестирует $200B в AI-инфраструктуру",
+      "title": "Microsoft Project Perception: AI-агенты как инсайдер-угрозы",
       "score": 4,
-      "source_url": "https://www.bloomberg.com"
+      "source_url": "https://www.techmeme.com/261019/p24#a261019p24"
     },
     {
       "n": 4,
-      "title": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
+      "title": "Подозреваемый в шпионаже OpenAI контактировал с саудовским принцем",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261018/p9#a261018p9"
+      "source_url": "https://www.techmeme.com/261019/p26#a261019p26"
     },
     {
       "n": 5,
-      "title": "Anthropic инвестирует в фонд общественного блага",
-      "score": 3,
-      "source_url": "https://anthropic.com/news/public-benefit-fund"
+      "title": "Демократы готовят жёсткую регуляцию AI-индустрии",
+      "score": 4,
+      "source_url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms"
     },
     {
       "n": 6,
-      "title": "Microsoft отменила заказ на 23K чипов Nvidia",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261018/p4#a261018p4"
+      "title": "doubleAI выпустила модель для оптимизации процессоров",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261019/p21#a261019p21"
     },
     {
       "n": 7,
-      "title": "Workday покупает C1.ai для управления AI-агентами",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261017/p1#a261017p1"
+      "title": "Tenstorrent привлёк $1.5B на разработку AI-чипов",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261019/p18#a261019p18"
     },
     {
       "n": 8,
-      "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+      "title": "Disney приобрела талант и технологию Character.AI через банкротство",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/"
     },
     {
       "n": 9,
-      "title": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
+      "title": "Claude начал \"играть\" на виртуальном острове",
       "score": 3,
-      "source_url": "https://api-docs.deepseek.com/guides/search/"
-    },
-    {
-      "n": 10,
-      "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
-      "score": 3,
-      "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
     }
   ]
 }
