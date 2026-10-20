@@ -1,17 +1,11 @@
 {
-  "checked_at": "2026-10-20T12:36:19Z",
+  "checked_at": "2026-10-20T17:49:55Z",
   "errors": [
     {
       "id": "deepmind",
       "name": "Google DeepMind",
       "url": "https://deepmind.google/discover/blog/",
       "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
-    },
-    {
-      "id": "apple_ml",
-      "name": "Apple Machine Learning Research",
-      "url": "https://machinelearning.apple.com/rss.xml",
-      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
     }
   ]
 }

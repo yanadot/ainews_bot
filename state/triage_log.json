@@ -1,54 +1,66 @@
 {
-  "run_at": "2026-10-20T12:39:11Z",
-  "candidates": 28,
+  "run_at": "2026-10-20T17:52:23Z",
+  "candidates": 34,
   "offered": [
     {
       "n": 1,
-      "title": "Samsung строит мегаполис памяти для AI чипов",
-      "score": 4,
-      "source_url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+      "title": "Mistral выпустила Voxtral 3 — агенты со слухом и речью",
+      "score": 5,
+      "source_url": "https://mistral.ai/news/voxtral-3/"
     },
     {
       "n": 2,
-      "title": "Amazon напрямую атакует Nvidia монополию",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+      "title": "Альтман назвал три будущих AI: регулятор, супер-лаб или плавильня GPU",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261020/p32#a261020p32"
     },
     {
       "n": 3,
-      "title": "Otter.ai привлёк $320M без разбавления",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+      "title": "ASI привлекла $325M на AI для авиадиспетчеров и военных",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261020/p28#a261020p28"
     },
     {
       "n": 4,
-      "title": "Salesforce покупает Braze за $5.7 млрд",
+      "title": "Anthropic защищает модели от дистилляции: как не дать их скопировать",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261020/p20#a261020p20"
+      "source_url": "https://www.anthropic.com/news/distillation-defenses"
     },
     {
       "n": 5,
-      "title": "Китай спешит скупить GPU на $35 млрд до санкций",
+      "title": "Cohere исследует уверенность моделей в собственных ответах",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261020/p9#a261020p9"
+      "source_url": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models"
     },
     {
       "n": 6,
-      "title": "DeepSeek запретили на всех федеральных сервисах США",
+      "title": "Arda (бывший OpenAI) привлекла $230M на AI для производства",
       "score": 4,
-      "source_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+      "source_url": "https://www.techmeme.com/261020/p23#a261020p23"
     },
     {
       "n": 7,
-      "title": "Спрос на энергию подстегнул возврат ископаемых топлив",
+      "title": "Eka: робот-манипулятор, который наконец хорошо ловит ($1.45B оценка)",
       "score": 4,
-      "source_url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+      "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
     },
     {
       "n": 8,
-      "title": "OpenAI расширила поддержку редких языков программирования",
+      "title": "OpenAI отступила от ограничений экспорта чипов в Китай",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261020/p25#a261020p25"
+    },
+    {
+      "n": 9,
+      "title": "Публикуй липовую статистику — LLM её цитируют везде",
+      "score": 4,
+      "source_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
+    },
+    {
+      "n": 10,
+      "title": "Spotify удалила 50M AI-слопа из рекомендаций",
       "score": 3,
-      "source_url": "https://openai.com/index/low-resource-programming-languages"
+      "source_url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
     }
   ]
 }
