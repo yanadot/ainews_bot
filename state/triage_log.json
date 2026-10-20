@@ -1,54 +1,54 @@
 {
-  "run_at": "2026-10-19T20:08:43Z",
-  "candidates": 23,
+  "run_at": "2026-10-20T12:39:11Z",
+  "candidates": 28,
   "offered": [
     {
       "n": 1,
-      "title": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
+      "title": "Samsung строит мегаполис памяти для AI чипов",
+      "score": 4,
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
     },
     {
       "n": 2,
-      "title": "Anthropic получит $45B от Nscale на инфраструктуру",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261019/p41"
+      "title": "Amazon напрямую атакует Nvidia монополию",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
     },
     {
       "n": 3,
-      "title": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
-      "score": 5,
-      "source_url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
+      "title": "Otter.ai привлёк $320M без разбавления",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
     },
     {
       "n": 4,
-      "title": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
+      "title": "Salesforce покупает Braze за $5.7 млрд",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
+      "source_url": "https://www.techmeme.com/261020/p20#a261020p20"
     },
     {
       "n": 5,
-      "title": "Nvidia выпустила открытые модели для запуска агентов",
+      "title": "Китай спешит скупить GPU на $35 млрд до санкций",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+      "source_url": "https://www.techmeme.com/261020/p9#a261020p9"
     },
     {
       "n": 6,
-      "title": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
+      "title": "DeepSeek запретили на всех федеральных сервисах США",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p35"
+      "source_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
     },
     {
       "n": 7,
-      "title": "Meta показала Prometheus — суперкластер на 1 млн GPU",
+      "title": "Спрос на энергию подстегнул возврат ископаемых топлив",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261019/p40"
+      "source_url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
     },
     {
       "n": 8,
-      "title": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
-      "score": 4,
-      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
+      "title": "OpenAI расширила поддержку редких языков программирования",
+      "score": 3,
+      "source_url": "https://openai.com/index/low-resource-programming-languages"
     }
   ]
 }

@@ -1,137 +1,5 @@
 {
   "digests": {
-    "10171130": {
-      "created_at": "2026-10-17T11:30:41Z",
-      "message_id": 63,
-      "topics": [
-        {
-          "title": "Anthropic привлекает $60B через Blackstone на покупку TPU",
-          "what": "Anthropic предлагает Blackstone 10%+ доход на $9B в составе $60B долгового пакета для покупки Google TPU.",
-          "why": "Первый крупный финансовый ход на инфру, показывает масштабы инвестиций в AI и давление на рентабельность.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261016/p29#a261016p29",
-          "candidate_urls": [
-            "https://www.techmeme.com/261016/p29#a261016p29"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Workday приобрела C1.ai для управления AI-агентами",
-          "what": "Workday согласилась приобрести C1.ai (бывший ConductorOne), стартап по управлению identity для людей и AI-агентов.",
-          "why": "M&A в AI, сигнал что enterprise-ПО встраивает AI-агентов и нужны инструменты управления ими.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Portland Business Journal",
-          "source_url": "https://www.techmeme.com/261017/p1#a261017p1",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p1#a261017p1"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Replit прекратила сотрудничество с Anthropic",
-          "what": "Replit больше не работает с Anthropic; CEO назвал причинами затраты и стратегию. Партнёрство с OpenAI объявлено в августе.",
-          "why": "Переворот в стратегии популярного dev-инструмента, конкуренция между лабами за распределение через платформы.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic: AI сокращает junior-найм, растит продуктивность",
-          "what": "Отчёт Anthropic показал снижение найма entry-level техников, но выраженный рост продуктивности во всех отделах.",
-          "why": "Конкретные данные о реальном влиянии AI на workplace, помогает компаниям планировать AI-стратегию.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://www.techmeme.com/261016/p30#a261016p30",
-          "candidate_urls": [
-            "https://www.techmeme.com/261016/p30#a261016p30"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Mistlabs привлекла $26M на ambient AI для iPhone",
-          "what": "Ambi, приложение для iPhone, Apple Watch и Mac, учится о пользователе через разговоры, привлекло $26M pre-Series A.",
-          "why": "Новый класс personal AI на девайсах, показывает тренд на ambient computing с LLM вместо традиционных команд.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "SiliconANGLE",
-          "source_url": "https://www.techmeme.com/261017/p2#a261017p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p2#a261017p2"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Alexandr Wang — потенциальный преемник Цукерберга в Meta AI",
-          "what": "Financial Times профилировала 29-летнего главу Meta Superintelligence Labs как оператора с полной поддержкой Цукерберга.",
-          "why": "Сигнал о кадровых движениях в Meta и приоритизации AI как ядра компании на уровне CEO.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261017/p8#a261017p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p8#a261017p8"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek V4.1-Flash: image-to-text от китайского конкурента",
-          "what": "DeepSeek обновила модель V4.1 с поддержкой image-to-text, 763B параметров, на Hugging Face 6 часов назад.",
-          "why": "Конкурент OpenAI/Anthropic выпускает мультимодальную модель, давит на ценообразование и доступность моделей.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face / DeepSeek",
-          "source_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "candidate_urls": [
-            "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Scarlet привлекла $50M на сертификацию AI для медикаментов",
-          "what": "Scarlet (Лондон) по сертификации AI и ПО для медицинских устройств привлекла $50M Series B от Headline.",
-          "why": "Растущий регуляторный спрос на AI в healthcare, новая лакуна в рынке для compliance-oriented продуктов.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Tech.eu",
-          "source_url": "https://www.techmeme.com/261017/p4#a261017p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p4#a261017p4"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Reach Security привлекла $50M на AI-powered exposure management",
-          "what": "Reach Security по управлению уязвимостями с AI привлекла $50M Series B от Top Tier Capital Partners.",
-          "why": "AI для security operations начинает привлекать серьёзные инвестиции, новый класс enterprise AI-продуктов.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "FinTech Global",
-          "source_url": "https://www.techmeme.com/261017/p7#a261017p7",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p7#a261017p7"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10171729": {
       "created_at": "2026-10-17T17:29:32Z",
       "message_id": 64,
@@ -710,6 +578,125 @@
           "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
           "candidate_urls": [
             "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
+          ],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "10201239": {
+      "created_at": "2026-10-20T12:39:11Z",
+      "message_id": 74,
+      "topics": [
+        {
+          "title": "Samsung строит мегаполис памяти для AI чипов",
+          "what": "Samsung расширяет производство в Pyeongtaek, South Korea — три фабрики работают, новые строятся, чтобы обеспечить память для GPU, без которой AI модели не работают.",
+          "why": "Память становится узким местом в AI инфре; это касается всех, кто зависит от вычислительной мощности, и показывает, куда течет реальный капитал.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon напрямую атакует Nvidia монополию",
+          "what": "Amazon выпустил TorchNeuron — инструмент для разработчиков, чтобы запускать AI модели на чипах Amazon вместо Nvidia GPU.",
+          "why": "Это показывает, как облачные поставщики переходят в наступление на Nvidia; для фаундеров это означает дешевле вычисления и больше выбора.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Otter.ai привлёк $320M без разбавления",
+          "what": "Otter.ai получил $320 млн от General Catalyst через необычную схему: деньги даёт фонд, возвраты идут из результатов маркетинга, без разбавления акций.",
+          "why": "Это показывает альтернативу классическим раундам инвестиций; модель может работать для других SaaS продуктов, если они растут предсказуемо.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+            "https://www.techmeme.com/261020/p16#a261020p16"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Salesforce покупает Braze за $5.7 млрд",
+          "what": "Salesforce согласилась приобрести Braze, AI платформу для маркетинга, за $5.7 млрд в enterprise value (закрытие в феврале 2027).",
+          "why": "Это показывает консолидацию в маркетинговых инструментах; большие компании скупают готовые решения вместо разработки с нуля, даже если это дорого.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261020/p20#a261020p20",
+          "candidate_urls": [
+            "https://www.techmeme.com/261020/p20#a261020p20"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Китай спешит скупить GPU на $35 млрд до санкций",
+          "what": "ByteDance, Alibaba и Tencent заказали 3+ млн GPU Nvidia RTX PRO 5500 стоимостью $35+ млрд — это экспортно-совместимые чипы, в спешке перед новыми санкциями.",
+          "why": "Это гонка за вычислительной мощностью между странами; геополитический риск вырастет, и это повлияет на цепочки поставок и доступность чипов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Reuters",
+          "source_url": "https://www.techmeme.com/261020/p9#a261020p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261020/p9#a261020p9"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek запретили на всех федеральных сервисах США",
+          "what": "DHS издал приказ, запретив использование DeepSeek на компьютерах гражданских федеральных агентств из-за беспокойств по безопасности и китайскому происхождению.",
+          "why": "Это эскалация в геополитическом противостоянии вокруг AI; другие страны могут последовать, и это толкнёт разработчиков на локальные альтернативы.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Reuters",
+          "source_url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+          "candidate_urls": [
+            "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Спрос на энергию подстегнул возврат ископаемых топлив",
+          "what": "Электроспрос растёт быстрее, чем за 10+ лет (датацентры, заводы, электроавто), США строят больше угольных и газовых станций, возобновляемые энергии отстают.",
+          "why": "Для фаундеров это означает: инфраструктурные затраты выше, sustainability-история сложнее, политическое давление на энергопотребление будет расти.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+          "candidate_urls": [
+            "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI расширила поддержку редких языков программирования",
+          "what": "OpenAI улучшила ChatGPT для редких языков типа SQLite и COBOL, добавив новые оценки качества кода для software engineering.",
+          "why": "Это открывает AI для разработчиков с legacy кодом и специальными языками; компании могут ускорить автоматизацию старых систем без переписи.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/low-resource-programming-languages",
+          "candidate_urls": [
+            "https://openai.com/index/low-resource-programming-languages"
           ],
           "n": 8,
           "status": "offered"

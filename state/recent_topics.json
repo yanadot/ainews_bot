@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic привлекает $60B через Blackstone на покупку TPU",
-      "url": "https://www.techmeme.com/261016/p29#a261016p29",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Workday приобрела C1.ai для управления AI-агентами",
-      "url": "https://www.techmeme.com/261017/p1#a261017p1",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Replit прекратила сотрудничество с Anthropic",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic: AI сокращает junior-найм, растит продуктивность",
-      "url": "https://www.techmeme.com/261016/p30#a261016p30",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Mistlabs привлекла $26M на ambient AI для iPhone",
-      "url": "https://www.techmeme.com/261017/p2#a261017p2",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Alexandr Wang — потенциальный преемник Цукерберга в Meta AI",
-      "url": "https://www.techmeme.com/261017/p8#a261017p8",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek V4.1-Flash: image-to-text от китайского конкурента",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Scarlet привлекла $50M на сертификацию AI для медикаментов",
-      "url": "https://www.techmeme.com/261017/p4#a261017p4",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Reach Security привлекла $50M на AI-powered exposure management",
-      "url": "https://www.techmeme.com/261017/p7#a261017p7",
-      "ts": "2026-10-17T11:30:41Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Meta уточнила правила скрейпинга сайтов для обучения AI",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "ts": "2026-10-17T17:29:32Z",
@@ -291,6 +237,54 @@
       "topic": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
       "ts": "2026-10-19T20:08:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Samsung строит мегаполис памяти для AI чипов",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon напрямую атакует Nvidia монополию",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Otter.ai привлёк $320M без разбавления",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Salesforce покупает Braze за $5.7 млрд",
+      "url": "https://www.techmeme.com/261020/p20#a261020p20",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Китай спешит скупить GPU на $35 млрд до санкций",
+      "url": "https://www.techmeme.com/261020/p9#a261020p9",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek запретили на всех федеральных сервисах США",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Спрос на энергию подстегнул возврат ископаемых топлив",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "ts": "2026-10-20T12:39:11Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI расширила поддержку редких языков программирования",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "ts": "2026-10-20T12:39:11Z",
       "kind": "offered"
     }
   ]

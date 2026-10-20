@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-19T20:06:12Z",
+  "checked_at": "2026-10-20T12:36:19Z",
   "errors": [
     {
       "id": "deepmind",
@@ -8,10 +8,10 @@
       "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
     },
     {
-      "id": "hn_ai",
-      "name": "Hacker News (AI, 200+)",
-      "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+      "id": "apple_ml",
+      "name": "Apple Machine Learning Research",
+      "url": "https://machinelearning.apple.com/rss.xml",
+      "error": "URLError: <urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1010)>"
     }
   ]
 }
