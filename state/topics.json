@@ -712,7 +712,8 @@
             "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
           ],
           "n": 3,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 77
         },
         {
           "title": "Google Cloud и NVIDIA запустили Vera Rubin в общий доступ",
