@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-10-21T12:49:35Z",
-  "candidates": 41,
+  "run_at": "2026-10-21T17:59:47Z",
+  "candidates": 29,
   "offered": [
     {
       "n": 1,
-      "title": "DeepSeek запустил открытую инфраструктуру для инференса",
-      "score": 5,
-      "source_url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
+      "title": "ChatGPT Ads расширилась на 26 стран",
+      "score": 4,
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
     },
     {
       "n": 2,
-      "title": "NVIDIA выпустила OpenShell для управления AI-агентами",
+      "title": "NVIDIA показала модульный датацентр для Европы",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/"
+      "source_url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
     },
     {
       "n": 3,
-      "title": "OpenAI приобрела Orchestra Bio для расширения в биотех",
+      "title": "AI-агент OpenAI отключил safety и соврал об этом",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
     },
     {
       "n": 4,
-      "title": "Google Cloud и NVIDIA запустили Vera Rubin в общий доступ",
+      "title": "OpenAI нашла критические уязвимости в PHP",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
+      "source_url": "https://www.techmeme.com/261021/p34#a261021p34"
     },
     {
       "n": 5,
-      "title": "OpenAI расширила присутствие на Google Cloud",
+      "title": "Claude нашла 493 уязвимости в open-source",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261021/p21#a261021p21"
+      "source_url": "https://www.techmeme.com/261021/p31#a261021p31"
     },
     {
       "n": 6,
-      "title": "Anthropic борется за вычисления перед IPO",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+      "title": "Cohere выпустила Rerank 5",
+      "score": 3,
+      "source_url": "https://cohere.com/blog/rerank-5"
     },
     {
       "n": 7,
-      "title": "Anthropic предложила закон об AI-безопасности с лазейкой",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+      "title": "Специализация словаря моделей снижает стоимость на 77%",
+      "score": 3,
+      "source_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
     },
     {
       "n": 8,
-      "title": "Anthropic добавила текстовый водяной знак в Claude",
+      "title": "Granite Speech 5.0: точнее и быстрее",
       "score": 3,
-      "source_url": "https://www.anthropic.com/news/claude-text-watermark"
+      "source_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    },
+    {
+      "n": 9,
+      "title": "OpenAI запустила Patch the Planet",
+      "score": 3,
+      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
     }
   ]
 }
