@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
-      "url": "https://www.techmeme.com/261018/p5#a261018p5",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
-      "url": "https://www.techmeme.com/261018/p4#a261018p4",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Disney нанял 60+ человек из Character.AI за $180M",
-      "url": "https://www.techmeme.com/261018/p3#a261018p21",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta уточнила правила: никакого скрейпинга для обучения?",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic разрабатывает AI-агентов для ведения переговоров",
-      "url": "https://www.techmeme.com/261018/p2#a261018p2",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "ts": "2026-10-18T12:00:56Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Disney нанял 60+ из Character.AI за $180M",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "ts": "2026-10-18T18:18:23Z",
@@ -321,6 +273,54 @@
       "topic": "Spotify удалила 50M AI-слопа из рекомендаций",
       "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "ts": "2026-10-20T17:52:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek запустил открытую инфраструктуру для инференса",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA выпустила OpenShell для управления AI-агентами",
+      "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI приобрела Orchestra Bio для расширения в биотех",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google Cloud и NVIDIA запустили Vera Rubin в общий доступ",
+      "url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI расширила присутствие на Google Cloud",
+      "url": "https://www.techmeme.com/261021/p21#a261021p21",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic борется за вычисления перед IPO",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic предложила закон об AI-безопасности с лазейкой",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "ts": "2026-10-21T12:49:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic добавила текстовый водяной знак в Claude",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "ts": "2026-10-21T12:49:35Z",
       "kind": "offered"
     }
   ]

@@ -1,66 +1,54 @@
 {
-  "run_at": "2026-10-20T17:52:23Z",
-  "candidates": 34,
+  "run_at": "2026-10-21T12:49:35Z",
+  "candidates": 41,
   "offered": [
     {
       "n": 1,
-      "title": "Mistral выпустила Voxtral 3 — агенты со слухом и речью",
+      "title": "DeepSeek запустил открытую инфраструктуру для инференса",
       "score": 5,
-      "source_url": "https://mistral.ai/news/voxtral-3/"
+      "source_url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
     },
     {
       "n": 2,
-      "title": "Альтман назвал три будущих AI: регулятор, супер-лаб или плавильня GPU",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261020/p32#a261020p32"
+      "title": "NVIDIA выпустила OpenShell для управления AI-агентами",
+      "score": 4,
+      "source_url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/"
     },
     {
       "n": 3,
-      "title": "ASI привлекла $325M на AI для авиадиспетчеров и военных",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261020/p28#a261020p28"
+      "title": "OpenAI приобрела Orchestra Bio для расширения в биотех",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
     },
     {
       "n": 4,
-      "title": "Anthropic защищает модели от дистилляции: как не дать их скопировать",
+      "title": "Google Cloud и NVIDIA запустили Vera Rubin в общий доступ",
       "score": 4,
-      "source_url": "https://www.anthropic.com/news/distillation-defenses"
+      "source_url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
     },
     {
       "n": 5,
-      "title": "Cohere исследует уверенность моделей в собственных ответах",
+      "title": "OpenAI расширила присутствие на Google Cloud",
       "score": 4,
-      "source_url": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models"
+      "source_url": "https://www.techmeme.com/261021/p21#a261021p21"
     },
     {
       "n": 6,
-      "title": "Arda (бывший OpenAI) привлекла $230M на AI для производства",
+      "title": "Anthropic борется за вычисления перед IPO",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261020/p23#a261020p23"
+      "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
     },
     {
       "n": 7,
-      "title": "Eka: робот-манипулятор, который наконец хорошо ловит ($1.45B оценка)",
+      "title": "Anthropic предложила закон об AI-безопасности с лазейкой",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
     },
     {
       "n": 8,
-      "title": "OpenAI отступила от ограничений экспорта чипов в Китай",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261020/p25#a261020p25"
-    },
-    {
-      "n": 9,
-      "title": "Публикуй липовую статистику — LLM её цитируют везде",
-      "score": 4,
-      "source_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
-    },
-    {
-      "n": 10,
-      "title": "Spotify удалила 50M AI-слопа из рекомендаций",
+      "title": "Anthropic добавила текстовый водяной знак в Claude",
       "score": 3,
-      "source_url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
+      "source_url": "https://www.anthropic.com/news/claude-text-watermark"
     }
   ]
 }

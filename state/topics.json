@@ -1,125 +1,5 @@
 {
   "digests": {
-    "10181200": {
-      "created_at": "2026-10-18T12:00:56Z",
-      "message_id": 65,
-      "topics": [
-        {
-          "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры, от $2,399",
-          "what": "NVIDIA выпустила RTX Spark — ноутбуки с Blackwell GPU, 128GB памяти и полной AI-платформой от ASUS, Dell, HP, Lenovo, Microsoft и MSI.",
-          "why": "Локальный AI становится массовым: сложные задачи теперь не требуют облачных сервисов, что меняет экономику AI-приложений.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-            "https://www.techmeme.com/261017/p20#a261017p20"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "AI-долги монтируются: CoreWeave, SoftBank и Oracle в беде",
-          "what": "Долги AI-инфра компаний растут: CoreWeave торгуется с 15% доходом, SoftBank дорожает, Oracle торгуется со скидкой 10-20%.",
-          "why": "Финансовые риски в AI-инфре могут замедлить инвестиции в вычисления — это прямо влияет на доступность GPU и цены для стартапов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p5#a261018p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p5#a261018p5"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft отменила заказ на 23K Nvidia чипов у Nscale",
-          "what": "Microsoft развернулась на датацентре в Эссексе: заказ на 23K Nvidia GPU отменен из-за повторяющихся задержек проекта.",
-          "why": "Даже гиганты переоценивают AI-инфра планы. Это показывает реальность проблем: не хватает земли, энергии, таланта инженеров.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p4#a261018p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p4#a261018p4"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Disney нанял 60+ человек из Character.AI за $180M",
-          "what": "Disney наймет сотрудников Character.AI и выплатит им ~$180M за три года, плюс $30M на бонусы удержания.",
-          "why": "Большие медиакомпании встраивают AI-таланты напрямую. Character.AI теряет независимость, но сотрудники лендируются.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p3#a261018p21",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p3#a261018p21"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Meta уточнила правила: никакого скрейпинга для обучения?",
-          "what": "Meta убрала язык из условий, который вызывал вопросы о скрейпинге контента издателей для обучения AI.",
-          "why": "Растет юридическое давление: компании меняют поведение из-за угроз исков — это замораживает конкурентов в обучающих данных.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-          "what": "Replit сделал OpenAI основным провайдером моделей; Claude остается доступным, но не по умолчанию.",
-          "why": "Даже специализированные платформы меняют выбор: это показывает, как конкуренция между провайдерами перестраивает экосистему.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic разрабатывает AI-агентов для ведения переговоров",
-          "what": "Anthropic консультируется с юристами о тактике переговоров: компания разрабатывает агентов, которые договариваются от людей и с другими AI.",
-          "why": "Новый класс приложений: AI-агенты для сложных деловых процессов. Это меняет то, какие типы работы может быть автоматизирована.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p2#a261018p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p2#a261018p2"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek запустил поиск и fetch за $0.75 на 1000 запросов",
-          "what": "DeepSeek выпустил API для получения актуальной информации из сети: поиск и fetch вебpages по дешевой цене.",
-          "why": "RAG и агенты теперь дешевле: низкая цена открывает новые сценарии для стартапов, которым раньше были недоступны такие данные.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hacker News",
-          "source_url": "https://api-docs.deepseek.com/guides/search/",
-          "candidate_urls": [
-            "https://api-docs.deepseek.com/guides/search/",
-            "https://news.ycombinator.com/item?id=50138531"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10181818": {
       "created_at": "2026-10-18T18:18:23Z",
       "message_id": 66,
@@ -783,6 +663,125 @@
             "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
           ],
           "n": 10,
+          "status": "offered"
+        }
+      ]
+    },
+    "10211249": {
+      "created_at": "2026-10-21T12:49:35Z",
+      "message_id": 76,
+      "topics": [
+        {
+          "title": "DeepSeek запустил открытую инфраструктуру для инференса",
+          "what": "DeepSeek выпустил DeepInfer — открытый исходный код для массового инференса. Система обрабатывает 155 триллионов токенов в день при 80% маржинальности и окупается за 81 день.",
+          "why": "Показывает, как китайские лабы конкурируют не в моделях, а в инфраструктуре. Для аудитории — знак того, что инференс становится критической инфраструктурой, как облачные вычисления.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+          "candidate_urls": [
+            "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA выпустила OpenShell для управления AI-агентами",
+          "what": "NVIDIA представила OpenShell Reference Architecture — фреймворк для безопасности, мониторинга и управления AI-агентами в enterprise. Партнёры: Canonical, AWS, BBVA и другие.",
+          "why": "При масштабировании агентов нужна governance. Это знак, что индустрия готовится к волне корпоративных AI-агентов и ищет стандарты контроля.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
+          "candidate_urls": [
+            "https://www.techmeme.com/261021/p23#a261021p23",
+            "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI приобрела Orchestra Bio для расширения в биотех",
+          "what": "OpenAI купила стартап Orchestra Bio и интегрирует его команду и технологию в Rosalind — свою программу для исследований жизненных наук.",
+          "why": "Показывает стратегию OpenAI выходить за текст: LLM для биологии может помочь в дизайне экспериментов. Важно для фаундеров в biotech — большие лабы уже встраивают AI.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Google Cloud и NVIDIA запустили Vera Rubin в общий доступ",
+          "what": "NVIDIA и Google Cloud объявили об общей доступности инстанций с NVIDIA Vera Rubin NVL72 для обучения и инференса моделей. Расширение в Европу — на месяц позже.",
+          "why": "Google атакует монополию AWS на привлечение AI-клиентов. Для продактов — больше вариантов облачной инфраструктуры означает конкуренцию в цене и условиях.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI расширила присутствие на Google Cloud",
+          "what": "OpenAI сделает свои модели доступными в Google Cloud через Model Garden и инструмент Antigravity, вслед за AWS (апрель 2026).",
+          "why": "OpenAI уходит от привязки к одному облаку. Для корпоративных клиентов — возможность выбирать провайдера. Сигнал о силе OpenAI перед IPO.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261021/p21#a261021p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261021/p21#a261021p21"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic борется за вычисления перед IPO",
+          "what": "Облачные провайдеры (Google, Amazon, Microsoft) неохотно дают Anthropic вычисления, видя в ней конкурента. Расходы Anthropic на инфраструктуру растут перед ноябрьским IPO.",
+          "why": "Раскрывает реальную проблему молодых лаб: тяжело конкурировать с OpenAI за железо, когда провайдеры сами делают модели. Важно для понимания рыночной динамики.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic предложила закон об AI-безопасности с лазейкой",
+          "what": "Anthropic лоббирует закон, который запрещает федеральным агентствам блокировать модель без судебного приказа, даже если модель угрожает жизни 50+ людей.",
+          "why": "Показывает борьбу лаб за мягкую регуляцию перед IPO. Для продактов — сигнал о том, что регуляторика будет мягче, чем опасались.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic добавила текстовый водяной знак в Claude",
+          "what": "Anthropic объяснила, как она добавила метаданные в выводы Claude для маркировки AI-текста и почему это не портит качество.",
+          "why": "Важное техническое изменение для разработчиков, которые интегрируют Claude. Показывает приоритет борьбы с AI-сманусом (мусорными AI-текстами).",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Anthropic",
+          "source_url": "https://www.anthropic.com/news/claude-text-watermark",
+          "candidate_urls": [
+            "https://www.anthropic.com/news/claude-text-watermark"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]
