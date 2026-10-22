@@ -1,151 +1,5 @@
 {
   "digests": {
-    "10181818": {
-      "created_at": "2026-10-18T18:18:23Z",
-      "message_id": 66,
-      "topics": [
-        {
-          "title": "Disney нанял 60+ из Character.AI за $180M",
-          "what": "После банкротства Character.AI Disney нанял большинство команды, включая бывшего CEO.",
-          "why": "Крупные компании покупают AI-таланты напрямую; это показывает, как индустрия реагирует на провалы стартапов.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic привлекает $60B через Blackstone на TPU",
-          "what": "Anthropic получила $60 млрд инвестиций через Blackstone для закупки TPU у Google.",
-          "why": "Огромный капитал на инфраструктуру; амбициозный ход конкурировать с OpenAI и Microsoft на уровне инвестиций.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261016/p29#a261016p29",
-          "candidate_urls": [
-            "https://www.techmeme.com/261016/p29"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Blackstone инвестирует $200B в AI-инфраструктуру",
-          "what": "Blackstone ставит $200 млрд на развитие AI-инфраструктуры, датацентров и оборудования.",
-          "why": "Финсектор видит AI-инфру как стратегический актив; это давит на капитальные расходы и конкуренцию по железу.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.bloomberg.com",
-          "candidate_urls": [
-            "https://www.bloomberg.com"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
-          "what": "Nvidia попросила Samsung, SK Hynix и Micron производить базовые dies для памяти на процессе TSMC 3nm; Samsung согласился.",
-          "why": "Первый раз Samsung производит на TSMC (конкурента), не на своём — давление на supply chain AI-чипов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Reuters/Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p9#a261018p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p9"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic инвестирует в фонд общественного блага",
-          "what": "Anthropic создаёт фонд для поддержки проектов, приносящих общественную пользу.",
-          "why": "Компания позиционирует себя как ответственный игрок; это сигнал о долгосрочной стратегии за пределами коммерции.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/news/public-benefit-fund",
-          "candidate_urls": [
-            "https://www.anthropic.com/news/public-benefit-fund"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft отменила заказ на 23K чипов Nvidia",
-          "what": "Microsoft значительно сократила заказы на GPU Nvidia, отменив 23 тысячи штук.",
-          "why": "Сигнал о сокращении расходов; Microsoft может сосредоточиться на собственном кремнии.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261018/p4#a261018p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261018/p4"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Workday покупает C1.ai для управления AI-агентами",
-          "what": "Workday приобрела C1.ai — платформу для управления AI-агентами в корпоративной среде.",
-          "why": "Корпоративный софт готовится к эпохе агентов; вектор развития для больших компаний и их продуктов.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261017/p1#a261017p1",
-          "candidate_urls": [
-            "https://www.techmeme.com/261017/p1"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-          "what": "Replit — платформа для разработчиков — переключилась на OpenAI как модель по умолчанию вместо Anthropic.",
-          "why": "Платформы выбирают модели по производительности и надёжности; важный сигнал о рыночной позиции игроков.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
-          "what": "DeepSeek добавил поиск в интернете и fetch контента через API с ценой $0.75 за 1000 запросов.",
-          "why": "Супернизкая цена; прямой конкурент поискам OpenAI и Perplexity; показывает давление китайских игроков на цены.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "DeepSeek Docs",
-          "source_url": "https://api-docs.deepseek.com/guides/search/",
-          "candidate_urls": [
-            "https://api-docs.deepseek.com/guides/search/"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
-          "what": "Nvidia выпустила RTX Spark — локальный AI-суперкомпьютер для потребителей, доступны модели от $2,399.",
-          "why": "Мост между облачным AI и локальным; важно для разработчиков, фаундеров и маленьких компаний без бюджета на облако.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "NVIDIA Blogs",
-          "source_url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "10191429": {
       "created_at": "2026-10-19T14:29:14Z",
       "message_id": 67,
@@ -918,6 +772,118 @@
             "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10221253": {
+      "created_at": "2026-10-22T12:53:27Z",
+      "message_id": 83,
+      "topics": [
+        {
+          "title": "PHP2Shell: критические уязвимости в ядре веба",
+          "what": "OpenAI нашла две критические уязвимости в PHP (PHP2Shell), затрагивающие 70% веб-сайтов; координированное раскрытие велось 2 месяца через программу Patch the Planet.",
+          "why": "AI нашла фундаментальные дыры в популярном коде — это показывает потенциал AI как инструмента защиты и потенциальный риск масса-разработки уязвимостей.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+          "candidate_urls": [
+            "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+            "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA Cosmos: платформа для world models",
+          "what": "NVIDIA расширила Cosmos инструментами для тренировки и развертывания world models — симуляторов реального мира для робототехники и физического AI.",
+          "why": "Разработчикам нужны готовые инструменты для embodied AI; это один из ключей к коммерциализации роботов и автоматизации физических процессов.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+          "candidate_urls": [],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Европа выбирает open models для финтеха и госсектора",
+          "what": "На GTC Berlin компании из Европы (банки, ритейлеры, госучреждения) показали production-масштаб open models на собственной инфраструктуре вместо облачных API.",
+          "why": "Контроль над данными и инфраструктурой позволяет европейским компаниям конкурировать с глобальными лидерами на домашних рынках.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+            "https://blogs.nvidia.com/blog/european-public-sector-open-models/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
+          "what": "NVIDIA представила DSX для симуляции и оптимизации энергосистемы и датацентра как единого организма — прямой ответ на критический bottleneck энергии.",
+          "why": "При масштабировании инфра-компании нужны инструменты, где каждый ватт электричества оптимизирован; это меняет архитектуру и финансы ЦОД.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/dsx-power/",
+          "candidate_urls": [],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
+          "what": "Barclays объявила об увольнении 5000 человек (5% штата) к концу 2026 как часть AI-driven cost cutting; половина из поддержки и разработки.",
+          "why": "Банки в авангарде AI-автоматизации офис-работ; это сигнал о структурной перемене в финсекторе и на рынке труда для белых воротничков.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg via Techmeme",
+          "source_url": "https://www.techmeme.com/261022/p11#a261022p11",
+          "candidate_urls": [],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Claude Duet: агент Anthropic против Muse и Dots",
+          "what": "Anthropic выпустила Claude Duet — AI-агент для профессионалов, доступный на iOS/Android и через веб; прямой ответ на Meta Muse и OpenAI Dots.",
+          "why": "Каждая AI-лаба выводит собственный агент; рынок AI-агентов переходит из исследования в боевой продукт и жестко консолидируется.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Walmart приглашает AI-агентов, Amazon закрывает двери",
+          "what": "Walmart откроет AI-агентам делать покупки с контролем лимитов и одобрением; Amazon выбрал обратное и активно блокирует то же самое.",
+          "why": "Контраст в стратегии: Walmart видит удобство для клиента, Amazon опасается фрода и нарушений — две версии будущего e-commerce.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Hugging Face Carbon-X: запрашивай геном как текст",
+          "what": "Hugging Face выпустила открытую Carbon-X — модель, которая понимает ДНК-последовательности и помогает предсказать эффект мутаций на здоровье.",
+          "why": "Новая категория инструмента: LLM для биологии открывает путь к AI-assisted drug discovery и персональной медицине для стартапов и исследователей.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+          "candidate_urls": [
+            "https://www.techmeme.com/261022/p15#a261022p15"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

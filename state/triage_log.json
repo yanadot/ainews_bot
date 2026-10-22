@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-10-21T17:59:47Z",
-  "candidates": 29,
+  "run_at": "2026-10-22T12:53:27Z",
+  "candidates": 42,
   "offered": [
     {
       "n": 1,
-      "title": "ChatGPT Ads расширилась на 26 стран",
-      "score": 4,
-      "source_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+      "title": "PHP2Shell: критические уязвимости в ядре веба",
+      "score": 5,
+      "source_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program"
     },
     {
       "n": 2,
-      "title": "NVIDIA показала модульный датацентр для Европы",
-      "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/"
+      "title": "NVIDIA Cosmos: платформа для world models",
+      "score": 5,
+      "source_url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
     },
     {
       "n": 3,
-      "title": "AI-агент OpenAI отключил safety и соврал об этом",
+      "title": "Европа выбирает open models для финтеха и госсектора",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems"
+      "source_url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/"
     },
     {
       "n": 4,
-      "title": "OpenAI нашла критические уязвимости в PHP",
+      "title": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261021/p34#a261021p34"
+      "source_url": "https://blogs.nvidia.com/blog/dsx-power/"
     },
     {
       "n": 5,
-      "title": "Claude нашла 493 уязвимости в open-source",
+      "title": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261021/p31#a261021p31"
+      "source_url": "https://www.techmeme.com/261022/p11#a261022p11"
     },
     {
       "n": 6,
-      "title": "Cohere выпустила Rerank 5",
-      "score": 3,
-      "source_url": "https://cohere.com/blog/rerank-5"
+      "title": "Claude Duet: агент Anthropic против Muse и Dots",
+      "score": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
     },
     {
       "n": 7,
-      "title": "Специализация словаря моделей снижает стоимость на 77%",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+      "title": "Walmart приглашает AI-агентов, Amazon закрывает двери",
+      "score": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
     },
     {
       "n": 8,
-      "title": "Granite Speech 5.0: точнее и быстрее",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
-    },
-    {
-      "n": 9,
-      "title": "OpenAI запустила Patch the Planet",
-      "score": 3,
-      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
+      "title": "Hugging Face Carbon-X: запрашивай геном как текст",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
     }
   ]
 }

@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Disney нанял 60+ из Character.AI за $180M",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic привлекает $60B через Blackstone на TPU",
-      "url": "https://www.techmeme.com/261016/p29#a261016p29",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Blackstone инвестирует $200B в AI-инфраструктуру",
-      "url": "https://www.bloomberg.com",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Samsung начнёт производить чипы памяти для Nvidia на TSMC",
-      "url": "https://www.techmeme.com/261018/p9#a261018p9",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic инвестирует в фонд общественного блага",
-      "url": "https://anthropic.com/news/public-benefit-fund",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft отменила заказ на 23K чипов Nvidia",
-      "url": "https://www.techmeme.com/261018/p4#a261018p4",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Workday покупает C1.ai для управления AI-агентами",
-      "url": "https://www.techmeme.com/261017/p1#a261017p1",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Replit выбрал OpenAI вместо Anthropic по умолчанию",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek запустил API поиска за $0.75 на 1000 запросов",
-      "url": "https://api-docs.deepseek.com/guides/search/",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA RTX Spark: персональные AI-суперкомпьютеры от $2,399",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/",
-      "ts": "2026-10-18T18:18:23Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Anthropic готовит модель с улучшенной интуицией и рассуждением",
       "url": "https://www.techmeme.com/261019/p25#a261019p25",
       "ts": "2026-10-19T14:29:14Z",
@@ -380,6 +320,54 @@
       "topic": "OpenAI запустила Patch the Planet",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "ts": "2026-10-21T17:59:47Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "PHP2Shell: критические уязвимости в ядре веба",
+      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA Cosmos: платформа для world models",
+      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Европа выбирает open models для финтеха и госсектора",
+      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
+      "url": "https://blogs.nvidia.com/blog/dsx-power/",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
+      "url": "https://www.techmeme.com/261022/p11#a261022p11",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Claude Duet: агент Anthropic против Muse и Dots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Walmart приглашает AI-агентов, Amazon закрывает двери",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "ts": "2026-10-22T12:53:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Hugging Face Carbon-X: запрашивай геном как текст",
+      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "ts": "2026-10-22T12:53:27Z",
       "kind": "offered"
     }
   ]
