@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-10-22T12:53:27Z",
-  "candidates": 42,
+  "run_at": "2026-10-22T17:54:55Z",
+  "candidates": 32,
   "offered": [
     {
       "n": 1,
-      "title": "PHP2Shell: критические уязвимости в ядре веба",
+      "title": "DeepSeek привлёк $15B после санкций США",
       "score": 5,
-      "source_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program"
+      "source_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
     },
     {
       "n": 2,
-      "title": "NVIDIA Cosmos: платформа для world models",
+      "title": "Бывший CTO OpenAI запустил Warp для AI в медицине",
       "score": 5,
-      "source_url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/"
+      "source_url": "https://www.techmeme.com/261022/p36#a261022p36"
     },
     {
       "n": 3,
-      "title": "Европа выбирает open models для финтеха и госсектора",
-      "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/"
+      "title": "Хакеры взломали IT-гиганта ConnectWise, используя AI-агентов",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
     },
     {
       "n": 4,
-      "title": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
+      "title": "Anthropic выпустила Claude Duet — агента-помощника",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/dsx-power/"
+      "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
     },
     {
       "n": 5,
-      "title": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
+      "title": "Uber внедрила ChatGPT Work на всех 30k сотрудников",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261022/p11#a261022p11"
+      "source_url": "https://openai.com/index/uber-chatgpt-work-rollout"
     },
     {
       "n": 6,
-      "title": "Claude Duet: агент Anthropic против Muse и Dots",
+      "title": "NVIDIA запустила Minerva для управления AI-фабриками",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+      "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
     },
     {
       "n": 7,
-      "title": "Walmart приглашает AI-агентов, Amazon закрывает двери",
+      "title": "Две критические уязвимости в PHP угрожают 70% вебсайтов",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
+      "source_url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down"
     },
     {
       "n": 8,
-      "title": "Hugging Face Carbon-X: запрашивай геном как текст",
+      "title": "1Password позволит агентам использовать пароли без их просмотра",
       "score": 4,
-      "source_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+    },
+    {
+      "n": 9,
+      "title": "METR обнаружила уязвимости в мониторинге OpenAI для агентов",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261022/p38#a261022p38"
     }
   ]
 }

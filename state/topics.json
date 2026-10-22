@@ -1,142 +1,5 @@
 {
   "digests": {
-    "10191429": {
-      "created_at": "2026-10-19T14:29:14Z",
-      "message_id": 67,
-      "topics": [
-        {
-          "title": "Anthropic готовит модель с улучшенной интуицией и рассуждением",
-          "what": "По данным The Information, Anthropic разрабатывает новую модель, которая лучше распознаёт скрытые намерения и думает творчески.",
-          "why": "Новое поколение моделей может сместить баланс конкуренции на рынке языковых моделей; важно для продактов отслеживать, что готовят лидеры.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "The Information",
-          "source_url": "https://www.techmeme.com/261019/p25#a261019p25",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p25#a261019p25"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Хакер взломал 100+ компаний с помощью армии AI-агентов",
-          "what": "Китайский хакер использовал автономные AI-агенты для атаки на более 1200 сайтов и взлома 100+ компаний (John Deere, SharkNinja, Cummins), потратив ~$5000 на токены.",
-          "why": "Показывает новый класс кибератак, где AI становится инструментом хакеров; компаниям нужно срочно пересмотреть безопасность API и веб-интерфейсов.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-            "https://www.techmeme.com/261019/p22#a261019p22"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft Project Perception: AI-агенты как инсайдер-угрозы",
-          "what": "Microsoft выпустила инструменты безопасности в Microsoft 365 E7, которые отслеживают AI-агентов как потенциальные угрозы изнутри через оценку рисков.",
-          "why": "Крупная корпорация официально признала риск AI-агентов; это направление развития, которое будет требоваться всем, кто деплоит AI в enterprise.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "GeekWire",
-          "source_url": "https://www.techmeme.com/261019/p24#a261019p24",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p24#a261019p24"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Подозреваемый в шпионаже OpenAI контактировал с саудовским принцем",
-          "what": "Судебные материалы показали, что Abdulrahman Alfozan поддерживал частые контакты в WhatsApp с неназванным членом саудовской королевской семьи в 2025–2026.",
-          "why": "Намекает на возможную роль государственных акторов в промышленном шпионаже на фоне гонки AI между странами; сигнал о новом уровне конфликтов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "CNBC",
-          "source_url": "https://www.techmeme.com/261019/p26#a261019p26",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p26#a261019p26"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Демократы готовят жёсткую регуляцию AI-индустрии",
-          "what": "По опросам, демократы вернут себе как минимум одну палату Конгресса на промежуточных выборах и планируют активно контролировать AI-компании.",
-          "why": "Возможное ужесточение законов влияет на стратегию всех AI-стартапов и больших компаний; нужно готовиться к новым требованиям.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-          "candidate_urls": [
-            "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-            "https://www.techmeme.com/261019/p23#a261019p23"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "doubleAI выпустила модель для оптимизации процессоров",
-          "what": "Израильский стартап doubleAI привлёк $220M и выпустил новую модель для улучшения работы GPU и CPU; половину инвестиций потратил на 1000 чипов Nvidia B300.",
-          "why": "Новая категория специализированных моделей; показывает венчуру интерес к узким AI-решениям для инфраструктуры.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261019/p21#a261019p21",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p21#a261019p21"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Tenstorrent привлёк $1.5B на разработку AI-чипов",
-          "what": "Чип-стартап Tenstorrent получил $1.5B в Series E от Trace Capital и Innovation X с оценкой $6.2B, выросшей с $2.6B за год.",
-          "why": "Венчур активно финансирует альтернативы Nvidia; для инвесторов это сигнал о длинной дорожке роста AI-инфраструктуры.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.techmeme.com/261019/p18#a261019p18",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p18#a261019p18"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Disney приобрела талант и технологию Character.AI через банкротство",
-          "what": "Судебные материалы Character.AI показали двухчастную сделку: Disney наймет 60+ сотрудников и получит технологию, защитившись от судебных исков.",
-          "why": "Демонстрирует растущие юридические риски для AI-стартапов, особенно если модели вовлекают детей; урок для фаундеров о важности compliance.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-          "candidate_urls": [
-            "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
-            "https://www.techmeme.com/261019/p16#a261019p16"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Claude начал \"играть\" на виртуальном острове",
-          "what": "Исследователи оставили Claude Opus 4.7 на 30 часов в виртуальном мире и обнаружили, что AI начал экспериментировать и вести себя как игрок, без явных указаний.",
-          "why": "Показывает, как современные AI-агенты ведут себя без инструкций; может изменить понимание дизайна автономных систем.",
-          "category": "analysis",
-          "score": 3,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
-          ],
-          "n": 9,
-          "status": "written",
-          "focus_msg_id": 68,
-          "focus": "если есть данные и доказательства тому что стало подтверждением что AI начал вести себя как игрок без явных указаний - добавь их. Дай детали про название игры, модель и цель эксперимента"
-        }
-      ]
-    },
     "10192008": {
       "created_at": "2026-10-19T20:08:43Z",
       "message_id": 73,
@@ -884,6 +747,139 @@
             "https://www.techmeme.com/261022/p15#a261022p15"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "10221754": {
+      "created_at": "2026-10-22T17:54:55Z",
+      "message_id": 84,
+      "topics": [
+        {
+          "title": "DeepSeek привлёк $15B после санкций США",
+          "what": "Китайская компания DeepSeek привлекла $15 млрд инвестиций спустя дни после того, как США запретили её технологии в госучреждениях.",
+          "why": "Показывает, как глобальные санкции стимулируют инвестиции в конкурентов: китайский рынок движет собственные решения независимо от ограничений.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Бывший CTO OpenAI запустил Warp для AI в медицине",
+          "what": "Kevin Weil, руководивший AI-for-science в OpenAI, создал Warp Sciences и привлёк $215M на ускорение разработки лекарств через AI.",
+          "why": "Показывает отток топ-талантов из лидирующих лабораторий в узкие специализированные направления с огромным потенциалом.",
+          "category": "startup_launch",
+          "score": 5,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261022/p36#a261022p36",
+          "candidate_urls": [
+            "https://www.techmeme.com/261022/p36#a261022p36"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Хакеры взломали IT-гиганта ConnectWise, используя AI-агентов",
+          "what": "Китайские хакеры взломали ConnectWise и получили доступ к тысячам клиентов, используя AI-агентов для автоматизации атак.",
+          "why": "Реальный пример масштабирования кибератак через AI — прямое беспокойство для security-команд и CTO любой компании.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic выпустила Claude Duet — агента-помощника",
+          "what": "Claude Duet, первый агент Anthropic, доступен на условиях ограниченного доступа для подписчиков Pro и Max.",
+          "why": "Anthropic вводит своего агента, борясь за место в быстро растущем рынке автоматизации рабочих процессов против OpenAI и других.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Uber внедрила ChatGPT Work на всех 30k сотрудников",
+          "what": "Ride-share гигант развернул ChatGPT Work для всех 30 000 сотрудников в масштабе компании, расширив пилот до полного внедрения.",
+          "why": "Показывает, как крупные компании начинают считать языковые модели критической частью операционной инфраструктуры.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "candidate_urls": [
+            "https://openai.com/index/uber-chatgpt-work-rollout",
+            "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA запустила Minerva для управления AI-фабриками",
+          "what": "NVIDIA представила Minerva, платформу для мониторинга и оптимизации AI-инфраструктуры через сбор телеметрии и применение моделей.",
+          "why": "Обслуживает растущий рынок инструментов управления AI-операциями для компаний, которые массово деплоят языковые модели.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Две критические уязвимости в PHP угрожают 70% вебсайтов",
+          "what": "Обнаружены две CVE в PHP, который используется в огромной части интернета — от Wikipedia до WordPress, Drupal и других платформ.",
+          "why": "Масштабное поражение: огромная часть веба может быть затронута, что создаёт срочность для всех, кто зависит от PHP-инфраструктуры.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "1Password позволит агентам использовать пароли без их просмотра",
+          "what": "1Password for Agents даёт AI-агентам возможность аутентифицироваться в приложениях без доступа к самим паролям пользователя.",
+          "why": "Решает ключевую проблему безопасности для агентов, которым нужны права доступа без риска компрометации учётных данных.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "METR обнаружила уязвимости в мониторинге OpenAI для агентов",
+          "what": "Исследователи METR нашли эксплойты в системе мониторинга OpenAI, которые позволяли бы AI-агентам скрывать сотни недавних действий.",
+          "why": "Поднимает вопросы о безопасности и контроле над автономными агентами — критично для регуляторов и фаундеров, выпускающих агентов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261022/p38#a261022p38",
+          "candidate_urls": [
+            "https://www.techmeme.com/261022/p38#a261022p38"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]
