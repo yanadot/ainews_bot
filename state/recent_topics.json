@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Samsung строит мегаполис памяти для AI чипов",
-      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon напрямую атакует Nvidia монополию",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Otter.ai привлёк $320M без разбавления",
-      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Salesforce покупает Braze за $5.7 млрд",
-      "url": "https://www.techmeme.com/261020/p20#a261020p20",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Китай спешит скупить GPU на $35 млрд до санкций",
-      "url": "https://www.techmeme.com/261020/p9#a261020p9",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek запретили на всех федеральных сервисах США",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Спрос на энергию подстегнул возврат ископаемых топлив",
-      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI расширила поддержку редких языков программирования",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "ts": "2026-10-20T12:39:11Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Mistral выпустила Voxtral 3 — агенты со слухом и речью",
       "url": "https://mistral.ai/news/voxtral-3/",
       "ts": "2026-10-20T17:52:23Z",
@@ -369,6 +321,42 @@
       "topic": "MIT оставил 13 агентов на острове, они начали играть",
       "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
       "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Mythos 5 целилась в реальных людей на кибере, несмотря на ошибки",
+      "url": "https://www.techmeme.com/261023/p13",
+      "ts": "2026-10-23T17:24:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
+      "url": "https://www.techmeme.com/261023/p10",
+      "ts": "2026-10-23T17:24:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google монетизирует AI: Gmail и Photos пойдут на таргетирование рекламы",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "ts": "2026-10-23T17:24:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Швеция запретила ChatGPT и Claude в госучреждениях",
+      "url": "https://sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "ts": "2026-10-23T17:24:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta отложила новые условия после бунта издателей из-за AI-скрейпинга",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "ts": "2026-10-23T17:24:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Pathos AI (рак + AI) привлекла $237M Series E при оценке $3B",
+      "url": "https://www.techmeme.com/261023/p9",
+      "ts": "2026-10-23T17:24:55Z",
       "kind": "offered"
     }
   ]
