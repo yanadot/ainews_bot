@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Mistral выпустила Voxtral 3 — агенты со слухом и речью",
-      "url": "https://mistral.ai/news/voxtral-3/",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Альтман назвал три будущих AI: регулятор, супер-лаб или плавильня GPU",
-      "url": "https://www.techmeme.com/261020/p32#a261020p32",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "ASI привлекла $325M на AI для авиадиспетчеров и военных",
-      "url": "https://www.techmeme.com/261020/p28#a261020p28",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic защищает модели от дистилляции: как не дать их скопировать",
-      "url": "https://www.anthropic.com/news/distillation-defenses",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cohere исследует уверенность моделей в собственных ответах",
-      "url": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Arda (бывший OpenAI) привлекла $230M на AI для производства",
-      "url": "https://www.techmeme.com/261020/p23#a261020p23",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Eka: робот-манипулятор, который наконец хорошо ловит ($1.45B оценка)",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI отступила от ограничений экспорта чипов в Китай",
-      "url": "https://www.techmeme.com/261020/p25#a261020p25",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Публикуй липовую статистику — LLM её цитируют везде",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Spotify удалила 50M AI-слопа из рекомендаций",
-      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "ts": "2026-10-20T17:52:23Z",
-      "kind": "offered"
-    },
-    {
       "topic": "DeepSeek запустил открытую инфраструктуру для инференса",
       "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
       "ts": "2026-10-21T12:49:35Z",
@@ -358,6 +298,11 @@
       "url": "https://www.techmeme.com/261023/p9",
       "ts": "2026-10-23T17:24:55Z",
       "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
+      "url": "https://openai.com/index/decisions-api/",
+      "ts": "2026-10-23T17:52:54Z"
     }
   ]
 }

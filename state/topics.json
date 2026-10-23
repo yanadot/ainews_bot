@@ -812,8 +812,9 @@
             "https://www.techmeme.com/261023/p10"
           ],
           "n": 2,
-          "status": "awaiting_focus",
-          "focus_msg_id": 87
+          "status": "written",
+          "focus_msg_id": 87,
+          "focus": "пиши с опорой на то про что это апи и какие задачи решает, какой виток это дает для развития AI"
         },
         {
           "title": "Google монетизирует AI: Gmail и Photos пойдут на таргетирование рекламы",
