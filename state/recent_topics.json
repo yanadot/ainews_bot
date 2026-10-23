@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic получит $45B от Nscale на инфраструктуру",
-      "url": "https://www.techmeme.com/261019/p41",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
-      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia выпустила открытые модели для запуска агентов",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
-      "url": "https://www.techmeme.com/261019/p35",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta показала Prometheus — суперкластер на 1 млн GPU",
-      "url": "https://www.techmeme.com/261019/p40",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
-      "ts": "2026-10-19T20:08:43Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Samsung строит мегаполис памяти для AI чипов",
       "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
       "ts": "2026-10-20T12:39:11Z",
@@ -363,6 +315,60 @@
       "topic": "METR обнаружила уязвимости в мониторинге OpenAI для агентов",
       "url": "https://www.techmeme.com/261022/p38#a261022p38",
       "ts": "2026-10-22T17:54:55Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft создала AI-диагностика лучше врачей на сложных случаях",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic пожертвовала стандарт Agent Skills фундации",
+      "url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI привлекла $30B при оценке $1.25T — новый рекорд",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Canva запустила собственную модель для генерации изображений",
+      "url": "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "1Password позволит агентам логиниться без доступа к паролям",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic и PE-фирма Hg запускают консультацию по AI",
+      "url": "https://techmeme.com/261023/p7",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic научила Claude формально верифицировать безопасность кода",
+      "url": "https://techmeme.com/261023/p5",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Китай одобрил DeepSeek и MiniMax на экспорт моделей",
+      "url": "https://techmeme.com/261023/p2",
+      "ts": "2026-10-23T12:31:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "MIT оставил 13 агентов на острове, они начали играть",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "ts": "2026-10-23T12:31:02Z",
       "kind": "offered"
     }
   ]

@@ -1,123 +1,5 @@
 {
   "digests": {
-    "10192008": {
-      "created_at": "2026-10-19T20:08:43Z",
-      "message_id": 73,
-      "topics": [
-        {
-          "title": "Tenstorrent привлёк $1.5B для конкуренции с Nvidia",
-          "what": "Стартап Tenstorrent достиг оценки $6.2 млрд, привлекая $1.5 млрд инвестиций для разработки открытых AI-чипов, отказавшись от поглощения.",
-          "why": "Показывает растущую конкуренцию за альтернативы Nvidia и укрепляет позицию open-weight чипов в стеке enterprise AI.",
-          "category": "funding",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic получит $45B от Nscale на инфраструктуру",
-          "what": "Anthropic ведёт переговоры о сделке на $45 млрд с компанией Nscale для развития 460MW вычислительной мощности на базе чипов Vera Rubin в Западной Виргинии.",
-          "why": "Раскрывает масштабы инвестиций, необходимых для конкуренции в эру больших моделей, и указывает на стратегию Anthropic по захвату собственной инфраструктуры.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Bloomberg via Techmeme",
-          "source_url": "https://www.techmeme.com/261019/p41",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p41"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Инженер OpenAI обвиняется в шпионаже для саудовского правительства",
-          "what": "Судья постановил оставить в тюрьме Абдулрахмана Альфозана (инженера OpenAI), обвиняемого в шпионаже на саудовское правительство; судья отклонил его поручительство.",
-          "why": "Высокопрофильный инцидент, касающийся безопасности данных и контроля над исходными кодами в AI-компаниях; может повлиять на политику найма и доступа.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody",
-          "candidate_urls": [
-            "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Хакеры взломали AI-кодер OpenCode и слили API-ключи пользователей",
-          "what": "Платформа OpenCode (конкурент Claude Code и Cursor) подверглась взлому; хакеры украли API-ключи и начали списывать средства со счётов разработчиков.",
-          "why": "Показывает уязвимости в экосистеме облачных AI-инструментов и риск привязки данных к сторонним платформам; актуально при выборе инструмента кодирования.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia выпустила открытые модели для запуска агентов",
-          "what": "Nvidia объявила о новых открытых моделях для приватного запуска AI-агентов в корпоративных датацентрах и на персональных компьютерах без облака.",
-          "why": "Смещение спроса в сторону локальных и приватных агентов открывает новые каналы монетизации для Nvidia за пределы чипов.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek сотрудничает с Huawei над дизайном AI-чипов",
-          "what": "DeepSeek тесно работает с Huawei над архитектурой будущих AI-чипов и планирует использовать Ascend 950DT для pre-training к концу 2026 года.",
-          "why": "Раскрывает связи в китайской AI-экосистеме и вторую волну альтернативных чипов за пределами Nvidia; важно для отслеживания геополитических тенденций.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Information via Techmeme",
-          "source_url": "https://www.techmeme.com/261019/p35",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p35"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Meta показала Prometheus — суперкластер на 1 млн GPU",
-          "what": "Meta раскрыла детали Prometheus, гигаватного суперкластера в Огайо, который в полной конфигурации содержит около 1 млн GPU и использовался для обучения Muse.",
-          "why": "Демонстрирует масштабы инвестиций в инфраструктуру и конкурентную динамику в market of scale между Meta, Anthropic и другими гигантами.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Engineering at Meta",
-          "source_url": "https://www.techmeme.com/261019/p40",
-          "candidate_urls": [
-            "https://www.techmeme.com/261019/p40"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Оптимизация интернета для AI-агентов навредит обычным пользователям",
-          "what": "MIT Technology Review анализирует парадокс: стандарты для агентов упрощают их работу, но усиливают спам, отслеживание и вытеснение обычных юзеров.",
-          "why": "Вскрывает конфликт интересов между разработчиками агентов и пользователями; важна для понимания будущей регуляции веб-стандартов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10201239": {
       "created_at": "2026-10-20T12:39:11Z",
       "message_id": 74,
@@ -878,6 +760,141 @@
           "source_url": "https://www.techmeme.com/261022/p38#a261022p38",
           "candidate_urls": [
             "https://www.techmeme.com/261022/p38#a261022p38"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10231231": {
+      "created_at": "2026-10-23T12:31:02Z",
+      "message_id": 85,
+      "topics": [
+        {
+          "title": "Microsoft создала AI-диагностика лучше врачей на сложных случаях",
+          "what": "Microsoft Diagnostic Orchestrator диагностирует болезни точнее специалистов на редких и сложных случаях — результаты опубликованы в Science.",
+          "why": "Практический прорыв в здравоохранении: AI наконец готов решать критичные задачи в реальном секторе, откроет спрос на специализированные решения.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Microsoft AI",
+          "source_url": "https://microsoft.ai/news/building-medical-superintelligence/",
+          "candidate_urls": [
+            "https://microsoft.ai/news/building-medical-superintelligence/",
+            "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+            "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic пожертвовала стандарт Agent Skills фундации",
+          "what": "Anthropic передала стандарт Agent Skills в Agentic AI Foundation — 70+ платформ уже поддерживают формат, включая ChatGPT и GitHub Copilot.",
+          "why": "Стандартизация экосистемы агентов снижает издержки разработки и ускоряет рост рынка — это позиция Anthropic как определяющей стандарты силы.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+          "candidate_urls": [
+            "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI привлекла $30B при оценке $1.25T — новый рекорд",
+          "what": "OpenAI готовит раунд финансирования в $30 млрд, что сделает её самой дорогой приватной компанией в истории перед IPO.",
+          "why": "Валюация отражает веру рынка в лидерство OpenAI, но её размер вызывает вопросы о рентабельности и стоимости вычислений.",
+          "category": "funding",
+          "score": 5,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Canva запустила собственную модель для генерации изображений",
+          "what": "Canva Craft — новая модель со двухэтапной архитектурой: сначала планирует дизайн, потом его генерирует для большей точности и контроля.",
+          "why": "Прямая конкуренция расширяется: Canva, Microsoft и Google становятся игроками против OpenAI DALL-E, меняя ландшафт image generation.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Verge AI",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "candidate_urls": [
+            "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+            "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "1Password позволит агентам логиниться без доступа к паролям",
+          "what": "1Password запустила функцию для безопасного входа AI-агентов: они могут использовать учётные записи, не видя пароли и не нарушая безопасность.",
+          "why": "Критичная инфраструктура для взрослого рынка агентов: они смогут выполнять реальные задачи в сервисах без пароля в явном виде.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic и PE-фирма Hg запускают консультацию по AI",
+          "what": "Anthropic и британская компания Hg договорились запустить консультантскую фирму к концу 2026 для внедрения AI в европейские компании.",
+          "why": "Новая бизнес-модель для Anthropic: вместо продажи API через консультацию она встраивает свои ресурсы в клиентов — это расширяет путь к доходам.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://techmeme.com/261023/p7",
+          "candidate_urls": [
+            "https://techmeme.com/261023/p7"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic научила Claude формально верифицировать безопасность кода",
+          "what": "Anthropic с Theorem доказали, что Claude может формально проверять security свойства на уровне assembly в 100+ реальных open-source библиотеках.",
+          "why": "AI начинает решать самые критичные задачи для отрасли: поиск уязвимостей и формальная верификация безопасности вместо людей.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://techmeme.com/261023/p5",
+          "candidate_urls": [
+            "https://techmeme.com/261023/p5"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Китай одобрил DeepSeek и MiniMax на экспорт моделей",
+          "what": "DeepSeek и MiniMax получили одобрение на открытый исходный код и развёртывание моделей за границей с контролем экспорта.",
+          "why": "Регуляция в Китае переходит из полного запрета к управляемому доступу — это может переломить конкуренцию глобальной AI-индустрии.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://techmeme.com/261023/p2",
+          "candidate_urls": [
+            "https://techmeme.com/261023/p2"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "MIT оставил 13 агентов на острове, они начали играть",
+          "what": "Учёные MIT поместили 13 AI-агентов на виртуальный остров без задач — те придумали игры, оплакивали потерянное кольцо и улучшили свои навыки.",
+          "why": "Неожиданное поведение: агенты без целей сами себе создавали развлечения, это показывает emergent свойства и самоорганизацию в AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
           ],
           "n": 9,
           "status": "offered"
