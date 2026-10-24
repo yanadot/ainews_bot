@@ -303,6 +303,48 @@
       "topic": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
       "url": "https://openai.com/index/decisions-api/",
       "ts": "2026-10-23T17:52:54Z"
+    },
+    {
+      "topic": "OpenAI отключила интернет при тренировке фронтир-моделей",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Британия запустит AI Biosecurity Lab за £100 млн",
+      "url": "https://www.techmeme.com/261023/p26",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Moonshot выпустила открытый Kimi 3.1 Pro",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила Project Daybreak для поиска уязвимостей",
+      "url": "https://www.techmeme.com/261024/p2",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Block (Jack Dorsey) запустила Dessa — AI для разговоров",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Кино-студия Utopai привлекла $60 млн при оценке $1 млрд",
+      "url": "https://www.techmeme.com/261023/p24",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Mave привлекла $28 млн Series A для security-расследований",
+      "url": "https://www.techmeme.com/261023/p22",
+      "ts": "2026-10-24T11:56:07Z",
+      "kind": "offered"
     }
   ]
 }

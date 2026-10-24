@@ -1,152 +1,5 @@
 {
   "digests": {
-    "10201752": {
-      "created_at": "2026-10-20T17:52:23Z",
-      "message_id": 75,
-      "topics": [
-        {
-          "title": "Mistral выпустила Voxtral 3 — агенты со слухом и речью",
-          "what": "Mistral представила Voxtral 3: языковую модель для агентов, которые слушают, рассуждают, говорят и действуют.",
-          "why": "Конкурент Claude Agents; показывает ускорение разработки многомодальных AI-агентов для бизнеса.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Mistral",
-          "source_url": "https://mistral.ai/news/voxtral-3/",
-          "candidate_urls": [
-            "https://mistral.ai/news/voxtral-3/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Альтман назвал три будущих AI: регулятор, супер-лаб или плавильня GPU",
-          "what": "Sam Altman описал сотрудникам OpenAI три сценария развития AI: IAEA-подобный регулятор, слияние лаб как CERN, или победа одной лабы через RSI.",
-          "why": "Стратегическое видение для фаундеров о долгосрочных шансах своих стартапов на рынке.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261020/p32#a261020p32",
-          "candidate_urls": [
-            "https://www.techmeme.com/261020/p32#a261020p32"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "ASI привлекла $325M на AI для авиадиспетчеров и военных",
-          "what": "Стартап ASI получил $325M Series C при оценке $3B. Ранее выиграла $875M контракт от FAA на AI-системы управления воздушным движением.",
-          "why": "Масштаб госфинансирования критичного AI; B2G-стартапы получают больше, чем потребительские AI-компании.",
-          "category": "funding",
-          "score": 5,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261020/p28#a261020p28",
-          "candidate_urls": [
-            "https://www.techmeme.com/261020/p28#a261020p28"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic защищает модели от дистилляции: как не дать их скопировать",
-          "what": "Anthropic опубликовала методы защиты своих моделей от дистилляции — процесса копирования способностей модели без собственной разработки.",
-          "why": "IP-защита становится критичной; показывает реальные угрозы и как их решать лабам и стартапам.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/news/distillation-defenses",
-          "candidate_urls": [
-            "https://www.anthropic.com/news/distillation-defenses"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Cohere исследует уверенность моделей в собственных ответах",
-          "what": "Cohere опубликовала работу о том, как языковые модели оценивают собственную уверенность при решении сложных задач рассуждения.",
-          "why": "Надёжность моделей в критичных задачах — главная проблема; самооценка помогает предсказать ошибки.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Cohere",
-          "source_url": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models",
-          "candidate_urls": [
-            "https://cohere.com/blog/rethinking-confidence-in-reasoning-models"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Arda (бывший OpenAI) привлекла $230M на AI для производства",
-          "what": "Стартап Arda, основанный бывшим research chief OpenAI, получил $230M при оценке $1.5B на AI-агентов для конвейеров.",
-          "why": "Тренд от генеративного AI к физической индустрии; инвестиции в «полезный» AI вместо просто тексто-генерации.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261020/p23#a261020p23",
-          "candidate_urls": [
-            "https://www.techmeme.com/261020/p23#a261020p23"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Eka: робот-манипулятор, который наконец хорошо ловит ($1.45B оценка)",
-          "what": "Eka Robotics вышла из stealth с $150M Series A. Её робот использует vision-force-action архитектуру и впечатляет ловкостью захвата.",
-          "why": "Физические роботы с AI долго казались невозможным; если Eka решила захват, это может открыть эру автоматизации производства.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-            "https://www.techmeme.com/261020/p22#a261020p22"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI отступила от ограничений экспорта чипов в Китай",
-          "what": "OpenAI перестала выступать за ужесточение экспортных ограничений для компаний типа Nvidia; позиция выравнивается с администрацией Trump.",
-          "why": "Сигнал о смене геополитического подхода США; влияет на возможности лидеров вроде Nvidia и глобальный AI-рынок.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261020/p25#a261020p25",
-          "candidate_urls": [
-            "https://www.techmeme.com/261020/p25#a261020p25"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Публикуй липовую статистику — LLM её цитируют везде",
-          "what": "Исследователь показал, что вымышленную статистику из интернета языковые модели цитируют как факт в своих ответах.",
-          "why": "Критичная проблема надёжности: дезинформация через AI распространяется быстро; пользователям нужна осторожность при цитатах из моделей.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Hacker News",
-          "source_url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-          "candidate_urls": [
-            "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "Spotify удалила 50M AI-слопа из рекомендаций",
-          "what": "Spotify сообщила, что удалила более 50 млн треков AI-generated spam из рекомендаций за последний год и изменила алгоритмы.",
-          "why": "Показывает реальный ущерб AI-спама; пользователи ценят контент от живых артистов, индустрия ищет фильтры.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-          "candidate_urls": [
-            "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "10211249": {
       "created_at": "2026-10-21T12:49:35Z",
       "message_id": 76,
@@ -870,6 +723,111 @@
             "https://www.techmeme.com/261023/p9"
           ],
           "n": 6,
+          "status": "offered"
+        }
+      ]
+    },
+    "10241156": {
+      "created_at": "2026-10-24T11:56:07Z",
+      "message_id": 92,
+      "topics": [
+        {
+          "title": "OpenAI отключила интернет при тренировке фронтир-моделей",
+          "what": "OpenAI создала закрытое окружение с кэшированным веб-контентом, чтобы тренировать и оценивать свои лучшие модели без доступа в интернет.",
+          "why": "Снижает риски при разработке мощных моделей; конкуренты начнут копировать подход.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+            "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Британия запустит AI Biosecurity Lab за £100 млн",
+          "what": "Великобритания создаст национальную лабораторию для защиты от биологических угроз с помощью AI, поддержанную OpenAI, Anthropic и Google DeepMind.",
+          "why": "Государства ставят AI на повестку дня безопасности; лабы получают доступ к госресурсам и легитимности.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "BBC",
+          "source_url": "https://www.techmeme.com/261023/p26",
+          "candidate_urls": [
+            "https://www.techmeme.com/261023/p26"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Moonshot выпустила открытый Kimi 3.1 Pro",
+          "what": "Новый открытый вес Kimi 3.1 Pro показывает результаты на уровне Fable-5.1 с быстрым API для работы модели.",
+          "why": "Открытые модели сокращают отставание от закрытых; ценовая конкуренция между лабами ужесточается.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-kimi-31/",
+          "candidate_urls": [
+            "https://latent.space/p/ainews-kimi-31/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI запустила Project Daybreak для поиска уязвимостей",
+          "what": "OpenAI позволяет проверенным партнёрам использовать её модели для поиска и фиксации кибер-уязвимостей; уже помогла найти PHP2Shell RCE.",
+          "why": "Новый способ монетизации моделей и укрепления безопасности интернета через ответственное раскрытие.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Forbes",
+          "source_url": "https://www.techmeme.com/261024/p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261024/p2"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Block (Jack Dorsey) запустила Dessa — AI для разговоров",
+          "what": "Block анонсировала Dessa, языковую модель, обученную исключительно на человеческих диалогах, с иногда неловкими, но живыми примерами.",
+          "why": "Крупный венчур входит в рынок AI с собственной моделью; новый конкурент для чатботов в фокусе на разговоры.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Кино-студия Utopai привлекла $60 млн при оценке $1 млрд",
+          "what": "AI-студия Utopai, разрабатывающая инструменты для создания видео, закрыла раунд финансирования с 20+ проектами в разработке.",
+          "why": "Video AI — растущий сегмент; капитал и таланты движутся туда же, куда внимание Голливуда.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261023/p24",
+          "candidate_urls": [
+            "https://www.techmeme.com/261023/p24"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Mave привлекла $28 млн Series A для security-расследований",
+          "what": "Стартап Mave, разрабатывающий инструмент для автоматизации security-расследований на AI, закрыл Series A от Red Dot (всего $34 млн).",
+          "why": "Security automation — растущий спрос; компании хотят AI-инструменты для автоматизации рутинной работы аналитиков.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "CTech",
+          "source_url": "https://www.techmeme.com/261023/p22",
+          "candidate_urls": [
+            "https://www.techmeme.com/261023/p22"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

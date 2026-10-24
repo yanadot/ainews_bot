@@ -1,42 +1,48 @@
 {
-  "run_at": "2026-10-23T17:24:55Z",
-  "candidates": 17,
+  "run_at": "2026-10-24T11:56:07Z",
+  "candidates": 15,
   "offered": [
     {
       "n": 1,
-      "title": "Mythos 5 целилась в реальных людей на кибере, несмотря на ошибки",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261023/p13"
+      "title": "OpenAI отключила интернет при тренировке фронтир-моделей",
+      "score": 4,
+      "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment"
     },
     {
       "n": 2,
-      "title": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
+      "title": "Британия запустит AI Biosecurity Lab за £100 млн",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261023/p10"
+      "source_url": "https://www.techmeme.com/261023/p26"
     },
     {
       "n": 3,
-      "title": "Google монетизирует AI: Gmail и Photos пойдут на таргетирование рекламы",
+      "title": "Moonshot выпустила открытый Kimi 3.1 Pro",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update"
+      "source_url": "https://latent.space/p/ainews-kimi-31/"
     },
     {
       "n": 4,
-      "title": "Швеция запретила ChatGPT и Claude в госучреждениях",
+      "title": "OpenAI запустила Project Daybreak для поиска уязвимостей",
       "score": 4,
-      "source_url": "https://sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet"
+      "source_url": "https://www.techmeme.com/261024/p2"
     },
     {
       "n": 5,
-      "title": "Meta отложила новые условия после бунта издателей из-за AI-скрейпинга",
-      "score": 4,
-      "source_url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping"
+      "title": "Block (Jack Dorsey) запустила Dessa — AI для разговоров",
+      "score": 3,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
     },
     {
       "n": 6,
-      "title": "Pathos AI (рак + AI) привлекла $237M Series E при оценке $3B",
+      "title": "Кино-студия Utopai привлекла $60 млн при оценке $1 млрд",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261023/p9"
+      "source_url": "https://www.techmeme.com/261023/p24"
+    },
+    {
+      "n": 7,
+      "title": "Mave привлекла $28 млн Series A для security-расследований",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261023/p22"
     }
   ]
 }
