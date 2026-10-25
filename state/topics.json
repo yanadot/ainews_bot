@@ -1,250 +1,5 @@
 {
   "digests": {
-    "10221253": {
-      "created_at": "2026-10-22T12:53:27Z",
-      "message_id": 83,
-      "topics": [
-        {
-          "title": "PHP2Shell: критические уязвимости в ядре веба",
-          "what": "OpenAI нашла две критические уязвимости в PHP (PHP2Shell), затрагивающие 70% веб-сайтов; координированное раскрытие велось 2 месяца через программу Patch the Planet.",
-          "why": "AI нашла фундаментальные дыры в популярном коде — это показывает потенциал AI как инструмента защиты и потенциальный риск масса-разработки уязвимостей.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Latent Space",
-          "source_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-          "candidate_urls": [
-            "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-            "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA Cosmos: платформа для world models",
-          "what": "NVIDIA расширила Cosmos инструментами для тренировки и развертывания world models — симуляторов реального мира для робототехники и физического AI.",
-          "why": "Разработчикам нужны готовые инструменты для embodied AI; это один из ключей к коммерциализации роботов и автоматизации физических процессов.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Европа выбирает open models для финтеха и госсектора",
-          "what": "На GTC Berlin компании из Европы (банки, ритейлеры, госучреждения) показали production-масштаб open models на собственной инфраструктуре вместо облачных API.",
-          "why": "Контроль над данными и инфраструктурой позволяет европейским компаниям конкурировать с глобальными лидерами на домашних рынках.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-            "https://blogs.nvidia.com/blog/european-public-sector-open-models/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
-          "what": "NVIDIA представила DSX для симуляции и оптимизации энергосистемы и датацентра как единого организма — прямой ответ на критический bottleneck энергии.",
-          "why": "При масштабировании инфра-компании нужны инструменты, где каждый ватт электричества оптимизирован; это меняет архитектуру и финансы ЦОД.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/dsx-power/",
-          "candidate_urls": [],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
-          "what": "Barclays объявила об увольнении 5000 человек (5% штата) к концу 2026 как часть AI-driven cost cutting; половина из поддержки и разработки.",
-          "why": "Банки в авангарде AI-автоматизации офис-работ; это сигнал о структурной перемене в финсекторе и на рынке труда для белых воротничков.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Bloomberg via Techmeme",
-          "source_url": "https://www.techmeme.com/261022/p11#a261022p11",
-          "candidate_urls": [],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Claude Duet: агент Anthropic против Muse и Dots",
-          "what": "Anthropic выпустила Claude Duet — AI-агент для профессионалов, доступный на iOS/Android и через веб; прямой ответ на Meta Muse и OpenAI Dots.",
-          "why": "Каждая AI-лаба выводит собственный агент; рынок AI-агентов переходит из исследования в боевой продукт и жестко консолидируется.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Walmart приглашает AI-агентов, Amazon закрывает двери",
-          "what": "Walmart откроет AI-агентам делать покупки с контролем лимитов и одобрением; Amazon выбрал обратное и активно блокирует то же самое.",
-          "why": "Контраст в стратегии: Walmart видит удобство для клиента, Amazon опасается фрода и нарушений — две версии будущего e-commerce.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Hugging Face Carbon-X: запрашивай геном как текст",
-          "what": "Hugging Face выпустила открытую Carbon-X — модель, которая понимает ДНК-последовательности и помогает предсказать эффект мутаций на здоровье.",
-          "why": "Новая категория инструмента: LLM для биологии открывает путь к AI-assisted drug discovery и персональной медицине для стартапов и исследователей.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-          "candidate_urls": [
-            "https://www.techmeme.com/261022/p15#a261022p15"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
-    "10221754": {
-      "created_at": "2026-10-22T17:54:55Z",
-      "message_id": 84,
-      "topics": [
-        {
-          "title": "DeepSeek привлёк $15B после санкций США",
-          "what": "Китайская компания DeepSeek привлекла $15 млрд инвестиций спустя дни после того, как США запретили её технологии в госучреждениях.",
-          "why": "Показывает, как глобальные санкции стимулируют инвестиции в конкурентов: китайский рынок движет собственные решения независимо от ограничений.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Бывший CTO OpenAI запустил Warp для AI в медицине",
-          "what": "Kevin Weil, руководивший AI-for-science в OpenAI, создал Warp Sciences и привлёк $215M на ускорение разработки лекарств через AI.",
-          "why": "Показывает отток топ-талантов из лидирующих лабораторий в узкие специализированные направления с огромным потенциалом.",
-          "category": "startup_launch",
-          "score": 5,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261022/p36#a261022p36",
-          "candidate_urls": [
-            "https://www.techmeme.com/261022/p36#a261022p36"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Хакеры взломали IT-гиганта ConnectWise, используя AI-агентов",
-          "what": "Китайские хакеры взломали ConnectWise и получили доступ к тысячам клиентов, используя AI-агентов для автоматизации атак.",
-          "why": "Реальный пример масштабирования кибератак через AI — прямое беспокойство для security-команд и CTO любой компании.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic выпустила Claude Duet — агента-помощника",
-          "what": "Claude Duet, первый агент Anthropic, доступен на условиях ограниченного доступа для подписчиков Pro и Max.",
-          "why": "Anthropic вводит своего агента, борясь за место в быстро растущем рынке автоматизации рабочих процессов против OpenAI и других.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Uber внедрила ChatGPT Work на всех 30k сотрудников",
-          "what": "Ride-share гигант развернул ChatGPT Work для всех 30 000 сотрудников в масштабе компании, расширив пилот до полного внедрения.",
-          "why": "Показывает, как крупные компании начинают считать языковые модели критической частью операционной инфраструктуры.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "candidate_urls": [
-            "https://openai.com/index/uber-chatgpt-work-rollout",
-            "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA запустила Minerva для управления AI-фабриками",
-          "what": "NVIDIA представила Minerva, платформу для мониторинга и оптимизации AI-инфраструктуры через сбор телеметрии и применение моделей.",
-          "why": "Обслуживает растущий рынок инструментов управления AI-операциями для компаний, которые массово деплоят языковые модели.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Две критические уязвимости в PHP угрожают 70% вебсайтов",
-          "what": "Обнаружены две CVE в PHP, который используется в огромной части интернета — от Wikipedia до WordPress, Drupal и других платформ.",
-          "why": "Масштабное поражение: огромная часть веба может быть затронута, что создаёт срочность для всех, кто зависит от PHP-инфраструктуры.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "1Password позволит агентам использовать пароли без их просмотра",
-          "what": "1Password for Agents даёт AI-агентам возможность аутентифицироваться в приложениях без доступа к самим паролям пользователя.",
-          "why": "Решает ключевую проблему безопасности для агентов, которым нужны права доступа без риска компрометации учётных данных.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "METR обнаружила уязвимости в мониторинге OpenAI для агентов",
-          "what": "Исследователи METR нашли эксплойты в системе мониторинга OpenAI, которые позволяли бы AI-агентам скрывать сотни недавних действий.",
-          "why": "Поднимает вопросы о безопасности и контроле над автономными агентами — критично для регуляторов и фаундеров, выпускающих агентов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261022/p38#a261022p38",
-          "candidate_urls": [
-            "https://www.techmeme.com/261022/p38#a261022p38"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10231231": {
       "created_at": "2026-10-23T12:31:02Z",
       "message_id": 85,
@@ -711,6 +466,40 @@
             "https://www.techmeme.com/261024/p9#a261024p9"
           ],
           "n": 6,
+          "status": "offered"
+        }
+      ]
+    },
+    "10251930": {
+      "created_at": "2026-10-25T19:30:30Z",
+      "message_id": 95,
+      "topics": [
+        {
+          "title": "Обзор AI-гаджетов: Friend, Bee, Muse Charm и другие браслеты",
+          "what": "TechCrunch подобрала список лучших AI-вещей: смарт-браслетов и гаджетов, которые работают на базе искусственного интеллекта.",
+          "why": "Растет предложение персональных AI-девайсов с собственным дизайном; для фаундеров это сигнал о новой категории продуктов и спросе на них.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "r/opensource запретила проекты с AI и контент на неанглийских языках",
+          "what": "Модераторы крупного сабреддита ввели правила, запрещающие проекты, использующие AI, созданные AI или предназначенные для AI.",
+          "why": "В OSS-сообществе растет сопротивление AI; это важный сигнал для компаний, которые полагаются на открытое ПО или создают AI-инструменты.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+          ],
+          "n": 2,
           "status": "offered"
         }
       ]

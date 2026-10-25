@@ -1,108 +1,6 @@
 {
   "topics": [
     {
-      "topic": "PHP2Shell: критические уязвимости в ядре веба",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA Cosmos: платформа для world models",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Европа выбирает open models для финтеха и госсектора",
-      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA DSX: решение для кризиса энергопотребления ЦОД",
-      "url": "https://blogs.nvidia.com/blog/dsx-power/",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Barclays сокращает 5000 сотрудников волной AI-автоматизации",
-      "url": "https://www.techmeme.com/261022/p11#a261022p11",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Claude Duet: агент Anthropic против Muse и Dots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Walmart приглашает AI-агентов, Amazon закрывает двери",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Hugging Face Carbon-X: запрашивай геном как текст",
-      "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "ts": "2026-10-22T12:53:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepSeek привлёк $15B после санкций США",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Бывший CTO OpenAI запустил Warp для AI в медицине",
-      "url": "https://www.techmeme.com/261022/p36#a261022p36",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Хакеры взломали IT-гиганта ConnectWise, используя AI-агентов",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic выпустила Claude Duet — агента-помощника",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Uber внедрила ChatGPT Work на всех 30k сотрудников",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA запустила Minerva для управления AI-фабриками",
-      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Две критические уязвимости в PHP угрожают 70% вебсайтов",
-      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "1Password позволит агентам использовать пароли без их просмотра",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "METR обнаружила уязвимости в мониторинге OpenAI для агентов",
-      "url": "https://www.techmeme.com/261022/p38#a261022p38",
-      "ts": "2026-10-22T17:54:55Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Microsoft создала AI-диагностика лучше врачей на сложных случаях",
       "url": "https://microsoft.ai/news/building-medical-superintelligence/",
       "ts": "2026-10-23T12:31:02Z",
@@ -291,6 +189,18 @@
       "topic": "Вне техсектора AI не дал финансовых результатов",
       "url": "https://techmeme.com/261024/p9#a261024p9",
       "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Обзор AI-гаджетов: Friend, Bee, Muse Charm и другие браслеты",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "ts": "2026-10-25T19:30:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "r/opensource запретила проекты с AI и контент на неанглийских языках",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "ts": "2026-10-25T19:30:30Z",
       "kind": "offered"
     }
   ]

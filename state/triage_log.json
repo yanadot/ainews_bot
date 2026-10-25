@@ -1,42 +1,18 @@
 {
-  "run_at": "2026-10-25T12:26:12Z",
-  "candidates": 15,
+  "run_at": "2026-10-25T19:30:30Z",
+  "candidates": 3,
   "offered": [
     {
       "n": 1,
-      "title": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
-      "score": 4,
-      "source_url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+      "title": "Обзор AI-гаджетов: Friend, Bee, Muse Charm и другие браслеты",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about"
     },
     {
       "n": 2,
-      "title": "Chip-backed debt выходит на триллионный рынок",
-      "score": 4,
-      "source_url": "https://techmeme.com/261025/p6#a261025p6"
-    },
-    {
-      "n": 3,
-      "title": "Cerebras развернула триллион-параметровую модель",
-      "score": 4,
-      "source_url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-    },
-    {
-      "n": 4,
-      "title": "США потеряли 200 тысяч рабочих мест в медиа, кино и искусстве",
-      "score": 4,
-      "source_url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-    },
-    {
-      "n": 5,
-      "title": "Replit переходит на OpenAI со скидкой $100M+/год",
-      "score": 4,
-      "source_url": "https://techmeme.com/261024/p8#a261024p8"
-    },
-    {
-      "n": 6,
-      "title": "Вне техсектора AI не дал финансовых результатов",
+      "title": "r/opensource запретила проекты с AI и контент на неанглийских языках",
       "score": 3,
-      "source_url": "https://techmeme.com/261024/p9#a261024p9"
+      "source_url": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
     }
   ]
 }
