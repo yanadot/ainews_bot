@@ -624,6 +624,96 @@
           "status": "offered"
         }
       ]
+    },
+    "10251226": {
+      "created_at": "2026-10-25T12:26:12Z",
+      "message_id": 94,
+      "topics": [
+        {
+          "title": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
+          "what": "Губернатор Пенсильвании подписал закон, обязывающий раскрывать, что реклама создана или значительно изменена AI.",
+          "why": "Первый штат США, установивший требование раскрытия — модель для других регионов и сигнал о том, как регулировать и защищать потребителей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge AI",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Chip-backed debt выходит на триллионный рынок",
+          "what": "Кредитование под GPU и чипы вышло из прототипа на масштабный рынок: сделка Blackstone 2023-го года с CoreWeave стала шаблоном.",
+          "why": "Новый источник финансирования AI-инфраструктуры меняет динамику стартапов — деньги текут к железу и вычислениям, не софту.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Bloomberg via Techmeme",
+          "source_url": "https://techmeme.com/261025/p6#a261025p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261025/p6#a261025p6"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Cerebras развернула триллион-параметровую модель",
+          "what": "Cerebras опубликовала метод развертывания моделей с триллионом параметров, которые раньше было сложно запустить в боевых условиях.",
+          "why": "Сигнал о сдвиге границ масштабирования: модели растут, но инфраструктура находит способы их тянуть — конкуренция за эффективность.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Cerebras",
+          "source_url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "candidate_urls": [
+            "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "США потеряли 200 тысяч рабочих мест в медиа, кино и искусстве",
+          "what": "Анализ показывает, что 200 тысяч рабочих мест в творческих индустриях исчезли; вопрос — какую долю отобрала AI.",
+          "why": "Конкретная цифра помогает говорить со stakeholders об импакте AI на экономику и обосновывать регуляцию, льготы, обучение.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Apricitas",
+          "source_url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "candidate_urls": [
+            "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Replit переходит на OpenAI со скидкой $100M+/год",
+          "what": "Replit переместила основную часть расходов на языковые модели с Anthropic на OpenAI после предложения скидки 30%+ в рамках годовой сделки.",
+          "why": "Конкурентная динамика: OpenAI активно покупает клиентов; показатель того, что цена и скидки — ключевой фактор выбора модели для стартапов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Information via Techmeme",
+          "source_url": "https://techmeme.com/261024/p8#a261024p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261024/p8#a261024p8"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Вне техсектора AI не дал финансовых результатов",
+          "what": "Анализ показывает: за пределами IT и интернета американские компании инвестируют в AI, но не видят отдачи; AI — центр затрат.",
+          "why": "Важный сигнал для продактов: большинство компаний ещё не нашли способ монетизировать AI, нужны реальные кейсы использования.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Apollo Global Management via Techmeme",
+          "source_url": "https://techmeme.com/261024/p9#a261024p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261024/p9#a261024p9"
+          ],
+          "n": 6,
+          "status": "offered"
+        }
+      ]
     }
   }
 }

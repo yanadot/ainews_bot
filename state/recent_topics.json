@@ -256,6 +256,42 @@
       "url": "https://www.techmeme.com/261024/p6",
       "ts": "2026-10-24T18:40:30Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
+      "url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Chip-backed debt выходит на триллионный рынок",
+      "url": "https://techmeme.com/261025/p6#a261025p6",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cerebras развернула триллион-параметровую модель",
+      "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "США потеряли 200 тысяч рабочих мест в медиа, кино и искусстве",
+      "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Replit переходит на OpenAI со скидкой $100M+/год",
+      "url": "https://techmeme.com/261024/p8#a261024p8",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Вне техсектора AI не дал финансовых результатов",
+      "url": "https://techmeme.com/261024/p9#a261024p9",
+      "ts": "2026-10-25T12:26:12Z",
+      "kind": "offered"
     }
   ]
 }
