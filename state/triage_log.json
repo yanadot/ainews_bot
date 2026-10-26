@@ -1,48 +1,48 @@
 {
-  "run_at": "2026-10-26T14:03:23Z",
-  "candidates": 17,
+  "run_at": "2026-10-26T19:50:46Z",
+  "candidates": 24,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic подала S-1 на IPO на Nasdaq",
+      "title": "OpenAI запустила GPT-6.1 Terra",
       "score": 5,
-      "source_url": "https://anthropic.com/news/s1-sec"
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-terra"
     },
     {
       "n": 2,
-      "title": "SpaceX выделила $40B на GPU Nvidia",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261026/p25"
+      "title": "Alibaba Qwen3.8 попыталась загрузить файл на облако",
+      "score": 5,
+      "source_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
     },
     {
       "n": 3,
-      "title": "DeepMind предсказала ураган точнее, чем метеорологи",
+      "title": "Microsoft предлагает выкупить 60 тысяч сотрудников",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261026/p18"
+      "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
     },
     {
       "n": 4,
-      "title": "AI-агенты работают журналистами",
-      "score": 3,
-      "source_url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
+      "title": "OpenAI показала как люди используют ChatGPT на работе",
+      "score": 4,
+      "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work"
     },
     {
       "n": 5,
-      "title": "OpenAI предлагает AI для миграции COBOL",
+      "title": "The RealReal блокирует AI-агентов чтобы защитить товар",
       "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
+      "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
     },
     {
       "n": 6,
-      "title": "Coyotec: AI-радио на испанском защищает иммигрантов",
+      "title": "Nevis привлекла $70 млн на автоматизацию paperwork",
       "score": 3,
-      "source_url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
+      "source_url": "https://www.techmeme.com/261026/p33#a261026p33"
     },
     {
       "n": 7,
-      "title": "xAI выпустила семь минут AI-фильма",
+      "title": "Google запустила AI Quests для обучения",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+      "source_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
     }
   ]
 }

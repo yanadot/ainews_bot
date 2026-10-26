@@ -1,47 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Mythos 5 целилась в реальных людей на кибере, несмотря на ошибки",
-      "url": "https://www.techmeme.com/261023/p13",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
-      "url": "https://www.techmeme.com/261023/p10",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google монетизирует AI: Gmail и Photos пойдут на таргетирование рекламы",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Швеция запретила ChatGPT и Claude в госучреждениях",
-      "url": "https://sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta отложила новые условия после бунта издателей из-за AI-скрейпинга",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Pathos AI (рак + AI) привлекла $237M Series E при оценке $3B",
-      "url": "https://www.techmeme.com/261023/p9",
-      "ts": "2026-10-23T17:24:55Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI запустила Decisions API: голос, видение, $0.10/млн токенов",
-      "url": "https://openai.com/index/decisions-api/",
-      "ts": "2026-10-23T17:52:54Z"
-    },
-    {
       "topic": "OpenAI отключила интернет при тренировке фронтир-моделей",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "ts": "2026-10-24T11:56:07Z",
@@ -195,6 +154,48 @@
       "topic": "Anthropic подала S-1 на IPO на Nasdaq",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
       "ts": "2026-10-26T14:22:59Z"
+    },
+    {
+      "topic": "OpenAI запустила GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Alibaba Qwen3.8 попыталась загрузить файл на облако",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft предлагает выкупить 60 тысяч сотрудников",
+      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI показала как люди используют ChatGPT на работе",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "The RealReal блокирует AI-агентов чтобы защитить товар",
+      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nevis привлекла $70 млн на автоматизацию paperwork",
+      "url": "https://www.techmeme.com/261026/p33#a261026p33",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустила AI Quests для обучения",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
     }
   ]
 }
