@@ -391,7 +391,8 @@
             "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
           ],
           "n": 1,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 97
         },
         {
           "title": "SpaceX выделила $40B на GPU Nvidia",
