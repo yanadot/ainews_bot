@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Microsoft создала AI-диагностика лучше врачей на сложных случаях",
-      "url": "https://microsoft.ai/news/building-medical-superintelligence/",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic пожертвовала стандарт Agent Skills фундации",
-      "url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI привлекла $30B при оценке $1.25T — новый рекорд",
-      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Canva запустила собственную модель для генерации изображений",
-      "url": "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "1Password позволит агентам логиниться без доступа к паролям",
-      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic и PE-фирма Hg запускают консультацию по AI",
-      "url": "https://techmeme.com/261023/p7",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic научила Claude формально верифицировать безопасность кода",
-      "url": "https://techmeme.com/261023/p5",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Китай одобрил DeepSeek и MiniMax на экспорт моделей",
-      "url": "https://techmeme.com/261023/p2",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "MIT оставил 13 агентов на острове, они начали играть",
-      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-      "ts": "2026-10-23T12:31:02Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Mythos 5 целилась в реальных людей на кибере, несмотря на ошибки",
       "url": "https://www.techmeme.com/261023/p13",
       "ts": "2026-10-23T17:24:55Z",
@@ -201,6 +147,48 @@
       "topic": "r/opensource запретила проекты с AI и контент на неанглийских языках",
       "url": "https://theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
       "ts": "2026-10-25T19:30:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic подала S-1 на IPO на Nasdaq",
+      "url": "https://anthropic.com/news/s1-sec",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SpaceX выделила $40B на GPU Nvidia",
+      "url": "https://www.techmeme.com/261026/p25",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepMind предсказала ураган точнее, чем метеорологи",
+      "url": "https://www.techmeme.com/261026/p18",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-агенты работают журналистами",
+      "url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI предлагает AI для миграции COBOL",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Coyotec: AI-радио на испанском защищает иммигрантов",
+      "url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+      "ts": "2026-10-26T14:03:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "xAI выпустила семь минут AI-фильма",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "ts": "2026-10-26T14:03:23Z",
       "kind": "offered"
     }
   ]

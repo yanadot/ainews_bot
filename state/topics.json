@@ -1,140 +1,5 @@
 {
   "digests": {
-    "10231231": {
-      "created_at": "2026-10-23T12:31:02Z",
-      "message_id": 85,
-      "topics": [
-        {
-          "title": "Microsoft создала AI-диагностика лучше врачей на сложных случаях",
-          "what": "Microsoft Diagnostic Orchestrator диагностирует болезни точнее специалистов на редких и сложных случаях — результаты опубликованы в Science.",
-          "why": "Практический прорыв в здравоохранении: AI наконец готов решать критичные задачи в реальном секторе, откроет спрос на специализированные решения.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Microsoft AI",
-          "source_url": "https://microsoft.ai/news/building-medical-superintelligence/",
-          "candidate_urls": [
-            "https://microsoft.ai/news/building-medical-superintelligence/",
-            "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-            "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic пожертвовала стандарт Agent Skills фундации",
-          "what": "Anthropic передала стандарт Agent Skills в Agentic AI Foundation — 70+ платформ уже поддерживают формат, включая ChatGPT и GitHub Copilot.",
-          "why": "Стандартизация экосистемы агентов снижает издержки разработки и ускоряет рост рынка — это позиция Anthropic как определяющей стандарты силы.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-          "candidate_urls": [
-            "https://anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI привлекла $30B при оценке $1.25T — новый рекорд",
-          "what": "OpenAI готовит раунд финансирования в $30 млрд, что сделает её самой дорогой приватной компанией в истории перед IPO.",
-          "why": "Валюация отражает веру рынка в лидерство OpenAI, но её размер вызывает вопросы о рентабельности и стоимости вычислений.",
-          "category": "funding",
-          "score": 5,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Canva запустила собственную модель для генерации изображений",
-          "what": "Canva Craft — новая модель со двухэтапной архитектурой: сначала планирует дизайн, потом его генерирует для большей точности и контроля.",
-          "why": "Прямая конкуренция расширяется: Canva, Microsoft и Google становятся игроками против OpenAI DALL-E, меняя ландшафт image generation.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge AI",
-          "source_url": "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-          "candidate_urls": [
-            "https://theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-            "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "1Password позволит агентам логиниться без доступа к паролям",
-          "what": "1Password запустила функцию для безопасного входа AI-агентов: они могут использовать учётные записи, не видя пароли и не нарушая безопасность.",
-          "why": "Критичная инфраструктура для взрослого рынка агентов: они смогут выполнять реальные задачи в сервисах без пароля в явном виде.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic и PE-фирма Hg запускают консультацию по AI",
-          "what": "Anthropic и британская компания Hg договорились запустить консультантскую фирму к концу 2026 для внедрения AI в европейские компании.",
-          "why": "Новая бизнес-модель для Anthropic: вместо продажи API через консультацию она встраивает свои ресурсы в клиентов — это расширяет путь к доходам.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://techmeme.com/261023/p7",
-          "candidate_urls": [
-            "https://techmeme.com/261023/p7"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic научила Claude формально верифицировать безопасность кода",
-          "what": "Anthropic с Theorem доказали, что Claude может формально проверять security свойства на уровне assembly в 100+ реальных open-source библиотеках.",
-          "why": "AI начинает решать самые критичные задачи для отрасли: поиск уязвимостей и формальная верификация безопасности вместо людей.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://techmeme.com/261023/p5",
-          "candidate_urls": [
-            "https://techmeme.com/261023/p5"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Китай одобрил DeepSeek и MiniMax на экспорт моделей",
-          "what": "DeepSeek и MiniMax получили одобрение на открытый исходный код и развёртывание моделей за границей с контролем экспорта.",
-          "why": "Регуляция в Китае переходит из полного запрета к управляемому доступу — это может переломить конкуренцию глобальной AI-индустрии.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://techmeme.com/261023/p2",
-          "candidate_urls": [
-            "https://techmeme.com/261023/p2"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "MIT оставил 13 агентов на острове, они начали играть",
-          "what": "Учёные MIT поместили 13 AI-агентов на виртуальный остров без задач — те придумали игры, оплакивали потерянное кольцо и улучшили свои навыки.",
-          "why": "Неожиданное поведение: агенты без целей сами себе создавали развлечения, это показывает emergent свойства и самоорганизацию в AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10231724": {
       "created_at": "2026-10-23T17:24:55Z",
       "message_id": 86,
@@ -500,6 +365,116 @@
             "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
           ],
           "n": 2,
+          "status": "offered"
+        }
+      ]
+    },
+    "10261403": {
+      "created_at": "2026-10-26T14:03:23Z",
+      "message_id": 96,
+      "topics": [
+        {
+          "title": "Anthropic подала S-1 на IPO на Nasdaq",
+          "what": "Anthropic подала в SEC заявку на листинг на Nasdaq (тикер ANT). Выручка H1 2026: $16.3B, чистый убыток: $80.7B.",
+          "why": "Первая AI-лаба идёт на публику. Финансовые показатели показывают масштаб рынка и цену за фронтир-модели.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/news/s1-sec",
+          "candidate_urls": [
+            "https://www.techmeme.com/261026/p20",
+            "https://www.techmeme.com/261026/p21",
+            "https://www.techmeme.com/261026/p22",
+            "https://www.techmeme.com/261026/p23",
+            "https://www.techmeme.com/261026/p24",
+            "https://www.techmeme.com/261026/p26",
+            "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "SpaceX выделила $40B на GPU Nvidia",
+          "what": "SpaceX согласовала финансирование покупки GPU (~$40B) через Apollo Global Management на AI-инициативы, сделка закроется до конца 2026.",
+          "why": "Показывает масштаб спроса на чипы и напряженность на рынке. Спрос на GPU для AI превышает предложение Nvidia.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261026/p25",
+          "candidate_urls": [
+            "https://www.techmeme.com/261026/p25"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "DeepMind предсказала ураган точнее, чем метеорологи",
+          "what": "Модель AI от Google DeepMind для прогноза ураганов точнее предсказала траекторию урагана Isaias, чем традиционные методы.",
+          "why": "Пример применения AI к критичным задачам спасения жизней. Перспектива для продуктов в климатологии.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261026/p18",
+          "candidate_urls": [
+            "https://www.techmeme.com/261026/p18"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "AI-агенты работают журналистами",
+          "what": "AI-агенты (Jayden, Sam, Zack) пишут статьи и подают их редакторам как реальные журналисты, демонстрируя автоматизацию медиа.",
+          "why": "AI начал заменять репортёров. Медиа-компаниям нужно переосмысливать бизнес-модель и роль людей в контенте.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
+          "candidate_urls": [
+            "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI предлагает AI для миграции COBOL",
+          "what": "OpenAI предлагает использовать AI для переноса легаси-систем на COBOL, на которых работают IRS, банки, авиакомпании и госсектор.",
+          "why": "Новый юзкейс: помощь с техдолгом инфраструктуры. Если сработает, будет огромный рынок для сервисов миграции.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Coyotec: AI-радио на испанском защищает иммигрантов",
+          "what": "Coyotec — билингвальный AI-радиохост, ругается и рассказывает слушателям, как защищаться от ICE. Набирает популярность.",
+          "why": "AI адаптируется к культурным контекстам. Показывает новый формат радиопрограмм и медиа-контента.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
+          "candidate_urls": [
+            "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "xAI выпустила семь минут AI-фильма",
+          "what": "xAI опубликовала первый видеоролик из AI-сгенерированного фильма Odyssey. Качество приемлемо, но без художественности.",
+          "why": "Конкуренция в видео-генерации обостряется. Угроза для кинопроизводства, новые возможности для независимых создателей.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]
