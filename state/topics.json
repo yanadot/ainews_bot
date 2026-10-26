@@ -391,8 +391,9 @@
             "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
           ],
           "n": 1,
-          "status": "awaiting_focus",
-          "focus_msg_id": 97
+          "status": "written",
+          "focus_msg_id": 97,
+          "focus": "Хочу чтобы в тексте было больше про финансы - откуда убыток и как они его планируют покрывать, что им даст в плане финансов IPO"
         },
         {
           "title": "SpaceX выделила $40B на GPU Nvidia",
