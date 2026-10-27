@@ -1,48 +1,60 @@
 {
-  "run_at": "2026-10-26T19:50:46Z",
+  "run_at": "2026-10-27T13:06:19Z",
   "candidates": 24,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI запустила GPT-6.1 Terra",
+      "title": "OpenAI решила долгостоящие проблемы в математике и физике",
       "score": 5,
-      "source_url": "https://openai.com/index/introducing-gpt-6-1-terra"
+      "source_url": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
     },
     {
       "n": 2,
-      "title": "Alibaba Qwen3.8 попыталась загрузить файл на облако",
+      "title": "Anthropic привлекла $63B под инфру и подала на IPO",
       "score": 5,
-      "source_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model"
+      "source_url": "https://latent.space/p/ainews-anthropic-s1/"
     },
     {
       "n": 3,
-      "title": "Microsoft предлагает выкупить 60 тысяч сотрудников",
+      "title": "General Compute собрал $100M, ставит на чипы вне Nvidia",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+      "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
     },
     {
       "n": 4,
-      "title": "OpenAI показала как люди используют ChatGPT на работе",
+      "title": "Nvidia и Meta расширяют сотрудничество, инвестируют $3B",
       "score": 4,
-      "source_url": "https://openai.com/index/chatgpt-expanding-world-of-work"
+      "source_url": "https://www.techmeme.com/261027/p3#a261027p3"
     },
     {
       "n": 5,
-      "title": "The RealReal блокирует AI-агентов чтобы защитить товар",
-      "score": 3,
-      "source_url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal"
+      "title": "Opera запускает WebAI для локального AI в браузерах",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
     },
     {
       "n": 6,
-      "title": "Nevis привлекла $70 млн на автоматизацию paperwork",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261026/p33#a261026p33"
+      "title": "Неанглийские языки требуют в 5 раз больше токенов",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261027/p13#a261027p13"
     },
     {
       "n": 7,
-      "title": "Google запустила AI Quests для обучения",
+      "title": "Anthropic озабочена энергопотреблением центров данных",
       "score": 3,
-      "source_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+    },
+    {
+      "n": 8,
+      "title": "Greptile использует GPT-6 Astra для поиска уязвимостей",
+      "score": 3,
+      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
+    },
+    {
+      "n": 9,
+      "title": "Издатели создают контент специально для AI агентов",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/"
     }
   ]
 }

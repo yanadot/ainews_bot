@@ -1,6 +1,12 @@
 {
-  "checked_at": "2026-10-26T19:48:40Z",
+  "checked_at": "2026-10-27T13:03:04Z",
   "errors": [
+    {
+      "id": "deepmind",
+      "name": "Google DeepMind",
+      "url": "https://deepmind.google/discover/blog/",
+      "error": "ValueError: no links matched link_pattern (JS-only page or layout changed?)"
+    },
     {
       "id": "hn_ai",
       "name": "Hacker News (AI, 200+)",

@@ -1,48 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI отключила интернет при тренировке фронтир-моделей",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Британия запустит AI Biosecurity Lab за £100 млн",
-      "url": "https://www.techmeme.com/261023/p26",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Moonshot выпустила открытый Kimi 3.1 Pro",
-      "url": "https://latent.space/p/ainews-kimi-31/",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI запустила Project Daybreak для поиска уязвимостей",
-      "url": "https://www.techmeme.com/261024/p2",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Block (Jack Dorsey) запустила Dessa — AI для разговоров",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Кино-студия Utopai привлекла $60 млн при оценке $1 млрд",
-      "url": "https://www.techmeme.com/261023/p24",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Mave привлекла $28 млн Series A для security-расследований",
-      "url": "https://www.techmeme.com/261023/p22",
-      "ts": "2026-10-24T11:56:07Z",
-      "kind": "offered"
-    },
-    {
       "topic": "AI помогает находить и использовать уязвимости в PHP",
       "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
       "ts": "2026-10-24T18:40:30Z",
@@ -195,6 +153,60 @@
       "topic": "Google запустила AI Quests для обучения",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
       "ts": "2026-10-26T19:50:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI решила долгостоящие проблемы в математике и физике",
+      "url": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic привлекла $63B под инфру и подала на IPO",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "General Compute собрал $100M, ставит на чипы вне Nvidia",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia и Meta расширяют сотрудничество, инвестируют $3B",
+      "url": "https://www.techmeme.com/261027/p3#a261027p3",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Opera запускает WebAI для локального AI в браузерах",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Неанглийские языки требуют в 5 раз больше токенов",
+      "url": "https://www.techmeme.com/261027/p13#a261027p13",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic озабочена энергопотреблением центров данных",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Greptile использует GPT-6 Astra для поиска уязвимостей",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Издатели создают контент специально для AI агентов",
+      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+      "ts": "2026-10-27T13:06:19Z",
       "kind": "offered"
     }
   ]

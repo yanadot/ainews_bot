@@ -1,110 +1,5 @@
 {
   "digests": {
-    "10241156": {
-      "created_at": "2026-10-24T11:56:07Z",
-      "message_id": 92,
-      "topics": [
-        {
-          "title": "OpenAI отключила интернет при тренировке фронтир-моделей",
-          "what": "OpenAI создала закрытое окружение с кэшированным веб-контентом, чтобы тренировать и оценивать свои лучшие модели без доступа в интернет.",
-          "why": "Снижает риски при разработке мощных моделей; конкуренты начнут копировать подход.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-            "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Британия запустит AI Biosecurity Lab за £100 млн",
-          "what": "Великобритания создаст национальную лабораторию для защиты от биологических угроз с помощью AI, поддержанную OpenAI, Anthropic и Google DeepMind.",
-          "why": "Государства ставят AI на повестку дня безопасности; лабы получают доступ к госресурсам и легитимности.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "BBC",
-          "source_url": "https://www.techmeme.com/261023/p26",
-          "candidate_urls": [
-            "https://www.techmeme.com/261023/p26"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Moonshot выпустила открытый Kimi 3.1 Pro",
-          "what": "Новый открытый вес Kimi 3.1 Pro показывает результаты на уровне Fable-5.1 с быстрым API для работы модели.",
-          "why": "Открытые модели сокращают отставание от закрытых; ценовая конкуренция между лабами ужесточается.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/ainews-kimi-31/",
-          "candidate_urls": [
-            "https://latent.space/p/ainews-kimi-31/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI запустила Project Daybreak для поиска уязвимостей",
-          "what": "OpenAI позволяет проверенным партнёрам использовать её модели для поиска и фиксации кибер-уязвимостей; уже помогла найти PHP2Shell RCE.",
-          "why": "Новый способ монетизации моделей и укрепления безопасности интернета через ответственное раскрытие.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Forbes",
-          "source_url": "https://www.techmeme.com/261024/p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261024/p2"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Block (Jack Dorsey) запустила Dessa — AI для разговоров",
-          "what": "Block анонсировала Dessa, языковую модель, обученную исключительно на человеческих диалогах, с иногда неловкими, но живыми примерами.",
-          "why": "Крупный венчур входит в рынок AI с собственной моделью; новый конкурент для чатботов в фокусе на разговоры.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Кино-студия Utopai привлекла $60 млн при оценке $1 млрд",
-          "what": "AI-студия Utopai, разрабатывающая инструменты для создания видео, закрыла раунд финансирования с 20+ проектами в разработке.",
-          "why": "Video AI — растущий сегмент; капитал и таланты движутся туда же, куда внимание Голливуда.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "The Information",
-          "source_url": "https://www.techmeme.com/261023/p24",
-          "candidate_urls": [
-            "https://www.techmeme.com/261023/p24"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Mave привлекла $28 млн Series A для security-расследований",
-          "what": "Стартап Mave, разрабатывающий инструмент для автоматизации security-расследований на AI, закрыл Series A от Red Dot (всего $34 млн).",
-          "why": "Security automation — растущий спрос; компании хотят AI-инструменты для автоматизации рутинной работы аналитиков.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "CTech",
-          "source_url": "https://www.techmeme.com/261023/p22",
-          "candidate_urls": [
-            "https://www.techmeme.com/261023/p22"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "10241840": {
       "created_at": "2026-10-24T18:40:30Z",
       "message_id": 93,
@@ -479,6 +374,126 @@
           "source_url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
           "candidate_urls": [],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "10271306": {
+      "created_at": "2026-10-27T13:06:19Z",
+      "message_id": 103,
+      "topics": [
+        {
+          "title": "OpenAI решила долгостоящие проблемы в математике и физике",
+          "what": "OpenAI опубликовала решения гипотезы Какеи, гипотезы о росте времени и вопросов в хромодинамике с верификацией экспертов.",
+          "why": "Показывает, что AI может давать результаты в фундаментальной науке, что усиливает позицию AI лабораторий у инвесторов и в academia.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "The Verge AI",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "candidate_urls": [
+            "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic привлекла $63B под инфру и подала на IPO",
+          "what": "Broadcom возглавил $63B долг для Anthropic, компания подала S-1 на IPO на Nasdaq с прибыльностью 85% маржи.",
+          "why": "Крупнейшее финансирование AI инфраструктуры показывает масштаб капитальных потребностей и конкурентную напряженность между лидерами.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-anthropic-s1/",
+          "candidate_urls": [
+            "https://www.techmeme.com/261027/p4#a261027p4",
+            "https://www.techmeme.com/261027/p5#a261027p5",
+            "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "General Compute собрал $100M, ставит на чипы вне Nvidia",
+          "what": "Стартап General Compute привлёк Series A под процессоры для вывода AI моделей независимо от экосистемы Nvidia.",
+          "why": "Конкурирует за разрушение монополии Nvidia на AI чипы, может изменить экономику инфры и снизить цены вычисления.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+          "candidate_urls": [],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia и Meta расширяют сотрудничество, инвестируют $3B",
+          "what": "Nvidia инвестирует $3B в капиталовложения Meta, расширяют Muse партнёрство с новыми чипами Vera Rubin и Vera CPU.",
+          "why": "Стратегический альянс гигантов за влияние на AI инфру показывает, как распределяется власть и кто задаёт стандарты в отрасли.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.techmeme.com/261027/p3#a261027p3",
+          "candidate_urls": [],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Opera запускает WebAI для локального AI в браузерах",
+          "what": "Opera предложила веб-стандарт WebAI для запуска языковых моделей локально прямо в браузере пользователя без облака.",
+          "why": "Может децентрализовать AI благодаря локальному выполнению, меняет архитектуру приложений и конкурирует с облачными сервисами.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+          "candidate_urls": [],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Неанглийские языки требуют в 5 раз больше токенов",
+          "what": "Исследование показало, что обработка неанглийских языков требует на 1,5–5 раз больше токенов, чем английского.",
+          "why": "Создаёт «налог токенизатора» для разработчиков вне англоговорящих рынков, удорожает использование AI и ограничивает доступность.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Rest of World",
+          "source_url": "https://www.techmeme.com/261027/p13#a261027p13",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic озабочена энергопотреблением центров данных",
+          "what": "S-1 Anthropic показала, что спрос на мощность центров данных острый, компания зависит от природного газа для питания серверов.",
+          "why": "Климатические риски становятся инвестиционным фактором, регуляторы давят на эко-ответственность, это влияет на развёртывание инфры.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge AI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "candidate_urls": [],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Greptile использует GPT-6 Astra для поиска уязвимостей",
+          "what": "Greptile применяет GPT-6 Astra, Daybreak и Codex для автоматического выявления и исправления уязвимостей в коде.",
+          "why": "Показывает, как новые модели специализируются в инструментировании разработки, влияет на спектр предложений в devtools.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "candidate_urls": [],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Издатели создают контент специально для AI агентов",
+          "what": "Медиа-компании начинают создавать статьи, видео и контент, оптимизированный под потребление AI агентами, а не людьми.",
+          "why": "Фундаментальный сдвиг в экономике контента: если AI агенты — новая аудитория, издатели переформатируют продукт и монетизацию.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
+          "candidate_urls": [],
+          "n": 9,
           "status": "offered"
         }
       ]
