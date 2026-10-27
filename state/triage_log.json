@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-10-27T13:06:19Z",
-  "candidates": 24,
+  "run_at": "2026-10-27T18:41:03Z",
+  "candidates": 30,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI решила долгостоящие проблемы в математике и физике",
+      "title": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
       "score": 5,
-      "source_url": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
     },
     {
       "n": 2,
-      "title": "Anthropic привлекла $63B под инфру и подала на IPO",
+      "title": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
       "score": 5,
-      "source_url": "https://latent.space/p/ainews-anthropic-s1/"
+      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
     },
     {
       "n": 3,
-      "title": "General Compute собрал $100M, ставит на чипы вне Nvidia",
+      "title": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/"
+      "source_url": "https://openai.com/index/oracle-apps-in-chatgpt"
     },
     {
       "n": 4,
-      "title": "Nvidia и Meta расширяют сотрудничество, инвестируют $3B",
+      "title": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261027/p3#a261027p3"
+      "source_url": "https://microsoft.ai/news/mai-image-2-7-debut/"
     },
     {
       "n": 5,
-      "title": "Opera запускает WebAI для локального AI в браузерах",
+      "title": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/"
+      "source_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
     },
     {
       "n": 6,
-      "title": "Неанглийские языки требуют в 5 раз больше токенов",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261027/p13#a261027p13"
+      "title": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
+      "score": 3,
+      "source_url": "https://microsoft.ai/news/mai-cyber-1-1-flash/"
     },
     {
       "n": 7,
-      "title": "Anthropic озабочена энергопотреблением центров данных",
+      "title": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
       "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk"
+      "source_url": "https://www.techmeme.com/261027/p21#a261027p21"
     },
     {
       "n": 8,
-      "title": "Greptile использует GPT-6 Astra для поиска уязвимостей",
+      "title": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
       "score": 3,
-      "source_url": "https://openai.com/index/greptile-code-review-codex-astra"
-    },
-    {
-      "n": 9,
-      "title": "Издатели создают контент специально для AI агентов",
-      "score": 3,
-      "source_url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/"
+      "source_url": "https://x.ai/news/grok-bot-sales"
     }
   ]
 }

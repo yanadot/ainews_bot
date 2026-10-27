@@ -1,24 +1,6 @@
 {
   "topics": [
     {
-      "topic": "AI помогает находить и использовать уязвимости в PHP",
-      "url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-      "ts": "2026-10-24T18:40:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Исследование: Grok рекомендует республиканцев, GPT — демократов",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "ts": "2026-10-24T18:40:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Спрос на чипы для AI превышает предложение",
-      "url": "https://www.techmeme.com/261024/p6",
-      "ts": "2026-10-24T18:40:30Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
       "url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "ts": "2026-10-25T12:26:12Z",
@@ -207,6 +189,54 @@
       "topic": "Издатели создают контент специально для AI агентов",
       "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
       "ts": "2026-10-27T13:06:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
+      "url": "https://microsoft.ai/news/mai-image-2-7-debut/",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
+      "url": "https://microsoft.ai/news/mai-cyber-1-1-flash/",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
+      "url": "https://www.techmeme.com/261027/p21#a261027p21",
+      "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
+      "url": "https://x.ai/news/grok-bot-sales",
+      "ts": "2026-10-27T18:41:03Z",
       "kind": "offered"
     }
   ]

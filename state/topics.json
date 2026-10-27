@@ -1,53 +1,5 @@
 {
   "digests": {
-    "10241840": {
-      "created_at": "2026-10-24T18:40:30Z",
-      "message_id": 93,
-      "topics": [
-        {
-          "title": "AI помогает находить и использовать уязвимости в PHP",
-          "what": "Исследователи использовали инструменты на базе AI для поиска старых уязвимостей в PHP, которые затем начали активно использовать в кибератаках.",
-          "why": "Показывает, что AI ускоряет как защиту, так и атаки — меняется баланс между защитой и риском для веб-инфраструктуры, где работает 70% сайтов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
-          "candidate_urls": [
-            "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Исследование: Grok рекомендует республиканцев, GPT — демократов",
-          "what": "Новое исследование показало, что в выборах модели Grok и GPT расходятся на 90% предложений, отражая политические взгляды их создателей.",
-          "why": "Показывает, что предвзятость моделей может влиять на выборы — важно для понимания надёжности и этики AI в критических ситуациях.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Спрос на чипы для AI превышает предложение",
-          "what": "CEO Ciena рассказал, что спрос на оптические сетевые чипы для AI-инфраструктуры значительно превышает возможности производства.",
-          "why": "Указывает на узкое место в расширении AI: оптические чипы становятся ограничивающим фактором, наряду с самими процессорами.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261024/p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261024/p6"
-          ],
-          "n": 3,
-          "status": "offered"
-        }
-      ]
-    },
     "10251226": {
       "created_at": "2026-10-25T12:26:12Z",
       "message_id": 94,
@@ -494,6 +446,128 @@
           "source_url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
           "candidate_urls": [],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10271841": {
+      "created_at": "2026-10-27T18:41:03Z",
+      "message_id": 104,
+      "topics": [
+        {
+          "title": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
+          "what": "Google DeepMind выпустила Genie 4 — world model, который генерирует интерактивные окружения с аудио, поддерживает реал-тайм текстовые подсказки и работает на Gemini 3.8 Flash.",
+          "why": "Интерактивный контент скоро можно будет создавать одним текстовым запросом — для продактов это открывает новые возможности в гейминге, образовании и симуляциях.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Google DeepMind",
+          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+            "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+            "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
+          "what": "Frontier AI лаб, включая OpenAI, объявили, что их модели опровергли Exponential Time Hypothesis — долгостоящую проблему в теоретической информатике.",
+          "why": "Это доказывает, что AI теперь работает на уровне настоящих научных открытий, а не просто генерирует текст — это привлечёт деньги в AI-для-науки.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
+          "what": "OpenAI и Oracle интегрируют ChatGPT в экосистему Oracle Cloud Infrastructure: появится в приложениях Oracle, плюс поддержка новых чипов (Google TPU, OpenAI Jalapeño, Cerebras).",
+          "why": "Enterprise AI встраивается в корпоративные системы в массовом масштабе — сигнал о том, что компании ставят на AI в операциях, а не в экспериментах.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "candidate_urls": [
+            "https://openai.com/index/oracle-apps-in-chatgpt",
+            "https://www.techmeme.com/261027/p24#a261027p24"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
+          "what": "Microsoft выпустила MAI Image 2.7 — по рейтингам Artificial Analysis и Arena она лучше работает, чем GPT-4 Vision Flare и входит в топ-3 лучших моделей.",
+          "why": "Конкуренция в image generation обостряется — это означает, что в скором времени лучшие модели появятся не только в OpenAI, но будут доступны в экосистеме каждого крупного плеера.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Microsoft AI",
+          "source_url": "https://microsoft.ai/news/mai-image-2-7-debut/",
+          "candidate_urls": [
+            "https://microsoft.ai/news/mai-image-2-7-debut/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
+          "what": "Apple выпустила AI-ассистента (на базе Apple и OpenAI моделей) для своего офисного пакета — может писать тексты, создавать слайды, организовывать данные и поддерживает MCP.",
+          "why": "Большие техкомпании интегрируют AI прямо в повседневные инструменты людей — это ставит новый стандарт для конкурентов и показывает, где искать следующее поле боя в AI.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Apple",
+          "source_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+            "https://www.techmeme.com/261027/p20#a261027p20"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
+          "what": "Microsoft выпустила MAI Cyber 1.1 Flash — работает острее на анализе уязвимостей и требует меньше токенов чем предыдущие версии.",
+          "why": "Специализированные модели для разных областей (безопасность, здравоохранение, продажи) становятся таким же полем конкуренции, как генеративный AI.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Microsoft AI",
+          "source_url": "https://microsoft.ai/news/mai-cyber-1-1-flash/",
+          "candidate_urls": [
+            "https://microsoft.ai/news/mai-cyber-1-1-flash/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
+          "what": "Лондонский стартап Machenta разработал AI-модель, которая учит роботов новым физическим задачам после одной демонстрации — без больших датасетов.",
+          "why": "Масштабируемые роботы становятся реальностью — это откроет двери для автоматизации на заводах и в логистике, которые сейчас требуют месяцев тренировки.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Business Insider",
+          "source_url": "https://www.techmeme.com/261027/p21#a261027p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261027/p21#a261027p21"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
+          "what": "xAI представила специализированного бота Grok, заточенного на помощь в продажах — может работать в составе команд, анализировать сделки и предлагать следующие шаги.",
+          "why": "Специализированные боты по ролям (продажи, техподдержка, аналитика) показывают, как LLM адаптируются под конкретную работу — это новое поле для стартапов.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "xAI",
+          "source_url": "https://x.ai/news/grok-bot-sales",
+          "candidate_urls": [
+            "https://x.ai/news/grok-bot-sales"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]
