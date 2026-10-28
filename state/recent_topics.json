@@ -250,6 +250,66 @@
       "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
       "ts": "2026-10-28T13:56:13Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Google выпустила Gemini 4 Carbon — самую мощную модель",
+      "url": "https://www.techmeme.com/261028/p38#a261028p38",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic выпустила инструменты для прозрачности расходов на AI",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "GitHub Copilot Fusion вышла в production с оркестрацией моделей",
+      "url": "https://www.techmeme.com/261028/p36#a261028p36",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google открыла Gemini и Search для интеграции в сторонние приложения",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA выпустила открытую модель транскрипции на 40 языках",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta отложила новые бизнес-условия из-за протестов издателей",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Октябрь 2026 — новый перелом в AI агентах, считает эксперт",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Chrome AI-автозаполнение теперь тянет данные из Gmail",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI создала спецтим для мониторинга дезинформации перед выборами",
+      "url": "https://www.techmeme.com/261028/p34#a261028p34",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "xAI скупает дома рядом с дата-центром, чтобы избежать судов",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "ts": "2026-10-28T19:25:43Z",
+      "kind": "offered"
     }
   ]
 }

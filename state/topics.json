@@ -593,6 +593,154 @@
           "status": "offered"
         }
       ]
+    },
+    "10281925": {
+      "created_at": "2026-10-28T19:25:43Z",
+      "message_id": 106,
+      "topics": [
+        {
+          "title": "Google выпустила Gemini 4 Carbon — самую мощную модель",
+          "what": "Google запустила Gemini 4 Carbon с фокусом на кибербезопасность; модель лидирует в рейтинге Artificial Analysis Index.",
+          "why": "Конкурент Claude и GPT занял первое место в бенчмарках; продуктам нужно переоценивать выбор модели.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Google",
+          "source_url": "https://www.techmeme.com/261028/p38#a261028p38",
+          "candidate_urls": [
+            "https://www.techmeme.com/261028/p38#a261028p38"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic выпустила инструменты для прозрачности расходов на AI",
+          "what": "Anthropic запустила tools, которые показывают компаниям, на что уходят деньги при использовании Claude API.",
+          "why": "Растущие счета за API беспокоят фаундеров; инструмент помогает контролировать расходы на ИИ.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "GitHub Copilot Fusion вышла в production с оркестрацией моделей",
+          "what": "GitHub запустила Copilot Fusion в GA — система автоматически выбирает подходящую модель для разных задач кодирования.",
+          "why": "Кодирующие агенты переходят в мейнстрим; инженеры получат несколько моделей в одном интерфейсе.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "GitHub",
+          "source_url": "https://www.techmeme.com/261028/p36#a261028p36",
+          "candidate_urls": [
+            "https://www.techmeme.com/261028/p36#a261028p36"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Google открыла Gemini и Search для интеграции в сторонние приложения",
+          "what": "Google запустила платформу для разработчиков, позволяющую встраивать Gemini и поиск в свои сервисы.",
+          "why": "Платформизация AI агентов; компании смогут встроить Google ИИ без создания собственных моделей.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA выпустила открытую модель транскрипции на 40 языках",
+          "what": "NVIDIA запустила Nemotron 3.5 Transcribe — открытую модель для транскрипции аудио на 40 языков.",
+          "why": "Открытая альтернатива платным сервисам; компании смогут запускать транскрипцию локально без облачного API.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA",
+          "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "candidate_urls": [
+            "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+            "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Meta отложила новые бизнес-условия из-за протестов издателей",
+          "what": "Meta отложила введение новых terms of service после давления издателей, обеспокоенных использованием контента для обучения ИИ.",
+          "why": "Регуляторное давление на компании по обучению ИИ на чужом контенте; издатели набирают силу в переговорах.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Meta",
+          "source_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Октябрь 2026 — новый перелом в AI агентах, считает эксперт",
+          "what": "Обозреватель Simon Willison отметил октябрь как точку перелома, когда AI агенты переходят в мейнстрим как кодирующие агенты ноября 2025.",
+          "why": "Подтверждение тренда платформизации ИИ; рынок готов к агентам как к основной архитектуре.",
+          "category": "analysis",
+          "score": 4,
+          "source_name": "Simon Willison",
+          "source_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+          "candidate_urls": [
+            "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Chrome AI-автозаполнение теперь тянет данные из Gmail",
+          "what": "Google расширила функцию AI-автозаполнения в Chrome; теперь извлекает информацию из писем (билеты, треки, заказы).",
+          "why": "ИИ внедряется в ежедневные браузерные задачи; показывает платформизацию ИИ в пользовательском опыте.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Google",
+          "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+            "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI создала спецтим для мониторинга дезинформации перед выборами",
+          "what": "OpenAI запустила election 'war room' для выявления попыток распространения дезинформации перед US midterms.",
+          "why": "ИИ компании берут роль арбитра в политических процессах; растёт внимание индустрии к защите от мизинформации.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://www.techmeme.com/261028/p34#a261028p34",
+          "candidate_urls": [
+            "https://www.techmeme.com/261028/p34#a261028p34"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "xAI скупает дома рядом с дата-центром, чтобы избежать судов",
+          "what": "Дочерняя компания xAI предлагает жилищам в Миссисипи деньги за соглашение не судиться из-за шума дата-центра.",
+          "why": "Гонка за инфраструктурой для ИИ; конфликты между компаниями и сообществом растут по мере расширения дата-центров.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "xAI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+          ],
+          "n": 10,
+          "status": "offered"
+        }
+      ]
     }
   }
 }
