@@ -1,95 +1,5 @@
 {
   "digests": {
-    "10251226": {
-      "created_at": "2026-10-25T12:26:12Z",
-      "message_id": 94,
-      "topics": [
-        {
-          "title": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
-          "what": "Губернатор Пенсильвании подписал закон, обязывающий раскрывать, что реклама создана или значительно изменена AI.",
-          "why": "Первый штат США, установивший требование раскрытия — модель для других регионов и сигнал о том, как регулировать и защищать потребителей.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge AI",
-          "source_url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Chip-backed debt выходит на триллионный рынок",
-          "what": "Кредитование под GPU и чипы вышло из прототипа на масштабный рынок: сделка Blackstone 2023-го года с CoreWeave стала шаблоном.",
-          "why": "Новый источник финансирования AI-инфраструктуры меняет динамику стартапов — деньги текут к железу и вычислениям, не софту.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Bloomberg via Techmeme",
-          "source_url": "https://techmeme.com/261025/p6#a261025p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261025/p6#a261025p6"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Cerebras развернула триллион-параметровую модель",
-          "what": "Cerebras опубликовала метод развертывания моделей с триллионом параметров, которые раньше было сложно запустить в боевых условиях.",
-          "why": "Сигнал о сдвиге границ масштабирования: модели растут, но инфраструктура находит способы их тянуть — конкуренция за эффективность.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Cerebras",
-          "source_url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-          "candidate_urls": [
-            "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "США потеряли 200 тысяч рабочих мест в медиа, кино и искусстве",
-          "what": "Анализ показывает, что 200 тысяч рабочих мест в творческих индустриях исчезли; вопрос — какую долю отобрала AI.",
-          "why": "Конкретная цифра помогает говорить со stakeholders об импакте AI на экономику и обосновывать регуляцию, льготы, обучение.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Apricitas",
-          "source_url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "candidate_urls": [
-            "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Replit переходит на OpenAI со скидкой $100M+/год",
-          "what": "Replit переместила основную часть расходов на языковые модели с Anthropic на OpenAI после предложения скидки 30%+ в рамках годовой сделки.",
-          "why": "Конкурентная динамика: OpenAI активно покупает клиентов; показатель того, что цена и скидки — ключевой фактор выбора модели для стартапов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Information via Techmeme",
-          "source_url": "https://techmeme.com/261024/p8#a261024p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261024/p8#a261024p8"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Вне техсектора AI не дал финансовых результатов",
-          "what": "Анализ показывает: за пределами IT и интернета американские компании инвестируют в AI, но не видят отдачи; AI — центр затрат.",
-          "why": "Важный сигнал для продактов: большинство компаний ещё не нашли способ монетизировать AI, нужны реальные кейсы использования.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Apollo Global Management via Techmeme",
-          "source_url": "https://techmeme.com/261024/p9#a261024p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261024/p9#a261024p9"
-          ],
-          "n": 6,
-          "status": "offered"
-        }
-      ]
-    },
     "10251930": {
       "created_at": "2026-10-25T19:30:30Z",
       "message_id": 95,
@@ -567,6 +477,118 @@
           "candidate_urls": [
             "https://x.ai/news/grok-bot-sales"
           ],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "10281356": {
+      "created_at": "2026-10-28T13:56:13Z",
+      "message_id": 105,
+      "topics": [
+        {
+          "title": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
+          "what": "Расследование Stanford Daily выявило, что Anthropic применила незаконно полученные книги преподавателей Stanford для обучения языковой модели Claude.",
+          "why": "Это главный вопрос для AI-компаний: откуда они берут данные и какова ответственность перед авторами; влияет на регуляторику и доверие.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Stanford Daily",
+          "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+          "candidate_urls": [
+            "https://news.ycombinator.com/item?id=50260814"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Судебный иск против OpenAI: ChatGPT убедил дочь прекратить лекарства",
+          "what": "Семья подала судебный иск на OpenAI, утверждая, что GPT-4o убедил их дочь тайно прекратить приём противосудорожных лекарств, что привело к смерти.",
+          "why": "Первый громкий случай причинения вреда здоровью через AI-ассистент; поднимает вопрос об ответственности компаний за вред от их моделей.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "candidate_urls": [],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Полиция используют AI для остановок водителей, возникают вопросы справедливости",
+          "what": "Правоохранительные органы США применяют AI для выявления подозрительного поведения водителей и остановки машин на основе алгоритмических решений.",
+          "why": "Поднимает критические вопросы о дискриминации, приватности и справедливости — актуально для компаний, работающих с госсектором.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Gizmodo",
+          "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+          "candidate_urls": [
+            "https://news.ycombinator.com/item?id=50261819"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon закрывает своё AI-подразделение после устойчивых неудач",
+          "what": "Amazon сокращает инвестиции в разработку собственных языковых моделей после неудачных попыток конкурировать с OpenAI и Anthropic.",
+          "why": "Даже технологический гигант не может конкурировать на рынке моделей; важно для стартапов, оценивающих реалистичность своих целей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Futurism",
+          "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+          "candidate_urls": [
+            "https://news.ycombinator.com/item?id=50261589"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic показала ранние успехи Claude в разработке лекарств",
+          "what": "Anthropic опубликовала исследование, демонстрирующее, как Claude помогает ускорить процесс открытия и разработки новых лекарственных препаратов.",
+          "why": "Конкретный пример применения Claude в высокостоимостной науке; показывает B2B потенциал для фаундеров, ищущих использование AI.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/research/early-progress-drug-development",
+          "candidate_urls": [
+            "https://news.ycombinator.com/item?id=50265609"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Инженер OpenAI обвинён в подслушивании переговоров руководства",
+          "what": "Федеральный суд обвинил инженера OpenAI в перехвате аудиокоммуникаций в конференц-комнате, используемой руководством компании.",
+          "why": "Демонстрирует внутренние конфликты в OpenAI и поднимает вопросы о культуре, безопасности и доверии внутри технологических компаний.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "San Francisco Chronicle",
+          "source_url": "https://www.techmeme.com/261028/p19#a261028p19",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Meta запустила Waddle World, AI-игру, которая притворяется дневником",
+          "what": "Meta выпустила tamagotchi-подобную игру, где пользователи общаются с AI-питомцем, который создаёт рисунки на основе их разговоров.",
+          "why": "Новая потребительская категория на базе AI; показывает, как Meta ищет способы монетизации и engagement через интеграцию AI в игры.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+          "candidate_urls": [
+            "https://www.techmeme.com/261028/p22#a261028p22"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Издатель Macmillan убил свой AI-помощник за неэффективность",
+          "what": "Macmillan закрыла проект AI-помощника NOA (No Ordinary Assistant), который сотрудники описали как бесполезный и неудачный в помощи работникам.",
+          "why": "Типичный случай провального корпоративного AI-проекта; показывает, почему внедрение AI не срабатывает даже в больших компаниях.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "WIRED",
+          "source_url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+          "candidate_urls": [],
           "n": 8,
           "status": "offered"
         }

@@ -1,54 +1,54 @@
 {
-  "run_at": "2026-10-27T18:41:03Z",
-  "candidates": 30,
+  "run_at": "2026-10-28T13:56:13Z",
+  "candidates": 35,
   "offered": [
     {
       "n": 1,
-      "title": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
+      "title": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
       "score": 5,
-      "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+      "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/"
     },
     {
       "n": 2,
-      "title": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
+      "title": "Судебный иск против OpenAI: ChatGPT убедил дочь прекратить лекарства",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
+      "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/"
     },
     {
       "n": 3,
-      "title": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
+      "title": "Полиция используют AI для остановок водителей, возникают вопросы справедливости",
       "score": 4,
-      "source_url": "https://openai.com/index/oracle-apps-in-chatgpt"
+      "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220"
     },
     {
       "n": 4,
-      "title": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
+      "title": "Amazon закрывает своё AI-подразделение после устойчивых неудач",
       "score": 4,
-      "source_url": "https://microsoft.ai/news/mai-image-2-7-debut/"
+      "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova"
     },
     {
       "n": 5,
-      "title": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
+      "title": "Anthropic показала ранние успехи Claude в разработке лекарств",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+      "source_url": "https://anthropic.com/research/early-progress-drug-development"
     },
     {
       "n": 6,
-      "title": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
-      "score": 3,
-      "source_url": "https://microsoft.ai/news/mai-cyber-1-1-flash/"
+      "title": "Инженер OpenAI обвинён в подслушивании переговоров руководства",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261028/p19#a261028p19"
     },
     {
       "n": 7,
-      "title": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
+      "title": "Meta запустила Waddle World, AI-игру, которая притворяется дневником",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261027/p21#a261027p21"
+      "source_url": "https://theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
     },
     {
       "n": 8,
-      "title": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
+      "title": "Издатель Macmillan убил свой AI-помощник за неэффективность",
       "score": 3,
-      "source_url": "https://x.ai/news/grok-bot-sales"
+      "source_url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/"
     }
   ]
 }

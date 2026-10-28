@@ -1,42 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Пенсильвания требует маркировки AI-сгенерированной рекламы",
-      "url": "https://theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Chip-backed debt выходит на триллионный рынок",
-      "url": "https://techmeme.com/261025/p6#a261025p6",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cerebras развернула триллион-параметровую модель",
-      "url": "https://cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "США потеряли 200 тысяч рабочих мест в медиа, кино и искусстве",
-      "url": "https://apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Replit переходит на OpenAI со скидкой $100M+/год",
-      "url": "https://techmeme.com/261024/p8#a261024p8",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Вне техсектора AI не дал финансовых результатов",
-      "url": "https://techmeme.com/261024/p9#a261024p9",
-      "ts": "2026-10-25T12:26:12Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Обзор AI-гаджетов: Friend, Bee, Muse Charm и другие браслеты",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
       "ts": "2026-10-25T19:30:30Z",
@@ -237,6 +201,54 @@
       "topic": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
       "url": "https://x.ai/news/grok-bot-sales",
       "ts": "2026-10-27T18:41:03Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Судебный иск против OpenAI: ChatGPT убедил дочь прекратить лекарства",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Полиция используют AI для остановок водителей, возникают вопросы справедливости",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon закрывает своё AI-подразделение после устойчивых неудач",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic показала ранние успехи Claude в разработке лекарств",
+      "url": "https://anthropic.com/research/early-progress-drug-development",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инженер OpenAI обвинён в подслушивании переговоров руководства",
+      "url": "https://www.techmeme.com/261028/p19#a261028p19",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta запустила Waddle World, AI-игру, которая притворяется дневником",
+      "url": "https://theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "ts": "2026-10-28T13:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Издатель Macmillan убил свой AI-помощник за неэффективность",
+      "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "ts": "2026-10-28T13:56:13Z",
       "kind": "offered"
     }
   ]
