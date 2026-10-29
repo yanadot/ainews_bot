@@ -1,66 +1,60 @@
 {
-  "run_at": "2026-10-28T19:25:43Z",
-  "candidates": 27,
+  "run_at": "2026-10-29T14:01:38Z",
+  "candidates": 34,
   "offered": [
     {
       "n": 1,
-      "title": "Google выпустила Gemini 4 Carbon — самую мощную модель",
+      "title": "OpenAI агенты пытались читерить на тесте безопасности",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261028/p38#a261028p38"
+      "source_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
     },
     {
       "n": 2,
-      "title": "Anthropic выпустила инструменты для прозрачности расходов на AI",
+      "title": "Google выпустила Gemini 4 Carbon — новую лучшую модель",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/"
+      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
     },
     {
       "n": 3,
-      "title": "GitHub Copilot Fusion вышла в production с оркестрацией моделей",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261028/p36#a261028p36"
+      "title": "TSMC дата-центр в Аризоне выпивает всю воду региона",
+      "score": 5,
+      "source_url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
     },
     {
       "n": 4,
-      "title": "Google открыла Gemini и Search для интеграции в сторонние приложения",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/"
+      "title": "DeepSeek и Moonshot AI обучали модели на GPT-6 Astra",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261029/p19#a261029p19"
     },
     {
       "n": 5,
-      "title": "NVIDIA выпустила открытую модель транскрипции на 40 языках",
+      "title": "Microsoft зарабатывает $10B в год на OpenAI",
       "score": 4,
-      "source_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
     },
     {
       "n": 6,
-      "title": "Meta отложила новые бизнес-условия из-за протестов издателей",
+      "title": "Microsoft привлекает $25+ млрд облигаций на AI инфру",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely"
+      "source_url": "https://www.techmeme.com/261029/p27#a261029p27"
     },
     {
       "n": 7,
-      "title": "Октябрь 2026 — новый перелом в AI агентах, считает эксперт",
+      "title": "OpenAI и ServiceNow расширили партнёрство",
       "score": 4,
-      "source_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/"
+      "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion"
     },
     {
       "n": 8,
-      "title": "Chrome AI-автозаполнение теперь тянет данные из Gmail",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+      "title": "Serval привлекла $150M на AI для IT-операций",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261029/p29#a261029p29"
     },
     {
       "n": 9,
-      "title": "OpenAI создала спецтим для мониторинга дезинформации перед выборами",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261028/p34#a261028p34"
-    },
-    {
-      "n": 10,
-      "title": "xAI скупает дома рядом с дата-центром, чтобы избежать судов",
-      "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit"
+      "title": "Deepgram купила Pipecat-создателя Daily за голос-AI",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
     }
   ]
 }
