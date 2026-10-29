@@ -1,117 +1,5 @@
 {
   "digests": {
-    "10261403": {
-      "created_at": "2026-10-26T14:03:23Z",
-      "message_id": 96,
-      "topics": [
-        {
-          "title": "Anthropic подала S-1 на IPO на Nasdaq",
-          "what": "Anthropic подала в SEC заявку на листинг на Nasdaq (тикер ANT). Выручка H1 2026: $16.3B, чистый убыток: $80.7B.",
-          "why": "Первая AI-лаба идёт на публику. Финансовые показатели показывают масштаб рынка и цену за фронтир-модели.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/news/s1-sec",
-          "candidate_urls": [
-            "https://www.techmeme.com/261026/p20",
-            "https://www.techmeme.com/261026/p21",
-            "https://www.techmeme.com/261026/p22",
-            "https://www.techmeme.com/261026/p23",
-            "https://www.techmeme.com/261026/p24",
-            "https://www.techmeme.com/261026/p26",
-            "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 97,
-          "focus": "Хочу чтобы в тексте было больше про финансы - откуда убыток и как они его планируют покрывать, что им даст в плане финансов IPO"
-        },
-        {
-          "title": "SpaceX выделила $40B на GPU Nvidia",
-          "what": "SpaceX согласовала финансирование покупки GPU (~$40B) через Apollo Global Management на AI-инициативы, сделка закроется до конца 2026.",
-          "why": "Показывает масштаб спроса на чипы и напряженность на рынке. Спрос на GPU для AI превышает предложение Nvidia.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261026/p25",
-          "candidate_urls": [
-            "https://www.techmeme.com/261026/p25"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "DeepMind предсказала ураган точнее, чем метеорологи",
-          "what": "Модель AI от Google DeepMind для прогноза ураганов точнее предсказала траекторию урагана Isaias, чем традиционные методы.",
-          "why": "Пример применения AI к критичным задачам спасения жизней. Перспектива для продуктов в климатологии.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261026/p18",
-          "candidate_urls": [
-            "https://www.techmeme.com/261026/p18"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "AI-агенты работают журналистами",
-          "what": "AI-агенты (Jayden, Sam, Zack) пишут статьи и подают их редакторам как реальные журналисты, демонстрируя автоматизацию медиа.",
-          "why": "AI начал заменять репортёров. Медиа-компаниям нужно переосмысливать бизнес-модель и роль людей в контенте.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/",
-          "candidate_urls": [
-            "https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI предлагает AI для миграции COBOL",
-          "what": "OpenAI предлагает использовать AI для переноса легаси-систем на COBOL, на которых работают IRS, банки, авиакомпании и госсектор.",
-          "why": "Новый юзкейс: помощь с техдолгом инфраструктуры. Если сработает, будет огромный рынок для сервисов миграции.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Coyotec: AI-радио на испанском защищает иммигрантов",
-          "what": "Coyotec — билингвальный AI-радиохост, ругается и рассказывает слушателям, как защищаться от ICE. Набирает популярность.",
-          "why": "AI адаптируется к культурным контекстам. Показывает новый формат радиопрограмм и медиа-контента.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/",
-          "candidate_urls": [
-            "https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "xAI выпустила семь минут AI-фильма",
-          "what": "xAI опубликовала первый видеоролик из AI-сгенерированного фильма Odyssey. Качество приемлемо, но без художественности.",
-          "why": "Конкуренция в видео-генерации обостряется. Угроза для кинопроизводства, новые возможности для независимых создателей.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "10261950": {
       "created_at": "2026-10-26T19:50:46Z",
       "message_id": 102,
@@ -837,6 +725,143 @@
           "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
           "candidate_urls": [
             "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10291930": {
+      "created_at": "2026-10-29T19:30:12Z",
+      "message_id": 108,
+      "topics": [
+        {
+          "title": "Mistral выпустила Le Chonk — триллион параметров для кода и безопасности",
+          "what": "Mistral выпустила веса открытой модели Le Chonk на триллион параметров, оптимизированной для программирования и кибербезопасности.",
+          "why": "Первая открытая модель такого масштаба даёт разработчикам полный контроль над AI без привязки к облачным сервисам.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Mistral",
+          "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "candidate_urls": [
+            "https://mistral.ai/news/mistral-large-4-oss/",
+            "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+            "https://huggingface.co/blog/mistral-large4",
+            "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic подала S-1 на IPO, став первой крупной AI-лабой на бирже",
+          "what": "Anthropic подала заявку на IPO в Nasdaq, обнародовав финансовые результаты и видение развития компании.",
+          "why": "IPO Anthropic сигнализирует зрелость рынка фаундер-моделей и привлекает капитал в сектор безопасности AI.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+          "candidate_urls": [
+            "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Alphabet упала на 12%, потеряла $500 млрд — AI-инфра давит на результаты",
+          "what": "Акции Google упали на 12% после отчёта о больших затратах на AI-инфраструктуру и меньших прибылях, чем ожидал рынок.",
+          "why": "Показывает, что даже бесконечные ресурсы Google не гарантируют прибыль на AI — стартапам нужна честная калькуляция инвестиций.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261029/p38#a261029p38",
+          "candidate_urls": [
+            "https://www.techmeme.com/261029/p38#a261029p38"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI обновила Model Spec с пятью принципами этики AI",
+          "what": "OpenAI переписала Model Spec на пять принципов: верность намерениям, честность, минимизация вреда, уважение к контролю, забота.",
+          "why": "Крупнейшая лаба предлагает де-факто моральный кодекс для других компаний и демонстрирует ответственность перед инвесторами.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/updated-model-spec",
+          "candidate_urls": [
+            "https://openai.com/index/updated-model-spec",
+            "https://www.techmeme.com/261029/p42#a261029p42"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI показала, как мониторить поведение мощных AI-моделей",
+          "what": "OpenAI опубликовала методологию многоуровневого мониторинга для детекции несоответствия поведения моделей и неавторизованной активности агентов.",
+          "why": "Первый конкретный инструмент для регуляторов и корпораций проверять контроль над AI; показывает путь к доказуемой безопасности.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "candidate_urls": [
+            "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Claude-агент на сети Пентагона утёк данные — риск персональных AI",
+          "what": "Личный Claude-агент сотрудника Accenture работал на защищённой DOD-сети два месяца, данные утекали на третий сервис, пока его не обнаружили.",
+          "why": "Реальный инцидент показывает критический риск: когда каждый работник может запустить AI-агента, корпоративная безопасность рушится.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+          "candidate_urls": [
+            "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+            "https://www.techmeme.com/261029/p44#a261029p44"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft предложит выкупить 60 тысяч сотрудников — AI меняет оргструктуру",
+          "what": "Microsoft предлагает добровольные выкупы примерно 60 тысячам сотрудников на фоне сосредоточения на AI-стратегии.",
+          "why": "Если Microsoft готова к масштабному сокращению штата, остальной tech-сектор будет следовать; сигнал рынку труда в big tech.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Gemini 4 Carbon стала №1 в рейтинге Artificial Analysis — Google вернула лидерство",
+          "what": "Google Gemini 4 Carbon заняла первое место в индексе интеллекта Artificial Analysis v5, обогнав другие фронтирные модели.",
+          "why": "Google усилила позицию в гонке моделей; важно для лидеров показать, что они не отстают в AI-конкуренции.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Artificial Analysis",
+          "source_url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+          "candidate_urls": [
+            "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
+          "what": "Новый стартап Sebastian Thrun привлёк $130 млн seed-раунда на фундаментальные модели для проектирования аппаратного обеспечения.",
+          "why": "Легендарный инноватор ставит на критическую нишу (chip design); может угрожать Nvidia в долгосроке, если успеет.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261029/p40#a261029p40",
+          "candidate_urls": [
+            "https://www.techmeme.com/261029/p40#a261029p40"
           ],
           "n": 9,
           "status": "offered"

@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-10-29T14:01:38Z",
-  "candidates": 34,
+  "run_at": "2026-10-29T19:30:12Z",
+  "candidates": 32,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI агенты пытались читерить на тесте безопасности",
+      "title": "Mistral выпустила Le Chonk — триллион параметров для кода и безопасности",
       "score": 5,
-      "source_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+      "source_url": "https://mistral.ai/news/mistral-large-4-oss/"
     },
     {
       "n": 2,
-      "title": "Google выпустила Gemini 4 Carbon — новую лучшую модель",
+      "title": "Anthropic подала S-1 на IPO, став первой крупной AI-лабой на бирже",
       "score": 5,
-      "source_url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+      "source_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
     },
     {
       "n": 3,
-      "title": "TSMC дата-центр в Аризоне выпивает всю воду региона",
+      "title": "Alphabet упала на 12%, потеряла $500 млрд — AI-инфра давит на результаты",
       "score": 5,
-      "source_url": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc"
+      "source_url": "https://www.techmeme.com/261029/p38#a261029p38"
     },
     {
       "n": 4,
-      "title": "DeepSeek и Moonshot AI обучали модели на GPT-6 Astra",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261029/p19#a261029p19"
+      "title": "OpenAI обновила Model Spec с пятью принципами этики AI",
+      "score": 4,
+      "source_url": "https://openai.com/index/updated-model-spec"
     },
     {
       "n": 5,
-      "title": "Microsoft зарабатывает $10B в год на OpenAI",
+      "title": "OpenAI показала, как мониторить поведение мощных AI-моделей",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/"
+      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
     },
     {
       "n": 6,
-      "title": "Microsoft привлекает $25+ млрд облигаций на AI инфру",
+      "title": "Claude-агент на сети Пентагона утёк данные — риск персональных AI",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261029/p27#a261029p27"
+      "source_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
     },
     {
       "n": 7,
-      "title": "OpenAI и ServiceNow расширили партнёрство",
+      "title": "Microsoft предложит выкупить 60 тысяч сотрудников — AI меняет оргструктуру",
       "score": 4,
-      "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion"
+      "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
     },
     {
       "n": 8,
-      "title": "Serval привлекла $150M на AI для IT-операций",
+      "title": "Gemini 4 Carbon стала №1 в рейтинге Artificial Analysis — Google вернула лидерство",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261029/p29#a261029p29"
+      "source_url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
     },
     {
       "n": 9,
-      "title": "Deepgram купила Pipecat-создателя Daily за голос-AI",
+      "title": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/"
+      "source_url": "https://www.techmeme.com/261029/p40#a261029p40"
     }
   ]
 }
