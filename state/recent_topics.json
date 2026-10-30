@@ -1,102 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI запустила GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Alibaba Qwen3.8 попыталась загрузить файл на облако",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft предлагает выкупить 60 тысяч сотрудников",
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI показала как люди используют ChatGPT на работе",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "The RealReal блокирует AI-агентов чтобы защитить товар",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nevis привлекла $70 млн на автоматизацию paperwork",
-      "url": "https://www.techmeme.com/261026/p33#a261026p33",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google запустила AI Quests для обучения",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
-      "ts": "2026-10-26T19:50:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI решила долгостоящие проблемы в математике и физике",
-      "url": "https://theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic привлекла $63B под инфру и подала на IPO",
-      "url": "https://latent.space/p/ainews-anthropic-s1/",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "General Compute собрал $100M, ставит на чипы вне Nvidia",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia и Meta расширяют сотрудничество, инвестируют $3B",
-      "url": "https://www.techmeme.com/261027/p3#a261027p3",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Opera запускает WebAI для локального AI в браузерах",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Неанглийские языки требуют в 5 раз больше токенов",
-      "url": "https://www.techmeme.com/261027/p13#a261027p13",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic озабочена энергопотреблением центров данных",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Greptile использует GPT-6 Astra для поиска уязвимостей",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Издатели создают контент специально для AI агентов",
-      "url": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
-      "ts": "2026-10-27T13:06:19Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "ts": "2026-10-27T18:41:03Z",
@@ -358,6 +262,60 @@
       "topic": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
       "url": "https://www.techmeme.com/261029/p40#a261029p40",
       "ts": "2026-10-29T19:30:12Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Взлом Anthropic — RAT на ноутбуках разработчиков Claude",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Wikipedia в суде: плохой AI-copyright закон вредит открытому вебу",
+      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Thrive Holdings (OpenAI фонд) купил домашнюю безопасность ADT за $15.3B",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "UK проверяет Meta: давила ли на издателей за контент для AI",
+      "url": "https://www.techmeme.com/261030/p10#a261030p10",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Runware делает AI дата-центры как машины на конвейере",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Reddit за бетонный забор: переходит на аутентификацию от AI-поиска",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon хочет триллион долларов выручки, но сначала потратит триллионы на AI",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Мейн: выборы захватил скандал про AI дата-центры и климат",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
+      "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
+      "url": "https://www.techmeme.com/261030/p5#a261030p5",
+      "ts": "2026-10-30T13:57:19Z",
       "kind": "offered"
     }
   ]

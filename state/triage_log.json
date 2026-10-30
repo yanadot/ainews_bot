@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-10-29T19:30:12Z",
-  "candidates": 32,
+  "run_at": "2026-10-30T13:57:19Z",
+  "candidates": 28,
   "offered": [
     {
       "n": 1,
-      "title": "Mistral выпустила Le Chonk — триллион параметров для кода и безопасности",
+      "title": "Взлом Anthropic — RAT на ноутбуках разработчиков Claude",
       "score": 5,
-      "source_url": "https://mistral.ai/news/mistral-large-4-oss/"
+      "source_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
     },
     {
       "n": 2,
-      "title": "Anthropic подала S-1 на IPO, став первой крупной AI-лабой на бирже",
-      "score": 5,
-      "source_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
+      "title": "Wikipedia в суде: плохой AI-copyright закон вредит открытому вебу",
+      "score": 4,
+      "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
     },
     {
       "n": 3,
-      "title": "Alphabet упала на 12%, потеряла $500 млрд — AI-инфра давит на результаты",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261029/p38#a261029p38"
+      "title": "Thrive Holdings (OpenAI фонд) купил домашнюю безопасность ADT за $15.3B",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
     },
     {
       "n": 4,
-      "title": "OpenAI обновила Model Spec с пятью принципами этики AI",
+      "title": "UK проверяет Meta: давила ли на издателей за контент для AI",
       "score": 4,
-      "source_url": "https://openai.com/index/updated-model-spec"
+      "source_url": "https://www.techmeme.com/261030/p10#a261030p10"
     },
     {
       "n": 5,
-      "title": "OpenAI показала, как мониторить поведение мощных AI-моделей",
+      "title": "Runware делает AI дата-центры как машины на конвейере",
       "score": 4,
-      "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
     },
     {
       "n": 6,
-      "title": "Claude-агент на сети Пентагона утёк данные — риск персональных AI",
-      "score": 4,
-      "source_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/"
+      "title": "Reddit за бетонный забор: переходит на аутентификацию от AI-поиска",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
     },
     {
       "n": 7,
-      "title": "Microsoft предложит выкупить 60 тысяч сотрудников — AI меняет оргструктуру",
-      "score": 4,
-      "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+      "title": "Amazon хочет триллион долларов выручки, но сначала потратит триллионы на AI",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
     },
     {
       "n": 8,
-      "title": "Gemini 4 Carbon стала №1 в рейтинге Artificial Analysis — Google вернула лидерство",
-      "score": 4,
-      "source_url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
+      "title": "Мейн: выборы захватил скандал про AI дата-центры и климат",
+      "score": 3,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
     },
     {
       "n": 9,
-      "title": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261029/p40#a261029p40"
+      "title": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261030/p5#a261030p5"
     }
   ]
 }
