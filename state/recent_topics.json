@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
-      "url": "https://microsoft.ai/news/mai-image-2-7-debut/",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
-      "url": "https://microsoft.ai/news/mai-cyber-1-1-flash/",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
-      "url": "https://www.techmeme.com/261027/p21#a261027p21",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
-      "url": "https://x.ai/news/grok-bot-sales",
-      "ts": "2026-10-27T18:41:03Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
       "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
       "ts": "2026-10-28T13:56:13Z",
@@ -316,6 +268,48 @@
       "topic": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
       "url": "https://www.techmeme.com/261030/p5#a261030p5",
       "ts": "2026-10-30T13:57:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустил спутник с AI в космосе",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI будет соблюдать robots.txt для контроля тренирования моделей",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Salesforce купила стартап оборонной логистики Rune за $375M",
+      "url": "https://www.techmeme.com/261030/p17#a261030p17",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "&Truth привлекла $70M для AI-верификации кода",
+      "url": "https://www.techmeme.com/261030/p4#a261030p4",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cohere инвестирует $4 млрд в AI-мощности Канады",
+      "url": "https://cohere.com/blog/cohere-canada-commitment",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Zest выпустила AI-агента для поиска и бронирования ресторанов",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "ts": "2026-10-30T19:04:29Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Папа Лев XIV призвал к дезармированию AI и запрету на летальные автономные системы",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "ts": "2026-10-30T19:04:29Z",
       "kind": "offered"
     }
   ]

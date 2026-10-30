@@ -1,127 +1,5 @@
 {
   "digests": {
-    "10271841": {
-      "created_at": "2026-10-27T18:41:03Z",
-      "message_id": 104,
-      "topics": [
-        {
-          "title": "Google Genie 4 — мир-симулятор с аудио и реал-тайм управлением",
-          "what": "Google DeepMind выпустила Genie 4 — world model, который генерирует интерактивные окружения с аудио, поддерживает реал-тайм текстовые подсказки и работает на Gemini 3.8 Flash.",
-          "why": "Интерактивный контент скоро можно будет создавать одним текстовым запросом — для продактов это открывает новые возможности в гейминге, образовании и симуляциях.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Google DeepMind",
-          "source_url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-            "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-            "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI решила 50-летнюю гипотезу в математике — впервые AI для научных открытий",
-          "what": "Frontier AI лаб, включая OpenAI, объявили, что их модели опровергли Exponential Time Hypothesis — долгостоящую проблему в теоретической информатике.",
-          "why": "Это доказывает, что AI теперь работает на уровне настоящих научных открытий, а не просто генерирует текст — это привлечёт деньги в AI-для-науки.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI и Oracle расширили партнёрство — ChatGPT в Oracle Business Apps",
-          "what": "OpenAI и Oracle интегрируют ChatGPT в экосистему Oracle Cloud Infrastructure: появится в приложениях Oracle, плюс поддержка новых чипов (Google TPU, OpenAI Jalapeño, Cerebras).",
-          "why": "Enterprise AI встраивается в корпоративные системы в массовом масштабе — сигнал о том, что компании ставят на AI в операциях, а не в экспериментах.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/oracle-apps-in-chatgpt",
-          "candidate_urls": [
-            "https://openai.com/index/oracle-apps-in-chatgpt",
-            "https://www.techmeme.com/261027/p24#a261027p24"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "MAI Image 2.7 обогнала GPT-4 Vision — Microsoft выигрывает в генерации изображений",
-          "what": "Microsoft выпустила MAI Image 2.7 — по рейтингам Artificial Analysis и Arena она лучше работает, чем GPT-4 Vision Flare и входит в топ-3 лучших моделей.",
-          "why": "Конкуренция в image generation обостряется — это означает, что в скором времени лучшие модели появятся не только в OpenAI, но будут доступны в экосистеме каждого крупного плеера.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Microsoft AI",
-          "source_url": "https://microsoft.ai/news/mai-image-2-7-debut/",
-          "candidate_urls": [
-            "https://microsoft.ai/news/mai-image-2-7-debut/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Apple добавила AI-помощника в Pages, Keynote и Numbers",
-          "what": "Apple выпустила AI-ассистента (на базе Apple и OpenAI моделей) для своего офисного пакета — может писать тексты, создавать слайды, организовывать данные и поддерживает MCP.",
-          "why": "Большие техкомпании интегрируют AI прямо в повседневные инструменты людей — это ставит новый стандарт для конкурентов и показывает, где искать следующее поле боя в AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Apple",
-          "source_url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-            "https://www.techmeme.com/261027/p20#a261027p20"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "MAI Cyber 1.1 Flash — специализированная модель Microsoft для киберугроз",
-          "what": "Microsoft выпустила MAI Cyber 1.1 Flash — работает острее на анализе уязвимостей и требует меньше токенов чем предыдущие версии.",
-          "why": "Специализированные модели для разных областей (безопасность, здравоохранение, продажи) становятся таким же полем конкуренции, как генеративный AI.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Microsoft AI",
-          "source_url": "https://microsoft.ai/news/mai-cyber-1-1-flash/",
-          "candidate_urls": [
-            "https://microsoft.ai/news/mai-cyber-1-1-flash/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Machenta привлекла $40M — робот учится новым задачам с одного показа",
-          "what": "Лондонский стартап Machenta разработал AI-модель, которая учит роботов новым физическим задачам после одной демонстрации — без больших датасетов.",
-          "why": "Масштабируемые роботы становятся реальностью — это откроет двери для автоматизации на заводах и в логистике, которые сейчас требуют месяцев тренировки.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Business Insider",
-          "source_url": "https://www.techmeme.com/261027/p21#a261027p21",
-          "candidate_urls": [
-            "https://www.techmeme.com/261027/p21#a261027p21"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "xAI запустила Grok Bot — AI-ассистент для команд продаж",
-          "what": "xAI представила специализированного бота Grok, заточенного на помощь в продажах — может работать в составе команд, анализировать сделки и предлагать следующие шаги.",
-          "why": "Специализированные боты по ролям (продажи, техподдержка, аналитика) показывают, как LLM адаптируются под конкретную работу — это новое поле для стартапов.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "xAI",
-          "source_url": "https://x.ai/news/grok-bot-sales",
-          "candidate_urls": [
-            "https://x.ai/news/grok-bot-sales"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10281356": {
       "created_at": "2026-10-28T13:56:13Z",
       "message_id": 105,
@@ -783,6 +661,111 @@
             "https://www.techmeme.com/261030/p5#a261030p5"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10301904": {
+      "created_at": "2026-10-30T19:04:29Z",
+      "message_id": 110,
+      "topics": [
+        {
+          "title": "Google запустил спутник с AI в космосе",
+          "what": "Google успешно активировал TPU на спутнике Project Suncatcher и использовал языковую модель Gemma 4 для первого ответа из космоса.",
+          "why": "Демонстрирует реальность edge AI и облачных вычислений в экстремальных условиях, открывает новые сценарии для распределённых AI-систем в сложной среде.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Google / The Verge",
+          "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+            "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI будет соблюдать robots.txt для контроля тренирования моделей",
+          "what": "OpenAI объявила, что начнёт уважать robots.txt сигналы на сайтах, позволяя вебмастерам управлять использованием контента для обучения AI.",
+          "why": "Первый крупный провайдер LLM признаёт авторские права, влияет на легальный статус массового сбора данных и меняет соглашение между генераторами контента и AI-компаниями.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "candidate_urls": [
+            "https://openai.com/index/helping-websites-express-ai-training-preferences"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Salesforce купила стартап оборонной логистики Rune за $375M",
+          "what": "Salesforce приобрела Rune Technologies (разработчик AI для военной логистики) за $375 млн в виде комбинации наличных и акций.",
+          "why": "Показывает интерес крупных tech-компаний к AI в критических операциях и оборонной индустрии, укрепляет позицию Salesforce в enterprise AI на рынке госзаказов.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261030/p17#a261030p17",
+          "candidate_urls": [
+            "https://www.techmeme.com/261030/p17#a261030p17"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "&Truth привлекла $70M для AI-верификации кода",
+          "what": "Стартап &Truth запустился с раундом в $70M для разработки AI-инструментов формальной верификации программного обеспечения.",
+          "why": "Новая категория продукта: AI решает классическую hard problem разработки (математическое доказательство корректности), критична для финтеха и критических систем.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261030/p4#a261030p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261030/p4#a261030p4"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Cohere инвестирует $4 млрд в AI-мощности Канады",
+          "what": "Cohere объявила о стратегическом вложении $4 млрд в развитие суверенных AI-возможностей Канады и создание локальной рабочей силы.",
+          "why": "Геополитическая игра: компании строят региональные AI-стеки вне США, создаёт конкуренцию вокруг независимых технологий и влияет на инвестклимат за пределами силикон-долины.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Cohere",
+          "source_url": "https://cohere.com/blog/cohere-canada-commitment",
+          "candidate_urls": [
+            "https://cohere.com/blog/cohere-canada-commitment"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Zest выпустила AI-агента для поиска и бронирования ресторанов",
+          "what": "Zest создала AI-агента, который объединяет вкусы группы, предлагает варианты ресторанов через голосование и автоматически делает бронирование.",
+          "why": "Конкретный пример AI-агента для рутинной задачи: показывает, как агенты интегрируются в потребительские приложения и решают проблемы координации.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Папа Лев XIV призвал к дезармированию AI и запрету на летальные автономные системы",
+          "what": "Ватикан опубликовал послание, в котором Папа Лев XIV призвал страны ООН запретить летальные автономные вооружения и взять AI под контроль.",
+          "why": "Глобальные институции входят в дискуссию о регуляции AI, формирует альянсы вокруг ограничений, влияет на политическую волю в Европе и других регионах.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

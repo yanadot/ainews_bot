@@ -1,60 +1,48 @@
 {
-  "run_at": "2026-10-30T13:57:19Z",
-  "candidates": 28,
+  "run_at": "2026-10-30T19:04:29Z",
+  "candidates": 16,
   "offered": [
     {
       "n": 1,
-      "title": "Взлом Anthropic — RAT на ноутбуках разработчиков Claude",
+      "title": "Google запустил спутник с AI в космосе",
       "score": 5,
-      "source_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2"
+      "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission"
     },
     {
       "n": 2,
-      "title": "Wikipedia в суде: плохой AI-copyright закон вредит открытому вебу",
+      "title": "OpenAI будет соблюдать robots.txt для контроля тренирования моделей",
       "score": 4,
-      "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
+      "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
     },
     {
       "n": 3,
-      "title": "Thrive Holdings (OpenAI фонд) купил домашнюю безопасность ADT за $15.3B",
+      "title": "Salesforce купила стартап оборонной логистики Rune за $375M",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
+      "source_url": "https://www.techmeme.com/261030/p17#a261030p17"
     },
     {
       "n": 4,
-      "title": "UK проверяет Meta: давила ли на издателей за контент для AI",
+      "title": "&Truth привлекла $70M для AI-верификации кода",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261030/p10#a261030p10"
+      "source_url": "https://www.techmeme.com/261030/p4#a261030p4"
     },
     {
       "n": 5,
-      "title": "Runware делает AI дата-центры как машины на конвейере",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
+      "title": "Cohere инвестирует $4 млрд в AI-мощности Канады",
+      "score": 3,
+      "source_url": "https://cohere.com/blog/cohere-canada-commitment"
     },
     {
       "n": 6,
-      "title": "Reddit за бетонный забор: переходит на аутентификацию от AI-поиска",
+      "title": "Zest выпустила AI-агента для поиска и бронирования ресторанов",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
+      "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
     },
     {
       "n": 7,
-      "title": "Amazon хочет триллион долларов выручки, но сначала потратит триллионы на AI",
+      "title": "Папа Лев XIV призвал к дезармированию AI и запрету на летальные автономные системы",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-    },
-    {
-      "n": 8,
-      "title": "Мейн: выборы захватил скандал про AI дата-центры и климат",
-      "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-    },
-    {
-      "n": 9,
-      "title": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261030/p5#a261030p5"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
     }
   ]
 }
