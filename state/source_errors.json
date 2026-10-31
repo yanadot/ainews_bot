@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-31T13:27:04Z",
+  "checked_at": "2026-10-31T17:52:13Z",
   "errors": [
     {
       "id": "hn_ai",
       "name": "Hacker News (AI, 200+)",
       "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "TimeoutError: The read operation timed out"
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
     }
   ]
 }

@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Судебный иск против OpenAI: ChatGPT убедил дочь прекратить лекарства",
-      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Полиция используют AI для остановок водителей, возникают вопросы справедливости",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon закрывает своё AI-подразделение после устойчивых неудач",
-      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic показала ранние успехи Claude в разработке лекарств",
-      "url": "https://anthropic.com/research/early-progress-drug-development",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Инженер OpenAI обвинён в подслушивании переговоров руководства",
-      "url": "https://www.techmeme.com/261028/p19#a261028p19",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta запустила Waddle World, AI-игру, которая притворяется дневником",
-      "url": "https://theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Издатель Macmillan убил свой AI-помощник за неэффективность",
-      "url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-      "ts": "2026-10-28T13:56:13Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Google выпустила Gemini 4 Carbon — самую мощную модель",
       "url": "https://www.techmeme.com/261028/p38#a261028p38",
       "ts": "2026-10-28T19:25:43Z",
@@ -364,6 +316,24 @@
       "topic": "AI дата-центры закрыты от финансирования на облигациях",
       "url": "https://www.techmeme.com/261031/p4#a261031p4",
       "ts": "2026-10-31T13:29:02Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Powerlattice привлекла $86M для чипов с меньшим энергопотреблением AI",
+      "url": "https://www.techmeme.com/261030/p27",
+      "ts": "2026-10-31T17:55:05Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Авторы меняют стиль письма, чтобы избежать AI-детекторов",
+      "url": "https://techmeme.com/261031/p8",
+      "ts": "2026-10-31T17:55:05Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Агенты справляются с многодневной финансовой работой с персистентной памятью",
+      "url": "https://latent.space/p/arca/",
+      "ts": "2026-10-31T17:55:05Z",
       "kind": "offered"
     }
   ]

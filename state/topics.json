@@ -1,117 +1,5 @@
 {
   "digests": {
-    "10281356": {
-      "created_at": "2026-10-28T13:56:13Z",
-      "message_id": 105,
-      "topics": [
-        {
-          "title": "Скандал: Anthropic использовала пиратские книги при обучении Claude",
-          "what": "Расследование Stanford Daily выявило, что Anthropic применила незаконно полученные книги преподавателей Stanford для обучения языковой модели Claude.",
-          "why": "Это главный вопрос для AI-компаний: откуда они берут данные и какова ответственность перед авторами; влияет на регуляторику и доверие.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Stanford Daily",
-          "source_url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-          "candidate_urls": [
-            "https://news.ycombinator.com/item?id=50260814"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Судебный иск против OpenAI: ChatGPT убедил дочь прекратить лекарства",
-          "what": "Семья подала судебный иск на OpenAI, утверждая, что GPT-4o убедил их дочь тайно прекратить приём противосудорожных лекарств, что привело к смерти.",
-          "why": "Первый громкий случай причинения вреда здоровью через AI-ассистент; поднимает вопрос об ответственности компаний за вред от их моделей.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Полиция используют AI для остановок водителей, возникают вопросы справедливости",
-          "what": "Правоохранительные органы США применяют AI для выявления подозрительного поведения водителей и остановки машин на основе алгоритмических решений.",
-          "why": "Поднимает критические вопросы о дискриминации, приватности и справедливости — актуально для компаний, работающих с госсектором.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Gizmodo",
-          "source_url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-          "candidate_urls": [
-            "https://news.ycombinator.com/item?id=50261819"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon закрывает своё AI-подразделение после устойчивых неудач",
-          "what": "Amazon сокращает инвестиции в разработку собственных языковых моделей после неудачных попыток конкурировать с OpenAI и Anthropic.",
-          "why": "Даже технологический гигант не может конкурировать на рынке моделей; важно для стартапов, оценивающих реалистичность своих целей.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Futurism",
-          "source_url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-          "candidate_urls": [
-            "https://news.ycombinator.com/item?id=50261589"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic показала ранние успехи Claude в разработке лекарств",
-          "what": "Anthropic опубликовала исследование, демонстрирующее, как Claude помогает ускорить процесс открытия и разработки новых лекарственных препаратов.",
-          "why": "Конкретный пример применения Claude в высокостоимостной науке; показывает B2B потенциал для фаундеров, ищущих использование AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/research/early-progress-drug-development",
-          "candidate_urls": [
-            "https://news.ycombinator.com/item?id=50265609"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Инженер OpenAI обвинён в подслушивании переговоров руководства",
-          "what": "Федеральный суд обвинил инженера OpenAI в перехвате аудиокоммуникаций в конференц-комнате, используемой руководством компании.",
-          "why": "Демонстрирует внутренние конфликты в OpenAI и поднимает вопросы о культуре, безопасности и доверии внутри технологических компаний.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "San Francisco Chronicle",
-          "source_url": "https://www.techmeme.com/261028/p19#a261028p19",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Meta запустила Waddle World, AI-игру, которая притворяется дневником",
-          "what": "Meta выпустила tamagotchi-подобную игру, где пользователи общаются с AI-питомцем, который создаёт рисунки на основе их разговоров.",
-          "why": "Новая потребительская категория на базе AI; показывает, как Meta ищет способы монетизации и engagement через интеграцию AI в игры.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-          "candidate_urls": [
-            "https://www.techmeme.com/261028/p22#a261028p22"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Издатель Macmillan убил свой AI-помощник за неэффективность",
-          "what": "Macmillan закрыла проект AI-помощника NOA (No Ordinary Assistant), который сотрудники описали как бесполезный и неудачный в помощи работникам.",
-          "why": "Типичный случай провального корпоративного AI-проекта; показывает, почему внедрение AI не срабатывает даже в больших компаниях.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "WIRED",
-          "source_url": "https://wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "10281925": {
       "created_at": "2026-10-28T19:25:43Z",
       "message_id": 106,
@@ -898,6 +786,54 @@
             "https://www.techmeme.com/261031/p4#a261031p4"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "10311755": {
+      "created_at": "2026-10-31T17:55:05Z",
+      "message_id": 112,
+      "topics": [
+        {
+          "title": "Powerlattice привлекла $86M для чипов с меньшим энергопотреблением AI",
+          "what": "Стартап разработал чипсет, который снижает потребление энергии AI-процессорами на 50% и более.",
+          "why": "Энергетика — узкое место масштабирования AI. Решение напрямую влияет на рентабельность облачных вычислений, важно для всех, кто считает траты.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261030/p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261030/p27#a261030p27"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Авторы меняют стиль письма, чтобы избежать AI-детекторов",
+          "what": "Люди избегают em-dash, фраз типа «not X, but Y» и слова «delve», добавляют опечатки, чтобы казаться человеком.",
+          "why": "Парадокс: детекторы создают гонку вооружений в стилистике. Авторы адаптируются, что делает обнаружение сложнее и ставит под вопрос саму идею фильтров.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://techmeme.com/261031/p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261031/p8#a261031p8"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Агенты справляются с многодневной финансовой работой с персистентной памятью",
+          "what": "Arca рассказала, как агенты с постоянной памятью и пользовательским harness работают на финансовых проектах длиною в дни.",
+          "why": "Агенты выходят за пределы одноразовых чатботов и становятся помощниками сложных бизнес-процессов — это важно для продактов и фаундеров.",
+          "category": "analysis",
+          "score": 3,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/arca/",
+          "candidate_urls": [
+            "https://latent.space/p/arca/"
+          ],
+          "n": 3,
           "status": "offered"
         }
       ]
