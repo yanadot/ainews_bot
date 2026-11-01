@@ -1,54 +1,12 @@
 {
-  "run_at": "2026-11-01T14:09:55Z",
-  "candidates": 10,
+  "run_at": "2026-11-01T19:05:17Z",
+  "candidates": 1,
   "offered": [
     {
       "n": 1,
-      "title": "Суд разрешил иску против xAI: экологи требуют чистого воздуха",
+      "title": "Michael Kratsios — за политикой Trump по AI стоит экс-помощник Тиля",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-    },
-    {
-      "n": 2,
-      "title": "DeepSeek выпустил Super-Agent для мониторинга багов в чатах",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261101/p2#a261101p2"
-    },
-    {
-      "n": 3,
-      "title": "Guidewire купил AI-стартап Hyperexponential за $1.7 млрд",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261101/p1#a261101p1"
-    },
-    {
-      "n": 4,
-      "title": "Deepgram купил Daily и open-source фреймворк Pipecat",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261101/p3#a261101p3"
-    },
-    {
-      "n": 5,
-      "title": "OpenAI заплатила $5K за критическую уязвимость в share links",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261031/p11#a261031p11"
-    },
-    {
-      "n": 6,
-      "title": "Чатботы ошибаются о выборах, опираясь на ненадёжные AI-сайты",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261031/p12#a261031p12"
-    },
-    {
-      "n": 7,
-      "title": "Lumaril привлекла $66M для AI-оптимизации производства",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261101/p6#a261101p6"
-    },
-    {
-      "n": 8,
-      "title": "Apple позиционирует AI как практический инструмент, не маркетинг",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+      "source_url": "https://www.techmeme.com/261101/p9#a261101p9"
     }
   ]
 }
