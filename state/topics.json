@@ -585,8 +585,9 @@
             "https://www.techmeme.com/261101/p2#a261101p2"
           ],
           "n": 2,
-          "status": "awaiting_focus",
-          "focus_msg_id": 114
+          "status": "written",
+          "focus_msg_id": 114,
+          "focus": "Опиши как это будет работать и есть ли уже аналоги. Если имеет смысл - подай это как закрытие еще одного блока в цикле разработки"
         },
         {
           "title": "Guidewire купил AI-стартап Hyperexponential за $1.7 млрд",
