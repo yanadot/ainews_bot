@@ -1,110 +1,5 @@
 {
   "digests": {
-    "10301904": {
-      "created_at": "2026-10-30T19:04:29Z",
-      "message_id": 110,
-      "topics": [
-        {
-          "title": "Google запустил спутник с AI в космосе",
-          "what": "Google успешно активировал TPU на спутнике Project Suncatcher и использовал языковую модель Gemma 4 для первого ответа из космоса.",
-          "why": "Демонстрирует реальность edge AI и облачных вычислений в экстремальных условиях, открывает новые сценарии для распределённых AI-систем в сложной среде.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Google / The Verge",
-          "source_url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-            "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI будет соблюдать robots.txt для контроля тренирования моделей",
-          "what": "OpenAI объявила, что начнёт уважать robots.txt сигналы на сайтах, позволяя вебмастерам управлять использованием контента для обучения AI.",
-          "why": "Первый крупный провайдер LLM признаёт авторские права, влияет на легальный статус массового сбора данных и меняет соглашение между генераторами контента и AI-компаниями.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-          "candidate_urls": [
-            "https://openai.com/index/helping-websites-express-ai-training-preferences"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Salesforce купила стартап оборонной логистики Rune за $375M",
-          "what": "Salesforce приобрела Rune Technologies (разработчик AI для военной логистики) за $375 млн в виде комбинации наличных и акций.",
-          "why": "Показывает интерес крупных tech-компаний к AI в критических операциях и оборонной индустрии, укрепляет позицию Salesforce в enterprise AI на рынке госзаказов.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p17#a261030p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p17#a261030p17"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "&Truth привлекла $70M для AI-верификации кода",
-          "what": "Стартап &Truth запустился с раундом в $70M для разработки AI-инструментов формальной верификации программного обеспечения.",
-          "why": "Новая категория продукта: AI решает классическую hard problem разработки (математическое доказательство корректности), критична для финтеха и критических систем.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p4#a261030p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p4#a261030p4"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Cohere инвестирует $4 млрд в AI-мощности Канады",
-          "what": "Cohere объявила о стратегическом вложении $4 млрд в развитие суверенных AI-возможностей Канады и создание локальной рабочей силы.",
-          "why": "Геополитическая игра: компании строят региональные AI-стеки вне США, создаёт конкуренцию вокруг независимых технологий и влияет на инвестклимат за пределами силикон-долины.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Cohere",
-          "source_url": "https://cohere.com/blog/cohere-canada-commitment",
-          "candidate_urls": [
-            "https://cohere.com/blog/cohere-canada-commitment"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Zest выпустила AI-агента для поиска и бронирования ресторанов",
-          "what": "Zest создала AI-агента, который объединяет вкусы группы, предлагает варианты ресторанов через голосование и автоматически делает бронирование.",
-          "why": "Конкретный пример AI-агента для рутинной задачи: показывает, как агенты интегрируются в потребительские приложения и решают проблемы координации.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Папа Лев XIV призвал к дезармированию AI и запрету на летальные автономные системы",
-          "what": "Ватикан опубликовал послание, в котором Папа Лев XIV призвал страны ООН запретить летальные автономные вооружения и взять AI под контроль.",
-          "why": "Глобальные институции входят в дискуссию о регуляции AI, формирует альянсы вокруг ограничений, влияет на политическую волю в Европе и других регионах.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "10311329": {
       "created_at": "2026-10-31T13:29:02Z",
       "message_id": 111,
@@ -531,6 +426,141 @@
             "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
           ],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "11022352": {
+      "created_at": "2026-11-02T23:52:19Z",
+      "message_id": 126,
+      "topics": [
+        {
+          "title": "Anthropic предупреждает о близости RSI",
+          "what": "В S-1 документах компания заявила, что может скоро достичь Recursive Self-Improvement — момента, когда AI начнёт сам себя улучшать быстрее, чем люди.",
+          "why": "Признание переломного момента может переобозначить инвестиционные стратегии и заставить регуляторов срочно реагировать.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+            "https://www.techmeme.com/261102/p44#a261102p44"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "IPO Anthropic переоценили на $400–500 млрд",
+          "what": "Инвесторы называют оценку $1,5–1,6 трлн вместо ожидаемых $2 трлн из-за волатильности техсектора.",
+          "why": "Переоценка повлияет на привлечение средств другими AI-компаниями и показывает менее оптимистичные ожидания рынка.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.techmeme.com/261102/p42#a261102p42",
+          "candidate_urls": [
+            "https://www.techmeme.com/261102/p42#a261102p42"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "New York Times подал иск к браузеру Brave",
+          "what": "Издание обвиняет компанию в незаконном скрепинге контента для обучения AI и обходе paywall.",
+          "why": "Это сигнал, что издатели готовы защищать права на контент и потребуют лицензирования от компаний, использующих материалы для обучения.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "New York Times",
+          "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+            "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI обещает отдавать 1000 мегаватт в экстренных ситуациях",
+          "what": "Компания запустит Grid Protectors Program — дата-центры будут помогать энергосети во время пиков спроса и стихийных бедствий.",
+          "why": "Это показывает, как AI-компании встраиваются в критичную инфраструктуру и получают политическую поддержку для расширения мощностей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+            "https://www.techmeme.com/261102/p34#a261102p34"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Trajectory собрала $45M на обучение моделей для всех",
+          "what": "Стартап привлёк инвестиции для платформы, которая позволяет нетехническим командам обучать свои AI-модели без специальных знаний.",
+          "why": "Спрос на персональные модели растёт, но поставка отстаёт — компании, которые упрощают обучение, получают широкий рынок.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Tutor Intelligence собрала $75M на роботов для складов",
+          "what": "Компания привлекла Series B для разработки манипуляторов с AI, которые работают в реальных складских условиях без переделок.",
+          "why": "Робороботика — малоконкурентный сегмент с растущим спросом; успех может запустить волну физических роботов в логистике.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Forbes",
+          "source_url": "https://www.techmeme.com/261102/p33#a261102p33",
+          "candidate_urls": [
+            "https://www.techmeme.com/261102/p33#a261102p33"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "xAI выпустила Grok Bot — аналитик для каждой команды",
+          "what": "Elon Musk представил специализированного AI-ассистента, который позволяет командам делать аналитику данных как если бы у них был личный data scientist.",
+          "why": "Grok Bot показывает монетизацию xAI через узкие сценарии; конкуренция в чатботах переходит от общего к специализированному.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "xAI",
+          "source_url": "https://x.ai/news/data-bot",
+          "candidate_urls": [
+            "https://x.ai/news/data-bot"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI LifeVal: как мерить пользу AI в реальности",
+          "what": "Компания создала бенчмарк для измерения того, насколько хорошо AI помогает с повседневными проблемами: наём няни, налоги, документы.",
+          "why": "Классические бенчмарки не ловят практическую пользу; сдвиг фокуса от технических метрик к реальной помощи меняет стандарты оценки.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/lifeval",
+          "candidate_urls": [
+            "https://openai.com/index/lifeval"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "GPT-6 Astra редактирует веса других моделей напрямую",
+          "what": "Исследователи показали, что современные языковые модели могут читать и менять параметры других нейросетей — GPT-6 Astra улучшила математику Qwen3.5.",
+          "why": "Способность моделей манипулировать другими ускоряет цикл развития AI, но требует новых подходов к безопасности и контролю.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261102/p36#a261102p36",
+          "candidate_urls": [
+            "https://www.techmeme.com/261102/p36#a261102p36"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]

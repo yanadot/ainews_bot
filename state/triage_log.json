@@ -1,48 +1,60 @@
 {
-  "run_at": "2026-11-02T16:56:06Z",
-  "candidates": 26,
+  "run_at": "2026-11-02T23:52:19Z",
+  "candidates": 22,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic IPO: $17B выручка и $895B на compute",
+      "title": "Anthropic предупреждает о близости RSI",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261102/p23"
+      "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
     },
     {
       "n": 2,
-      "title": "42AI: $62.5M на модель предсказания поведения",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+      "title": "IPO Anthropic переоценили на $400–500 млрд",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261102/p42#a261102p42"
     },
     {
       "n": 3,
-      "title": "400+ приложений со скрытыми deepfake функциями",
+      "title": "New York Times подал иск к браузеру Brave",
       "score": 4,
-      "source_url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
+      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
     },
     {
       "n": 4,
-      "title": "Grok Bot: затраты выше доходов, лимиты ужесточены",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+      "title": "OpenAI обещает отдавать 1000 мегаватт в экстренных ситуациях",
+      "score": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
     },
     {
       "n": 5,
-      "title": "Apple: RL-агент для дешёвой навигации UI на iOS",
-      "score": 3,
-      "source_url": "https://machinelearning.apple.com/research/planning-grounding-ui-navigation"
+      "title": "Trajectory собрала $45M на обучение моделей для всех",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
     },
     {
       "n": 6,
-      "title": "OpenAI Grid Protectors: партнёрство с энергетиками",
-      "score": 3,
-      "source_url": "https://openai.com/index/grid-protectors-program"
+      "title": "Tutor Intelligence собрала $75M на роботов для складов",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261102/p33#a261102p33"
     },
     {
       "n": 7,
-      "title": "Агенты требуют 10-50x больше токенов, чем простой чат",
+      "title": "xAI выпустила Grok Bot — аналитик для каждой команды",
+      "score": 4,
+      "source_url": "https://x.ai/news/data-bot"
+    },
+    {
+      "n": 8,
+      "title": "OpenAI LifeVal: как мерить пользу AI в реальности",
       "score": 3,
-      "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+      "source_url": "https://openai.com/index/lifeval"
+    },
+    {
+      "n": 9,
+      "title": "GPT-6 Astra редактирует веса других моделей напрямую",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261102/p36#a261102p36"
     }
   ]
 }

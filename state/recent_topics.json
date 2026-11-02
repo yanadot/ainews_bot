@@ -1,48 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Google запустил спутник с AI в космосе",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI будет соблюдать robots.txt для контроля тренирования моделей",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Salesforce купила стартап оборонной логистики Rune за $375M",
-      "url": "https://www.techmeme.com/261030/p17#a261030p17",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "&Truth привлекла $70M для AI-верификации кода",
-      "url": "https://www.techmeme.com/261030/p4#a261030p4",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cohere инвестирует $4 млрд в AI-мощности Канады",
-      "url": "https://cohere.com/blog/cohere-canada-commitment",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Zest выпустила AI-агента для поиска и бронирования ресторанов",
-      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Папа Лев XIV призвал к дезармированию AI и запрету на летальные автономные системы",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "ts": "2026-10-30T19:04:29Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Google признала: AI Mode убивает выручку Search на 15%",
       "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
       "ts": "2026-10-31T13:29:02Z",
@@ -219,6 +177,60 @@
       "topic": "42AI: $62.5M на модель предсказания поведения",
       "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
       "ts": "2026-11-02T17:41:50Z"
+    },
+    {
+      "topic": "Anthropic предупреждает о близости RSI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "IPO Anthropic переоценили на $400–500 млрд",
+      "url": "https://www.techmeme.com/261102/p42#a261102p42",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "New York Times подал иск к браузеру Brave",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI обещает отдавать 1000 мегаватт в экстренных ситуациях",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Trajectory собрала $45M на обучение моделей для всех",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Tutor Intelligence собрала $75M на роботов для складов",
+      "url": "https://www.techmeme.com/261102/p33#a261102p33",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "xAI выпустила Grok Bot — аналитик для каждой команды",
+      "url": "https://x.ai/news/data-bot",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI LifeVal: как мерить пользу AI в реальности",
+      "url": "https://openai.com/index/lifeval",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "GPT-6 Astra редактирует веса других моделей напрямую",
+      "url": "https://www.techmeme.com/261102/p36#a261102p36",
+      "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
     }
   ]
 }
