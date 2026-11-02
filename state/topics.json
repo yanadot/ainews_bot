@@ -458,7 +458,8 @@
             "https://www.techmeme.com/261102/p30#a261102p30"
           ],
           "n": 2,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 121
         },
         {
           "title": "400+ приложений со скрытыми deepfake функциями",
