@@ -1,275 +1,5 @@
 {
   "digests": {
-    "10291930": {
-      "created_at": "2026-10-29T19:30:12Z",
-      "message_id": 108,
-      "topics": [
-        {
-          "title": "Mistral выпустила Le Chonk — триллион параметров для кода и безопасности",
-          "what": "Mistral выпустила веса открытой модели Le Chonk на триллион параметров, оптимизированной для программирования и кибербезопасности.",
-          "why": "Первая открытая модель такого масштаба даёт разработчикам полный контроль над AI без привязки к облачным сервисам.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Mistral",
-          "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
-          "candidate_urls": [
-            "https://mistral.ai/news/mistral-large-4-oss/",
-            "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-            "https://huggingface.co/blog/mistral-large4",
-            "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic подала S-1 на IPO, став первой крупной AI-лабой на бирже",
-          "what": "Anthropic подала заявку на IPO в Nasdaq, обнародовав финансовые результаты и видение развития компании.",
-          "why": "IPO Anthropic сигнализирует зрелость рынка фаундер-моделей и привлекает капитал в сектор безопасности AI.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-          "candidate_urls": [
-            "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Alphabet упала на 12%, потеряла $500 млрд — AI-инфра давит на результаты",
-          "what": "Акции Google упали на 12% после отчёта о больших затратах на AI-инфраструктуру и меньших прибылях, чем ожидал рынок.",
-          "why": "Показывает, что даже бесконечные ресурсы Google не гарантируют прибыль на AI — стартапам нужна честная калькуляция инвестиций.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261029/p38#a261029p38",
-          "candidate_urls": [
-            "https://www.techmeme.com/261029/p38#a261029p38"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI обновила Model Spec с пятью принципами этики AI",
-          "what": "OpenAI переписала Model Spec на пять принципов: верность намерениям, честность, минимизация вреда, уважение к контролю, забота.",
-          "why": "Крупнейшая лаба предлагает де-факто моральный кодекс для других компаний и демонстрирует ответственность перед инвесторами.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/updated-model-spec",
-          "candidate_urls": [
-            "https://openai.com/index/updated-model-spec",
-            "https://www.techmeme.com/261029/p42#a261029p42"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI показала, как мониторить поведение мощных AI-моделей",
-          "what": "OpenAI опубликовала методологию многоуровневого мониторинга для детекции несоответствия поведения моделей и неавторизованной активности агентов.",
-          "why": "Первый конкретный инструмент для регуляторов и корпораций проверять контроль над AI; показывает путь к доказуемой безопасности.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-          "candidate_urls": [
-            "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Claude-агент на сети Пентагона утёк данные — риск персональных AI",
-          "what": "Личный Claude-агент сотрудника Accenture работал на защищённой DOD-сети два месяца, данные утекали на третий сервис, пока его не обнаружили.",
-          "why": "Реальный инцидент показывает критический риск: когда каждый работник может запустить AI-агента, корпоративная безопасность рушится.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-          "candidate_urls": [
-            "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-            "https://www.techmeme.com/261029/p44#a261029p44"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft предложит выкупить 60 тысяч сотрудников — AI меняет оргструктуру",
-          "what": "Microsoft предлагает добровольные выкупы примерно 60 тысячам сотрудников на фоне сосредоточения на AI-стратегии.",
-          "why": "Если Microsoft готова к масштабному сокращению штата, остальной tech-сектор будет следовать; сигнал рынку труда в big tech.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Gemini 4 Carbon стала №1 в рейтинге Artificial Analysis — Google вернула лидерство",
-          "what": "Google Gemini 4 Carbon заняла первое место в индексе интеллекта Artificial Analysis v5, обогнав другие фронтирные модели.",
-          "why": "Google усилила позицию в гонке моделей; важно для лидеров показать, что они не отстают в AI-конкуренции.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Artificial Analysis",
-          "source_url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-          "candidate_urls": [
-            "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
-          "what": "Новый стартап Sebastian Thrun привлёк $130 млн seed-раунда на фундаментальные модели для проектирования аппаратного обеспечения.",
-          "why": "Легендарный инноватор ставит на критическую нишу (chip design); может угрожать Nvidia в долгосроке, если успеет.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "The Information",
-          "source_url": "https://www.techmeme.com/261029/p40#a261029p40",
-          "candidate_urls": [
-            "https://www.techmeme.com/261029/p40#a261029p40"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
-    "10301357": {
-      "created_at": "2026-10-30T13:57:19Z",
-      "message_id": 109,
-      "topics": [
-        {
-          "title": "Взлом Anthropic — RAT на ноутбуках разработчиков Claude",
-          "what": "Хакеры скомпрометировали Anthropic и закачали удалённые троянские программы на ноутбуки разработчиков по всему миру.",
-          "why": "Критический инцидент для всех, кто пишет код с Claude — риск утечки кода и приватных данных проектов.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Doublepulsar / Hacker News",
-          "source_url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-          "candidate_urls": [
-            "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-            "https://cyberplace.social/@GossiTheDog/117528831681803563"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Wikipedia в суде: плохой AI-copyright закон вредит открытому вебу",
-          "what": "Wikimedia Foundation предложила судам легально защитить обучение моделей на авторском контенте, но запретить chatbot-регургитацию этого контента.",
-          "why": "От исхода дела зависит, смогут ли открытые модели учиться на всём интернете — базовый вопрос для индустрии.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-          "candidate_urls": [
-            "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Thrive Holdings (OpenAI фонд) купил домашнюю безопасность ADT за $15.3B",
-          "what": "Инвестфонд Thrive, поддерживаемый OpenAI, купил компанию домашней безопасности ADT, чтобы добавить туда AI-агентов.",
-          "why": "Показывает реальное применение AI-агентов в консьюмер-категориях и экосистему, в которую OpenAI вкладывает деньги.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "UK проверяет Meta: давила ли на издателей за контент для AI",
-          "what": "Британская CMA запустила расследование, проверяет, навязывала ли Meta обязательность использовать контент для обучения AI.",
-          "why": "Риск для всех с контентом: регуляторы ужесточают требования к соглашениям об использовании данных в AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p10#a261030p10",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p10#a261030p10"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Runware делает AI дата-центры как машины на конвейере",
-          "what": "Стартап Runware строит завод для сборки готовых модульных дата-центров на производственной линии и запуска за 48 часов.",
-          "why": "Интересный подход к масштабированию инфраструктуры: если сработает, дешевле и быстрее классических data centers.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Reddit за бетонный забор: переходит на аутентификацию от AI-поиска",
-          "what": "Reddit ограничивает свой открытый веб и требует логина для доступа, чтобы защитить контент от Google AI Search и других агрегаторов.",
-          "why": "Модель защиты контента: показывает, как платформы реагируют на AI-поиск. Могут повторить другие соцсети.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon хочет триллион долларов выручки, но сначала потратит триллионы на AI",
-          "what": "Глава AWS Энди Джасси сказал, что Amazon нацелена стать первым бизнесом с $1 триллион выручки, но требует огромных капитальных вложений.",
-          "why": "Масштаб инвестиций облачных гигантов в AI показывает, насколько это дорого — приоритет для компаний с инфраструктурой.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Мейн: выборы захватил скандал про AI дата-центры и климат",
-          "what": "На дебатах в Мейне избиратель обвинил сенатора Коллинз в безразличии к рискам AI дата-центров для климата и воды региона.",
-          "why": "Экологические возражения против дата-центров становятся политическим фактором — важно для инвесторов в инфраструктуру.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
-          "what": "Spotify разрабатывает платный AI-продукт, чтобы подписчики могли создавать ремиксы и кавер-версии песен в голосе артистов.",
-          "why": "Новая категория: музыка + AI + лицензирование. Интересный экономический угол для консьюмер-продуктов и музыкальных стартапов.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p5#a261030p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p5#a261030p5"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10301904": {
       "created_at": "2026-10-30T19:04:29Z",
       "message_id": 110,
@@ -691,6 +421,114 @@
             "https://www.techmeme.com/261101/p9#a261101p9"
           ],
           "n": 1,
+          "status": "offered"
+        }
+      ]
+    },
+    "11021656": {
+      "created_at": "2026-11-02T16:56:06Z",
+      "message_id": 120,
+      "topics": [
+        {
+          "title": "Anthropic IPO: $17B выручка и $895B на compute",
+          "what": "Anthropic подал S-1 с финансами: $17B выручка в Q3 (12x YoY), $895B commitments на compute и инфраструктуру, 3.5GW+ capacity в 2026 с диверсификацией за Nvidia.",
+          "why": "Показывает масштаб инвестиций в AI и амбиции Anthropic — но и $23.3B убытков, что актуально для инвесторов и аналитиков понимать экономику лидеров AI.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Anthropic S-1 filing (Bloomberg, CNBC, NYT)",
+          "source_url": "https://www.techmeme.com/261102/p23",
+          "candidate_urls": [
+            "https://www.techmeme.com/261102/p23#a261102p23",
+            "https://www.techmeme.com/261102/p26#a261102p26",
+            "https://www.techmeme.com/261102/p29#a261102p29"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "42AI: $62.5M на модель предсказания поведения",
+          "what": "Израильский стартап 42AI вышел из stealth с $62.5M на разработку 'behavioral world model', которая предсказывает действия человека даже в новых ситуациях.",
+          "why": "Для продактов интересна новая категория AI — моделирование поведения вместо просто генерирования текста открывает иные применения.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+            "https://www.techmeme.com/261102/p30#a261102p30"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "400+ приложений со скрытыми deepfake функциями",
+          "what": "Wired раскрыла, что около 400 китайских приложений, замаскированные под обычные AI-инструменты, содержат скрытые функции создания насильственных deepfake видео и изображений.",
+          "why": "Серьёзный вызов безопасности и регуляции — бытовые приложения скрывают функции для абузивного контента, что требует внимания от стартапов и политиков.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+          "candidate_urls": [
+            "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Grok Bot: затраты выше доходов, лимиты ужесточены",
+          "what": "Elon Musk признал, что затраты на Grok Bot были 'непомерно высокими' относительно выручки и несут убытки, несмотря на рекордный рост — пришлось ограничить use limits.",
+          "why": "Показывает реальные вызовы масштабирования AI-сервисов: даже впечатляющий рост не гарантирует прибыльность, если inference затраты неподъёмны.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+            "https://www.techmeme.com/261102/p20#a261102p20"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Apple: RL-агент для дешёвой навигации UI на iOS",
+          "what": "Apple опубликовала исследование про reinforcement learning агента, который навигирует живые iOS-приложения, используя намного меньше мощности, чем крупные vision-language модели.",
+          "why": "Практический пример встроить AI в потребительские продукты экономно — важно для стартапов, которым нужен AI в мобильных приложениях без убытков на inference.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Apple ML Research",
+          "source_url": "https://machinelearning.apple.com/research/planning-grounding-ui-navigation",
+          "candidate_urls": [
+            "https://machinelearning.apple.com/research/planning-grounding-ui-navigation"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI Grid Protectors: партнёрство с энергетиками",
+          "what": "OpenAI запустила программу Grid Protectors, чтобы работать с коммунальными компаниями и помогать датацентрам поддерживать стабильность энергосистемы.",
+          "why": "Показывает, как лабы решают критическую проблему энергопотребления — не только технология, но стратегические партнёрства с утилитами для масштабирования вычислений.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/grid-protectors-program",
+          "candidate_urls": [
+            "https://openai.com/index/grid-protectors-program"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Агенты требуют 10-50x больше токенов, чем простой чат",
+          "what": "MIT Technology Review разбирается в экономике AI-агентов: когда агент планирует, генерирует код, тестирует и исправляет, одна задача съедает в 10-50 раз больше токенов, чем простой запрос.",
+          "why": "Для продактов и аналитиков важно понимать реальную стоимость AI-систем — агенты дороже в содержании, чем кажется по первому взгляду.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

@@ -1,114 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Mistral выпустила Le Chonk — триллион параметров для кода и безопасности",
-      "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic подала S-1 на IPO, став первой крупной AI-лабой на бирже",
-      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Alphabet упала на 12%, потеряла $500 млрд — AI-инфра давит на результаты",
-      "url": "https://www.techmeme.com/261029/p38#a261029p38",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI обновила Model Spec с пятью принципами этики AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI показала, как мониторить поведение мощных AI-моделей",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Claude-агент на сети Пентагона утёк данные — риск персональных AI",
-      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft предложит выкупить 60 тысяч сотрудников — AI меняет оргструктуру",
-      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Gemini 4 Carbon стала №1 в рейтинге Artificial Analysis — Google вернула лидерство",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Дуло (Sebastian Thrun) привлекла $130M для AI-моделей дизайна чипов",
-      "url": "https://www.techmeme.com/261029/p40#a261029p40",
-      "ts": "2026-10-29T19:30:12Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Взлом Anthropic — RAT на ноутбуках разработчиков Claude",
-      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Wikipedia в суде: плохой AI-copyright закон вредит открытому вебу",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Thrive Holdings (OpenAI фонд) купил домашнюю безопасность ADT за $15.3B",
-      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "UK проверяет Meta: давила ли на издателей за контент для AI",
-      "url": "https://www.techmeme.com/261030/p10#a261030p10",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Runware делает AI дата-центры как машины на конвейере",
-      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Reddit за бетонный забор: переходит на аутентификацию от AI-поиска",
-      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon хочет триллион долларов выручки, но сначала потратит триллионы на AI",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Мейн: выборы захватил скандал про AI дата-центры и климат",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Spotify готовит AI-ремиксы за $5/месяц — поёшь, как звезда",
-      "url": "https://www.techmeme.com/261030/p5#a261030p5",
-      "ts": "2026-10-30T13:57:19Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Google запустил спутник с AI в космосе",
       "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "ts": "2026-10-30T19:04:29Z",
@@ -279,6 +171,48 @@
       "topic": "Michael Kratsios — за политикой Trump по AI стоит экс-помощник Тиля",
       "url": "https://www.techmeme.com/261101/p9#a261101p9",
       "ts": "2026-11-01T19:05:17Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic IPO: $17B выручка и $895B на compute",
+      "url": "https://www.techmeme.com/261102/p23",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "42AI: $62.5M на модель предсказания поведения",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "400+ приложений со скрытыми deepfake функциями",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Grok Bot: затраты выше доходов, лимиты ужесточены",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple: RL-агент для дешёвой навигации UI на iOS",
+      "url": "https://machinelearning.apple.com/research/planning-grounding-ui-navigation",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI Grid Protectors: партнёрство с энергетиками",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "ts": "2026-11-02T16:56:06Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Агенты требуют 10-50x больше токенов, чем простой чат",
+      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "ts": "2026-11-02T16:56:06Z",
       "kind": "offered"
     }
   ]
