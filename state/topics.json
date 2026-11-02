@@ -458,8 +458,9 @@
             "https://www.techmeme.com/261102/p30#a261102p30"
           ],
           "n": 2,
-          "status": "awaiting_focus",
-          "focus_msg_id": 121
+          "status": "written",
+          "focus_msg_id": 121,
+          "focus": "найди инфу про то как они будут это делать, под какие юскейсы продавать"
         },
         {
           "title": "400+ приложений со скрытыми deepfake функциями",
