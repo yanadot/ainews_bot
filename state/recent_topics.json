@@ -1,24 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Powerlattice привлекла $86M для чипов с меньшим энергопотреблением AI",
-      "url": "https://www.techmeme.com/261030/p27",
-      "ts": "2026-10-31T17:55:05Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Авторы меняют стиль письма, чтобы избежать AI-детекторов",
-      "url": "https://techmeme.com/261031/p8",
-      "ts": "2026-10-31T17:55:05Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Агенты справляются с многодневной финансовой работой с персистентной памятью",
-      "url": "https://latent.space/p/arca/",
-      "ts": "2026-10-31T17:55:05Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Суд разрешил иску против xAI: экологи требуют чистого воздуха",
       "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "ts": "2026-11-01T14:09:55Z",
@@ -230,6 +212,54 @@
       "topic": "Города развёртывают AI-агентов через NVIDIA",
       "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
       "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA: AI помогает инженерам на фабриках делать чипы",
+      "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI: инженеры быстрее проектируют в реальном мире",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cohere выпустила Open Source Model Vault",
+      "url": "https://cohere.com/blog/open-source-model-vault",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI и Cisco: защита сетей на скорости машин",
+      "url": "https://openai.com/index/cisco-cyber",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "StateBench: как модели отслеживают события в документах",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jill Hazelbaker — новый Chief Corporate Affairs в OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple ограничила знакомства и AI-компаньонов для 18+",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "ts": "2026-11-03T20:51:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepMind: сотрудники требуют права предупреждать об AI-рисках",
+      "url": "https://www.techmeme.com/261103/p23#a261103p23",
+      "ts": "2026-11-03T20:51:58Z",
       "kind": "offered"
     }
   ]

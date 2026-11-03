@@ -1,53 +1,5 @@
 {
   "digests": {
-    "10311755": {
-      "created_at": "2026-10-31T17:55:05Z",
-      "message_id": 112,
-      "topics": [
-        {
-          "title": "Powerlattice привлекла $86M для чипов с меньшим энергопотреблением AI",
-          "what": "Стартап разработал чипсет, который снижает потребление энергии AI-процессорами на 50% и более.",
-          "why": "Энергетика — узкое место масштабирования AI. Решение напрямую влияет на рентабельность облачных вычислений, важно для всех, кто считает траты.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p27",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p27#a261030p27"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Авторы меняют стиль письма, чтобы избежать AI-детекторов",
-          "what": "Люди избегают em-dash, фраз типа «not X, but Y» и слова «delve», добавляют опечатки, чтобы казаться человеком.",
-          "why": "Парадокс: детекторы создают гонку вооружений в стилистике. Авторы адаптируются, что делает обнаружение сложнее и ставит под вопрос саму идею фильтров.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://techmeme.com/261031/p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261031/p8#a261031p8"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Агенты справляются с многодневной финансовой работой с персистентной памятью",
-          "what": "Arca рассказала, как агенты с постоянной памятью и пользовательским harness работают на финансовых проектах длиною в дни.",
-          "why": "Агенты выходят за пределы одноразовых чатботов и становятся помощниками сложных бизнес-процессов — это важно для продактов и фаундеров.",
-          "category": "analysis",
-          "score": 3,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/arca/",
-          "candidate_urls": [
-            "https://latent.space/p/arca/"
-          ],
-          "n": 3,
-          "status": "offered"
-        }
-      ]
-    },
     "11011409": {
       "created_at": "2026-11-01T14:09:55Z",
       "message_id": 113,
@@ -561,6 +513,124 @@
             "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11032051": {
+      "created_at": "2026-11-03T20:51:58Z",
+      "message_id": 128,
+      "topics": [
+        {
+          "title": "NVIDIA: AI помогает инженерам на фабриках делать чипы",
+          "what": "AI помогает инженерам на фабриках быстрее понимать изменения процесса, взаимодействие материалов и причины дефектов.",
+          "why": "Показывает как AI внедряется в тяжёлую промышленность; хороший пример для продактов как AI решает специализированные инженерные задачи.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI: инженеры быстрее проектируют в реальном мире",
+          "what": "ChatGPT и Codex помогают ускорить CAD, проектирование печатных плат, симуляции и другие инженерные работы.",
+          "why": "Инструмент для стартапов в хардвере и инженеров; экономит часы на рутине и ускоряет прототипирование.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "candidate_urls": [
+            "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Cohere выпустила Open Source Model Vault",
+          "what": "Платформа с открытыми языковыми моделями, которые компании могут использовать и контролировать полностью сами.",
+          "why": "Ещё один игрок в гонке открытых моделей; способ для продактов избежать зависимости от единственного провайдера.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Cohere Blog",
+          "source_url": "https://cohere.com/blog/open-source-model-vault",
+          "candidate_urls": [
+            "https://cohere.com/blog/open-source-model-vault"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI и Cisco: защита сетей на скорости машин",
+          "what": "Cisco использует модели OpenAI чтобы обнаруживать угрозы быстрее и строить более адаптивную оборону.",
+          "why": "Enterprise use case; показывает как AI встраивается в критичную инфраструктуру и как партнёрства с лидерами работают.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/cisco-cyber",
+          "candidate_urls": [
+            "https://openai.com/index/cisco-cyber"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "StateBench: как модели отслеживают события в документах",
+          "what": "AllenAI выпустила бенчмарк для проверки, может ли языковая модель понимать и запоминать изменения состояния в длинных текстах.",
+          "why": "Нужен чтобы оценить модели перед production; показывает реальные слабые места LLM в практике.",
+          "category": "analysis",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/allenai/statebench",
+          "candidate_urls": [
+            "https://huggingface.co/blog/allenai/statebench"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Jill Hazelbaker — новый Chief Corporate Affairs в OpenAI",
+          "what": "Экс-гугльер Jill Hazelbaker возглавит коммуникацию и позиционирование OpenAI на мировой политической и общественной арене.",
+          "why": "Признак того, что OpenAI растёт как политический актор; влияние компании выходит за пределы продуктов в госполитику.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "candidate_urls": [
+            "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Apple ограничила знакомства и AI-компаньонов для 18+",
+          "what": "Новые правила App Store требуют рейтинг 18+ для приложений знакомств и AI-компаньонов с сексуальным или романтическим контентом.",
+          "why": "Регуляторика начинает касаться AI-компаньонов; разработчикам нужно пересчитывать стратегию для consumer AI.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "DeepMind: сотрудники требуют права предупреждать об AI-рисках",
+          "what": "Работники Google DeepMind требуют убрать non-disparagement clauses, которые препятствуют им говорить об AI-рисках даже после увольнения.",
+          "why": "Показывает конфликт между корпоративной политикой и ответственностью; может повлиять на позиции лабов в регуляторике и репутации.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261103/p23#a261103p23",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p23#a261103p23"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]
