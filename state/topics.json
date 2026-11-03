@@ -617,7 +617,8 @@
             "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
           ],
           "n": 7,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 129
         },
         {
           "title": "DeepMind: сотрудники требуют права предупреждать об AI-рисках",
