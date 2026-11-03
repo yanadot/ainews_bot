@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T23:49:17Z",
+  "checked_at": "2026-11-03T14:54:15Z",
   "errors": [
     {
       "id": "deepmind",
@@ -11,7 +11,7 @@
       "id": "hn_ai",
       "name": "Hacker News (AI, 200+)",
       "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "URLError: <urlopen error timed out>"
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
     }
   ]
 }

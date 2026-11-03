@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Google признала: AI Mode убивает выручку Search на 15%",
-      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Трещины в AI spending boom: долги растут, инвесторы уходят",
-      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI привлекла $11B вместо целевых $30B",
-      "url": "https://www.techmeme.com/261030/p31#a261030p31",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta запустила Muse — AI-агентов для бизнеса",
-      "url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI, Google, Microsoft, Anthropic договорились об opt-out для скрепинга",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-агент в биотехе впервые делал фарм-исследования сам",
-      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic получит 'мусорный' рейтинг после IPO, пишут инвесторы",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "S&P понизила outlook Meta из-за AI-расходов",
-      "url": "https://www.techmeme.com/261031/p3#a261031p3",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI дата-центры закрыты от финансирования на облигациях",
-      "url": "https://www.techmeme.com/261031/p4#a261031p4",
-      "ts": "2026-10-31T13:29:02Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Powerlattice привлекла $86M для чипов с меньшим энергопотреблением AI",
       "url": "https://www.techmeme.com/261030/p27",
       "ts": "2026-10-31T17:55:05Z",
@@ -230,6 +176,60 @@
       "topic": "GPT-6 Astra редактирует веса других моделей напрямую",
       "url": "https://www.techmeme.com/261102/p36#a261102p36",
       "ts": "2026-11-02T23:52:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "CrowdStrike инвестирует $495М в мониторинг AI-агентов",
+      "url": "https://www.techmeme.com/261103/p17#a261103p17",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "LLM научились редактировать веса нейросетей напрямую",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic использует Claude для разработки собственных чипов",
+      "url": "https://www.techmeme.com/261103/p16#a261103p16",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Новый способ контроля AI: reverse game theory",
+      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI усиливает безопасность совместным спринтом с Cathedral Systems",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI нанимает экс-секретаря Армии США для работы с правительством",
+      "url": "https://www.techmeme.com/261103/p9#a261103p9",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "UK предупредил: Россия и Китай используют AI для кибератак",
+      "url": "https://www.techmeme.com/261103/p7#a261103p7",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Китай разрабатывает комплексные стандарты безопасности AI",
+      "url": "https://www.techmeme.com/261103/p8#a261103p8",
+      "ts": "2026-11-03T14:56:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Города развёртывают AI-агентов через NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+      "ts": "2026-11-03T14:56:13Z",
       "kind": "offered"
     }
   ]

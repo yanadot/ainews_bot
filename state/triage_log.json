@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-11-02T23:52:19Z",
-  "candidates": 22,
+  "run_at": "2026-11-03T14:56:13Z",
+  "candidates": 24,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic предупреждает о близости RSI",
+      "title": "CrowdStrike инвестирует $495М в мониторинг AI-агентов",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
+      "source_url": "https://www.techmeme.com/261103/p17#a261103p17"
     },
     {
       "n": 2,
-      "title": "IPO Anthropic переоценили на $400–500 млрд",
+      "title": "LLM научились редактировать веса нейросетей напрямую",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261102/p42#a261102p42"
+      "source_url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
     },
     {
       "n": 3,
-      "title": "New York Times подал иск к браузеру Brave",
+      "title": "Anthropic использует Claude для разработки собственных чипов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+      "source_url": "https://www.techmeme.com/261103/p16#a261103p16"
     },
     {
       "n": 4,
-      "title": "OpenAI обещает отдавать 1000 мегаватт в экстренных ситуациях",
+      "title": "Новый способ контроля AI: reverse game theory",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program"
+      "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
     },
     {
       "n": 5,
-      "title": "Trajectory собрала $45M на обучение моделей для всех",
+      "title": "OpenAI усиливает безопасность совместным спринтом с Cathedral Systems",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+      "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
     },
     {
       "n": 6,
-      "title": "Tutor Intelligence собрала $75M на роботов для складов",
+      "title": "OpenAI нанимает экс-секретаря Армии США для работы с правительством",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261102/p33#a261102p33"
+      "source_url": "https://www.techmeme.com/261103/p9#a261103p9"
     },
     {
       "n": 7,
-      "title": "xAI выпустила Grok Bot — аналитик для каждой команды",
-      "score": 4,
-      "source_url": "https://x.ai/news/data-bot"
+      "title": "UK предупредил: Россия и Китай используют AI для кибератак",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261103/p7#a261103p7"
     },
     {
       "n": 8,
-      "title": "OpenAI LifeVal: как мерить пользу AI в реальности",
+      "title": "Китай разрабатывает комплексные стандарты безопасности AI",
       "score": 3,
-      "source_url": "https://openai.com/index/lifeval"
+      "source_url": "https://www.techmeme.com/261103/p8#a261103p8"
     },
     {
       "n": 9,
-      "title": "GPT-6 Astra редактирует веса других моделей напрямую",
+      "title": "Города развёртывают AI-агентов через NVIDIA",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261102/p36#a261102p36"
+      "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
     }
   ]
 }

@@ -1,137 +1,5 @@
 {
   "digests": {
-    "10311329": {
-      "created_at": "2026-10-31T13:29:02Z",
-      "message_id": 111,
-      "topics": [
-        {
-          "title": "Google признала: AI Mode убивает выручку Search на 15%",
-          "what": "Google признала, что интеграция AI в поиск снизила выручку примерно на 15%, потеря составила $500 млрд рыночной стоимости компании.",
-          "why": "Показывает главный риск всей индустрии: AI-инфра стоит миллиарды, а доход от неё меньше потерь. Нужно искать новые модели монетизации.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-          "candidate_urls": [
-            "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Трещины в AI spending boom: долги растут, инвесторы уходят",
-          "what": "Big Tech тратит миллиарды на AI-инфру, но растут долги, negative cash flow и скептицизм инвесторов. Рынок входит в проверку устойчивости.",
-          "why": "Для фаундеров и PM важна переоценка: эра безлимитных расходов кончилась, нужна фокусировка на окупаемость и unit economics.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI привлекла $11B вместо целевых $30B",
-          "what": "OpenAI закрыла раунд на $11B — менее трети от плана в $30B, оценка упала с $1.4T до $1.25T. Даже лидер сталкивается с ужесточением условий.",
-          "why": "Сигнал о том, что инвесторы переосмысляют AI-инвестиции. Для стартапов это значит: раундов будет меньше, условия жёстче.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Wall Street Journal / Techmeme",
-          "source_url": "https://www.techmeme.com/261030/p31#a261030p31",
-          "candidate_urls": [
-            "https://www.techmeme.com/261030/p31#a261030p31"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Meta запустила Muse — AI-агентов для бизнеса",
-          "what": "Meta выпустила Muse — платформу AI-агентов, которые могут автоматизировать различные бизнес-процессы и менять целые отрасли.",
-          "why": "Конкурент OpenAI и Anthropic. Показывает, что крупные tech-компании не отстают в гонке за агентами, хотя доказать value ещё сложно.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
-          "candidate_urls": [
-            "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI, Google, Microsoft, Anthropic договорились об opt-out для скрепинга",
-          "what": "Четыре крупнейшие AI-лабы одновременно поддержали стандарт, позволяющий издателям запретить использование их контента для обучения моделей.",
-          "why": "Показывает готовность индустрии к регуляторике. Для контент-компаний это окно переговоров — теперь у них есть инструмент.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "AI-агент в биотехе впервые делал фарм-исследования сам",
-          "what": "Стартап позволил AI-агенту самостоятельно выбрать ген-терапию и ввести лечение живой мышке. Успешно.",
-          "why": "Агенты выходят из софта в лабораторию. Для фаундеров в глубокой науке: это новая категория — AI как учёный.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
-          "candidate_urls": [
-            "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic получит 'мусорный' рейтинг после IPO, пишут инвесторы",
-          "what": "Кредитные агентства, похоже, дадут Anthropic низкий рейтинг (BB+) после выхода в публик, что усложнит привлечение дешёвого финансирования.",
-          "why": "Даже при IPO Anthropic сталкивается с финансовым давлением — инвесторы сомневаются в long-term моделе компании.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Financial Times / TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "S&P понизила outlook Meta из-за AI-расходов",
-          "what": "S&P Global Ratings перевела Meta с 'стабильного' на 'негативный' outlook из-за высоких капатов и отрицательного cash flow. Акции упали на 15% в октябре.",
-          "why": "Даже Meta со своей экосистемой не может скрыть финансовый стресс от AI-инвестиций. Сигнал для инвесторов всей индустрии.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "S&P Global / CNBC",
-          "source_url": "https://www.techmeme.com/261031/p3#a261031p3",
-          "candidate_urls": [
-            "https://www.techmeme.com/261031/p3#a261031p3"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "AI дата-центры закрыты от финансирования на облигациях",
-          "what": "CoreWeave, Nebius и Nscale — специализированные AI инфра-компании — выбиты с рынка облигаций. Инвесторы требуют более жёстких условий.",
-          "why": "Показывает, что даже узкоспециализированные инфра-игроки в опасности. Для стартапов в этом пространстве: финансирование становится настоящей проблемой.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261031/p4#a261031p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261031/p4#a261031p4"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "10311755": {
       "created_at": "2026-10-31T17:55:05Z",
       "message_id": 112,
@@ -559,6 +427,138 @@
           "source_url": "https://www.techmeme.com/261102/p36#a261102p36",
           "candidate_urls": [
             "https://www.techmeme.com/261102/p36#a261102p36"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11031456": {
+      "created_at": "2026-11-03T14:56:13Z",
+      "message_id": 127,
+      "topics": [
+        {
+          "title": "CrowdStrike инвестирует $495М в мониторинг AI-агентов",
+          "what": "CrowdStrike покупает Fiddler AI ($400M) для мониторинга работы AI-агентов и Dreadnode ($95M) для автоматизированного тестирования безопасности.",
+          "why": "Показывает, что рынок видит главный риск развёртывания агентов — отсутствие видимости в то, что они реально делают в боевых условиях.",
+          "category": "funding",
+          "score": 5,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.techmeme.com/261103/p17#a261103p17",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p17#a261103p17"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "LLM научились редактировать веса нейросетей напрямую",
+          "what": "Языковые модели могут читать и писать веса других нейросетей, открывая новый способ автоматизации исследований AI (Weight Space Programming).",
+          "why": "Это убирает промежуточные фазы разработки и позволяет моделям напрямую оптимизировать другие модели, ускоряя цикл исследований.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+          "candidate_urls": [
+            "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic использует Claude для разработки собственных чипов",
+          "what": "15-человек команда Anthropic применяет Claude для инженерной работы и дизайна при разработке собственных чипов.",
+          "why": "Показывает, что языковые модели уже помогают в сложной инженерной работе — даже для критичных систем самих создателей.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261103/p16#a261103p16",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p16#a261103p16"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Новый способ контроля AI: reverse game theory",
+          "what": "Исследователи предлагают систему, которая стимулирует AI-модели следовать правилам через механизм incentives вместо прямого контроля.",
+          "why": "По мере роста мощности моделей, традиционные методы контроля становятся ненадёжными — этот подход лучше масштабируется.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI усиливает безопасность совместным спринтом с Cathedral Systems",
+          "what": "OpenAI запускает внутренний спринт по безопасности в сотрудничестве с Cathedral Systems для тестирования и укрепления защиты.",
+          "why": "Инвестиции в собственную безопасность отражают растущую важность защиты как конкурентного преимущества и способ управления репутационными рисками.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "candidate_urls": [
+            "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI нанимает экс-секретаря Армии США для работы с правительством",
+          "what": "OpenAI наняла Dan Driscoll (бывший секретарь Армии) для надзора за модернизацией национальной безопасности и работе с госконтрактами.",
+          "why": "Показывает, как big tech используют political connections для влияния на регуляцию и получения государственных контрактов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.techmeme.com/261103/p9#a261103p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p9#a261103p9"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "UK предупредил: Россия и Китай используют AI для кибератак",
+          "what": "Национальный центр кибербезопасности UK ожидает, что Россия и Китай будут рутинно использовать AI для киберопераций к 2028 году.",
+          "why": "AI становится инструментом государственных конфликтов — компаниям нужно пересмотреть подходы к защите критических систем.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261103/p7#a261103p7",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p7#a261103p7"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Китай разрабатывает комплексные стандарты безопасности AI",
+          "what": "После серии инцидентов Китай планирует внедрить широкие стандарты безопасности AI для разработки и развёртывания моделей.",
+          "why": "Это первый шаг крупного рынка к глобальной регуляции AI — компаниям нужно будет адаптировать разработку для разных регионов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261103/p8#a261103p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261103/p8#a261103p8"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Города развёртывают AI-агентов через NVIDIA",
+          "what": "NVIDIA описывает, как города применяют физические и агентские AI для обработки данных с камер и датчиков, превращая их в действия для инфраструктуры.",
+          "why": "Показывает, что AI-агенты становятся критичны для городской инфраструктуры, открывая гигантский рынок для вычислительных решений.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "NVIDIA",
+          "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
           ],
           "n": 9,
           "status": "offered"
