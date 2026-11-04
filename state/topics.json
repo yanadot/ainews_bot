@@ -1,125 +1,5 @@
 {
   "digests": {
-    "11011409": {
-      "created_at": "2026-11-01T14:09:55Z",
-      "message_id": 113,
-      "topics": [
-        {
-          "title": "Суд разрешил иску против xAI: экологи требуют чистого воздуха",
-          "what": "Судья позволил иску NAACP продолжиться в отношении дата-центра xAI за нарушения Clean Air Act по загрязнению воздуха.",
-          "why": "AI-инфра требует огромных энергомощностей — регуляторы и сообщество начинают считать экологические издержки, которые отразятся на стоимости AI-сервисов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek выпустил Super-Agent для мониторинга багов в чатах",
-          "what": "Компания DeepSeek открыла прототип Super-Agent — автономного агента, который мониторит чаты разработчиков и предлагает решения проблем.",
-          "why": "Агенты переходят из лаб в production: когда конкурент OpenAI и Anthropic показывает рабочий agent в реальных team-чатах, это меняет планы для product-team.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Bloomberg (Techmeme)",
-          "source_url": "https://www.techmeme.com/261101/p2#a261101p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261101/p2#a261101p2"
-          ],
-          "n": 2,
-          "status": "written",
-          "focus_msg_id": 114,
-          "focus": "Опиши как это будет работать и есть ли уже аналоги. Если имеет смысл - подай это как закрытие еще одного блока в цикле разработки"
-        },
-        {
-          "title": "Guidewire купил AI-стартап Hyperexponential за $1.7 млрд",
-          "what": "Корпорация Guidewire приобрела стартап Hyperexponential, который делает AI для страховых подрядов и ценообразования, за $1.7 млрд наличными.",
-          "why": "Вертикальные AI-acquisitions ускоряются: большие B2B-операторы готовы платить миллиарды за AI-комплименты, а не строить внутри — для стартапов это exit-возможность.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Reuters (Techmeme)",
-          "source_url": "https://www.techmeme.com/261101/p1#a261101p1",
-          "candidate_urls": [
-            "https://www.techmeme.com/261101/p1#a261101p1"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Deepgram купил Daily и open-source фреймворк Pipecat",
-          "what": "Voice AI-компания Deepgram приобрела Daily, которая разработала Pipecat — open-source фреймворк для voice AI-приложений.",
-          "why": "Консолидация в voice AI: большие игроки скупают инструменты и таланты, чтобы закрепить позиции, стартапам нужно думать о стратегии выхода.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch (Techmeme)",
-          "source_url": "https://www.techmeme.com/261101/p3#a261101p3",
-          "candidate_urls": [
-            "https://www.techmeme.com/261101/p3#a261101p3"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI заплатила $5K за критическую уязвимость в share links",
-          "what": "Исследователи обнаружили баг в ChatGPT: враг мог выполнить свой код в сессии любого, кто откроет вредоносную share link. OpenAI выплатила $5K награду.",
-          "why": "Безопасность LLM-приложений требует аудита: если стартап делает LLM-интеграцию, нужно проверять входные вектора, иначе один баг может уничтожить компанию.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Hacker News (Techmeme)",
-          "source_url": "https://www.techmeme.com/261031/p11#a261031p11",
-          "candidate_urls": [
-            "https://www.techmeme.com/261031/p11#a261031p11"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Чатботы ошибаются о выборах, опираясь на ненадёжные AI-сайты",
-          "what": "Тест Washington Post: Copilot и ChatGPT при ответах на вопросы про выборы США ссылаются на три малоизвестных AI-построенных сайта и часто ошибаются.",
-          "why": "Проблема галлюцинаций и quality в чатботах реальна: для продуктов важно понимать, где LLM ненадёжны, и не доверять им слепо в критичных сценариях.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Washington Post (Techmeme)",
-          "source_url": "https://www.techmeme.com/261031/p12#a261031p12",
-          "candidate_urls": [
-            "https://www.techmeme.com/261031/p12#a261031p12"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Lumaril привлекла $66M для AI-оптимизации производства",
-          "what": "Стартап Lumaril, который делает AI-ПО для подключения к существующим производственным системам, собрал $66M Series A при оценке $400M.",
-          "why": "Вертикальные AI-решения для индустрии в тренде: если ты делаешь B2B-AI для конкретной вертикали (manufacturing, logistics), инвесторы слушают.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Wall Street Journal (Techmeme)",
-          "source_url": "https://www.techmeme.com/261101/p6#a261101p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261101/p6#a261101p6"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Apple позиционирует AI как практический инструмент, не маркетинг",
-          "what": "CEO Apple заявил, что компания не будет выпускать AI-фичи просто ради фич, а только если они решают реальные проблемы пользователей.",
-          "why": "Сигнал стратегии лидеров: когда Apple говорит про практичность вместо гайпа, это направляет инвестиции стартапов на решение конкретных задач, а не на AI ради AI.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11011905": {
       "created_at": "2026-11-01T19:05:17Z",
       "message_id": 119,
@@ -633,6 +513,155 @@
             "https://www.techmeme.com/261103/p23#a261103p23"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11041516": {
+      "created_at": "2026-11-04T15:16:13Z",
+      "message_id": 134,
+      "topics": [
+        {
+          "title": "OpenAI купила Pierre Computer — интеграция в Codex",
+          "what": "OpenAI приобрела стартап Pierre Computer. Технологию встроят в Codex для разработчиков.",
+          "why": "Стратегический ход: OpenAI встраивает инструменты прямо в платформу, конкурируя с GitHub Copilot за разработчиков.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+          "candidate_urls": [
+            "https://openai.com/index/openai-to-acquire-pierre",
+            "https://www.techmeme.com/261104/p21#a261104p21"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Британия пересчитала вклад AI в экономику: -75%",
+          "what": "Министр AI пересмотрел оценку вклада AI на 2030 год с £400B на £55–140B. Доклад Google был завышен.",
+          "why": "Разрыв между хайпом и реальностью: покупатели, планирующие инвестиции на фоне AI-обещаний, должны быть осторожнее.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+          "candidate_urls": [
+            "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
+            "https://www.techmeme.com/261104/p32#a261104p32"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "США выбрали регуляцию: против дата-центров и AI",
+          "what": "На промежуточных выборах победили кандидаты, обещавшие ограничить дата-центры и регулировать AI.",
+          "why": "Политический сигнал в США: регуляция может затормозить инфраструктурный рывок AI-лаб. Риск для фаундеров.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261104/p22#a261104p22",
+          "candidate_urls": [
+            "https://www.techmeme.com/261104/p22#a261104p22",
+            "https://www.techmeme.com/261104/p20#a261104p20"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic запустила FlashProve: проверка подлинности моделей",
+          "what": "Система, которая позволяет каждому проверить, что ответ действительно от нужной модели, а не подделка.",
+          "why": "Решение против фейков и имперсонации; актуально для доверия пользователей и защиты репутации лаб.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Google Search: рост запросов, но не выручки от AI",
+          "what": "Запросы растут рекордно быстро, но Search выручка замедлилась до 12% год-к-году. AI-ответы не монетизируются.",
+          "why": "Ключевой вывод: встроить AI в поиск — недостаточно, нужен новый способ получать деньги. Учебник для любого сервиса.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "AI-долги лаб: $3.2 триллиона за 6 месяцев (+90%)",
+          "what": "Финансовые обязательства крупных AI компаний (вычисления, лицензии, оборудование) выросли на 90% до $3.2 трлн.",
+          "why": "Реальная цена AI-гонки; показывает масштабы инвестиций, скрытых за обещаниями лаб.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Asia Nikkei",
+          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+          "candidate_urls": [
+            "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Дата-центры запустили старые реактивные двигатели",
+          "what": "Из-за нехватки сетевого электричества дата-центры переходят на авиадвигатели для питания. Менее эффективно и экологично.",
+          "why": "Инфраструктурный bottleneck: AI требует столько энергии, что отходит в сторону от сети. Сигнал о масштабе и сложности.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Cohere запустила Embed 5 и Rerank 5 через OpenRouter",
+          "what": "Модели поиска Cohere теперь в OpenRouter с единым биллингом и без дополнительных SDK.",
+          "why": "Упрощает интеграцию; тренд на унификацию API для доступа к моделям разных лаб в одном месте.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Cohere",
+          "source_url": "https://cohere.com/blog/embed-rerank-5-openrouter",
+          "candidate_urls": [
+            "https://cohere.com/blog/embed-rerank-5-openrouter"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Postman тайком ставил AI плагины и шарил API-данные",
+          "what": "Postman автоматически устанавливал AI плагины и пытался отправлять данные API пользователей без разрешения.",
+          "why": "Риск приватности: знакомые инструменты могут втайне использовать данные для обучения AI. Настораживает.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "GitHub",
+          "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "candidate_urls": [
+            "https://github.com/postmanlabs/postman-app-support/issues/14370"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "Nexus Mods требует раскрывать использование AI при загрузке",
+          "what": "Крупнейший сайт модов для ПК-игр обязал авторов указывать, был ли AI использован при создании мода.",
+          "why": "Сообщества берут контроль: требуют прозрачности. Важно для любого, кто выпускает контент или инструменты с AI.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+          "candidate_urls": [
+            "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+          ],
+          "n": 10,
           "status": "offered"
         }
       ]

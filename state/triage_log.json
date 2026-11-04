@@ -1,54 +1,66 @@
 {
-  "run_at": "2026-11-03T20:51:58Z",
-  "candidates": 29,
+  "run_at": "2026-11-04T15:16:13Z",
+  "candidates": 30,
   "offered": [
     {
       "n": 1,
-      "title": "NVIDIA: AI помогает инженерам на фабриках делать чипы",
-      "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/"
+      "title": "OpenAI купила Pierre Computer — интеграция в Codex",
+      "score": 5,
+      "source_url": "https://openai.com/index/openai-to-acquire-pierre"
     },
     {
       "n": 2,
-      "title": "OpenAI: инженеры быстрее проектируют в реальном мире",
-      "score": 4,
-      "source_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+      "title": "Британия пересчитала вклад AI в экономику: -75%",
+      "score": 5,
+      "source_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
     },
     {
       "n": 3,
-      "title": "Cohere выпустила Open Source Model Vault",
-      "score": 3,
-      "source_url": "https://cohere.com/blog/open-source-model-vault"
+      "title": "США выбрали регуляцию: против дата-центров и AI",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261104/p22#a261104p22"
     },
     {
       "n": 4,
-      "title": "OpenAI и Cisco: защита сетей на скорости машин",
-      "score": 3,
-      "source_url": "https://openai.com/index/cisco-cyber"
+      "title": "Anthropic запустила FlashProve: проверка подлинности моделей",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
     },
     {
       "n": 5,
-      "title": "StateBench: как модели отслеживают события в документах",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/allenai/statebench"
+      "title": "Google Search: рост запросов, но не выручки от AI",
+      "score": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
     },
     {
       "n": 6,
-      "title": "Jill Hazelbaker — новый Chief Corporate Affairs в OpenAI",
-      "score": 3,
-      "source_url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+      "title": "AI-долги лаб: $3.2 триллиона за 6 месяцев (+90%)",
+      "score": 4,
+      "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
     },
     {
       "n": 7,
-      "title": "Apple ограничила знакомства и AI-компаньонов для 18+",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/"
+      "title": "Дата-центры запустили старые реактивные двигатели",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
     },
     {
       "n": 8,
-      "title": "DeepMind: сотрудники требуют права предупреждать об AI-рисках",
+      "title": "Cohere запустила Embed 5 и Rerank 5 через OpenRouter",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261103/p23#a261103p23"
+      "source_url": "https://cohere.com/blog/embed-rerank-5-openrouter"
+    },
+    {
+      "n": 9,
+      "title": "Postman тайком ставил AI плагины и шарил API-данные",
+      "score": 3,
+      "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
+    },
+    {
+      "n": 10,
+      "title": "Nexus Mods требует раскрывать использование AI при загрузке",
+      "score": 3,
+      "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
     }
   ]
 }
