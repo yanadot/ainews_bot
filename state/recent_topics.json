@@ -1,12 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Michael Kratsios — за политикой Trump по AI стоит экс-помощник Тиля",
-      "url": "https://www.techmeme.com/261101/p9#a261101p9",
-      "ts": "2026-11-01T19:05:17Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Anthropic IPO: $17B выручка и $895B на compute",
       "url": "https://www.techmeme.com/261102/p23",
       "ts": "2026-11-02T16:56:06Z",
@@ -272,6 +266,48 @@
       "topic": "Nexus Mods требует раскрывать использование AI при загрузке",
       "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
       "ts": "2026-11-04T15:16:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta купила Conductor для AI-агентов кодирования",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI готовится влиять на выборы 2028",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Про-AI Super PAC провалили выборы 2026",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google связал AI с обычным поиском в школах",
+      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DuckDuckGo ловит школы, разочарованные Google",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Open source AI растёт: кто профитирует",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+      "ts": "2026-11-04T21:28:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Dharma Field Extractor: документы в JSON за раз",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "ts": "2026-11-04T21:28:44Z",
       "kind": "offered"
     }
   ]

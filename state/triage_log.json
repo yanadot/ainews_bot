@@ -1,66 +1,48 @@
 {
-  "run_at": "2026-11-04T15:16:13Z",
-  "candidates": 30,
+  "run_at": "2026-11-04T21:28:44Z",
+  "candidates": 32,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI купила Pierre Computer — интеграция в Codex",
-      "score": 5,
-      "source_url": "https://openai.com/index/openai-to-acquire-pierre"
+      "title": "Meta купила Conductor для AI-агентов кодирования",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
     },
     {
       "n": 2,
-      "title": "Британия пересчитала вклад AI в экономику: -75%",
-      "score": 5,
-      "source_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/"
+      "title": "OpenAI готовится влиять на выборы 2028",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
     },
     {
       "n": 3,
-      "title": "США выбрали регуляцию: против дата-центров и AI",
+      "title": "Про-AI Super PAC провалили выборы 2026",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261104/p22#a261104p22"
+      "source_url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
     },
     {
       "n": 4,
-      "title": "Anthropic запустила FlashProve: проверка подлинности моделей",
+      "title": "Google связал AI с обычным поиском в школах",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+      "source_url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
     },
     {
       "n": 5,
-      "title": "Google Search: рост запросов, но не выручки от AI",
-      "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
+      "title": "DuckDuckGo ловит школы, разочарованные Google",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
     },
     {
       "n": 6,
-      "title": "AI-долги лаб: $3.2 триллиона за 6 месяцев (+90%)",
-      "score": 4,
-      "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
+      "title": "Open source AI растёт: кто профитирует",
+      "score": 3,
+      "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
     },
     {
       "n": 7,
-      "title": "Дата-центры запустили старые реактивные двигатели",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
-    },
-    {
-      "n": 8,
-      "title": "Cohere запустила Embed 5 и Rerank 5 через OpenRouter",
+      "title": "Dharma Field Extractor: документы в JSON за раз",
       "score": 3,
-      "source_url": "https://cohere.com/blog/embed-rerank-5-openrouter"
-    },
-    {
-      "n": 9,
-      "title": "Postman тайком ставил AI плагины и шарил API-данные",
-      "score": 3,
-      "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370"
-    },
-    {
-      "n": 10,
-      "title": "Nexus Mods требует раскрывать использование AI при загрузке",
-      "score": 3,
-      "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
+      "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
     }
   ]
 }
