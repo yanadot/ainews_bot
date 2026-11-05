@@ -1,48 +1,60 @@
 {
-  "run_at": "2026-11-04T21:28:44Z",
-  "candidates": 32,
+  "run_at": "2026-11-05T15:17:44Z",
+  "candidates": 31,
   "offered": [
     {
       "n": 1,
-      "title": "Meta купила Conductor для AI-агентов кодирования",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+      "title": "OpenAI автоматически нашла и запатчила 948 уязвимостей Linux",
+      "score": 5,
+      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
     },
     {
       "n": 2,
-      "title": "OpenAI готовится влиять на выборы 2028",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
+      "title": "Большие компании тратят рекорды на AI, но отдачи нет",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
     },
     {
       "n": 3,
-      "title": "Про-AI Super PAC провалили выборы 2026",
+      "title": "Anthropic сделала вывод моделей проверяемым",
       "score": 4,
-      "source_url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
+      "source_url": "https://www.anthropic.com/research/provable-inference"
     },
     {
       "n": 4,
-      "title": "Google связал AI с обычным поиском в школах",
+      "title": "Agility стала первой pure-play humanoid robot компанией на Nasdaq",
       "score": 4,
-      "source_url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
+      "source_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
     },
     {
       "n": 5,
-      "title": "DuckDuckGo ловит школы, разочарованные Google",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
+      "title": "Aina создала смарт-кольцо для управления AI агентами",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/aina-smart-ring/"
     },
     {
       "n": 6,
-      "title": "Open source AI растёт: кто профитирует",
-      "score": 3,
-      "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
+      "title": "YC стартап ищет решения hard problems в материаловедении",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
     },
     {
       "n": 7,
-      "title": "Dharma Field Extractor: документы в JSON за раз",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+      "title": "UK стартап использует AI на синтетических данных для лекарств",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+    },
+    {
+      "n": 8,
+      "title": "Дарио Амодей: философия и конфликты в Anthropic",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261105/p22#a261105p22"
+    },
+    {
+      "n": 9,
+      "title": "Hugging Face выпустила Phonon TTS — синтез речи на устройстве",
+      "score": 4,
+      "source_url": "https://huggingface.co/blog/phonon-tts"
     }
   ]
 }
