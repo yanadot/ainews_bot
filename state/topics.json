@@ -1,115 +1,5 @@
 {
   "digests": {
-    "11021656": {
-      "created_at": "2026-11-02T16:56:06Z",
-      "message_id": 120,
-      "topics": [
-        {
-          "title": "Anthropic IPO: $17B выручка и $895B на compute",
-          "what": "Anthropic подал S-1 с финансами: $17B выручка в Q3 (12x YoY), $895B commitments на compute и инфраструктуру, 3.5GW+ capacity в 2026 с диверсификацией за Nvidia.",
-          "why": "Показывает масштаб инвестиций в AI и амбиции Anthropic — но и $23.3B убытков, что актуально для инвесторов и аналитиков понимать экономику лидеров AI.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic S-1 filing (Bloomberg, CNBC, NYT)",
-          "source_url": "https://www.techmeme.com/261102/p23",
-          "candidate_urls": [
-            "https://www.techmeme.com/261102/p23#a261102p23",
-            "https://www.techmeme.com/261102/p26#a261102p26",
-            "https://www.techmeme.com/261102/p29#a261102p29"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "42AI: $62.5M на модель предсказания поведения",
-          "what": "Израильский стартап 42AI вышел из stealth с $62.5M на разработку 'behavioral world model', которая предсказывает действия человека даже в новых ситуациях.",
-          "why": "Для продактов интересна новая категория AI — моделирование поведения вместо просто генерирования текста открывает иные применения.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-            "https://www.techmeme.com/261102/p30#a261102p30"
-          ],
-          "n": 2,
-          "status": "written",
-          "focus_msg_id": 121,
-          "focus": "найди инфу про то как они будут это делать, под какие юскейсы продавать"
-        },
-        {
-          "title": "400+ приложений со скрытыми deepfake функциями",
-          "what": "Wired раскрыла, что около 400 китайских приложений, замаскированные под обычные AI-инструменты, содержат скрытые функции создания насильственных deepfake видео и изображений.",
-          "why": "Серьёзный вызов безопасности и регуляции — бытовые приложения скрывают функции для абузивного контента, что требует внимания от стартапов и политиков.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-          "candidate_urls": [
-            "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Grok Bot: затраты выше доходов, лимиты ужесточены",
-          "what": "Elon Musk признал, что затраты на Grok Bot были 'непомерно высокими' относительно выручки и несут убытки, несмотря на рекордный рост — пришлось ограничить use limits.",
-          "why": "Показывает реальные вызовы масштабирования AI-сервисов: даже впечатляющий рост не гарантирует прибыльность, если inference затраты неподъёмны.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-            "https://www.techmeme.com/261102/p20#a261102p20"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Apple: RL-агент для дешёвой навигации UI на iOS",
-          "what": "Apple опубликовала исследование про reinforcement learning агента, который навигирует живые iOS-приложения, используя намного меньше мощности, чем крупные vision-language модели.",
-          "why": "Практический пример встроить AI в потребительские продукты экономно — важно для стартапов, которым нужен AI в мобильных приложениях без убытков на inference.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Apple ML Research",
-          "source_url": "https://machinelearning.apple.com/research/planning-grounding-ui-navigation",
-          "candidate_urls": [
-            "https://machinelearning.apple.com/research/planning-grounding-ui-navigation"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI Grid Protectors: партнёрство с энергетиками",
-          "what": "OpenAI запустила программу Grid Protectors, чтобы работать с коммунальными компаниями и помогать датацентрам поддерживать стабильность энергосистемы.",
-          "why": "Показывает, как лабы решают критическую проблему энергопотребления — не только технология, но стратегические партнёрства с утилитами для масштабирования вычислений.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/grid-protectors-program",
-          "candidate_urls": [
-            "https://openai.com/index/grid-protectors-program"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Агенты требуют 10-50x больше токенов, чем простой чат",
-          "what": "MIT Technology Review разбирается в экономике AI-агентов: когда агент планирует, генерирует код, тестирует и исправляет, одна задача съедает в 10-50 раз больше токенов, чем простой запрос.",
-          "why": "Для продактов и аналитиков важно понимать реальную стоимость AI-систем — агенты дороже в содержании, чем кажется по первому взгляду.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "11022352": {
       "created_at": "2026-11-02T23:52:19Z",
       "message_id": 126,
@@ -877,6 +767,142 @@
           "source_url": "https://huggingface.co/blog/phonon-tts",
           "candidate_urls": [
             "https://huggingface.co/blog/phonon-tts"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11052134": {
+      "created_at": "2026-11-05T21:34:23Z",
+      "message_id": 137,
+      "topics": [
+        {
+          "title": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
+          "what": "OpenAI представила специализированную модель GPT-6 Cyber для поиска уязвимостей и разработки патчей, обучённую оставаться в авторизованных пределах.",
+          "why": "Открывает новую нишу AI-помощников в security: компаниям нужны инструменты для поиска дыр в своём коде быстрее, чем это делают хакеры.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "candidate_urls": [
+            "https://openai.com/index/introducing-gpt-6-cyber",
+            "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+            "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила Gemini Omni 1.2 Flash — дешевле и быстрее",
+          "what": "Google представила обновленную версию Gemini Omni 1.2 Flash с поддержкой длинных видеоклипов и более низкой стоимостью использования.",
+          "why": "Снижение цены на AI-API заставляет весь рынок конкурировать по стоимости; продактам нужно переоценить смету на AI-фичи.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "candidate_urls": [
+            "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA выпустила Vera — CPU для AI-агентов",
+          "what": "NVIDIA представила процессор Vera, который обеспечивает наивысшую пропускную способность и самую быструю работу AI-агентов на CPU.",
+          "why": "Агенты часто прыгают между GPU (рассуждение) и CPU (исполнение); новая CPU может сделать агентов заметно быстрее в production.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA",
+          "source_url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA Cosmos 3 — модели для симуляции физического мира",
+          "what": "NVIDIA выпустила open-source модели Cosmos 3 для интерактивной симуляции окружающей среды, доступные на Hugging Face.",
+          "why": "Модели симуляции нужны для обучения роботов и агентов в виртуальной среде; open-source версия ускорит экосистему.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA",
+          "source_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "candidate_urls": [
+            "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Claude теперь может управлять твоими финансами через Plaid",
+          "what": "Anthropic запустила Personal Finance в Claude — пользователи могут подключить банковские и кредитные счета через Plaid и анализировать расходы.",
+          "why": "AI встраивается в финансовые инструменты; стартапам финтеха нужно понять, как конкурировать с интегрированным Claude.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Anthropic",
+          "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+            "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Meta Muse теперь говорит и видит через камеру",
+          "what": "Meta развернула голосовой режим и выразительные аватары в приложении Muse, позволяя вести видеозвонки с AI-агентом в реальном времени.",
+          "why": "AI-компаньоны переходят с текста на голос и видео; это тренд, который затронет все коммуникационные приложения.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Meta",
+          "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+            "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Dropbox купила Tigris Data за $350 млн для облака агентов",
+          "what": "Dropbox приобрела компанию Tigris Data за $350 млн для развития DBX Agent Cloud — платформы хранения для разработчиков AI-моделей и агентов.",
+          "why": "Большие компании консолидируют инфраструктуру для агентов; для стартапов это сигнал, что общая платформа победит специализированные решения.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Dropbox",
+          "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA решила проблему памяти в GPU полностековым дизайном",
+          "what": "NVIDIA рассказала, как полностековое проектирование решает растущий дефицит GPU-памяти под большие модели и длинные контексты.",
+          "why": "Память в GPU — узкое место для больших моделей; понимание архитектурных решений важно для выбора оборудования и калькуляции стоимости.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "NVIDIA",
+          "source_url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Axiom Math верифицирует AI-доказательства, чтобы избежать \"AI-мусора\"",
+          "what": "Стартап Axiom Math разработал AI-агентов, которые формально верифицируют математические доказательства; они уже проверили один из крупнейших библиотек.",
+          "why": "Когда AI генерирует доказательства, кто-то должен их проверять; на стыке верификации и AI растет новая категория компаний.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Axiom Math",
+          "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
           ],
           "n": 9,
           "status": "offered"

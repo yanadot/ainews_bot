@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-11-05T15:17:44Z",
-  "candidates": 31,
+  "run_at": "2026-11-05T21:34:23Z",
+  "candidates": 33,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI автоматически нашла и запатчила 948 уязвимостей Linux",
-      "score": 5,
-      "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+      "title": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
+      "score": 4,
+      "source_url": "https://openai.com/index/introducing-gpt-6-cyber"
     },
     {
       "n": 2,
-      "title": "Большие компании тратят рекорды на AI, но отдачи нет",
-      "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
+      "title": "Google выпустила Gemini Omni 1.2 Flash — дешевле и быстрее",
+      "score": 4,
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
     },
     {
       "n": 3,
-      "title": "Anthropic сделала вывод моделей проверяемым",
+      "title": "NVIDIA выпустила Vera — CPU для AI-агентов",
       "score": 4,
-      "source_url": "https://www.anthropic.com/research/provable-inference"
+      "source_url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/"
     },
     {
       "n": 4,
-      "title": "Agility стала первой pure-play humanoid robot компанией на Nasdaq",
+      "title": "NVIDIA Cosmos 3 — модели для симуляции физического мира",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
+      "source_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
     },
     {
       "n": 5,
-      "title": "Aina создала смарт-кольцо для управления AI агентами",
+      "title": "Claude теперь может управлять твоими финансами через Plaid",
       "score": 4,
-      "source_url": "https://www.wired.com/story/aina-smart-ring/"
+      "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
     },
     {
       "n": 6,
-      "title": "YC стартап ищет решения hard problems в материаловедении",
+      "title": "Meta Muse теперь говорит и видит через камеру",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
+      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
     },
     {
       "n": 7,
-      "title": "UK стартап использует AI на синтетических данных для лекарств",
+      "title": "Dropbox купила Tigris Data за $350 млн для облака агентов",
       "score": 4,
-      "source_url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
+      "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
     },
     {
       "n": 8,
-      "title": "Дарио Амодей: философия и конфликты в Anthropic",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261105/p22#a261105p22"
+      "title": "NVIDIA решила проблему памяти в GPU полностековым дизайном",
+      "score": 3,
+      "source_url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
     },
     {
       "n": 9,
-      "title": "Hugging Face выпустила Phonon TTS — синтез речи на устройстве",
-      "score": 4,
-      "source_url": "https://huggingface.co/blog/phonon-tts"
+      "title": "Axiom Math верифицирует AI-доказательства, чтобы избежать \"AI-мусора\"",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
     }
   ]
 }

@@ -1,53 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic IPO: $17B выручка и $895B на compute",
-      "url": "https://www.techmeme.com/261102/p23",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "42AI: $62.5M на модель предсказания поведения",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "400+ приложений со скрытыми deepfake функциями",
-      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Grok Bot: затраты выше доходов, лимиты ужесточены",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple: RL-агент для дешёвой навигации UI на iOS",
-      "url": "https://machinelearning.apple.com/research/planning-grounding-ui-navigation",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI Grid Protectors: партнёрство с энергетиками",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Агенты требуют 10-50x больше токенов, чем простой чат",
-      "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "ts": "2026-11-02T16:56:06Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "42AI: $62.5M на модель предсказания поведения",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "ts": "2026-11-02T17:41:50Z"
-    },
-    {
       "topic": "Anthropic предупреждает о близости RSI",
       "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
       "ts": "2026-11-02T23:52:19Z",
@@ -362,6 +315,60 @@
       "topic": "Hugging Face выпустила Phonon TTS — синтез речи на устройстве",
       "url": "https://huggingface.co/blog/phonon-tts",
       "ts": "2026-11-05T15:17:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google выпустила Gemini Omni 1.2 Flash — дешевле и быстрее",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA выпустила Vera — CPU для AI-агентов",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA Cosmos 3 — модели для симуляции физического мира",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Claude теперь может управлять твоими финансами через Plaid",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta Muse теперь говорит и видит через камеру",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Dropbox купила Tigris Data за $350 млн для облака агентов",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA решила проблему памяти в GPU полностековым дизайном",
+      "url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
+      "ts": "2026-11-05T21:34:23Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Axiom Math верифицирует AI-доказательства, чтобы избежать \"AI-мусора\"",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "ts": "2026-11-05T21:34:23Z",
       "kind": "offered"
     }
   ]
