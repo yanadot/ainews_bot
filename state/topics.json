@@ -1,140 +1,5 @@
 {
   "digests": {
-    "11022352": {
-      "created_at": "2026-11-02T23:52:19Z",
-      "message_id": 126,
-      "topics": [
-        {
-          "title": "Anthropic предупреждает о близости RSI",
-          "what": "В S-1 документах компания заявила, что может скоро достичь Recursive Self-Improvement — момента, когда AI начнёт сам себя улучшать быстрее, чем люди.",
-          "why": "Признание переломного момента может переобозначить инвестиционные стратегии и заставить регуляторов срочно реагировать.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-            "https://www.techmeme.com/261102/p44#a261102p44"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "IPO Anthropic переоценили на $400–500 млрд",
-          "what": "Инвесторы называют оценку $1,5–1,6 трлн вместо ожидаемых $2 трлн из-за волатильности техсектора.",
-          "why": "Переоценка повлияет на привлечение средств другими AI-компаниями и показывает менее оптимистичные ожидания рынка.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261102/p42#a261102p42",
-          "candidate_urls": [
-            "https://www.techmeme.com/261102/p42#a261102p42"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "New York Times подал иск к браузеру Brave",
-          "what": "Издание обвиняет компанию в незаконном скрепинге контента для обучения AI и обходе paywall.",
-          "why": "Это сигнал, что издатели готовы защищать права на контент и потребуют лицензирования от компаний, использующих материалы для обучения.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "New York Times",
-          "source_url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-            "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI обещает отдавать 1000 мегаватт в экстренных ситуациях",
-          "what": "Компания запустит Grid Protectors Program — дата-центры будут помогать энергосети во время пиков спроса и стихийных бедствий.",
-          "why": "Это показывает, как AI-компании встраиваются в критичную инфраструктуру и получают политическую поддержку для расширения мощностей.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-            "https://www.techmeme.com/261102/p34#a261102p34"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Trajectory собрала $45M на обучение моделей для всех",
-          "what": "Стартап привлёк инвестиции для платформы, которая позволяет нетехническим командам обучать свои AI-модели без специальных знаний.",
-          "why": "Спрос на персональные модели растёт, но поставка отстаёт — компании, которые упрощают обучение, получают широкий рынок.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Tutor Intelligence собрала $75M на роботов для складов",
-          "what": "Компания привлекла Series B для разработки манипуляторов с AI, которые работают в реальных складских условиях без переделок.",
-          "why": "Робороботика — малоконкурентный сегмент с растущим спросом; успех может запустить волну физических роботов в логистике.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Forbes",
-          "source_url": "https://www.techmeme.com/261102/p33#a261102p33",
-          "candidate_urls": [
-            "https://www.techmeme.com/261102/p33#a261102p33"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "xAI выпустила Grok Bot — аналитик для каждой команды",
-          "what": "Elon Musk представил специализированного AI-ассистента, который позволяет командам делать аналитику данных как если бы у них был личный data scientist.",
-          "why": "Grok Bot показывает монетизацию xAI через узкие сценарии; конкуренция в чатботах переходит от общего к специализированному.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "xAI",
-          "source_url": "https://x.ai/news/data-bot",
-          "candidate_urls": [
-            "https://x.ai/news/data-bot"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI LifeVal: как мерить пользу AI в реальности",
-          "what": "Компания создала бенчмарк для измерения того, насколько хорошо AI помогает с повседневными проблемами: наём няни, налоги, документы.",
-          "why": "Классические бенчмарки не ловят практическую пользу; сдвиг фокуса от технических метрик к реальной помощи меняет стандарты оценки.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/lifeval",
-          "candidate_urls": [
-            "https://openai.com/index/lifeval"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "GPT-6 Astra редактирует веса других моделей напрямую",
-          "what": "Исследователи показали, что современные языковые модели могут читать и менять параметры других нейросетей — GPT-6 Astra улучшила математику Qwen3.5.",
-          "why": "Способность моделей манипулировать другими ускоряет цикл развития AI, но требует новых подходов к безопасности и контролю.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261102/p36#a261102p36",
-          "candidate_urls": [
-            "https://www.techmeme.com/261102/p36#a261102p36"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11031456": {
       "created_at": "2026-11-03T14:56:13Z",
       "message_id": 127,
@@ -905,6 +770,125 @@
             "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11061453": {
+      "created_at": "2026-11-06T14:53:49Z",
+      "message_id": 138,
+      "topics": [
+        {
+          "title": "Microsoft предлагает выход 60 тыс. сотрудников из-за расходов на AI",
+          "what": "Microsoft объявила программу добровольного выхода для 60 тысяч сотрудников в связи с растущими инвестициями в AI-инфраструктуру.",
+          "why": "Сигнал того, как крупные техкомпании переоценивают приоритеты в пользу AI — для фаундеров важно видеть переструктурирование кадровой политики гигантов.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "New York Times",
+          "source_url": "https://www.techmeme.com/261106/p12#a261106p12",
+          "candidate_urls": [
+            "https://www.techmeme.com/261106/p12#a261106p12"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Facebook осознанно размещает AI-скаммерские объявления",
+          "what": "Согласно документам, Facebook/Meta активно размещает AI-сгенерированные deepfake-объявления для мошенничества на сумму $16 млрд годовых убытков пользователей.",
+          "why": "Сигнал о неконтролируемом AI-контенте на платформах — для продактов это подтверждение необходимости контроля модерации и регуляторного соответствия.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Mark Cuban / Yahoo Finance",
+          "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+          "candidate_urls": [
+            "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Palo Alto Networks купит стартап Clutch за $500 млн",
+          "what": "Palo Alto Networks ведёт переговоры о покупке стартапа Clutch, специализирующегося на безопасности AI-агентов, за $500 млн (последняя оценка $85 млн).",
+          "why": "Сигнал рыночной стоимости AI-security стартапов — для фаундеров важно видеть успешные exit'ы в категориях AI-infrastructure и defence.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Airbnb запустит AI-агента для планирования путешествий",
+          "what": "Airbnb объявила о запуске AI-агента в первой половине 2027, который будет помогать пользователям искать, сравнивать варианты и бронировать путешествия.",
+          "why": "Показывает, как крупные сервисы интегрируют AI-агентов в core product — для продактов это пример успешного roadmap внедрения в mainstream.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+            "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA требует отслеживать AI-чипы в Юго-Восточной Азии",
+          "what": "NVIDIA обязала компании в Юго-Восточной Азии, претендующие на статус Cloud Partner, вступить в программу отслеживания местоположения AI-ускорителей.",
+          "why": "Геополитический контроль экспорта влияет на распределение ресурсов и стоимость инфраструктуры — для фаундеров важно учитывать при планировании cloud стратегии.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261106/p8#a261106p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261106/p8#a261106p8"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI отказывается от NDA с чиновниками по дата-центрам",
+          "what": "После голосования избирателей против расширения дата-центров, OpenAI объявила, что не будет использовать NDA с государственными чиновниками на проектах AI-инфраструктуры.",
+          "why": "Сигнал растущего противодействия AI-инвестициям — для фаундеров это означает готовиться к прозрачным и сложным регуляторным переговорам.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "MIT: роботы-уборщики работают в реальных квартирах",
+          "what": "MIT Technology Review протестировала сервис humanoid-роботов-уборщиков в Сан-Франциско и подтвердила их практическую работоспособность.",
+          "why": "Показатель того, что робо-сервисы выходят из лабораторий в commercial услуги — для robotics-фаундеров это подтверждение готовности рынка.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила Gemini Omni 1.2 Flash: быстрее и дешевле",
+          "what": "Google запустила обновление Gemini Omni с поддержкой видео до 15 секунд (было 10), улучшенным соответствием инструкциям и на 30% дешевле чем 1.1.",
+          "why": "Тренд на более дешёвые и компактные модели видео — для продактов это означает, что затраты на video AI будут снижаться, расширяя применение.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://www.techmeme.com/261105/p70#a261105p70",
+          "candidate_urls": [
+            "https://www.techmeme.com/261105/p70#a261105p70"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

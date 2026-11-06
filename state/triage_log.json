@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-11-05T21:34:23Z",
-  "candidates": 33,
+  "run_at": "2026-11-06T14:53:49Z",
+  "candidates": 30,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
-      "score": 4,
-      "source_url": "https://openai.com/index/introducing-gpt-6-cyber"
+      "title": "Microsoft предлагает выход 60 тыс. сотрудников из-за расходов на AI",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261106/p12#a261106p12"
     },
     {
       "n": 2,
-      "title": "Google выпустила Gemini Omni 1.2 Flash — дешевле и быстрее",
+      "title": "Facebook осознанно размещает AI-скаммерские объявления",
       "score": 4,
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+      "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
     },
     {
       "n": 3,
-      "title": "NVIDIA выпустила Vera — CPU для AI-агентов",
+      "title": "Palo Alto Networks купит стартап Clutch за $500 млн",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/"
+      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
     },
     {
       "n": 4,
-      "title": "NVIDIA Cosmos 3 — модели для симуляции физического мира",
+      "title": "Airbnb запустит AI-агента для планирования путешествий",
       "score": 4,
-      "source_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+      "source_url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
     },
     {
       "n": 5,
-      "title": "Claude теперь может управлять твоими финансами через Plaid",
+      "title": "NVIDIA требует отслеживать AI-чипы в Юго-Восточной Азии",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+      "source_url": "https://www.techmeme.com/261106/p8#a261106p8"
     },
     {
       "n": 6,
-      "title": "Meta Muse теперь говорит и видит через камеру",
+      "title": "OpenAI отказывается от NDA с чиновниками по дата-центрам",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
     },
     {
       "n": 7,
-      "title": "Dropbox купила Tigris Data за $350 млн для облака агентов",
+      "title": "MIT: роботы-уборщики работают в реальных квартирах",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
+      "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
     },
     {
       "n": 8,
-      "title": "NVIDIA решила проблему памяти в GPU полностековым дизайном",
-      "score": 3,
-      "source_url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
-    },
-    {
-      "n": 9,
-      "title": "Axiom Math верифицирует AI-доказательства, чтобы избежать \"AI-мусора\"",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
+      "title": "Google выпустила Gemini Omni 1.2 Flash: быстрее и дешевле",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261105/p70#a261105p70"
     }
   ]
 }
