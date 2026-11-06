@@ -1,54 +1,48 @@
 {
-  "run_at": "2026-11-06T14:53:49Z",
-  "candidates": 30,
+  "run_at": "2026-11-06T20:45:32Z",
+  "candidates": 22,
   "offered": [
     {
       "n": 1,
-      "title": "Microsoft предлагает выход 60 тыс. сотрудников из-за расходов на AI",
+      "title": "Выборы 2026: США выбрали против дата-центров",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261106/p12#a261106p12"
+      "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/"
     },
     {
       "n": 2,
-      "title": "Facebook осознанно размещает AI-скаммерские объявления",
+      "title": "Китайские ИИ ломают сети так же хорошо, как OpenAI",
       "score": 4,
-      "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
+      "source_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
     },
     {
       "n": 3,
-      "title": "Palo Alto Networks купит стартап Clutch за $500 млн",
+      "title": "Anthropic готовится к IPO, но AI-расходы замерзают",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
+      "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
     },
     {
       "n": 4,
-      "title": "Airbnb запустит AI-агента для планирования путешествий",
+      "title": "ИИ впервые решил открытую математическую гипотезу",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings"
+      "source_url": "https://www.techmeme.com/261106/p20#a261106p20"
     },
     {
       "n": 5,
-      "title": "NVIDIA требует отслеживать AI-чипы в Юго-Восточной Азии",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261106/p8#a261106p8"
+      "title": "Meta Spaces: агент кодит приложения в чате",
+      "score": 3,
+      "source_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces"
     },
     {
       "n": 6,
-      "title": "OpenAI отказывается от NDA с чиновниками по дата-центрам",
-      "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+      "title": "BioBasicsBench: первый тест ИИ в реальной науке",
+      "score": 3,
+      "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
     },
     {
       "n": 7,
-      "title": "MIT: роботы-уборщики работают в реальных квартирах",
-      "score": 4,
-      "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-    },
-    {
-      "n": 8,
-      "title": "Google выпустила Gemini Omni 1.2 Flash: быстрее и дешевле",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261105/p70#a261105p70"
+      "title": "AI компании скупают рабочие письма и файлы",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
     }
   ]
 }

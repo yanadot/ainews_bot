@@ -1,137 +1,5 @@
 {
   "digests": {
-    "11031456": {
-      "created_at": "2026-11-03T14:56:13Z",
-      "message_id": 127,
-      "topics": [
-        {
-          "title": "CrowdStrike инвестирует $495М в мониторинг AI-агентов",
-          "what": "CrowdStrike покупает Fiddler AI ($400M) для мониторинга работы AI-агентов и Dreadnode ($95M) для автоматизированного тестирования безопасности.",
-          "why": "Показывает, что рынок видит главный риск развёртывания агентов — отсутствие видимости в то, что они реально делают в боевых условиях.",
-          "category": "funding",
-          "score": 5,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261103/p17#a261103p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261103/p17#a261103p17"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "LLM научились редактировать веса нейросетей напрямую",
-          "what": "Языковые модели могут читать и писать веса других нейросетей, открывая новый способ автоматизации исследований AI (Weight Space Programming).",
-          "why": "Это убирает промежуточные фазы разработки и позволяет моделям напрямую оптимизировать другие модели, ускоряя цикл исследований.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-          "candidate_urls": [
-            "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic использует Claude для разработки собственных чипов",
-          "what": "15-человек команда Anthropic применяет Claude для инженерной работы и дизайна при разработке собственных чипов.",
-          "why": "Показывает, что языковые модели уже помогают в сложной инженерной работе — даже для критичных систем самих создателей.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Information",
-          "source_url": "https://www.techmeme.com/261103/p16#a261103p16",
-          "candidate_urls": [
-            "https://www.techmeme.com/261103/p16#a261103p16"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Новый способ контроля AI: reverse game theory",
-          "what": "Исследователи предлагают систему, которая стимулирует AI-модели следовать правилам через механизм incentives вместо прямого контроля.",
-          "why": "По мере роста мощности моделей, традиционные методы контроля становятся ненадёжными — этот подход лучше масштабируется.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI усиливает безопасность совместным спринтом с Cathedral Systems",
-          "what": "OpenAI запускает внутренний спринт по безопасности в сотрудничестве с Cathedral Systems для тестирования и укрепления защиты.",
-          "why": "Инвестиции в собственную безопасность отражают растущую важность защиты как конкурентного преимущества и способ управления репутационными рисками.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "candidate_urls": [
-            "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI нанимает экс-секретаря Армии США для работы с правительством",
-          "what": "OpenAI наняла Dan Driscoll (бывший секретарь Армии) для надзора за модернизацией национальной безопасности и работе с госконтрактами.",
-          "why": "Показывает, как big tech используют political connections для влияния на регуляцию и получения государственных контрактов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261103/p9#a261103p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261103/p9#a261103p9"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "UK предупредил: Россия и Китай используют AI для кибератак",
-          "what": "Национальный центр кибербезопасности UK ожидает, что Россия и Китай будут рутинно использовать AI для киберопераций к 2028 году.",
-          "why": "AI становится инструментом государственных конфликтов — компаниям нужно пересмотреть подходы к защите критических систем.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261103/p7#a261103p7",
-          "candidate_urls": [
-            "https://www.techmeme.com/261103/p7#a261103p7"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Китай разрабатывает комплексные стандарты безопасности AI",
-          "what": "После серии инцидентов Китай планирует внедрить широкие стандарты безопасности AI для разработки и развёртывания моделей.",
-          "why": "Это первый шаг крупного рынка к глобальной регуляции AI — компаниям нужно будет адаптировать разработку для разных регионов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.techmeme.com/261103/p8#a261103p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261103/p8#a261103p8"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Города развёртывают AI-агентов через NVIDIA",
-          "what": "NVIDIA описывает, как города применяют физические и агентские AI для обработки данных с камер и датчиков, превращая их в действия для инфраструктуры.",
-          "why": "Показывает, что AI-агенты становятся критичны для городской инфраструктуры, открывая гигантский рынок для вычислительных решений.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11032051": {
       "created_at": "2026-11-03T20:51:58Z",
       "message_id": 128,
@@ -889,6 +757,113 @@
             "https://www.techmeme.com/261105/p70#a261105p70"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11062045": {
+      "created_at": "2026-11-06T20:45:32Z",
+      "message_id": 139,
+      "topics": [
+        {
+          "title": "Выборы 2026: США выбрали против дата-центров",
+          "what": "На выборах 2026 года избиратели проголосовали против расширения дата-центров почти везде — 40 из 41 бюллотень получили ограничения на развитие.",
+          "why": "Для фаундеров это означает замораживание инвестиций в инфраструктуру, давление на энергосети и локальные конфликты интересов — рынок станет более консервативным.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch, The Verge",
+          "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+          "candidate_urls": [
+            "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+            "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+            "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Китайские ИИ ломают сети так же хорошо, как OpenAI",
+          "what": "DeepSeek и GLM продемонстрировали навыки взлома систем почти на уровне закрытых моделей OpenAI в кибербезопасности — это показала тестовая атака на симуляцию сети.",
+          "why": "Появилась открытая альтернатива с близкой компетентностью, которая усиливает вооружённость соперников и создаёт новый горячий вопрос для регуляторов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+          "candidate_urls": [
+            "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic готовится к IPO, но AI-расходы замерзают",
+          "what": "Данные Ramp показали, что, несмотря на рост использования ИИ, реальные расходы компаний не растут — урезают расходы или переводят на более дешёвые модели.",
+          "why": "Инвесторская история об экспоненциальном росте трещит: если доход не растёт, то про гиперроста и говорить нечего — переоценки неизбежны.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "ИИ впервые решил открытую математическую гипотезу",
+          "what": "Система с моделью Anthropic доказала гипотезу Ааронсона—Амбайниса — проблему в квантовых вычислениях, которая была открыта 16 лет.",
+          "why": "Это фундаментальный прорыв: ИИ перешёл от оптимизации к творчеству в математике — это показатель качественного скачка в способностях.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "PSI via Techmeme",
+          "source_url": "https://www.techmeme.com/261106/p20#a261106p20",
+          "candidate_urls": [
+            "https://www.techmeme.com/261106/p20#a261106p20"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Meta Spaces: агент кодит приложения в чате",
+          "what": "Meta добавила в Muse возможность создавать кастомные приложения (дашборды, игры, трекеры) просто по просьбе — интерфейс меняется за лету.",
+          "why": "Это новая парадигма: вместо скачивать приложение, просишь агента его создать — острый конкурент для Low Code платформ и конструкторов.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Meta via The Verge, TechCrunch",
+          "source_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+            "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "BioBasicsBench: первый тест ИИ в реальной науке",
+          "what": "OpenAI выпустила тест из 100 задач, где ИИ должен обрабатывать сырые данные экспериментов — интерпретировать графики, графики, результаты как настоящий учёный.",
+          "why": "Это первый бенчмарк, который раскрывает пробелы в работе с реальными лабораторными данными — вопрос стоит остро для компаний, внедряющих ИИ в науку.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "candidate_urls": [
+            "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "AI компании скупают рабочие письма и файлы",
+          "what": "Data brokers продают компаниям внутренние файлы и письма сотрудников для тренировки моделей — ситуация развивается без согласия корпоративных юристов.",
+          "why": "Для Slack и Email используются как источники тренировочных данных — это юридический и этический минный поль, который вскоре дойдёт до судов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+          "candidate_urls": [
+            "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

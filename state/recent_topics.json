@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "CrowdStrike инвестирует $495М в мониторинг AI-агентов",
-      "url": "https://www.techmeme.com/261103/p17#a261103p17",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "LLM научились редактировать веса нейросетей напрямую",
-      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic использует Claude для разработки собственных чипов",
-      "url": "https://www.techmeme.com/261103/p16#a261103p16",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Новый способ контроля AI: reverse game theory",
-      "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI усиливает безопасность совместным спринтом с Cathedral Systems",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI нанимает экс-секретаря Армии США для работы с правительством",
-      "url": "https://www.techmeme.com/261103/p9#a261103p9",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "UK предупредил: Россия и Китай используют AI для кибератак",
-      "url": "https://www.techmeme.com/261103/p7#a261103p7",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Китай разрабатывает комплексные стандарты безопасности AI",
-      "url": "https://www.techmeme.com/261103/p8#a261103p8",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Города развёртывают AI-агентов через NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/",
-      "ts": "2026-11-03T14:56:13Z",
-      "kind": "offered"
-    },
-    {
       "topic": "NVIDIA: AI помогает инженерам на фабриках делать чипы",
       "url": "https://blogs.nvidia.com/blog/ai-semiconductor-fabs/",
       "ts": "2026-11-03T20:51:58Z",
@@ -363,6 +309,48 @@
       "topic": "Google выпустила Gemini Omni 1.2 Flash: быстрее и дешевле",
       "url": "https://www.techmeme.com/261105/p70#a261105p70",
       "ts": "2026-11-06T14:53:49Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Выборы 2026: США выбрали против дата-центров",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Китайские ИИ ломают сети так же хорошо, как OpenAI",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic готовится к IPO, но AI-расходы замерзают",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "ИИ впервые решил открытую математическую гипотезу",
+      "url": "https://www.techmeme.com/261106/p20#a261106p20",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta Spaces: агент кодит приложения в чате",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "BioBasicsBench: первый тест ИИ в реальной науке",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "ts": "2026-11-06T20:45:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI компании скупают рабочие письма и файлы",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
+      "ts": "2026-11-06T20:45:32Z",
       "kind": "offered"
     }
   ]
