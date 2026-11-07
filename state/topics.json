@@ -1,154 +1,5 @@
 {
   "digests": {
-    "11041516": {
-      "created_at": "2026-11-04T15:16:13Z",
-      "message_id": 134,
-      "topics": [
-        {
-          "title": "OpenAI купила Pierre Computer — интеграция в Codex",
-          "what": "OpenAI приобрела стартап Pierre Computer. Технологию встроят в Codex для разработчиков.",
-          "why": "Стратегический ход: OpenAI встраивает инструменты прямо в платформу, конкурируя с GitHub Copilot за разработчиков.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/openai-to-acquire-pierre",
-          "candidate_urls": [
-            "https://openai.com/index/openai-to-acquire-pierre",
-            "https://www.techmeme.com/261104/p21#a261104p21"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Британия пересчитала вклад AI в экономику: -75%",
-          "what": "Министр AI пересмотрел оценку вклада AI на 2030 год с £400B на £55–140B. Доклад Google был завышен.",
-          "why": "Разрыв между хайпом и реальностью: покупатели, планирующие инвестиции на фоне AI-обещаний, должны быть осторожнее.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-          "candidate_urls": [
-            "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-            "https://www.techmeme.com/261104/p32#a261104p32"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "США выбрали регуляцию: против дата-центров и AI",
-          "what": "На промежуточных выборах победили кандидаты, обещавшие ограничить дата-центры и регулировать AI.",
-          "why": "Политический сигнал в США: регуляция может затормозить инфраструктурный рывок AI-лаб. Риск для фаундеров.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261104/p22#a261104p22",
-          "candidate_urls": [
-            "https://www.techmeme.com/261104/p22#a261104p22",
-            "https://www.techmeme.com/261104/p20#a261104p20"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic запустила FlashProve: проверка подлинности моделей",
-          "what": "Система, которая позволяет каждому проверить, что ответ действительно от нужной модели, а не подделка.",
-          "why": "Решение против фейков и имперсонации; актуально для доверия пользователей и защиты репутации лаб.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Google Search: рост запросов, но не выручки от AI",
-          "what": "Запросы растут рекордно быстро, но Search выручка замедлилась до 12% год-к-году. AI-ответы не монетизируются.",
-          "why": "Ключевой вывод: встроить AI в поиск — недостаточно, нужен новый способ получать деньги. Учебник для любого сервиса.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "AI-долги лаб: $3.2 триллиона за 6 месяцев (+90%)",
-          "what": "Финансовые обязательства крупных AI компаний (вычисления, лицензии, оборудование) выросли на 90% до $3.2 трлн.",
-          "why": "Реальная цена AI-гонки; показывает масштабы инвестиций, скрытых за обещаниями лаб.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Asia Nikkei",
-          "source_url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-          "candidate_urls": [
-            "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Дата-центры запустили старые реактивные двигатели",
-          "what": "Из-за нехватки сетевого электричества дата-центры переходят на авиадвигатели для питания. Менее эффективно и экологично.",
-          "why": "Инфраструктурный bottleneck: AI требует столько энергии, что отходит в сторону от сети. Сигнал о масштабе и сложности.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Cohere запустила Embed 5 и Rerank 5 через OpenRouter",
-          "what": "Модели поиска Cohere теперь в OpenRouter с единым биллингом и без дополнительных SDK.",
-          "why": "Упрощает интеграцию; тренд на унификацию API для доступа к моделям разных лаб в одном месте.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Cohere",
-          "source_url": "https://cohere.com/blog/embed-rerank-5-openrouter",
-          "candidate_urls": [
-            "https://cohere.com/blog/embed-rerank-5-openrouter"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Postman тайком ставил AI плагины и шарил API-данные",
-          "what": "Postman автоматически устанавливал AI плагины и пытался отправлять данные API пользователей без разрешения.",
-          "why": "Риск приватности: знакомые инструменты могут втайне использовать данные для обучения AI. Настораживает.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "GitHub",
-          "source_url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-          "candidate_urls": [
-            "https://github.com/postmanlabs/postman-app-support/issues/14370"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "Nexus Mods требует раскрывать использование AI при загрузке",
-          "what": "Крупнейший сайт модов для ПК-игр обязал авторов указывать, был ли AI использован при создании мода.",
-          "why": "Сообщества берут контроль: требуют прозрачности. Важно для любого, кто выпускает контент или инструменты с AI.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-          "candidate_urls": [
-            "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "11042128": {
       "created_at": "2026-11-04T21:28:44Z",
       "message_id": 135,
@@ -864,6 +715,41 @@
             "https://www.techmeme.com/261106/p23#a261106p23"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11071832": {
+      "created_at": "2026-11-07T18:32:32Z",
+      "message_id": 141,
+      "topics": [
+        {
+          "title": "Компании в Китае с пустыми офисами получили допуск на Nvidia H200",
+          "what": "NYT обнаружила, что одобренные Commerce Department китайские фирмы для работы с H200 имеют пустые офисы и связи с санкционированными компаниями.",
+          "why": "Выявляет дыры в проверках экспорта: недостаточный контроль может привести к попаданию AI-чипов к нежелательным игрокам несмотря на государственные ограничения.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+            "https://www.techmeme.com/261107/p9#a261107p9"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Ocient привлекла $100M на развитие AI-аналитики",
+          "what": "Компания Ocient из Чикаго собрала $100M в раунде Series C, ведомом Boka Capital и OCA Ventures, для развития платформы аналитики с AI-агентами.",
+          "why": "Показывает интерес венчурных инвесторов к инструментам, автоматизирующим анализ данных через AI-агентов — тренд, важный для продуктов, работающих с большими объёмами данных.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "SiliconANGLE",
+          "source_url": "https://www.techmeme.com/261107/p10#a261107p10",
+          "candidate_urls": [
+            "https://www.techmeme.com/261107/p10#a261107p10"
+          ],
+          "n": 2,
           "status": "offered"
         }
       ]

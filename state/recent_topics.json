@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI купила Pierre Computer — интеграция в Codex",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Британия пересчитала вклад AI в экономику: -75%",
-      "url": "https://www.wired.com/story/uk-officials-said-ai-would-add-400-billion-to-the-economy-that-figure-mainly-came-from-google/",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "США выбрали регуляцию: против дата-центров и AI",
-      "url": "https://www.techmeme.com/261104/p22#a261104p22",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic запустила FlashProve: проверка подлинности моделей",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google Search: рост запросов, но не выручки от AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-долги лаб: $3.2 триллиона за 6 месяцев (+90%)",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Дата-центры запустили старые реактивные двигатели",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cohere запустила Embed 5 и Rerank 5 через OpenRouter",
-      "url": "https://cohere.com/blog/embed-rerank-5-openrouter",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Postman тайком ставил AI плагины и шарил API-данные",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nexus Mods требует раскрывать использование AI при загрузке",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "ts": "2026-11-04T15:16:13Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Meta купила Conductor для AI-агентов кодирования",
       "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
       "ts": "2026-11-04T21:28:44Z",
@@ -346,6 +286,18 @@
       "topic": "Google инвестировала $548M в акции Qualcomm для AI-чипов",
       "url": "https://www.techmeme.com/261106/p23#a261106p23",
       "ts": "2026-11-07T13:49:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Компании в Китае с пустыми офисами получили допуск на Nvidia H200",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "ts": "2026-11-07T18:32:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Ocient привлекла $100M на развитие AI-аналитики",
+      "url": "https://www.techmeme.com/261107/p10#a261107p10",
+      "ts": "2026-11-07T18:32:32Z",
       "kind": "offered"
     }
   ]
