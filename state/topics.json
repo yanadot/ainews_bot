@@ -1,138 +1,5 @@
 {
   "digests": {
-    "11051517": {
-      "created_at": "2026-11-05T15:17:44Z",
-      "message_id": 136,
-      "topics": [
-        {
-          "title": "OpenAI автоматически нашла и запатчила 948 уязвимостей Linux",
-          "what": "OpenAI создала autonomous pipeline, который обнаружил, верифицировал и сгенерировал патчи для 948 уязвимостей локального повышения привилегий в Linux kernel.",
-          "why": "Демонстрирует способность современных моделей решать реальные задачи безопасности автономно — потенциально революционный подход к cybersecurity.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "candidate_urls": [
-            "https://openai.com/index/a-thousand-fewer-paths-to-root"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Большие компании тратят рекорды на AI, но отдачи нет",
-          "what": "После Q3 2026 ясно: Amazon, Microsoft, Google и Meta не прекращают инвестиции в data centers, но обещанная отдача от AI так и не материализовалась.",
-          "why": "Критический сигнал для инвесторов и фаундеров о sustainability модели капитальных трат Big Tech на AI инфраструктуру.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic сделала вывод моделей проверяемым",
-          "what": "Anthropic опубликовала исследование про provable inference — способность гарантировать, что вывод модели соответствует её внутреннему состоянию.",
-          "why": "Критично для надёжности и safety: если клиенты не могут доверять модели, её невозможно использовать в production.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/research/provable-inference",
-          "candidate_urls": [
-            "https://www.anthropic.com/research/provable-inference"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Agility стала первой pure-play humanoid robot компанией на Nasdaq",
-          "what": "Agility Robotics вышла на биржу как первая компания, полностью сосредоточенная на разработке человекоподобных роботов.",
-          "why": "Сигнал рынка о жизнеспособности робототехники; для продакт-команд показывает спрос на физических агентов, а не только языковые модели.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Aina создала смарт-кольцо для управления AI агентами",
-          "what": "Стартап Aina выпустил кольцо с экраном, джойстиком и микрофоном — периферия для управления автономными AI assistants без смартфона.",
-          "why": "Новая форм-фактора для взаимодействия с агентами; показывает тренд на персональный хардвэр вместо телефона.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/aina-smart-ring/",
-          "candidate_urls": [
-            "https://www.wired.com/story/aina-smart-ring/",
-            "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "YC стартап ищет решения hard problems в материаловедении",
-          "what": "Discovered Materials предлагает $200 000 за каждое решение пяти открытых задач в материалах для чипов — всего $1M на краудсорсинг.",
-          "why": "Инновационный способ привлечь таланты к hard problems через AI; показывает, как компании используют краудсорсинг вместо закрытых лабов.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "UK стартап использует AI на синтетических данных для лекарств",
-          "what": "Potential Sciences тренирует модели на компьютерных симуляциях вместо лабораторных данных, ускоряя разработку новых лекарств.",
-          "why": "Показывает, как AI решает классическую hard problem; потенциально может переформатировать pharmaceutical development.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-          "candidate_urls": [
-            "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Дарио Амодей: философия и конфликты в Anthropic",
-          "what": "NYT рассказала о убеждениях Дарио Амодея, его эффективном альтруизме и разногласиях с Altman и Brockman по стратегии компании.",
-          "why": "Инсайт в культуру и принципы Anthropic; показывает, как лидерская философия влияет на стратегию конкурента.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "New York Times",
-          "source_url": "https://www.techmeme.com/261105/p22#a261105p22",
-          "candidate_urls": [
-            "https://www.techmeme.com/261105/p22#a261105p22"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Hugging Face выпустила Phonon TTS — синтез речи на устройстве",
-          "what": "Phonon TTS выигрывает в качестве и эффективности, работая полностью на локальном устройстве без облака.",
-          "why": "Показывает тренд: модели становятся компактнее и быстрее, открывая рынок offline-first AI приложений.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/phonon-tts",
-          "candidate_urls": [
-            "https://huggingface.co/blog/phonon-tts"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11052134": {
       "created_at": "2026-11-05T21:34:23Z",
       "message_id": 137,
@@ -750,6 +617,68 @@
             "https://www.techmeme.com/261108/p7#a261108p7"
           ],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "11081859": {
+      "created_at": "2026-11-08T18:59:37Z",
+      "message_id": 143,
+      "topics": [
+        {
+          "title": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
+          "what": "Инвестиции в AI-стартапы и компании достигли рекордных объёмов: исключая IPO Anthropic, выпущено акций на $300B+, ещё $100B ждут прайсинга.",
+          "why": "Показывает спекулятивный бум на AI-рынке и вопросы о пределе поглощения инвесторами; для фаундеров — сигнал про окно для раунда, для PM — про конкуренцию за капитал.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Information",
+          "source_url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p10#a261108p10"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
+          "what": "Anthropic заказала 1.7GW газовых генераторов у OnePWR за $3.4B, минуя традиционных поставщиков ради дефицитного оборудования.",
+          "why": "Масштабы расходов на энергию показывают, что AI-разработка упирается в физическую инфраструктуру; для ПМ важно как сигнал про масштабы инвестиций и барьеры входа.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://www.ft.com/content/anthropic-generators-onepwr",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p8#a261108p8"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Suno судят за нарушение авторских прав Elvis и Eminem",
+          "what": "Правообладатели Elvis Presley и издатель Eminem подали иски к AI-музыканту Suno, обвиняя в незаконном использовании голосов и текстов артистов.",
+          "why": "Показывает растущий конфликт между AI и авторским правом; для ПМ важно как пример регулятивного риска для генеративных платформ.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Apple ускоряет AI под давлением нового CEO Джона Тернуса",
+          "what": "Новый CEO Apple Джон Тернус давит на главу ПО Крейга Федеригхи расширить возможности AI за пределы твиков Siri до полноценных агентов.",
+          "why": "Сигнализирует о переориентации Apple с инкрементала на радикальное развитие AI; для ПМ показывает, как даже консервативные компании переходят на агент-ориентированный подход.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.bloomberg.com/news/articles/ternus-apple-ai-efforts",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p9#a261108p9"
+          ],
+          "n": 4,
           "status": "offered"
         }
       ]

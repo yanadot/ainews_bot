@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI автоматически нашла и запатчила 948 уязвимостей Linux",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Большие компании тратят рекорды на AI, но отдачи нет",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic сделала вывод моделей проверяемым",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Agility стала первой pure-play humanoid robot компанией на Nasdaq",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Aina создала смарт-кольцо для управления AI агентами",
-      "url": "https://www.wired.com/story/aina-smart-ring/",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "YC стартап ищет решения hard problems в материаловедении",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "UK стартап использует AI на синтетических данных для лекарств",
-      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Дарио Амодей: философия и конфликты в Anthropic",
-      "url": "https://www.techmeme.com/261105/p22#a261105p22",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Hugging Face выпустила Phonon TTS — синтез речи на устройстве",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "ts": "2026-11-05T15:17:44Z",
-      "kind": "offered"
-    },
-    {
       "topic": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "ts": "2026-11-05T21:34:23Z",
@@ -298,6 +244,30 @@
       "topic": "Монголия строит китайский Silicon Valley для AI дата-центров",
       "url": "https://www.techmeme.com/261108/p7#a261108p7",
       "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
+      "url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026",
+      "ts": "2026-11-08T18:59:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
+      "url": "https://www.ft.com/content/anthropic-generators-onepwr",
+      "ts": "2026-11-08T18:59:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Suno судят за нарушение авторских прав Elvis и Eminem",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "ts": "2026-11-08T18:59:37Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple ускоряет AI под давлением нового CEO Джона Тернуса",
+      "url": "https://www.bloomberg.com/news/articles/ternus-apple-ai-efforts",
+      "ts": "2026-11-08T18:59:37Z",
       "kind": "offered"
     }
   ]

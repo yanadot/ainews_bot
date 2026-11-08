@@ -1,48 +1,30 @@
 {
-  "run_at": "2026-11-08T14:11:46Z",
-  "candidates": 15,
+  "run_at": "2026-11-08T18:59:37Z",
+  "candidates": 4,
   "offered": [
     {
       "n": 1,
-      "title": "Мир по воле моделей: физические законы в цифре",
-      "score": 4,
-      "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+      "title": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
+      "score": 5,
+      "source_url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026"
     },
     {
       "n": 2,
-      "title": "Утечка паролей через Claude Code: как разрешения стали дырой",
+      "title": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
       "score": 4,
-      "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+      "source_url": "https://www.ft.com/content/anthropic-generators-onepwr"
     },
     {
       "n": 3,
-      "title": "Nous переобучила китайскую Qwen под западные ценности",
+      "title": "Suno судят за нарушение авторских прав Elvis и Eminem",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261108/p3#a261108p3"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
     },
     {
       "n": 4,
-      "title": "GenRobot привлекла $100M для роботов, учащихся на людях",
+      "title": "Apple ускоряет AI под давлением нового CEO Джона Тернуса",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261108/p2#a261108p2"
-    },
-    {
-      "n": 5,
-      "title": "Microsoft Research закрывает группу AI Frontiers",
-      "score": 3,
-      "source_url": "https://hunch.net/?p=13764006"
-    },
-    {
-      "n": 6,
-      "title": "Anthropic потратила $63M на выборы через political PAC",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261107/p17#a261107p17"
-    },
-    {
-      "n": 7,
-      "title": "Монголия строит китайский Silicon Valley для AI дата-центров",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261108/p7#a261108p7"
+      "source_url": "https://www.bloomberg.com/news/articles/ternus-apple-ai-efforts"
     }
   ]
 }
