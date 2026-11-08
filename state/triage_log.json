@@ -1,18 +1,48 @@
 {
-  "run_at": "2026-11-07T18:32:32Z",
-  "candidates": 7,
+  "run_at": "2026-11-08T14:11:46Z",
+  "candidates": 15,
   "offered": [
     {
       "n": 1,
-      "title": "Компании в Китае с пустыми офисами получили допуск на Nvidia H200",
+      "title": "Мир по воле моделей: физические законы в цифре",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government"
+      "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
     },
     {
       "n": 2,
-      "title": "Ocient привлекла $100M на развитие AI-аналитики",
+      "title": "Утечка паролей через Claude Code: как разрешения стали дырой",
+      "score": 4,
+      "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+    },
+    {
+      "n": 3,
+      "title": "Nous переобучила китайскую Qwen под западные ценности",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261108/p3#a261108p3"
+    },
+    {
+      "n": 4,
+      "title": "GenRobot привлекла $100M для роботов, учащихся на людях",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261107/p10#a261107p10"
+      "source_url": "https://www.techmeme.com/261108/p2#a261108p2"
+    },
+    {
+      "n": 5,
+      "title": "Microsoft Research закрывает группу AI Frontiers",
+      "score": 3,
+      "source_url": "https://hunch.net/?p=13764006"
+    },
+    {
+      "n": 6,
+      "title": "Anthropic потратила $63M на выборы через political PAC",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261107/p17#a261107p17"
+    },
+    {
+      "n": 7,
+      "title": "Монголия строит китайский Silicon Valley для AI дата-центров",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261108/p7#a261108p7"
     }
   ]
 }

@@ -1,48 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Meta купила Conductor для AI-агентов кодирования",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI готовится влиять на выборы 2028",
-      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Про-AI Super PAC провалили выборы 2026",
-      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google связал AI с обычным поиском в школах",
-      "url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DuckDuckGo ловит школы, разочарованные Google",
-      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Open source AI растёт: кто профитирует",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Dharma Field Extractor: документы в JSON за раз",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "ts": "2026-11-04T21:28:44Z",
-      "kind": "offered"
-    },
-    {
       "topic": "OpenAI автоматически нашла и запатчила 948 уязвимостей Linux",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "ts": "2026-11-05T15:17:44Z",
@@ -298,6 +256,48 @@
       "topic": "Ocient привлекла $100M на развитие AI-аналитики",
       "url": "https://www.techmeme.com/261107/p10#a261107p10",
       "ts": "2026-11-07T18:32:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Мир по воле моделей: физические законы в цифре",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Утечка паролей через Claude Code: как разрешения стали дырой",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nous переобучила китайскую Qwen под западные ценности",
+      "url": "https://www.techmeme.com/261108/p3#a261108p3",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "GenRobot привлекла $100M для роботов, учащихся на людях",
+      "url": "https://www.techmeme.com/261108/p2#a261108p2",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft Research закрывает группу AI Frontiers",
+      "url": "https://hunch.net/?p=13764006",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic потратила $63M на выборы через political PAC",
+      "url": "https://www.techmeme.com/261107/p17#a261107p17",
+      "ts": "2026-11-08T14:11:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Монголия строит китайский Silicon Valley для AI дата-центров",
+      "url": "https://www.techmeme.com/261108/p7#a261108p7",
+      "ts": "2026-11-08T14:11:46Z",
       "kind": "offered"
     }
   ]

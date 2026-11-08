@@ -1,109 +1,5 @@
 {
   "digests": {
-    "11042128": {
-      "created_at": "2026-11-04T21:28:44Z",
-      "message_id": 135,
-      "topics": [
-        {
-          "title": "Meta купила Conductor для AI-агентов кодирования",
-          "what": "Meta приобрела стартап Conductor, позволяющий разработчикам запускать несколько AI-агентов для кодирования одновременно. Команда присоединится к Meta Superintelligence Labs.",
-          "why": "Показывает, как крупные компании инвестируют в AI-инженеринг: вместо полных автономных продуктов покупают специализированные инструменты для своих команд.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Meta/TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI готовится влиять на выборы 2028",
-          "what": "Руководитель политики OpenAI Chris Lehane предложил использовать AI для определения социального контракта на выборы 2028, что также соответствует интересам OpenAI.",
-          "why": "Показывает, как AI-лабы переходят от технологии к политической повестке: это новый фронт конкуренции и регулирования, важный для стратегии любой AI-компании.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI/TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Про-AI Super PAC провалили выборы 2026",
-          "what": "Коалиция криптокомпаний и AI-сторонников потратила $250 млн на выборы 2026, но проиграла в 9 из 12 конкурентных гонок. Это сигнал смены политического ветра.",
-          "why": "Аудитория видит, что политическая власть AI-лабов ограничена: деньги не гарантируют результат, а это меняет ставки для регуляции и инвестиций в лоббизм.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/",
-          "candidate_urls": [
-            "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Google связал AI с обычным поиском в школах",
-          "what": "Google интегрировал AI Overviews в обычный поиск, убирая возможность для школ отключить эту функцию. Родители и педагоги критикуют это как принудительное внедрение AI.",
-          "why": "Мандат сверху показывает, как крупные компании интегрируют AI без согласия пользователей. Может спровоцировать регулирование и потерю доверия в образовательном секторе.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Google/Wired",
-          "source_url": "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-          "candidate_urls": [
-            "https://www.wired.com/story/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "DuckDuckGo ловит школы, разочарованные Google",
-          "what": "DuckDuckGo позиционирует себя как альтернатива Google для школ, предлагая опцию отключить AI. Это прямой ответ на backlash против политики Google.",
-          "why": "Выиграть у лидера можно простым предложением: опции вместо мандата. Обычная стратегия, когда крупный игрок теряет доверие пользователей.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "DuckDuckGo/TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Open source AI растёт: кто профитирует",
-          "what": "Open source модели становятся мейнстримом для бизнеса и стартапов. HuggingFace объясняет, как компании извлекают ценность из бесплатных моделей в условиях растущей конкуренции.",
-          "why": "Для фаундеров ключевой тренд: open source AI снижает стоимость входа, но осложняет монетизацию и требует новой стратегии в условиях доступности моделей.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "HuggingFace/TechCrunch",
-          "source_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-          "candidate_urls": [
-            "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Dharma Field Extractor: документы в JSON за раз",
-          "what": "HuggingFace запустила Dharma Field Extractor — инструмент для автоматического извлечения структурированных данных из любых документов в JSON-формате.",
-          "why": "Для продуктов с документами: автоматизирует парсинг и валидацию, даёт готовую структуру. Еще один инструмент для снижения стоимости разработки в AI ecosystem.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-          "candidate_urls": [
-            "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "11051517": {
       "created_at": "2026-11-05T15:17:44Z",
       "message_id": 136,
@@ -750,6 +646,110 @@
             "https://www.techmeme.com/261107/p10#a261107p10"
           ],
           "n": 2,
+          "status": "offered"
+        }
+      ]
+    },
+    "11081411": {
+      "created_at": "2026-11-08T14:11:46Z",
+      "message_id": 142,
+      "topics": [
+        {
+          "title": "Мир по воле моделей: физические законы в цифре",
+          "what": "World models — модели, симулирующие физику реального мира. Роботы и беспилотные авто учатся на них ориентироваться в пространстве без физических экспериментов.",
+          "why": "AI начинает выходить из текста в физический мир. Роботизация станет быстрее и дешевле, если машины смогут учиться в симуляциях.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired AI",
+          "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+          "candidate_urls": [
+            "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Утечка паролей через Claude Code: как разрешения стали дырой",
+          "what": "Функция «Не спрашивать снова» в Claude Code позволила утечь пароли в 1,122 публичные GitHub-файлы. Функция давала права без явного согласия каждый раз.",
+          "why": "Это касается всех, кто пишет агентов с доступом к системе. Безопасность кода — не только про баги, но про то, как работают разрешения.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Apiiro / Hacker News",
+          "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "candidate_urls": [
+            "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Nous переобучила китайскую Qwen под западные ценности",
+          "what": "Nous Research переобучила модель Qwen 3.8-27B, усилив «западные ценности» в ответах. Компания утверждает, что слой предубеждений в оригинальной модели тонкий.",
+          "why": "Это показывает, что можно адаптировать модели под разные рынки быстро. Для продактов локализация AI под разные страны становится реальностью.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261108/p3#a261108p3",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p3#a261108p3"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "GenRobot привлекла $100M для роботов, учащихся на людях",
+          "what": "Пекинский стартап GenRobot AI собрал $100 млн Series A+. Компания делает оборудование и ПО для записи движений людей — эти данные обучают роботов копировать действия.",
+          "why": "Это быстрый способ обучать роботов. Когда зарплаты растут, автоматизация через роботов становится привлекательнее для бизнеса.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261108/p2#a261108p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p2#a261108p2"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft Research закрывает группу AI Frontiers",
+          "what": "Microsoft Research закрыла исследовательскую группу AI Frontiers. Это была команда, работавшая над передовыми направлениями в AI.",
+          "why": "Закрытие research-групп обычно означает смену приоритетов: от фундаментальной науки к внедрению существующих технологий. Это замедлит появление прорывов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Hacker News",
+          "source_url": "https://hunch.net/?p=13764006",
+          "candidate_urls": [
+            "https://hunch.net/?p=13764006"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic потратила $63M на выборы через political PAC",
+          "what": "Политический комитет Public First, поддерживаемый Anthropic, потратил $63+ млн на выборы 2026. 10 из 17 кандидатов выиграли — все за более строгие правила AI.",
+          "why": "AI-компании теперь влияют на регуляторику напрямую через политику. Результаты выборов определят, какие правила AI получат в разных штатах.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261107/p17#a261107p17",
+          "candidate_urls": [
+            "https://www.techmeme.com/261107/p17#a261107p17"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Монголия строит китайский Silicon Valley для AI дата-центров",
+          "what": "SemiAnalysis про Внутреннюю Монголию — самый быстрорастущий регион дата-центров для AI в Китае. Там строят 800MW кампус с дешёвой энергией и без регуляторных барьеров.",
+          "why": "Инфраструктура для AI смещается в регионы с дешёвой энергией. Западным компаниям нужно готовиться к конкуренции от дешёвых и быстрых китайских дата-центров.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261108/p7#a261108p7",
+          "candidate_urls": [
+            "https://www.techmeme.com/261108/p7#a261108p7"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]
