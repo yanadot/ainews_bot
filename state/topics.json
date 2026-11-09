@@ -396,8 +396,9 @@
             "https://www.techmeme.com/261108/p8#a261108p8"
           ],
           "n": 2,
-          "status": "awaiting_focus",
-          "focus_msg_id": 144
+          "status": "written",
+          "focus_msg_id": 144,
+          "focus": "Пиши простым языком что это значит"
         },
         {
           "title": "Suno судят за нарушение авторских прав Elvis и Eminem",
