@@ -1,260 +1,5 @@
 {
   "digests": {
-    "11052134": {
-      "created_at": "2026-11-05T21:34:23Z",
-      "message_id": 137,
-      "topics": [
-        {
-          "title": "OpenAI запустила GPT-6 Cyber для кибербезопасности",
-          "what": "OpenAI представила специализированную модель GPT-6 Cyber для поиска уязвимостей и разработки патчей, обучённую оставаться в авторизованных пределах.",
-          "why": "Открывает новую нишу AI-помощников в security: компаниям нужны инструменты для поиска дыр в своём коде быстрее, чем это делают хакеры.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/introducing-gpt-6-cyber",
-          "candidate_urls": [
-            "https://openai.com/index/introducing-gpt-6-cyber",
-            "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-            "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Google выпустила Gemini Omni 1.2 Flash — дешевле и быстрее",
-          "what": "Google представила обновленную версию Gemini Omni 1.2 Flash с поддержкой длинных видеоклипов и более низкой стоимостью использования.",
-          "why": "Снижение цены на AI-API заставляет весь рынок конкурировать по стоимости; продактам нужно переоценить смету на AI-фичи.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "candidate_urls": [
-            "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA выпустила Vera — CPU для AI-агентов",
-          "what": "NVIDIA представила процессор Vera, который обеспечивает наивысшую пропускную способность и самую быструю работу AI-агентов на CPU.",
-          "why": "Агенты часто прыгают между GPU (рассуждение) и CPU (исполнение); новая CPU может сделать агентов заметно быстрее в production.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA Cosmos 3 — модели для симуляции физического мира",
-          "what": "NVIDIA выпустила open-source модели Cosmos 3 для интерактивной симуляции окружающей среды, доступные на Hugging Face.",
-          "why": "Модели симуляции нужны для обучения роботов и агентов в виртуальной среде; open-source версия ускорит экосистему.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA",
-          "source_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "candidate_urls": [
-            "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Claude теперь может управлять твоими финансами через Plaid",
-          "what": "Anthropic запустила Personal Finance в Claude — пользователи могут подключить банковские и кредитные счета через Plaid и анализировать расходы.",
-          "why": "AI встраивается в финансовые инструменты; стартапам финтеха нужно понять, как конкурировать с интегрированным Claude.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-            "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Meta Muse теперь говорит и видит через камеру",
-          "what": "Meta развернула голосовой режим и выразительные аватары в приложении Muse, позволяя вести видеозвонки с AI-агентом в реальном времени.",
-          "why": "AI-компаньоны переходят с текста на голос и видео; это тренд, который затронет все коммуникационные приложения.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Meta",
-          "source_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-            "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Dropbox купила Tigris Data за $350 млн для облака агентов",
-          "what": "Dropbox приобрела компанию Tigris Data за $350 млн для развития DBX Agent Cloud — платформы хранения для разработчиков AI-моделей и агентов.",
-          "why": "Большие компании консолидируют инфраструктуру для агентов; для стартапов это сигнал, что общая платформа победит специализированные решения.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Dropbox",
-          "source_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA решила проблему памяти в GPU полностековым дизайном",
-          "what": "NVIDIA рассказала, как полностековое проектирование решает растущий дефицит GPU-памяти под большие модели и длинные контексты.",
-          "why": "Память в GPU — узкое место для больших моделей; понимание архитектурных решений важно для выбора оборудования и калькуляции стоимости.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/memory-full-stack-codesign/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/memory-full-stack-codesign/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Axiom Math верифицирует AI-доказательства, чтобы избежать \"AI-мусора\"",
-          "what": "Стартап Axiom Math разработал AI-агентов, которые формально верифицируют математические доказательства; они уже проверили один из крупнейших библиотек.",
-          "why": "Когда AI генерирует доказательства, кто-то должен их проверять; на стыке верификации и AI растет новая категория компаний.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Axiom Math",
-          "source_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
-    "11061453": {
-      "created_at": "2026-11-06T14:53:49Z",
-      "message_id": 138,
-      "topics": [
-        {
-          "title": "Microsoft предлагает выход 60 тыс. сотрудников из-за расходов на AI",
-          "what": "Microsoft объявила программу добровольного выхода для 60 тысяч сотрудников в связи с растущими инвестициями в AI-инфраструктуру.",
-          "why": "Сигнал того, как крупные техкомпании переоценивают приоритеты в пользу AI — для фаундеров важно видеть переструктурирование кадровой политики гигантов.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "New York Times",
-          "source_url": "https://www.techmeme.com/261106/p12#a261106p12",
-          "candidate_urls": [
-            "https://www.techmeme.com/261106/p12#a261106p12"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Facebook осознанно размещает AI-скаммерские объявления",
-          "what": "Согласно документам, Facebook/Meta активно размещает AI-сгенерированные deepfake-объявления для мошенничества на сумму $16 млрд годовых убытков пользователей.",
-          "why": "Сигнал о неконтролируемом AI-контенте на платформах — для продактов это подтверждение необходимости контроля модерации и регуляторного соответствия.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Mark Cuban / Yahoo Finance",
-          "source_url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-          "candidate_urls": [
-            "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Palo Alto Networks купит стартап Clutch за $500 млн",
-          "what": "Palo Alto Networks ведёт переговоры о покупке стартапа Clutch, специализирующегося на безопасности AI-агентов, за $500 млн (последняя оценка $85 млн).",
-          "why": "Сигнал рыночной стоимости AI-security стартапов — для фаундеров важно видеть успешные exit'ы в категориях AI-infrastructure и defence.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Airbnb запустит AI-агента для планирования путешествий",
-          "what": "Airbnb объявила о запуске AI-агента в первой половине 2027, который будет помогать пользователям искать, сравнивать варианты и бронировать путешествия.",
-          "why": "Показывает, как крупные сервисы интегрируют AI-агентов в core product — для продактов это пример успешного roadmap внедрения в mainstream.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-            "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA требует отслеживать AI-чипы в Юго-Восточной Азии",
-          "what": "NVIDIA обязала компании в Юго-Восточной Азии, претендующие на статус Cloud Partner, вступить в программу отслеживания местоположения AI-ускорителей.",
-          "why": "Геополитический контроль экспорта влияет на распределение ресурсов и стоимость инфраструктуры — для фаундеров важно учитывать при планировании cloud стратегии.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.techmeme.com/261106/p8#a261106p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261106/p8#a261106p8"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI отказывается от NDA с чиновниками по дата-центрам",
-          "what": "После голосования избирателей против расширения дата-центров, OpenAI объявила, что не будет использовать NDA с государственными чиновниками на проектах AI-инфраструктуры.",
-          "why": "Сигнал растущего противодействия AI-инвестициям — для фаундеров это означает готовиться к прозрачным и сложным регуляторным переговорам.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "MIT: роботы-уборщики работают в реальных квартирах",
-          "what": "MIT Technology Review протестировала сервис humanoid-роботов-уборщиков в Сан-Франциско и подтвердила их практическую работоспособность.",
-          "why": "Показатель того, что робо-сервисы выходят из лабораторий в commercial услуги — для robotics-фаундеров это подтверждение готовности рынка.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Google выпустила Gemini Omni 1.2 Flash: быстрее и дешевле",
-          "what": "Google запустила обновление Gemini Omni с поддержкой видео до 15 секунд (было 10), улучшенным соответствием инструкциям и на 30% дешевле чем 1.1.",
-          "why": "Тренд на более дешёвые и компактные модели видео — для продактов это означает, что затраты на video AI будут снижаться, расширяя применение.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google",
-          "source_url": "https://www.techmeme.com/261105/p70#a261105p70",
-          "candidate_urls": [
-            "https://www.techmeme.com/261105/p70#a261105p70"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11062045": {
       "created_at": "2026-11-06T20:45:32Z",
       "message_id": 139,
@@ -680,6 +425,146 @@
             "https://www.techmeme.com/261108/p9#a261108p9"
           ],
           "n": 4,
+          "status": "offered"
+        }
+      ]
+    },
+    "11091719": {
+      "created_at": "2026-11-09T17:19:41Z",
+      "message_id": 146,
+      "topics": [
+        {
+          "title": "NVIDIA расследует CEO Jensen Huang и связь с китайским шпионом",
+          "what": "Совет директоров NVIDIA открыл расследование в отношении CEO Jensen Huang за его отношения с Alice Huang, подозреваемой в шпионаже для Китая.",
+          "why": "Может привести к отставке главы NVIDIA и показывает уязвимости в корпоративной безопасности ведущей AI-компании.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+            "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+            "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year",
+            "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Disney и Adobe разрабатывают собственные генеративные модели",
+          "what": "Компании подписали многолетний контракт на разработку эксклюзивных моделей через Adobe Firefly Foundry для контента Disney кино, парков и ТВ.",
+          "why": "Крупные медиа уходят от универсальных инструментов к собственным моделям; сигнал тренда на вертикальную интеграцию AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+            "https://www.techmeme.com/261109/p29#a261109p29"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Роботы учатся делать сложные манипуляции через симуляцию",
+          "what": "NVIDIA и партнёры показали на CoRL, как роботы используют симуляцию для обучения точным операциям: выравнивание деталей, подключение кабелей, сборка.",
+          "why": "Физический AI выходит за пределы движения на микро-манипуляции; важно для производства и автоматизации промышленных процессов.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Handshake: за год из стартапа в оценке $1 млрд",
+          "what": "Глубокий анализ показал, что платформа для управления специализированными данными вышла на оценку $1 млрд за счёт данных для frontier labs.",
+          "why": "Раскрывает, какие данные критичны для AI-лидеров: финансы, биология, выравнивание — полезно для продуктовых команд и инвесторов.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/",
+          "candidate_urls": [
+            "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Spines привлекла $64M для AI-агентов авторов",
+          "what": "Платформа, где AI-агенты помогают писателям редактировать, создавать обложки и верстать книги, привлекла $29M equity и $35M долга.",
+          "why": "Авторские инструменты переходят на полных агентов; для издателей и платформ это потенциально разрушительный тренд.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261109/p25#a261109p25",
+          "candidate_urls": [
+            "https://www.techmeme.com/261109/p25#a261109p25"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Medium запустила TK: приложение для письма с AI",
+          "what": "Платформа для авторов выпустила TK — минималистичное приложение с AI-подсказками для дневников и заметок, первый крупный релиз с 2017 года.",
+          "why": "AI встраивается прямо в процесс создания контента; сигнал того, что писатели принимают инструменты помощи несмотря на споры про авторские права.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+            "https://www.techmeme.com/261109/p27#a261109p27"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Trump о безопасности AI: риск преувеличен",
+          "what": "В интервью 60 Minutes президент сказал, что опасения AI-экзекутивов о безопасности преувеличены и что DOJ справляется с управлением рисков.",
+          "why": "Сигнал позиции новой администрации в регулировании AI; критично для компаний, планирующих работу с государством.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA и Корея: суверенный AI через чипы и модели",
+          "what": "Министерство науки Кореи и NVIDIA расширяют сотрудничество на весь стек: от полупроводников до открытых моделей, агентов и безопасности.",
+          "why": "Вертикальная интеграция инфраструктуры для независимого от США AI; показывает геополитическое разделение технологий между регионами.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+            "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+            "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+            "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Automattic запустила Spacefast: платформа AI-кодирования",
+          "what": "Компания выпустила платформу для развёртывания приложений с низким кодом и AI-генерацией, конкурируя с Lovable и подобными.",
+          "why": "Ещё один крупный игрок в растущей категории; традиционные компании переходят на AI-кодирование, расширяя рынок.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]
