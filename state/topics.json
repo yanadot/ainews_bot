@@ -1,232 +1,5 @@
 {
   "digests": {
-    "11062045": {
-      "created_at": "2026-11-06T20:45:32Z",
-      "message_id": 139,
-      "topics": [
-        {
-          "title": "Выборы 2026: США выбрали против дата-центров",
-          "what": "На выборах 2026 года избиратели проголосовали против расширения дата-центров почти везде — 40 из 41 бюллотень получили ограничения на развитие.",
-          "why": "Для фаундеров это означает замораживание инвестиций в инфраструктуру, давление на энергосети и локальные конфликты интересов — рынок станет более консервативным.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch, The Verge",
-          "source_url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-          "candidate_urls": [
-            "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-            "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-            "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Китайские ИИ ломают сети так же хорошо, как OpenAI",
-          "what": "DeepSeek и GLM продемонстрировали навыки взлома систем почти на уровне закрытых моделей OpenAI в кибербезопасности — это показала тестовая атака на симуляцию сети.",
-          "why": "Появилась открытая альтернатива с близкой компетентностью, которая усиливает вооружённость соперников и создаёт новый горячий вопрос для регуляторов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-          "candidate_urls": [
-            "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic готовится к IPO, но AI-расходы замерзают",
-          "what": "Данные Ramp показали, что, несмотря на рост использования ИИ, реальные расходы компаний не растут — урезают расходы или переводят на более дешёвые модели.",
-          "why": "Инвесторская история об экспоненциальном росте трещит: если доход не растёт, то про гиперроста и говорить нечего — переоценки неизбежны.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "ИИ впервые решил открытую математическую гипотезу",
-          "what": "Система с моделью Anthropic доказала гипотезу Ааронсона—Амбайниса — проблему в квантовых вычислениях, которая была открыта 16 лет.",
-          "why": "Это фундаментальный прорыв: ИИ перешёл от оптимизации к творчеству в математике — это показатель качественного скачка в способностях.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "PSI via Techmeme",
-          "source_url": "https://www.techmeme.com/261106/p20#a261106p20",
-          "candidate_urls": [
-            "https://www.techmeme.com/261106/p20#a261106p20"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Meta Spaces: агент кодит приложения в чате",
-          "what": "Meta добавила в Muse возможность создавать кастомные приложения (дашборды, игры, трекеры) просто по просьбе — интерфейс меняется за лету.",
-          "why": "Это новая парадигма: вместо скачивать приложение, просишь агента его создать — острый конкурент для Low Code платформ и конструкторов.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Meta via The Verge, TechCrunch",
-          "source_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-            "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "BioBasicsBench: первый тест ИИ в реальной науке",
-          "what": "OpenAI выпустила тест из 100 задач, где ИИ должен обрабатывать сырые данные экспериментов — интерпретировать графики, графики, результаты как настоящий учёный.",
-          "why": "Это первый бенчмарк, который раскрывает пробелы в работе с реальными лабораторными данными — вопрос стоит остро для компаний, внедряющих ИИ в науку.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "candidate_urls": [
-            "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "AI компании скупают рабочие письма и файлы",
-          "what": "Data brokers продают компаниям внутренние файлы и письма сотрудников для тренировки моделей — ситуация развивается без согласия корпоративных юристов.",
-          "why": "Для Slack и Email используются как источники тренировочных данных — это юридический и этический минный поль, который вскоре дойдёт до судов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/",
-          "candidate_urls": [
-            "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
-    "11071349": {
-      "created_at": "2026-11-07T13:49:40Z",
-      "message_id": 140,
-      "topics": [
-        {
-          "title": "Crusoe продала проблемный дата-центр в Вайоминге Google",
-          "what": "Crusoe Energy, занимавшаяся разработкой GPU-дата-центра для AI в Вайоминге, продала проект Google из-за технических и финансовых сложностей.",
-          "why": "Показывает, насколько сложно строить масштабные дата-центры для AI и как крупные компании консолидируют инфраструктуру под свои нужды.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch AI",
-          "source_url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic использует AI для ускорения разработки AI",
-          "what": "Согласно отчету METR, Anthropic применяет свои модели для автоматизации разработки улучшений в AI, достигая примерно двойного ускорения за год.",
-          "why": "Демонстрирует принципиально новый подход к AI-разработке и вызывает обсуждение о рисках самоусовершенствующихся систем.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge AI",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Обнаружено 800+ открытых копий китайского AI-инструмента ARTEX",
-          "what": "Исследователи Censys нашли сотни публично доступных копий ARTEX, китайского AI-инструмента для тестирования безопасности, связанного с кибератаками.",
-          "why": "Показывает, как быстро распространяются инструменты для взлома и какие риски несет открытый исходный код в руках адверсариев.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261107/p5#a261107p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261107/p5#a261107p5"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Sand.ai привлекла $200M Series A+ для AI-видеогенерации",
-          "what": "Пекинский стартап Sand.ai собрал $200M Series A+, доведя финансирование за 10 месяцев до $300M в категории AI-видеогенерации.",
-          "why": "Подтверждает большой спрос на AI-видео и показывает, как быстро растут китайские конкуренты в категориях контента.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261107/p1#a261107p1",
-          "candidate_urls": [
-            "https://www.techmeme.com/261107/p1#a261107p1"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Meta выпустила модели на базе Muse Wonder с памятью",
-          "what": "Meta представила специализированные модели, обученные с Muse Wonder, для Meta AI с функциями Active Memory и Active Focus.",
-          "why": "Показывает, как компании быстро интегрируют новые техники в модели и конкурируют за вовлеченность пользователей.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261106/p28#a261106p28",
-          "candidate_urls": [
-            "https://www.techmeme.com/261106/p28#a261106p28"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "AI ускоряет саму разработку AI в два раза",
-          "what": "По анализу специалистов, использование AI для AI-исследований привело к удвоению скорости улучшений моделей за год без видимого замедления.",
-          "why": "Ключевой сигнал о том, что AI-разработка входит в режим экспоненциального роста, с последствиями для конкуренции и регуляции.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Hacker News (AI, 200+)",
-          "source_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-          "candidate_urls": [
-            "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-            "https://news.ycombinator.com/item?id=50397994"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "На каждом Mac есть скрытый классификатор членов семьи",
-          "what": "Обнаружено, что macOS содержит недокументированный AI-классификатор, определяющий отношения между людьми на уровне операционной системы.",
-          "why": "Демонстрирует встраивание AI в ядро OS и поднимает вопросы о приватности и прозрачности таких систем для пользователей.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hacker News (AI, 200+)",
-          "source_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "candidate_urls": [
-            "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-            "https://news.ycombinator.com/item?id=50403097"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Google инвестировала $548M в акции Qualcomm для AI-чипов",
-          "what": "Google Ventures приобрела примерно 3M акций Qualcomm стоимостью $548M, поддерживая разработку AI-чипов для дата-центров.",
-          "why": "Показывает, как крупные компании диверсифицируют источники AI-чипов и инвестируют в альтернативы производителям вроде NVIDIA.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261106/p23#a261106p23",
-          "candidate_urls": [
-            "https://www.techmeme.com/261106/p23#a261106p23"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11071832": {
       "created_at": "2026-11-07T18:32:32Z",
       "message_id": 141,
@@ -566,6 +339,135 @@
             "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11101530": {
+      "created_at": "2026-11-10T15:30:42Z",
+      "message_id": 150,
+      "topics": [
+        {
+          "title": "Anthropic начала roadshow для IPO с оценкой $1.4 трлн",
+          "what": "Компания открыла дорогу на биржу с ценовым диапазоном $70–78 за акцию, что может дать оценку до $1.4 трлн на полностью разбавленной основе.",
+          "why": "Одно из крупнейших IPO в истории tech; рынок верит в ценность frontier AI как инвестиции, что может сместить капитал и таланты в индустрию.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/news/roadshow-launch",
+          "candidate_urls": [
+            "https://anthropic.com/news/roadshow-launch",
+            "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+            "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Claude Fable 5.2 — новый рекорд на Artificial Analysis",
+          "what": "Anthropic выпустила Claude Fable 5.2 и Mythos 5.2; Fable 5.2 набрала 65 баллов — лучший результат среди известных языковых моделей.",
+          "why": "Это может сместить баланс в гонке моделей; компаниям, выбирающим решение, нужны свежие бенчмарки для сравнения в реальных задачах.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Anthropic",
+          "source_url": "https://anthropic.com/claude-fable-and-mythos-5-2",
+          "candidate_urls": [
+            "https://anthropic.com/claude-fable-and-mythos-5-2",
+            "https://artificialanalysis.ai/models/claude-fable-5-2",
+            "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA расследует CEO Jensen Huang за связь с подозреваемым в шпионаже",
+          "what": "CEO Jensen Huang признал внебрачные отношения с executives, которых US intelligence подозревает в связях с Китаем; NVIDIA открыла внутреннее расследование.",
+          "why": "Это создаёт риск для NVIDIA как компании и её лидерства; для других компаний — сигнал о том, что высший уровень требует внимания к security и conflicts of interest.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+            "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+            "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Google и Adobe интегрируют инструменты: Gemini в Creative Cloud и PDF в Drive",
+          "what": "Google и Adobe объявили о стратегическом партнёрстве: инструменты Adobe в Google приложениях, Firefly AI в Gemini, редактирование PDF в Google Drive.",
+          "why": "Это показывает, как экосистемы конкурируют через интеграции; для компаний, выбирающих stack, меньше switching costs и больше выбора в одном месте.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Google Blog",
+          "source_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+          "candidate_urls": [
+            "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+            "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+            "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Adobe MAX: AI-агенты и автоматизация в Photoshop, Premiere и Firefly",
+          "what": "Adobe анонсировала AI-агентов в Creative Cloud, новые инструменты для удаления объектов и автоматизации рутинных задач дизайна через Firefly.",
+          "why": "Это показывает, как AI становится стандартом в creative tools; дизайнеры ускорят работу, но компаниям нужно переосмыслить процессы и скиллы команды.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Adobe",
+          "source_url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+            "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
+            "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Google Cloud запустила Gemini для здравоохранения",
+          "what": "Google Cloud анонсировала версию Gemini для больниц и клиник: унификация медицинских данных пациентов и автоматизация документации и workflows.",
+          "why": "Это применение AI к высокорегулируемому рынку; для healthcare-компаний — способ избежать HIPAA-рисков собственных моделей, для Google — новый вертикальный рынок.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google Blog",
+          "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+          "candidate_urls": [
+            "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Kora: новая Linux-ОС для локальных AI моделей, запуск в 2027",
+          "what": "Co-founder Cyanogen представил Kora — операционную систему для power users, которая интегрирует языковые модели на системном уровне; поддержка Snapdragon и x86.",
+          "why": "Это альтернатива Windows/macOS для разработчиков и AI enthusiasts; показывает спрос на системы, где модели работают локально без cloud dependency.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+          "candidate_urls": [
+            "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+            "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind Gemini Robotics 2.5 для сложных физических задач",
+          "what": "DeepMind анонсировала Gemini Robotics 2.5 — версию модели для управления роботами и выполнения сложных манипуляций в реальном мире без симуляции.",
+          "why": "Это показывает, как мультимодальные модели масштабируются в робототехнику; для AI-компаний и robotics стартапов — сигнал, что frontier labs инвестируют в эту область.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google DeepMind",
+          "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "candidate_urls": [
+            "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

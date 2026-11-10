@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-11-09T17:19:41Z",
-  "candidates": 37,
+  "run_at": "2026-11-10T15:30:42Z",
+  "candidates": 54,
   "offered": [
     {
       "n": 1,
-      "title": "NVIDIA расследует CEO Jensen Huang и связь с китайским шпионом",
+      "title": "Anthropic начала roadshow для IPO с оценкой $1.4 трлн",
       "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+      "source_url": "https://anthropic.com/news/roadshow-launch"
     },
     {
       "n": 2,
-      "title": "Disney и Adobe разрабатывают собственные генеративные модели",
-      "score": 4,
-      "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+      "title": "Claude Fable 5.2 — новый рекорд на Artificial Analysis",
+      "score": 5,
+      "source_url": "https://anthropic.com/claude-fable-and-mythos-5-2"
     },
     {
       "n": 3,
-      "title": "Роботы учатся делать сложные манипуляции через симуляцию",
-      "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
+      "title": "NVIDIA расследует CEO Jensen Huang за связь с подозреваемым в шпионаже",
+      "score": 5,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
     },
     {
       "n": 4,
-      "title": "Handshake: за год из стартапа в оценке $1 млрд",
+      "title": "Google и Adobe интегрируют инструменты: Gemini в Creative Cloud и PDF в Drive",
       "score": 4,
-      "source_url": "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/"
+      "source_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
     },
     {
       "n": 5,
-      "title": "Spines привлекла $64M для AI-агентов авторов",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261109/p25#a261109p25"
+      "title": "Adobe MAX: AI-агенты и автоматизация в Photoshop, Premiere и Firefly",
+      "score": 4,
+      "source_url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
     },
     {
       "n": 6,
-      "title": "Medium запустила TK: приложение для письма с AI",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/"
+      "title": "Google Cloud запустила Gemini для здравоохранения",
+      "score": 4,
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
     },
     {
       "n": 7,
-      "title": "Trump о безопасности AI: риск преувеличен",
-      "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
+      "title": "Kora: новая Linux-ОС для локальных AI моделей, запуск в 2027",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/"
     },
     {
       "n": 8,
-      "title": "NVIDIA и Корея: суверенный AI через чипы и модели",
-      "score": 3,
-      "source_url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/"
-    },
-    {
-      "n": 9,
-      "title": "Automattic запустила Spacefast: платформа AI-кодирования",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
+      "title": "Google DeepMind Gemini Robotics 2.5 для сложных физических задач",
+      "score": 4,
+      "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
     }
   ]
 }
