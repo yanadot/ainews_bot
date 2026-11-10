@@ -1,18 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Компании в Китае с пустыми офисами получили допуск на Nvidia H200",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "ts": "2026-11-07T18:32:32Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Ocient привлекла $100M на развитие AI-аналитики",
-      "url": "https://www.techmeme.com/261107/p10#a261107p10",
-      "ts": "2026-11-07T18:32:32Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Мир по воле моделей: физические законы в цифре",
       "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
       "ts": "2026-11-08T14:11:46Z",
@@ -183,6 +171,54 @@
       "topic": "Google DeepMind Gemini Robotics 2.5 для сложных физических задач",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
       "ts": "2026-11-10T15:30:42Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Нью-Йорк начинает требовать лицензии для больших языковых моделей",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Все 7 основателей Anthropic выручат по $250M на IPO",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia инвестирует $10B в Anthropic во время IPO",
+      "url": "https://www.techmeme.com/261110/p50#a261110p50",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустила Gemini 4 Carbon с функцией роя агентов",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia расследует скандал со шпионажем вокруг CEO Дженсена Хуанга",
+      "url": "https://www.techmeme.com/261110/p43#a261110p43",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила бизнес-профили и агентов в ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic запустила Claude Meetings для совещаний",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+      "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI выручил $10B годовой выручки в Q3 с прыжком на 50%",
+      "url": "https://www.techmeme.com/261110/p51#a261110p51",
+      "ts": "2026-11-10T21:25:13Z",
       "kind": "offered"
     }
   ]
