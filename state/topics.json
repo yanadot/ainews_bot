@@ -567,8 +567,9 @@
             "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
           ],
           "n": 4,
-          "status": "awaiting_focus",
-          "focus_msg_id": 154
+          "status": "written",
+          "focus_msg_id": 154,
+          "focus": "объясни простым языком как это работает и влияет на медицину. Не надо писать как продуктовые команды могут это использовать"
         },
         {
           "title": "AWS Emulator: инструмент, написанный AI-агентами",
