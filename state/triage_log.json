@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-11-10T21:25:13Z",
-  "candidates": 28,
+  "run_at": "2026-11-11T15:02:36Z",
+  "candidates": 24,
   "offered": [
     {
       "n": 1,
-      "title": "Нью-Йорк начинает требовать лицензии для больших языковых моделей",
+      "title": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/"
+      "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
     },
     {
       "n": 2,
-      "title": "Все 7 основателей Anthropic выручат по $250M на IPO",
+      "title": "IPO Anthropic переподписана в несколько раз",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/"
+      "source_url": "https://www.techmeme.com/261111/p27#a261111p27"
     },
     {
       "n": 3,
-      "title": "Nvidia инвестирует $10B в Anthropic во время IPO",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261110/p50#a261110p50"
+      "title": "Google выпустила два новых TPU для разных AI-задач",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
     },
     {
       "n": 4,
-      "title": "Google запустила Gemini 4 Carbon с функцией роя агентов",
-      "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+      "title": "Gemini не отловил опасные вопросы подростка про самоубийство неделями",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
     },
     {
       "n": 5,
-      "title": "Nvidia расследует скандал со шпионажем вокруг CEO Дженсена Хуанга",
+      "title": "AI-чип стартап Fractile привлек $720M и оценку $7B",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261110/p43#a261110p43"
+      "source_url": "https://www.techmeme.com/261111/p25#a261111p25"
     },
     {
       "n": 6,
-      "title": "OpenAI запустила бизнес-профили и агентов в ChatGPT",
+      "title": "На выборах потратили $187M на AI-объявления",
       "score": 4,
-      "source_url": "https://openai.com/index/introducing-businesses-chatgpt"
+      "source_url": "https://www.techmeme.com/261111/p24#a261111p24"
     },
     {
       "n": 7,
-      "title": "Anthropic запустила Claude Meetings для совещаний",
+      "title": "Helsing запустила Clarity для военных AI-агентов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+      "source_url": "https://www.techmeme.com/261111/p21#a261111p21"
     },
     {
       "n": 8,
-      "title": "OpenAI выручил $10B годовой выручки в Q3 с прыжком на 50%",
+      "title": "Plurai применяет методы беспилотников к AI-агентам",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261110/p51#a261110p51"
+      "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+    },
+    {
+      "n": 9,
+      "title": "BotPsy: маленькая модель-агент для работы на устройстве",
+      "score": 3,
+      "source_url": "https://huggingface.co/blog/qvac/botpsy"
     }
   ]
 }

@@ -1,109 +1,5 @@
 {
   "digests": {
-    "11081411": {
-      "created_at": "2026-11-08T14:11:46Z",
-      "message_id": 142,
-      "topics": [
-        {
-          "title": "Мир по воле моделей: физические законы в цифре",
-          "what": "World models — модели, симулирующие физику реального мира. Роботы и беспилотные авто учатся на них ориентироваться в пространстве без физических экспериментов.",
-          "why": "AI начинает выходить из текста в физический мир. Роботизация станет быстрее и дешевле, если машины смогут учиться в симуляциях.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-          "candidate_urls": [
-            "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Утечка паролей через Claude Code: как разрешения стали дырой",
-          "what": "Функция «Не спрашивать снова» в Claude Code позволила утечь пароли в 1,122 публичные GitHub-файлы. Функция давала права без явного согласия каждый раз.",
-          "why": "Это касается всех, кто пишет агентов с доступом к системе. Безопасность кода — не только про баги, но про то, как работают разрешения.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Apiiro / Hacker News",
-          "source_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "candidate_urls": [
-            "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Nous переобучила китайскую Qwen под западные ценности",
-          "what": "Nous Research переобучила модель Qwen 3.8-27B, усилив «западные ценности» в ответах. Компания утверждает, что слой предубеждений в оригинальной модели тонкий.",
-          "why": "Это показывает, что можно адаптировать модели под разные рынки быстро. Для продактов локализация AI под разные страны становится реальностью.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261108/p3#a261108p3",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p3#a261108p3"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "GenRobot привлекла $100M для роботов, учащихся на людях",
-          "what": "Пекинский стартап GenRobot AI собрал $100 млн Series A+. Компания делает оборудование и ПО для записи движений людей — эти данные обучают роботов копировать действия.",
-          "why": "Это быстрый способ обучать роботов. Когда зарплаты растут, автоматизация через роботов становится привлекательнее для бизнеса.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261108/p2#a261108p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p2#a261108p2"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft Research закрывает группу AI Frontiers",
-          "what": "Microsoft Research закрыла исследовательскую группу AI Frontiers. Это была команда, работавшая над передовыми направлениями в AI.",
-          "why": "Закрытие research-групп обычно означает смену приоритетов: от фундаментальной науки к внедрению существующих технологий. Это замедлит появление прорывов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Hacker News",
-          "source_url": "https://hunch.net/?p=13764006",
-          "candidate_urls": [
-            "https://hunch.net/?p=13764006"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic потратила $63M на выборы через political PAC",
-          "what": "Политический комитет Public First, поддерживаемый Anthropic, потратил $63+ млн на выборы 2026. 10 из 17 кандидатов выиграли — все за более строгие правила AI.",
-          "why": "AI-компании теперь влияют на регуляторику напрямую через политику. Результаты выборов определят, какие правила AI получат в разных штатах.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261107/p17#a261107p17",
-          "candidate_urls": [
-            "https://www.techmeme.com/261107/p17#a261107p17"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Монголия строит китайский Silicon Valley для AI дата-центров",
-          "what": "SemiAnalysis про Внутреннюю Монголию — самый быстрорастущий регион дата-центров для AI в Китае. Там строят 800MW кампус с дешёвой энергией и без регуляторных барьеров.",
-          "why": "Инфраструктура для AI смещается в регионы с дешёвой энергией. Западным компаниям нужно готовиться к конкуренции от дешёвых и быстрых китайских дата-центров.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261108/p7#a261108p7",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p7#a261108p7"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "11081859": {
       "created_at": "2026-11-08T18:59:37Z",
       "message_id": 143,
@@ -541,6 +437,138 @@
           "source_url": "https://www.techmeme.com/261110/p51#a261110p51",
           "candidate_urls": [],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11111502": {
+      "created_at": "2026-11-11T15:02:36Z",
+      "message_id": 152,
+      "topics": [
+        {
+          "title": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
+          "what": "Глава NVIDIA Jensen Huang попал в центр скандала со связями с подозреваемым в шпионаже; это поднимает вопросы корпоративного управления компании.",
+          "why": "Для фаундеров и продактов важно видеть, как кризисы на уровне лидерства влияют на управление и инвесторское доверие.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "IPO Anthropic переподписана в несколько раз",
+          "what": "Акции Anthropic в IPO собрали в несколько раз больше заявок, чем доступно; Dario Amodei и Jamie Dimon проведут трансляцию.",
+          "why": "Показывает высокий спрос инвесторов на AI-компании; переподписка сигнализирует об уверенности в растущем рынке AI.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261111/p27#a261111p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p27"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила два новых TPU для разных AI-задач",
+          "what": "Google представила специализированные чипы (TPU) для конфиденциального обучения моделей и работы с большим объемом памяти.",
+          "why": "Диверсификация железа важна для конкурентоспособности; расширяет возможности для разных сценариев применения AI.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Gemini не отловил опасные вопросы подростка про самоубийство неделями",
+          "what": "Школьница использовала Gemini через Chromebook для поиска информации о самоубийстве; системы мониторинга школы не сработали.",
+          "why": "Вскрывает проблемы безопасности AI в образовательных учреждениях; важно для компаний, работающих с несовершеннолетними.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+          "candidate_urls": [
+            "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "AI-чип стартап Fractile привлек $720M и оценку $7B",
+          "what": "Британский стартап Fractile собрал $720M от Thrive, Founders Fund и других; оценка выросла с $1,1B в мае до $7B.",
+          "why": "Показывает растущий интерес инвесторов к AI-чипам как альтернативе NVIDIA; меняет конкурентный ландшафт инфраструктуры.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261111/p25#a261111p25",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p25"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "На выборах потратили $187M на AI-объявления",
+          "what": "В кампаниях политических выборов использовали ~300 AI-сгенерированных или улучшенных объявлений на сумму $187M; 90% на республиканцев.",
+          "why": "Показывает масштабы применения AI в политике; важно видеть этические и регуляторные вызовы перед внедрением AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261111/p24#a261111p24",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p24"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Helsing запустила Clarity для военных AI-агентов",
+          "what": "Германская компания Helsing представила платформу Clarity с AI-агентами для военных приложений; конкурирует с Palantir Maven и Anduril.",
+          "why": "Показывает, как AI-агенты входят в defense-сектор; важно видеть альтернативы от европейских компаний, не только из US.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261111/p21#a261111p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p21"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Plurai применяет методы беспилотников к AI-агентам",
+          "what": "Стартап Plurai разрабатывает AI-агентов, используя подходы обучения из разработки беспилотных автомобилей.",
+          "why": "Показывает новые подходы к развитию AI-агентов; важно видеть, как идеи из одной области переходят в другие.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "BotPsy: маленькая модель-агент для работы на устройстве",
+          "what": "Hugging Face представила BotPsy — языковую модель с менее чем миллиардом параметров для работы AI-агента прямо на устройстве.",
+          "why": "Показывает, что эффективные AI-агенты не требуют гигантских моделей; важно для разработчиков мобильных и edge-приложений.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/qvac/botpsy",
+          "candidate_urls": [
+            "https://huggingface.co/blog/qvac/botpsy"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]

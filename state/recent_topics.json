@@ -1,48 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Мир по воле моделей: физические законы в цифре",
-      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Утечка паролей через Claude Code: как разрешения стали дырой",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nous переобучила китайскую Qwen под западные ценности",
-      "url": "https://www.techmeme.com/261108/p3#a261108p3",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "GenRobot привлекла $100M для роботов, учащихся на людях",
-      "url": "https://www.techmeme.com/261108/p2#a261108p2",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft Research закрывает группу AI Frontiers",
-      "url": "https://hunch.net/?p=13764006",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic потратила $63M на выборы через political PAC",
-      "url": "https://www.techmeme.com/261107/p17#a261107p17",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Монголия строит китайский Silicon Valley для AI дата-центров",
-      "url": "https://www.techmeme.com/261108/p7#a261108p7",
-      "ts": "2026-11-08T14:11:46Z",
-      "kind": "offered"
-    },
-    {
       "topic": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
       "url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026",
       "ts": "2026-11-08T18:59:37Z",
@@ -219,6 +177,60 @@
       "topic": "OpenAI выручил $10B годовой выручки в Q3 с прыжком на 50%",
       "url": "https://www.techmeme.com/261110/p51#a261110p51",
       "ts": "2026-11-10T21:25:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
+      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "IPO Anthropic переподписана в несколько раз",
+      "url": "https://www.techmeme.com/261111/p27#a261111p27",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google выпустила два новых TPU для разных AI-задач",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Gemini не отловил опасные вопросы подростка про самоубийство неделями",
+      "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI-чип стартап Fractile привлек $720M и оценку $7B",
+      "url": "https://www.techmeme.com/261111/p25#a261111p25",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "На выборах потратили $187M на AI-объявления",
+      "url": "https://www.techmeme.com/261111/p24#a261111p24",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Helsing запустила Clarity для военных AI-агентов",
+      "url": "https://www.techmeme.com/261111/p21#a261111p21",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Plurai применяет методы беспилотников к AI-агентам",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "BotPsy: маленькая модель-агент для работы на устройстве",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "ts": "2026-11-11T15:02:36Z",
       "kind": "offered"
     }
   ]
