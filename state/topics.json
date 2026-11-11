@@ -1,69 +1,5 @@
 {
   "digests": {
-    "11081859": {
-      "created_at": "2026-11-08T18:59:37Z",
-      "message_id": 143,
-      "topics": [
-        {
-          "title": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
-          "what": "Инвестиции в AI-стартапы и компании достигли рекордных объёмов: исключая IPO Anthropic, выпущено акций на $300B+, ещё $100B ждут прайсинга.",
-          "why": "Показывает спекулятивный бум на AI-рынке и вопросы о пределе поглощения инвесторами; для фаундеров — сигнал про окно для раунда, для PM — про конкуренцию за капитал.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Information",
-          "source_url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p10#a261108p10"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
-          "what": "Anthropic заказала 1.7GW газовых генераторов у OnePWR за $3.4B, минуя традиционных поставщиков ради дефицитного оборудования.",
-          "why": "Масштабы расходов на энергию показывают, что AI-разработка упирается в физическую инфраструктуру; для ПМ важно как сигнал про масштабы инвестиций и барьеры входа.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://www.ft.com/content/anthropic-generators-onepwr",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p8#a261108p8"
-          ],
-          "n": 2,
-          "status": "written",
-          "focus_msg_id": 144,
-          "focus": "Пиши простым языком что это значит"
-        },
-        {
-          "title": "Suno судят за нарушение авторских прав Elvis и Eminem",
-          "what": "Правообладатели Elvis Presley и издатель Eminem подали иски к AI-музыканту Suno, обвиняя в незаконном использовании голосов и текстов артистов.",
-          "why": "Показывает растущий конфликт между AI и авторским правом; для ПМ важно как пример регулятивного риска для генеративных платформ.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Apple ускоряет AI под давлением нового CEO Джона Тернуса",
-          "what": "Новый CEO Apple Джон Тернус давит на главу ПО Крейга Федеригхи расширить возможности AI за пределы твиков Siri до полноценных агентов.",
-          "why": "Сигнализирует о переориентации Apple с инкрементала на радикальное развитие AI; для ПМ показывает, как даже консервативные компании переходят на агент-ориентированный подход.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.bloomberg.com/news/articles/ternus-apple-ai-efforts",
-          "candidate_urls": [
-            "https://www.techmeme.com/261108/p9#a261108p9"
-          ],
-          "n": 4,
-          "status": "offered"
-        }
-      ]
-    },
     "11091719": {
       "created_at": "2026-11-09T17:19:41Z",
       "message_id": 146,
@@ -569,6 +505,110 @@
             "https://huggingface.co/blog/qvac/botpsy"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11112149": {
+      "created_at": "2026-11-11T21:49:38Z",
+      "message_id": 153,
+      "topics": [
+        {
+          "title": "OpenAI превысила $10 млрд квартальной выручки",
+          "what": "Выручка OpenAI в Q3 2026 достигла $10 млрд, это рост на 50% от предыдущего квартала ($6,7 млрд).",
+          "why": "Сигнал о масштабе спроса на генеративный AI и готовности рынка платить премиум за качество моделей.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Grok Bot 1.0: боты для командной работы",
+          "what": "xAI запустила Grok Bot 1.0 — боты, которые работают с командой, берут задачи без указаний и ускоряют процессы.",
+          "why": "Практический пример AI-агентов в рабочих процессах; конкурентное давление между лабами на категорию персональных агентов.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "xAI",
+          "source_url": "https://x.ai/news/grok-bot-1-0",
+          "candidate_urls": [
+            "https://x.ai/news/grok-bot-1-0"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Gemini Decisions API: структурные решения вместо текста",
+          "what": "Google запустила API для быстрых решений через Gemini Decision 1, выдающую предопределённые ответы с оценками уверенности.",
+          "why": "Новый подход к использованию моделей — не генерация текста, а структурные выводы для бизнес-логики по доступной цене.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+          "candidate_urls": [
+            "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "AlphaGenome 2: как мутации влияют на клетки",
+          "what": "Google DeepMind выпустила AlphaGenome 2, предсказывающую влияние генетических вариаций на клетки разных типов, обучена на 100M профилей.",
+          "why": "AI выходит за пределы текста в медицину и биологию; показатель применимости моделей к практически важным научным задачам.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google DeepMind",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "AWS Emulator: инструмент, написанный AI-агентами",
+          "what": "AWS выпустила бесплатный эмулятор 200+ сервисов, который полностью написан AI-агентами, инженеры не писали и не проверяли код.",
+          "why": "Практический пример AI-агентов, решающих реальные инженерные задачи, и вызов доверия к коду, сгенерированному моделями.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "AWS",
+          "source_url": "https://www.techmeme.com/261111/p41#a261111p41",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p41#a261111p41"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "United Airlines запретила AI-ассистентам бронировать билеты",
+          "what": "United Airlines блокирует личных AI-помощников при бронировании, ссылаясь на риски приватности и нарушение правил FAA и DOT.",
+          "why": "Первый случай явного ограничения AI-агентов в индустрии; сигнал о нарастающем регуляторном контроле над автоматизацией.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://www.techmeme.com/261111/p39#a261111p39",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p39#a261111p39"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Edelbyte: $70M на аналитику для AI-агентов",
+          "what": "Израильско-американская Edelbyte привлекла $70M (Series A + seed) за платформу аналитики данных, спроектированную для AI-агентов.",
+          "why": "Рост новой категории стартапов вокруг управления агентами; инвесторы ставят на инструменты понимания и контроля автономных систем.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://www.techmeme.com/261111/p33#a261111p33",
+          "candidate_urls": [
+            "https://www.techmeme.com/261111/p33#a261111p33"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

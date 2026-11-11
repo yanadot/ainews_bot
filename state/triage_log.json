@@ -1,60 +1,48 @@
 {
-  "run_at": "2026-11-11T15:02:36Z",
-  "candidates": 24,
+  "run_at": "2026-11-11T21:49:38Z",
+  "candidates": 25,
   "offered": [
     {
       "n": 1,
-      "title": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
+      "title": "OpenAI превысила $10 млрд квартальной выручки",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
+      "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
     },
     {
       "n": 2,
-      "title": "IPO Anthropic переподписана в несколько раз",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261111/p27#a261111p27"
+      "title": "Grok Bot 1.0: боты для командной работы",
+      "score": 4,
+      "source_url": "https://x.ai/news/grok-bot-1-0"
     },
     {
       "n": 3,
-      "title": "Google выпустила два новых TPU для разных AI-задач",
+      "title": "Gemini Decisions API: структурные решения вместо текста",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
     },
     {
       "n": 4,
-      "title": "Gemini не отловил опасные вопросы подростка про самоубийство неделями",
+      "title": "AlphaGenome 2: как мутации влияют на клетки",
       "score": 4,
-      "source_url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
     },
     {
       "n": 5,
-      "title": "AI-чип стартап Fractile привлек $720M и оценку $7B",
+      "title": "AWS Emulator: инструмент, написанный AI-агентами",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261111/p25#a261111p25"
+      "source_url": "https://www.techmeme.com/261111/p41#a261111p41"
     },
     {
       "n": 6,
-      "title": "На выборах потратили $187M на AI-объявления",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261111/p24#a261111p24"
+      "title": "United Airlines запретила AI-ассистентам бронировать билеты",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261111/p39#a261111p39"
     },
     {
       "n": 7,
-      "title": "Helsing запустила Clarity для военных AI-агентов",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261111/p21#a261111p21"
-    },
-    {
-      "n": 8,
-      "title": "Plurai применяет методы беспилотников к AI-агентам",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
-    },
-    {
-      "n": 9,
-      "title": "BotPsy: маленькая модель-агент для работы на устройстве",
+      "title": "Edelbyte: $70M на аналитику для AI-агентов",
       "score": 3,
-      "source_url": "https://huggingface.co/blog/qvac/botpsy"
+      "source_url": "https://www.techmeme.com/261111/p33#a261111p33"
     }
   ]
 }

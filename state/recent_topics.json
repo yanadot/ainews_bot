@@ -1,30 +1,6 @@
 {
   "topics": [
     {
-      "topic": "AI-компании продали $300B акций в 2026, ещё $100B в очереди",
-      "url": "https://www.theinformation.com/articles/ai-companies-raised-300-billion-in-2026",
-      "ts": "2026-11-08T18:59:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
-      "url": "https://www.ft.com/content/anthropic-generators-onepwr",
-      "ts": "2026-11-08T18:59:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Suno судят за нарушение авторских прав Elvis и Eminem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "ts": "2026-11-08T18:59:37Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple ускоряет AI под давлением нового CEO Джона Тернуса",
-      "url": "https://www.bloomberg.com/news/articles/ternus-apple-ai-efforts",
-      "ts": "2026-11-08T18:59:37Z",
-      "kind": "offered"
-    },
-    {
       "topic": "NVIDIA расследует CEO Jensen Huang и связь с китайским шпионом",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "ts": "2026-11-09T17:19:41Z",
@@ -231,6 +207,48 @@
       "topic": "BotPsy: маленькая модель-агент для работы на устройстве",
       "url": "https://huggingface.co/blog/qvac/botpsy",
       "ts": "2026-11-11T15:02:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI превысила $10 млрд квартальной выручки",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Grok Bot 1.0: боты для командной работы",
+      "url": "https://x.ai/news/grok-bot-1-0",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Gemini Decisions API: структурные решения вместо текста",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AlphaGenome 2: как мутации влияют на клетки",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AWS Emulator: инструмент, написанный AI-агентами",
+      "url": "https://www.techmeme.com/261111/p41#a261111p41",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "United Airlines запретила AI-ассистентам бронировать билеты",
+      "url": "https://www.techmeme.com/261111/p39#a261111p39",
+      "ts": "2026-11-11T21:49:38Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Edelbyte: $70M на аналитику для AI-агентов",
+      "url": "https://www.techmeme.com/261111/p33#a261111p33",
+      "ts": "2026-11-11T21:49:38Z",
       "kind": "offered"
     }
   ]
