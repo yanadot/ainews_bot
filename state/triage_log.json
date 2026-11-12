@@ -1,48 +1,54 @@
 {
-  "run_at": "2026-11-11T21:49:38Z",
-  "candidates": 25,
+  "run_at": "2026-11-12T15:54:34Z",
+  "candidates": 40,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI превысила $10 млрд квартальной выручки",
+      "title": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
     },
     {
       "n": 2,
-      "title": "Grok Bot 1.0: боты для командной работы",
+      "title": "Colette Kress, CFO NVIDIA, займет место CEO временно",
       "score": 4,
-      "source_url": "https://x.ai/news/grok-bot-1-0"
+      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
     },
     {
       "n": 3,
-      "title": "Gemini Decisions API: структурные решения вместо текста",
+      "title": "Fireworks AI взломана второй раз за два месяца, раскрыты чаты пользователей",
       "score": 4,
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+      "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
     },
     {
       "n": 4,
-      "title": "AlphaGenome 2: как мутации влияют на клетки",
+      "title": "LangChain привлекла $300M для AI-агентов в компаниях",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+      "source_url": "https://www.techmeme.com/261112/p35#a261112p35"
     },
     {
       "n": 5,
-      "title": "AWS Emulator: инструмент, написанный AI-агентами",
+      "title": "Norwest запустил $4B фонд для AI-стартапов",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261111/p41#a261111p41"
+      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
     },
     {
       "n": 6,
-      "title": "United Airlines запретила AI-ассистентам бронировать билеты",
+      "title": "United Airlines запретила AI-ассистентам бронировать билеты самостоятельно",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261111/p39#a261111p39"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
     },
     {
       "n": 7,
-      "title": "Edelbyte: $70M на аналитику для AI-агентов",
+      "title": "OpenAI выделила $2M на исследования безопасности AI для детей",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261111/p33#a261111p33"
+      "source_url": "https://openai.com/index/children-first-declaration"
+    },
+    {
+      "n": 8,
+      "title": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
+      "score": 3,
+      "source_url": "https://latent.space/p/ainews-d-day-decision-models-day/"
     }
   ]
 }

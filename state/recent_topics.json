@@ -255,6 +255,54 @@
       "topic": "AlphaGenome 2: как мутации влияют на клетки",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
       "ts": "2026-11-11T22:13:43Z"
+    },
+    {
+      "topic": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Colette Kress, CFO NVIDIA, займет место CEO временно",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Fireworks AI взломана второй раз за два месяца, раскрыты чаты пользователей",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "LangChain привлекла $300M для AI-агентов в компаниях",
+      "url": "https://www.techmeme.com/261112/p35#a261112p35",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Norwest запустил $4B фонд для AI-стартапов",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "United Airlines запретила AI-ассистентам бронировать билеты самостоятельно",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI выделила $2M на исследования безопасности AI для детей",
+      "url": "https://openai.com/index/children-first-declaration",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
     }
   ]
 }

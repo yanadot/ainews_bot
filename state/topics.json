@@ -614,6 +614,115 @@
           "status": "offered"
         }
       ]
+    },
+    "11121554": {
+      "created_at": "2026-11-12T15:54:34Z",
+      "message_id": 159,
+      "topics": [
+        {
+          "title": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
+          "what": "Основатель и CEO NVIDIA Jensen Huang подал в отставку после расследования его отношений с предполагаемым шпионом и сотрудником NVIDIA.",
+          "why": "Это потрясает AI-индустрию в разгар борьбы за GPU. Для продактов — неопределённость в управлении компанией, поставляющей критическую инфраструктуру.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "NVIDIA",
+          "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+            "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+            "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Colette Kress, CFO NVIDIA, займет место CEO временно",
+          "what": "CFO NVIDIA Colette Kress назначена интеримным CEO. Harvey Jones, бывший CEO Synopsys, стал первым chair of the board компании.",
+          "why": "Это раскрывает реструктуризацию на вершине. Kress как финансист может переориентировать стратегию; её критика санкций на Китай указывает на новый курс.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+          "candidate_urls": [
+            "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+            "https://www.techmeme.com/261112/p31"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Fireworks AI взломана второй раз за два месяца, раскрыты чаты пользователей",
+          "what": "Взлом платформы Fireworks позволил хакерам получить доступ к чатам клиентов Notion. Это вторая утечка компании за два месяца.",
+          "why": "Показывает риски в новых AI-платформах. Для продактов это аргумент за осторожность при выборе внешних сервисов и давление на поставщиков по security.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+          "candidate_urls": [],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "LangChain привлекла $300M для AI-агентов в компаниях",
+          "what": "LangChain, помогающая компаниям строить AI-агентов, привлекла $300M от CapitalG. Оценка выросла до $3B с $1.25B в 2025 году.",
+          "why": "Корпоративные AI-агенты становятся рынком масштаба. Для фаундеров: инфраструктура привлекает капитал, создавая спрос на product-layer решения.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261112/p35#a261112p35",
+          "candidate_urls": [],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Norwest запустил $4B фонд для AI-стартапов",
+          "what": "Инвестфонд Norwest Venture Partners запустил $4B фонд для AI-компаний. Это самый крупный фонд в истории компании.",
+          "why": "Крупные VC продолжают ставить на AI несмотря на волатильность. Для фаундеров: капитал остаётся доступным, конкуренция за фундирование не спадает.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+          "candidate_urls": [],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "United Airlines запретила AI-ассистентам бронировать билеты самостоятельно",
+          "what": "United объявила, что не разрешит AI-ассистентам пользователей бронировать билеты от их имени, ссылаясь на конфиденциальность и регуляцию.",
+          "why": "Крупные корпорации начинают прямо ограничивать действия AI-агентов. Для продактов это означает работу в рамках новых ограничений от бизнес-партнёров.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI выделила $2M на исследования безопасности AI для детей",
+          "what": "OpenAI выделила $2M на исследования рисков AI для молодёжи, включая инструменты для измерения влияния на детей.",
+          "why": "Это регуляторный сигнал: AI-лидеры финансируют safety, чтобы опередить госрегулирование. Для продактов: safety станет конкурентным преимуществом.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/children-first-declaration",
+          "candidate_urls": [],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
+          "what": "Google, Cloudflare и TypeSafe показали, как использовать decision models — модели для структурированных решений без генерации текста в production.",
+          "why": "Новый тренд: компании ищут узкие, контролируемые AI-инструменты вместо универсальных LLM. Для продактов это альтернатива генеративным моделям.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+          "candidate_urls": [],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
     }
   }
 }
