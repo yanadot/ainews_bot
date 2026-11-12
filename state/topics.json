@@ -1,145 +1,5 @@
 {
   "digests": {
-    "11091719": {
-      "created_at": "2026-11-09T17:19:41Z",
-      "message_id": 146,
-      "topics": [
-        {
-          "title": "NVIDIA расследует CEO Jensen Huang и связь с китайским шпионом",
-          "what": "Совет директоров NVIDIA открыл расследование в отношении CEO Jensen Huang за его отношения с Alice Huang, подозреваемой в шпионаже для Китая.",
-          "why": "Может привести к отставке главы NVIDIA и показывает уязвимости в корпоративной безопасности ведущей AI-компании.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-            "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-            "https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year",
-            "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Disney и Adobe разрабатывают собственные генеративные модели",
-          "what": "Компании подписали многолетний контракт на разработку эксклюзивных моделей через Adobe Firefly Foundry для контента Disney кино, парков и ТВ.",
-          "why": "Крупные медиа уходят от универсальных инструментов к собственным моделям; сигнал тренда на вертикальную интеграцию AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-            "https://www.techmeme.com/261109/p29#a261109p29"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Роботы учатся делать сложные манипуляции через симуляцию",
-          "what": "NVIDIA и партнёры показали на CoRL, как роботы используют симуляцию для обучения точным операциям: выравнивание деталей, подключение кабелей, сборка.",
-          "why": "Физический AI выходит за пределы движения на микро-манипуляции; важно для производства и автоматизации промышленных процессов.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Handshake: за год из стартапа в оценке $1 млрд",
-          "what": "Глубокий анализ показал, что платформа для управления специализированными данными вышла на оценку $1 млрд за счёт данных для frontier labs.",
-          "why": "Раскрывает, какие данные критичны для AI-лидеров: финансы, биология, выравнивание — полезно для продуктовых команд и инвесторов.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/",
-          "candidate_urls": [
-            "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Spines привлекла $64M для AI-агентов авторов",
-          "what": "Платформа, где AI-агенты помогают писателям редактировать, создавать обложки и верстать книги, привлекла $29M equity и $35M долга.",
-          "why": "Авторские инструменты переходят на полных агентов; для издателей и платформ это потенциально разрушительный тренд.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261109/p25#a261109p25",
-          "candidate_urls": [
-            "https://www.techmeme.com/261109/p25#a261109p25"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Medium запустила TK: приложение для письма с AI",
-          "what": "Платформа для авторов выпустила TK — минималистичное приложение с AI-подсказками для дневников и заметок, первый крупный релиз с 2017 года.",
-          "why": "AI встраивается прямо в процесс создания контента; сигнал того, что писатели принимают инструменты помощи несмотря на споры про авторские права.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-            "https://www.techmeme.com/261109/p27#a261109p27"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Trump о безопасности AI: риск преувеличен",
-          "what": "В интервью 60 Minutes президент сказал, что опасения AI-экзекутивов о безопасности преувеличены и что DOJ справляется с управлением рисков.",
-          "why": "Сигнал позиции новой администрации в регулировании AI; критично для компаний, планирующих работу с государством.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA и Корея: суверенный AI через чипы и модели",
-          "what": "Министерство науки Кореи и NVIDIA расширяют сотрудничество на весь стек: от полупроводников до открытых моделей, агентов и безопасности.",
-          "why": "Вертикальная интеграция инфраструктуры для независимого от США AI; показывает геополитическое разделение технологий между регионами.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-            "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
-            "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
-            "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Automattic запустила Spacefast: платформа AI-кодирования",
-          "what": "Компания выпустила платформу для развёртывания приложений с низким кодом и AI-генерацией, конкурируя с Lovable и подобными.",
-          "why": "Ещё один крупный игрок в растущей категории; традиционные компании переходят на AI-кодирование, расширяя рынок.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11101530": {
       "created_at": "2026-11-10T15:30:42Z",
       "message_id": 150,
@@ -719,6 +579,126 @@
           "source_name": "Latent Space",
           "source_url": "https://latent.space/p/ainews-d-day-decision-models-day/",
           "candidate_urls": [],
+          "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11122210": {
+      "created_at": "2026-11-12T22:10:35Z",
+      "message_id": 160,
+      "topics": [
+        {
+          "title": "Google запустила Gemini 4 Hydrogen",
+          "what": "Google представила новую модель Gemini 4 Hydrogen с улучшенным пониманием сложных вопросов, доступна в Search и Gemini API",
+          "why": "Новый мейнстрим-релиз изменяет конкурентный ландшафт между Google, OpenAI и Anthropic; важно для продактов, встраивающих AI в поиск",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Google Blog",
+          "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+          "candidate_urls": [
+            "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+            "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+            "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "SpaceX инвестирует $74B в дата-центры для AI",
+          "what": "Илон Маск выделяет $50B на Аризону и $24B на Техас; AI-бизнес SpaceX уже дает 50%+ выручки",
+          "why": "Показывает как техбилионеры диверсифицируют в AI-инфраструктуру; сигнал о масштабах спроса на вычисления",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "New York Times",
+          "source_url": "https://www.techmeme.com/261112/p54#a261112p54",
+          "candidate_urls": [
+            "https://www.techmeme.com/261112/p54#a261112p54"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Nebius планирует $40B на AI-инфраструктуру",
+          "what": "Нео-облачный стартап готовит огромные инвестиции в дата-центры, полагаясь на предоплаты клиентов; задержки Microsoft вызывают вопросы",
+          "why": "Показывает как финансируются мега-инфраструктурные проекты и какие риски есть в гонке за чипами и энергией",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "ChatGPT и Gemini рекомендуют поддельные магазины",
+          "what": "Исследование показало: AI-помощники советуют поддельные сайты, фишинг и неофициальные версии магазинов при поиске товаров",
+          "why": "Угроза доверию к AI-рекомендациям; компаниям нужны лучшие проверки источников перед интеграцией AI в покупки",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "IBM Granite 4.1 получила язык для управления данными",
+          "what": "LLMON — новая разметка для языковых моделей, позволяет им лучше работать со структурированными данными и сложными задачами",
+          "why": "Тренд: модели эволюционируют от text-to-text к structured reasoning; интересно для продактов на автоматизации",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "candidate_urls": [
+            "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "SoftBank потеряла $3B на газовых турбинах для AI",
+          "what": "SoftBank переплатила за предзаказ природного газа для питания дата-центров, потеря из-за переоценки спроса",
+          "why": "Остудит оптимизм инвесторов: даже гиганты ошибаются в масштабе инфраструктурных ставок, есть реальные финансовые риски",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind просит помощь у UK-правительства в профсоюзе",
+          "what": "Сотрудники топовой AI-лаборатории обратились к британским регуляторам, чтобы обойти переговоры с Google",
+          "why": "Показывает напряженность в лучших лабах: давление гонки за моделями vs. благополучие и права команд",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+          "candidate_urls": [
+            "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI поддерживает ограничение экспорта чипов в Китай",
+          "what": "OpenAI согласилась с двухпартийным предложением Конгресса о контроле экспорта AI-чипов и инструментов",
+          "why": "Регуляция становится оружием в геополитике AI; меняет динамику конкурентности и доступа к технологиям",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261112/p59#a261112p59",
+          "candidate_urls": [
+            "https://www.techmeme.com/261112/p59#a261112p59"
+          ],
           "n": 8,
           "status": "offered"
         }

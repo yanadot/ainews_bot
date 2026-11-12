@@ -1,54 +1,54 @@
 {
-  "run_at": "2026-11-12T15:54:34Z",
-  "candidates": 40,
+  "run_at": "2026-11-12T22:10:35Z",
+  "candidates": 36,
   "offered": [
     {
       "n": 1,
-      "title": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
+      "title": "Google запустила Gemini 4 Hydrogen",
       "score": 5,
-      "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
     },
     {
       "n": 2,
-      "title": "Colette Kress, CFO NVIDIA, займет место CEO временно",
+      "title": "SpaceX инвестирует $74B в дата-центры для AI",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+      "source_url": "https://www.techmeme.com/261112/p54#a261112p54"
     },
     {
       "n": 3,
-      "title": "Fireworks AI взломана второй раз за два месяца, раскрыты чаты пользователей",
+      "title": "Nebius планирует $40B на AI-инфраструктуру",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/"
+      "source_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
     },
     {
       "n": 4,
-      "title": "LangChain привлекла $300M для AI-агентов в компаниях",
+      "title": "ChatGPT и Gemini рекомендуют поддельные магазины",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261112/p35#a261112p35"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
     },
     {
       "n": 5,
-      "title": "Norwest запустил $4B фонд для AI-стартапов",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/"
+      "title": "IBM Granite 4.1 получила язык для управления данными",
+      "score": 3,
+      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
     },
     {
       "n": 6,
-      "title": "United Airlines запретила AI-ассистентам бронировать билеты самостоятельно",
+      "title": "SoftBank потеряла $3B на газовых турбинах для AI",
       "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
     },
     {
       "n": 7,
-      "title": "OpenAI выделила $2M на исследования безопасности AI для детей",
+      "title": "Google DeepMind просит помощь у UK-правительства в профсоюзе",
       "score": 3,
-      "source_url": "https://openai.com/index/children-first-declaration"
+      "source_url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
     },
     {
       "n": 8,
-      "title": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
+      "title": "OpenAI поддерживает ограничение экспорта чипов в Китай",
       "score": 3,
-      "source_url": "https://latent.space/p/ainews-d-day-decision-models-day/"
+      "source_url": "https://www.techmeme.com/261112/p59#a261112p59"
     }
   ]
 }

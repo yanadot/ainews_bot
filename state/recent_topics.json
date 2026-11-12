@@ -1,65 +1,6 @@
 {
   "topics": [
     {
-      "topic": "NVIDIA расследует CEO Jensen Huang и связь с китайским шпионом",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Disney и Adobe разрабатывают собственные генеративные модели",
-      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Роботы учатся делать сложные манипуляции через симуляцию",
-      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Handshake: за год из стартапа в оценке $1 млрд",
-      "url": "https://latent.space/p/what-frontier-labs-buy-a-data-deep-dive-with-handshake-ai-garrett-lord-team/",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Spines привлекла $64M для AI-агентов авторов",
-      "url": "https://www.techmeme.com/261109/p25#a261109p25",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Medium запустила TK: приложение для письма с AI",
-      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Trump о безопасности AI: риск преувеличен",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA и Корея: суверенный AI через чипы и модели",
-      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Automattic запустила Spacefast: платформа AI-кодирования",
-      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-      "ts": "2026-11-09T17:19:41Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic купила генераторы на $3.4B — рекорд в AI-индустрии",
-      "url": "https://www.ft.com/content/anthropic-generators-onepwr",
-      "ts": "2026-11-09T17:22:35Z"
-    },
-    {
       "topic": "Anthropic начала roadshow для IPO с оценкой $1.4 трлн",
       "url": "https://anthropic.com/news/roadshow-launch",
       "ts": "2026-11-10T15:30:42Z",
@@ -302,6 +243,54 @@
       "topic": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
       "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
       "ts": "2026-11-12T15:54:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустила Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SpaceX инвестирует $74B в дата-центры для AI",
+      "url": "https://www.techmeme.com/261112/p54#a261112p54",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nebius планирует $40B на AI-инфраструктуру",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "ChatGPT и Gemini рекомендуют поддельные магазины",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "IBM Granite 4.1 получила язык для управления данными",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SoftBank потеряла $3B на газовых турбинах для AI",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google DeepMind просит помощь у UK-правительства в профсоюзе",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "ts": "2026-11-12T22:10:35Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI поддерживает ограничение экспорта чипов в Китай",
+      "url": "https://www.techmeme.com/261112/p59#a261112p59",
+      "ts": "2026-11-12T22:10:35Z",
       "kind": "offered"
     }
   ]
