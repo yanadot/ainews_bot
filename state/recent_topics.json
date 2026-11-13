@@ -1,102 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic начала roadshow для IPO с оценкой $1.4 трлн",
-      "url": "https://anthropic.com/news/roadshow-launch",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Claude Fable 5.2 — новый рекорд на Artificial Analysis",
-      "url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA расследует CEO Jensen Huang за связь с подозреваемым в шпионаже",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google и Adobe интегрируют инструменты: Gemini в Creative Cloud и PDF в Drive",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Adobe MAX: AI-агенты и автоматизация в Photoshop, Premiere и Firefly",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google Cloud запустила Gemini для здравоохранения",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Kora: новая Linux-ОС для локальных AI моделей, запуск в 2027",
-      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind Gemini Robotics 2.5 для сложных физических задач",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "ts": "2026-11-10T15:30:42Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Нью-Йорк начинает требовать лицензии для больших языковых моделей",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Все 7 основателей Anthropic выручат по $250M на IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia инвестирует $10B в Anthropic во время IPO",
-      "url": "https://www.techmeme.com/261110/p50#a261110p50",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google запустила Gemini 4 Carbon с функцией роя агентов",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia расследует скандал со шпионажем вокруг CEO Дженсена Хуанга",
-      "url": "https://www.techmeme.com/261110/p43#a261110p43",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI запустила бизнес-профили и агентов в ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic запустила Claude Meetings для совещаний",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI выручил $10B годовой выручки в Q3 с прыжком на 50%",
-      "url": "https://www.techmeme.com/261110/p51#a261110p51",
-      "ts": "2026-11-10T21:25:13Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
       "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
       "ts": "2026-11-11T15:02:36Z",
@@ -345,6 +249,60 @@
       "topic": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
       "url": "https://www.techmeme.com/261113/p6#a261113p6",
       "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "ChatGPT Wallet: агенты теперь совершают покупки",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Запрещённые Nvidia H100 обучают китайские AI-модели",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia вела агрессивное лобби для экспорта чипов",
+      "url": "https://www.techmeme.com/261113/p29#a261113p29",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia ищет нового CEO вместо уходящего Huang",
+      "url": "https://www.techmeme.com/261113/p27#a261113p27",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Thinking Machines запустила 4-битное обучение",
+      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI расформировала команду робототехники",
+      "url": "https://www.techmeme.com/261113/p19#a261113p19",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Wall Street боится замедления AI-сделок после Huang",
+      "url": "https://www.techmeme.com/261113/p20#a261113p20",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google DeepMind открыла датасеты для прогноза погоды",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "ts": "2026-11-13T21:33:30Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инвестиции Nvidia в стартапы теперь под вопросом",
+      "url": "https://www.techmeme.com/261113/p24#a261113p24",
+      "ts": "2026-11-13T21:33:30Z",
       "kind": "offered"
     }
   ]

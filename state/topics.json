@@ -1,242 +1,5 @@
 {
   "digests": {
-    "11101530": {
-      "created_at": "2026-11-10T15:30:42Z",
-      "message_id": 150,
-      "topics": [
-        {
-          "title": "Anthropic начала roadshow для IPO с оценкой $1.4 трлн",
-          "what": "Компания открыла дорогу на биржу с ценовым диапазоном $70–78 за акцию, что может дать оценку до $1.4 трлн на полностью разбавленной основе.",
-          "why": "Одно из крупнейших IPO в истории tech; рынок верит в ценность frontier AI как инвестиции, что может сместить капитал и таланты в индустрию.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/news/roadshow-launch",
-          "candidate_urls": [
-            "https://anthropic.com/news/roadshow-launch",
-            "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-            "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Claude Fable 5.2 — новый рекорд на Artificial Analysis",
-          "what": "Anthropic выпустила Claude Fable 5.2 и Mythos 5.2; Fable 5.2 набрала 65 баллов — лучший результат среди известных языковых моделей.",
-          "why": "Это может сместить баланс в гонке моделей; компаниям, выбирающим решение, нужны свежие бенчмарки для сравнения в реальных задачах.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://anthropic.com/claude-fable-and-mythos-5-2",
-          "candidate_urls": [
-            "https://anthropic.com/claude-fable-and-mythos-5-2",
-            "https://artificialanalysis.ai/models/claude-fable-5-2",
-            "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA расследует CEO Jensen Huang за связь с подозреваемым в шпионаже",
-          "what": "CEO Jensen Huang признал внебрачные отношения с executives, которых US intelligence подозревает в связях с Китаем; NVIDIA открыла внутреннее расследование.",
-          "why": "Это создаёт риск для NVIDIA как компании и её лидерства; для других компаний — сигнал о том, что высший уровень требует внимания к security и conflicts of interest.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-            "https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-            "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Google и Adobe интегрируют инструменты: Gemini в Creative Cloud и PDF в Drive",
-          "what": "Google и Adobe объявили о стратегическом партнёрстве: инструменты Adobe в Google приложениях, Firefly AI в Gemini, редактирование PDF в Google Drive.",
-          "why": "Это показывает, как экосистемы конкурируют через интеграции; для компаний, выбирающих stack, меньше switching costs и больше выбора в одном месте.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Google Blog",
-          "source_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-          "candidate_urls": [
-            "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-            "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-            "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Adobe MAX: AI-агенты и автоматизация в Photoshop, Premiere и Firefly",
-          "what": "Adobe анонсировала AI-агентов в Creative Cloud, новые инструменты для удаления объектов и автоматизации рутинных задач дизайна через Firefly.",
-          "why": "Это показывает, как AI становится стандартом в creative tools; дизайнеры ускорят работу, но компаниям нужно переосмыслить процессы и скиллы команды.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Adobe",
-          "source_url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-            "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-            "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Google Cloud запустила Gemini для здравоохранения",
-          "what": "Google Cloud анонсировала версию Gemini для больниц и клиник: унификация медицинских данных пациентов и автоматизация документации и workflows.",
-          "why": "Это применение AI к высокорегулируемому рынку; для healthcare-компаний — способ избежать HIPAA-рисков собственных моделей, для Google — новый вертикальный рынок.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google Blog",
-          "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-          "candidate_urls": [
-            "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Kora: новая Linux-ОС для локальных AI моделей, запуск в 2027",
-          "what": "Co-founder Cyanogen представил Kora — операционную систему для power users, которая интегрирует языковые модели на системном уровне; поддержка Snapdragon и x86.",
-          "why": "Это альтернатива Windows/macOS для разработчиков и AI enthusiasts; показывает спрос на системы, где модели работают локально без cloud dependency.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-          "candidate_urls": [
-            "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-            "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Google DeepMind Gemini Robotics 2.5 для сложных физических задач",
-          "what": "DeepMind анонсировала Gemini Robotics 2.5 — версию модели для управления роботами и выполнения сложных манипуляций в реальном мире без симуляции.",
-          "why": "Это показывает, как мультимодальные модели масштабируются в робототехнику; для AI-компаний и robotics стартапов — сигнал, что frontier labs инвестируют в эту область.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google DeepMind",
-          "source_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "candidate_urls": [
-            "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
-    "11102125": {
-      "created_at": "2026-11-10T21:25:13Z",
-      "message_id": 151,
-      "topics": [
-        {
-          "title": "Нью-Йорк начинает требовать лицензии для больших языковых моделей",
-          "what": "В Нью-Йорке вступил в силу закон об AI-безопасности, требующий от разработчиков (OpenAI, Anthropic и других) регистрировать модели, раскрывать практики безопасности и сообщать об инцидентах под угрозой штрафов.",
-          "why": "Регуляторика станет асимметричным преимуществом крупных игроков; стартапам придется выбирать между соответствием и расширением на США.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-          "candidate_urls": [],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Все 7 основателей Anthropic выручат по $250M на IPO",
-          "what": "Согласно S-1 документам, каждый из семи сооснователей Anthropic продаст одинаковое количество акций на IPO, получив около $250 млн на человека, при этом оставляя основателями контроль над компанией.",
-          "why": "Показывает историческую переоценку и консенсус дальних планов компании; влияет на восприятие рынка о стабильности направления.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia инвестирует $10B в Anthropic во время IPO",
-          "what": "Nvidia планирует вложить около $10 млрд в Anthropic параллельно с её IPO — это примерно 10% от всех новых денег, которые компания привлечёт на публичном размещении.",
-          "why": "Сигнал крайней важности GPU для лидеров AI; связывает судьбы Nvidia и Anthropic и может означать долгосрочное партнёрство на инфраструктуре.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Techmeme / The Information",
-          "source_url": "https://www.techmeme.com/261110/p50#a261110p50",
-          "candidate_urls": [],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Google запустила Gemini 4 Carbon с функцией роя агентов",
-          "what": "Google объявила о публичном доступе к Gemini 4 Carbon — модели, позиционируемой как самой сильной в компании, с возможностью координирования нескольких AI-агентов в одной задаче.",
-          "why": "Прямой вызов Anthropic и OpenAI на фронте качества и способностей; показывает, что Google серьёзно конкурирует за энтерпрайз-контракты.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-          "candidate_urls": [],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia расследует скандал со шпионажем вокруг CEO Дженсена Хуанга",
-          "what": "Nvidia нанял экс-прокурора Джуна Кима для независимого расследования связи CEO Дженсена Хуанга с женщиной, подозреваемой в китайском шпионаже.",
-          "why": "Может повлиять на стратегию экспорта технологий, отношения с государством и управление рисками в индустрии AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261110/p43#a261110p43",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-            "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI запустила бизнес-профили и агентов в ChatGPT",
-          "what": "OpenAI начала раскатывать Businesses in ChatGPT — возможность компаниям создавать профили, опубликовать Business Agents для взаимодействия с пользователями и появляться в поиске ChatGPT.",
-          "why": "OpenAI превращает ChatGPT в конкурента Google Search; даёт новый канал для small business привлечения клиентов через AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/introducing-businesses-chatgpt",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-            "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic запустила Claude Meetings для совещаний",
-          "what": "Anthropic представила Claude Meetings — функцию, которая слушает деловые встречи в реальном времени, составляет планы, рисует временные шкалы и может получать информацию из подключённых рабочих приложений.",
-          "why": "Целевой удар по Microsoft-Google альянсу; показывает, как Anthropic лезет в энтерпрайз-collaboration вслед за OpenAI и Gemini.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Anthropic",
-          "source_url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI выручил $10B годовой выручки в Q3 с прыжком на 50%",
-          "what": "Согласно документам инвесторам, выручка OpenAI выросла на 50% до ~$10B в третьем квартале (была 17% рост в Q2), отражая усилившийся спрос на более свежие модели.",
-          "why": "Потенциальный IPO OpenAI может быть ещё масштабнее, чем ожидалось; знак доминирования в рынке, но и растущего давления конкурентов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Information via Techmeme",
-          "source_url": "https://www.techmeme.com/261110/p51#a261110p51",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11111502": {
       "created_at": "2026-11-11T15:02:36Z",
       "message_id": 152,
@@ -832,6 +595,140 @@
           "source_url": "https://www.techmeme.com/261113/p6#a261113p6",
           "candidate_urls": [
             "https://www.techmeme.com/261113/p6#a261113p6"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11132133": {
+      "created_at": "2026-11-13T21:33:30Z",
+      "message_id": 162,
+      "topics": [
+        {
+          "title": "ChatGPT Wallet: агенты теперь совершают покупки",
+          "what": "OpenAI запустила ChatGPT Wallet — кошелёк для AI-агентов, которые могут самостоятельно совершать покупки от имени пользователя с его одобрением.",
+          "why": "Для продактов это показывает, как агенты встраиваются в e-commerce и могут выполнять реальные транзакции, открывая новый класс приложений.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "candidate_urls": [
+            "https://openai.com/index/introducing-chatgpt-wallet",
+            "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+            "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Запрещённые Nvidia H100 обучают китайские AI-модели",
+          "what": "Исследование показало, что самые мощные китайские AI-модели обучались на запрещённых Nvidia H100 чипах несмотря на американские экспортные ограничения.",
+          "why": "Это разоблачает бреши в экспортном контроле и показывает, как техническое лидерство Nvidia имеет геополитические последствия в гонке AI между США и Китаем.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia вела агрессивное лобби для экспорта чипов",
+          "what": "Semafor раскрыла, что Nvidia применяла «выжженную землю» лобби в Вашингтоне и ссылалась на имя Трампа, чтобы получить исключения на экспорт чипов в Китай.",
+          "why": "Показывает, как мощная компания-лидер влияет на регуляцию, и какие методы используются в борьбе за стратегические преимущества в гонке AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p29#a261113p29",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p29#a261113p29"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia ищет нового CEO вместо уходящего Huang",
+          "what": "Совет директоров Nvidia начал поиск постоянного CEO и запустил процесс подбора кандидатов после ухода Jensen Huang из-за скандала.",
+          "why": "Преемство лидера триллионной компании критично — новый CEO определит стратегию Nvidia в конкурентной гонке за чипы и инвестиции в AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p27#a261113p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p27#a261113p27"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Thinking Machines запустила 4-битное обучение",
+          "what": "Компания Thinking Machines представила методику end-to-end обучения языковых моделей на 4-битных данных вместо стандартных 16 или 32 бит.",
+          "why": "Снижение битности может существенно снизить требования к вычислениям и затратам на обучение, открывая доступ для стартапов и компаний с меньшим бюджетом.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Thinking Machines Lab",
+          "source_url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
+          "candidate_urls": [
+            "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI расформировала команду робототехники",
+          "what": "OpenAI распустила свой независимый отдел робототехники и переместила сотрудников в исследовательские и прикладные подразделения.",
+          "why": "Это сигнализирует, что большие языковые модели вроде GPT-6 могут решать задачи робототехники напрямую, меняя подход к разработке AI для физических систем.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p19#a261113p19",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p19#a261113p19"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Wall Street боится замедления AI-сделок после Huang",
+          "what": "Инвесторы выражают опасения, что уход Jensen Huang из Nvidia замедлит её инвестиционную деятельность и сделки, так как он был ключевым игроком экосистемы.",
+          "why": "Huang был архитектором сложной системы инвестиций Nvidia — $48 млрд в акциях 229 компаний и $165 млрд облачных кредитов, его отход может перестроить финансовые потоки.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p20#a261113p20",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p20#a261113p20"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind открыла датасеты для прогноза погоды",
+          "what": "Google DeepMind опубликовала датасеты, на которых обучались её продвинутые модели для прогнозирования погоды, открывая их для научного сообщества.",
+          "why": "Открытие данных помогает исследователям улучшать AI-модели для климатологии и может привести к более точным прогнозам опасной погоды.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Google DeepMind",
+          "source_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "candidate_urls": [
+            "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Инвестиции Nvidia в стартапы теперь под вопросом",
+          "what": "Nvidia удерживала $48 млрд в акциях 229 частных компаний и предоставляла $165 млрд облачных кредитов — всё это может измениться после ухода Huang.",
+          "why": "Сложная инвестиционная сеть Nvidia была стабилизирующей силой для AI-стартапов, её трансформация может повлиять на финансирование и выживание компаний экосистемы.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p24#a261113p24",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p24#a261113p24"
           ],
           "n": 9,
           "status": "offered"

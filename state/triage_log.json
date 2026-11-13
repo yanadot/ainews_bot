@@ -1,60 +1,60 @@
 {
-  "run_at": "2026-11-13T15:14:13Z",
-  "candidates": 36,
+  "run_at": "2026-11-13T21:33:30Z",
+  "candidates": 21,
   "offered": [
     {
       "n": 1,
-      "title": "Конгресс начал расследование Nvidia по Jensen Huang и его сделкам",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
+      "title": "ChatGPT Wallet: агенты теперь совершают покупки",
+      "score": 4,
+      "source_url": "https://openai.com/index/introducing-chatgpt-wallet"
     },
     {
       "n": 2,
-      "title": "Cohere расширила платформу суверенного AI для киберзащиты",
+      "title": "Запрещённые Nvidia H100 обучают китайские AI-модели",
       "score": 4,
-      "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
     },
     {
       "n": 3,
-      "title": "llama.cpp выпустила версию 1.0 как стандарт локального AI",
+      "title": "Nvidia вела агрессивное лобби для экспорта чипов",
       "score": 4,
-      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+      "source_url": "https://www.techmeme.com/261113/p29#a261113p29"
     },
     {
       "n": 4,
-      "title": "Anthropic выпустила Claude Duet — массовый AI-агент",
+      "title": "Nvidia ищет нового CEO вместо уходящего Huang",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+      "source_url": "https://www.techmeme.com/261113/p27#a261113p27"
     },
     {
       "n": 5,
-      "title": "OpenAI запустила Daybreak для безопасности веб-приложений",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261113/p5#a261113p5"
+      "title": "Thinking Machines запустила 4-битное обучение",
+      "score": 3,
+      "source_url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
     },
     {
       "n": 6,
-      "title": "Google запустила Gemini 4 Hydrogen с функцией Orchestrator",
-      "score": 4,
-      "source_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+      "title": "OpenAI расформировала команду робототехники",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261113/p19#a261113p19"
     },
     {
       "n": 7,
-      "title": "Edge0 выпустила 145B модель для запуска на обычных ПК",
+      "title": "Wall Street боится замедления AI-сделок после Huang",
       "score": 3,
-      "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+      "source_url": "https://www.techmeme.com/261113/p20#a261113p20"
     },
     {
       "n": 8,
-      "title": "DeepX создала чип для 100B моделей на роботах и дронах",
+      "title": "Google DeepMind открыла датасеты для прогноза погоды",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p8#a261113p8"
+      "source_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
     },
     {
       "n": 9,
-      "title": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
+      "title": "Инвестиции Nvidia в стартапы теперь под вопросом",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p6#a261113p6"
+      "source_url": "https://www.techmeme.com/261113/p24#a261113p24"
     }
   ]
 }
