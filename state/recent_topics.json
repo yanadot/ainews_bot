@@ -292,6 +292,60 @@
       "url": "https://www.techmeme.com/261112/p59#a261112p59",
       "ts": "2026-11-12T22:10:35Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Конгресс начал расследование Nvidia по Jensen Huang и его сделкам",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cohere расширила платформу суверенного AI для киберзащиты",
+      "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "llama.cpp выпустила версию 1.0 как стандарт локального AI",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic выпустила Claude Duet — массовый AI-агент",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI запустила Daybreak для безопасности веб-приложений",
+      "url": "https://www.techmeme.com/261113/p5#a261113p5",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустила Gemini 4 Hydrogen с функцией Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Edge0 выпустила 145B модель для запуска на обычных ПК",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepX создала чип для 100B моделей на роботах и дронах",
+      "url": "https://www.techmeme.com/261113/p8#a261113p8",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
+      "url": "https://www.techmeme.com/261113/p6#a261113p6",
+      "ts": "2026-11-13T15:14:13Z",
+      "kind": "offered"
     }
   ]
 }

@@ -703,6 +703,140 @@
           "status": "offered"
         }
       ]
+    },
+    "11131514": {
+      "created_at": "2026-11-13T15:14:13Z",
+      "message_id": 161,
+      "topics": [
+        {
+          "title": "Конгресс начал расследование Nvidia по Jensen Huang и его сделкам",
+          "what": "Демократы запустили официальное расследование Nvidia по уходу CEO Jensen Huang, его предполагаемым связям с трампом и контрактам в Китае; Huang согласился дать показания перед Конгрессом.",
+          "why": "Это превращает скандал CEO в дело государственной важности, влияющее на поставки чипов, международные отношения и доверие инвесторов к Nvidia.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+            "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+            "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Cohere расширила платформу суверенного AI для киберзащиты",
+          "what": "Cohere добавила новые инструменты AISLE и cubic в Sovereign AI Platform для безопасной разработки ПО и киберзащиты государств.",
+          "why": "Это позиционирует Cohere как альтернативу американским лабам для компаний, ищущих независимость от Big Tech в стратегических AI-решениях.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Cohere Blog",
+          "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+          "candidate_urls": [
+            "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "llama.cpp выпустила версию 1.0 как стандарт локального AI",
+          "what": "Проект llama.cpp достиг версии 1.0, закрепляя статус как стабильный стандарт для запуска больших моделей на собственных компьютерах.",
+          "why": "Это ускоряет экосистему открытых моделей и даёт разработчикам надёжный инструмент, альтернативный облачным API.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "candidate_urls": [
+            "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic выпустила Claude Duet — массовый AI-агент",
+          "what": "Anthropic представила Claude Duet, первого потребительского AI-агента, который помогает с повседневными задачами и предлагает помощь во время работы.",
+          "why": "Это ответ Anthropic на потребительских агентов OpenAI и Google, показывает её стратегию выхода за пределы B2B и прямую конкуренцию в массовом рынке.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI запустила Daybreak для безопасности веб-приложений",
+          "what": "OpenAI выпустила Daybreak Red Team для пентеста веб-приложений и Daybreak Defense Factory, автоматизирующую поиск и исправление уязвимостей.",
+          "why": "OpenAI расширяется в категорию защиты, а не только моделей; это указывает на растущие требования корпоративной безопасности для AI-систем.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://www.techmeme.com/261113/p5#a261113p5",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p5#a261113p5"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Google запустила Gemini 4 Hydrogen с функцией Orchestrator",
+          "what": "Google представила Gemini 4 Hydrogen, более быструю версию Gemini 4 с встроенной координацией агентов через Orchestrator.",
+          "why": "Это показывает ускоренный цикл улучшений Google и прямой ответ на конкуренцию OpenAI и Anthropic в гонке к агентам.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+          "candidate_urls": [
+            "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Edge0 выпустила 145B модель для запуска на обычных ПК",
+          "what": "Стартап Edge0 представил 145-миллиардную модель, которая может работать на обычных компьютерах с фронтирными способностями.",
+          "why": "Это демонстрирует сдвиг в локализацию больших моделей и снижение зависимости от облачных провайдеров и дорогих GPU.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Hacker News",
+          "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+          "candidate_urls": [
+            "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "DeepX создала чип для 100B моделей на роботах и дронах",
+          "what": "Южнокорейский стартап DeepX завершил разработку DX-M2, специализированного чипа для запуска 100-миллиардных моделей на дронах и роботах.",
+          "why": "Это указывает на растущую нишу edge AI и возможность конкурировать с Nvidia за локальные вычисления в специализированных устройствах.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "EE Times",
+          "source_url": "https://www.techmeme.com/261113/p8#a261113p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p8#a261113p8"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
+          "what": "Китайский производитель AI-серверов xFusion получил одобрение на IPO, планируя привлечь ~$1.2 млрд через размещение 220 млн акций.",
+          "why": "Это сигнал растущей инвестиционной активности в китайской AI-инфраструктуре, несмотря на американские ограничения на экспорт Nvidia-чипов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261113/p6#a261113p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p6#a261113p6"
+          ],
+          "n": 9,
+          "status": "offered"
+        }
+      ]
     }
   }
 }

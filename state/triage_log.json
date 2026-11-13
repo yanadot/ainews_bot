@@ -1,54 +1,60 @@
 {
-  "run_at": "2026-11-12T22:10:35Z",
+  "run_at": "2026-11-13T15:14:13Z",
   "candidates": 36,
   "offered": [
     {
       "n": 1,
-      "title": "Google запустила Gemini 4 Hydrogen",
+      "title": "Конгресс начал расследование Nvidia по Jensen Huang и его сделкам",
       "score": 5,
-      "source_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+      "source_url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/"
     },
     {
       "n": 2,
-      "title": "SpaceX инвестирует $74B в дата-центры для AI",
+      "title": "Cohere расширила платформу суверенного AI для киберзащиты",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261112/p54#a261112p54"
+      "source_url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic"
     },
     {
       "n": 3,
-      "title": "Nebius планирует $40B на AI-инфраструктуру",
+      "title": "llama.cpp выпустила версию 1.0 как стандарт локального AI",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/"
+      "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
       "n": 4,
-      "title": "ChatGPT и Gemini рекомендуют поддельные магазины",
+      "title": "Anthropic выпустила Claude Duet — массовый AI-агент",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
     },
     {
       "n": 5,
-      "title": "IBM Granite 4.1 получила язык для управления данными",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      "title": "OpenAI запустила Daybreak для безопасности веб-приложений",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261113/p5#a261113p5"
     },
     {
       "n": 6,
-      "title": "SoftBank потеряла $3B на газовых турбинах для AI",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/"
+      "title": "Google запустила Gemini 4 Hydrogen с функцией Orchestrator",
+      "score": 4,
+      "source_url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/"
     },
     {
       "n": 7,
-      "title": "Google DeepMind просит помощь у UK-правительства в профсоюзе",
+      "title": "Edge0 выпустила 145B модель для запуска на обычных ПК",
       "score": 3,
-      "source_url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/"
+      "source_url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer"
     },
     {
       "n": 8,
-      "title": "OpenAI поддерживает ограничение экспорта чипов в Китай",
+      "title": "DeepX создала чип для 100B моделей на роботах и дронах",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261112/p59#a261112p59"
+      "source_url": "https://www.techmeme.com/261113/p8#a261113p8"
+    },
+    {
+      "n": 9,
+      "title": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261113/p6#a261113p6"
     }
   ]
 }
