@@ -1,66 +1,24 @@
 {
-  "run_at": "2026-11-14T14:00:54Z",
-  "candidates": 22,
+  "run_at": "2026-11-14T19:00:13Z",
+  "candidates": 5,
   "offered": [
     {
       "n": 1,
-      "title": "Уход Huang подрезал финансирование AI-стартапов",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+      "title": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
     },
     {
       "n": 2,
-      "title": "Amazon индексирует все товары интернета",
+      "title": "Databento поднял $100M для инфраструктуры AI-лаб",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+      "source_url": "https://www.techmeme.com/261114/p16#a261114p16"
     },
     {
       "n": 3,
-      "title": "AI-powered ransomware опасен для новичков в хакинге",
+      "title": "Huang ушёл — финансирование опен-сурс AI рискует иссякнуть",
       "score": 3,
-      "source_url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
-    },
-    {
-      "n": 4,
-      "title": "AI переводит авиацию на автопилот",
-      "score": 3,
-      "source_url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
-    },
-    {
-      "n": 5,
-      "title": "WhiteMatter учит AI контролировать друг друга",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261114/p5#a261114p5"
-    },
-    {
-      "n": 6,
-      "title": "Operand автоматизирует due diligence для инвесторов",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261114/p6#a261114p6"
-    },
-    {
-      "n": 7,
-      "title": "Charta Health автоматизирует медицинское документирование",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261114/p4#a261114p4"
-    },
-    {
-      "n": 8,
-      "title": "Luminal нашла нишу в inference-облаках",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261114/p3#a261114p3"
-    },
-    {
-      "n": 9,
-      "title": "Директор Nvidia продал $1B акций за неделю до скандала",
-      "score": 3,
-      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
-    },
-    {
-      "n": 10,
-      "title": "SBF потерял $36B в Anthropic из-за ранней продажи",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p42#a261113p42"
+      "source_url": "https://www.techmeme.com/261114/p15#a261114p15"
     }
   ]
 }

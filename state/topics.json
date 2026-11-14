@@ -1,137 +1,5 @@
 {
   "digests": {
-    "11111502": {
-      "created_at": "2026-11-11T15:02:36Z",
-      "message_id": 152,
-      "topics": [
-        {
-          "title": "Скандал Jensen Huang вызывает интерес экспертов по корпоративному управлению",
-          "what": "Глава NVIDIA Jensen Huang попал в центр скандала со связями с подозреваемым в шпионаже; это поднимает вопросы корпоративного управления компании.",
-          "why": "Для фаундеров и продактов важно видеть, как кризисы на уровне лидерства влияют на управление и инвесторское доверие.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "IPO Anthropic переподписана в несколько раз",
-          "what": "Акции Anthropic в IPO собрали в несколько раз больше заявок, чем доступно; Dario Amodei и Jamie Dimon проведут трансляцию.",
-          "why": "Показывает высокий спрос инвесторов на AI-компании; переподписка сигнализирует об уверенности в растущем рынке AI.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261111/p27#a261111p27",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p27"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Google выпустила два новых TPU для разных AI-задач",
-          "what": "Google представила специализированные чипы (TPU) для конфиденциального обучения моделей и работы с большим объемом памяти.",
-          "why": "Диверсификация железа важна для конкурентоспособности; расширяет возможности для разных сценариев применения AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Gemini не отловил опасные вопросы подростка про самоубийство неделями",
-          "what": "Школьница использовала Gemini через Chromebook для поиска информации о самоубийстве; системы мониторинга школы не сработали.",
-          "why": "Вскрывает проблемы безопасности AI в образовательных учреждениях; важно для компаний, работающих с несовершеннолетними.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
-          "candidate_urls": [
-            "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "AI-чип стартап Fractile привлек $720M и оценку $7B",
-          "what": "Британский стартап Fractile собрал $720M от Thrive, Founders Fund и других; оценка выросла с $1,1B в мае до $7B.",
-          "why": "Показывает растущий интерес инвесторов к AI-чипам как альтернативе NVIDIA; меняет конкурентный ландшафт инфраструктуры.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261111/p25#a261111p25",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p25"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "На выборах потратили $187M на AI-объявления",
-          "what": "В кампаниях политических выборов использовали ~300 AI-сгенерированных или улучшенных объявлений на сумму $187M; 90% на республиканцев.",
-          "why": "Показывает масштабы применения AI в политике; важно видеть этические и регуляторные вызовы перед внедрением AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261111/p24#a261111p24",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p24"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Helsing запустила Clarity для военных AI-агентов",
-          "what": "Германская компания Helsing представила платформу Clarity с AI-агентами для военных приложений; конкурирует с Palantir Maven и Anduril.",
-          "why": "Показывает, как AI-агенты входят в defense-сектор; важно видеть альтернативы от европейских компаний, не только из US.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261111/p21#a261111p21",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p21"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Plurai применяет методы беспилотников к AI-агентам",
-          "what": "Стартап Plurai разрабатывает AI-агентов, используя подходы обучения из разработки беспилотных автомобилей.",
-          "why": "Показывает новые подходы к развитию AI-агентов; важно видеть, как идеи из одной области переходят в другие.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "BotPsy: маленькая модель-агент для работы на устройстве",
-          "what": "Hugging Face представила BotPsy — языковую модель с менее чем миллиардом параметров для работы AI-агента прямо на устройстве.",
-          "why": "Показывает, что эффективные AI-агенты не требуют гигантских моделей; важно для разработчиков мобильных и edge-приложений.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/qvac/botpsy",
-          "candidate_urls": [
-            "https://huggingface.co/blog/qvac/botpsy"
-          ],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11112149": {
       "created_at": "2026-11-11T21:49:38Z",
       "message_id": 153,
@@ -877,6 +745,54 @@
             "https://www.techmeme.com/261113/p42#a261113p42"
           ],
           "n": 10,
+          "status": "offered"
+        }
+      ]
+    },
+    "11141900": {
+      "created_at": "2026-11-14T19:00:13Z",
+      "message_id": 164,
+      "topics": [
+        {
+          "title": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
+          "what": "Азиатские правительства подтверждают обязательства по поставкам AI-чипов и следят за влиянием смены руководства NVIDIA на локальные проекты.",
+          "why": "Показывает геополитические последствия: стабильность поставок критических чипов теперь зависит от новой команды в NVIDIA.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Databento поднял $100M для инфраструктуры AI-лаб",
+          "what": "Платформа рыночных данных Databento привлекла $100M Series C на оценке $1.1B, работает с 5 из 6 крупнейших frontier AI-лабораторий.",
+          "why": "Показывает инвестиции в критическую инфраструктуру: AI-компании готовы платить за скоростной доступ к рыночным данным.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "FinTech Global",
+          "source_url": "https://www.techmeme.com/261114/p16#a261114p16",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p16#a261114p16"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Huang ушёл — финансирование опен-сурс AI рискует иссякнуть",
+          "what": "Уход Jensen Huang из NVIDIA угрожает финансированию для разработчиков опен-сурс моделей, которое он поддерживал через компанию.",
+          "why": "Open-source теряет ключевого спонсора: сообществу нужно срочно искать новые источники грантов и инвестиций.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Interconnects AI",
+          "source_url": "https://www.techmeme.com/261114/p15#a261114p15",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p15#a261114p15"
+          ],
+          "n": 3,
           "status": "offered"
         }
       ]
