@@ -734,6 +734,152 @@
           "status": "offered"
         }
       ]
+    },
+    "11141400": {
+      "created_at": "2026-11-14T14:00:54Z",
+      "message_id": 163,
+      "topics": [
+        {
+          "title": "Уход Huang подрезал финансирование AI-стартапов",
+          "what": "После ухода CEO Jensen Huang из Nvidia VCs и фаундеры ожидают, что компания урежет инвестиции в стартапы, которые покупали её GPU.",
+          "why": "Показывает зависимость AI-стартапов от корпоративных инвесторов и концентрацию влияния; важно для фаундеров планировать диверсификацию источников финансирования.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon индексирует все товары интернета",
+          "what": "Amazon строит World Product Graph — базу данных каждого товара, продаваемого онлайн, включая конкурентов, для улучшения поиска.",
+          "why": "Стратегический ход против специализированного AI-поиска; показывает, как большие плееры захватывают данные для монополизации поиска.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "AI-powered ransomware опасен для новичков в хакинге",
+          "what": "Атакующие используют AI для создания и развёртывания ransomware, снижая барьер входа: уже наносит серьёзный урон без полной автоматизации.",
+          "why": "Критично для компаний с AI-стратегией безопасности; показывает, что защита от AI-оружия станет конкурентным преимуществом.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+          "candidate_urls": [
+            "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "AI переводит авиацию на автопилот",
+          "what": "Авиаиндустрия быстро внедряет AI для беспилотников и сокращает диспетчеров, что раньше казалось невозможным в консервативной отрасли.",
+          "why": "Показывает, как AI трансформирует критичные инфраструктуры; важно для инвесторов и регуляторов, ведущих дискуссию о рисках.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+          "candidate_urls": [
+            "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "WhiteMatter учит AI контролировать друг друга",
+          "what": "Стартап привлёк $20M Series A на guardian-агентов, которые мониторят и ограничивают действия других AI-систем.",
+          "why": "Новый подход к безопасности и управлению AI; интересно для компаний с множеством AI-агентов и для инвесторов в developer tools.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261114/p5#a261114p5",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p5#a261114p5"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Operand автоматизирует due diligence для инвесторов",
+          "what": "Стартап привлёк $31M на AI-инструменты для анализа сделок в PE-фирмах, достигнув оценки $220M.",
+          "why": "Показывает, как AI трансформирует финансовые процессы; интересно для фаундеров в enterprise tools и инвесторов в финтех.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261114/p6#a261114p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p6#a261114p6"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Charta Health автоматизирует медицинское документирование",
+          "what": "Стартап привлёк $55M Series B на AI для чартов, биллинга и кодирования в здравоохранении.",
+          "why": "Большой раунд в healthcare показывает, что AI-решения для административной нагрузки привлекают серьёзные инвестиции.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261114/p4#a261114p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p4#a261114p4"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Luminal нашла нишу в inference-облаках",
+          "what": "Стартап привлёк $25M Series A на inference-облако и компилятор для запуска моделей на разных чипах.",
+          "why": "Интерес к альтернативе Nvidia для инференса; важно для стартапов, ищущих диверсификацию от зависимости одного вендора.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261114/p3#a261114p3",
+          "candidate_urls": [
+            "https://www.techmeme.com/261114/p3#a261114p3"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Директор Nvidia продал $1B акций за неделю до скандала",
+          "what": "Высокопоставленный сотрудник Nvidia избавился от акций незадолго до ухода CEO и разоблачения.",
+          "why": "Сигнальный инцидент о внутренней информированности; интересно для инвесторов, следящих за корпоративным управлением и рисками.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Hacker News",
+          "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+          "candidate_urls": [
+            "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "SBF потерял $36B в Anthropic из-за ранней продажи",
+          "what": "Финансовая история: инвестиция в $500M в Anthropic в 2021 была бы стоила $37B при IPO на $1.5T, но Bankman-Fried продал её за $1.3B.",
+          "why": "Показывает волатильность оценок AI-компаний и важность времени входа-выхода для инвесторов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261113/p42#a261113p42",
+          "candidate_urls": [
+            "https://www.techmeme.com/261113/p42#a261113p42"
+          ],
+          "n": 10,
+          "status": "offered"
+        }
+      ]
     }
   }
 }

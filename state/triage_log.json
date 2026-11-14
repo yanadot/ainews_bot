@@ -1,60 +1,66 @@
 {
-  "run_at": "2026-11-13T21:33:30Z",
-  "candidates": 21,
+  "run_at": "2026-11-14T14:00:54Z",
+  "candidates": 22,
   "offered": [
     {
       "n": 1,
-      "title": "ChatGPT Wallet: агенты теперь совершают покупки",
+      "title": "Уход Huang подрезал финансирование AI-стартапов",
       "score": 4,
-      "source_url": "https://openai.com/index/introducing-chatgpt-wallet"
+      "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
     },
     {
       "n": 2,
-      "title": "Запрещённые Nvidia H100 обучают китайские AI-модели",
+      "title": "Amazon индексирует все товары интернета",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+      "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
     },
     {
       "n": 3,
-      "title": "Nvidia вела агрессивное лобби для экспорта чипов",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261113/p29#a261113p29"
+      "title": "AI-powered ransomware опасен для новичков в хакинге",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
     },
     {
       "n": 4,
-      "title": "Nvidia ищет нового CEO вместо уходящего Huang",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261113/p27#a261113p27"
+      "title": "AI переводит авиацию на автопилот",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
     },
     {
       "n": 5,
-      "title": "Thinking Machines запустила 4-битное обучение",
+      "title": "WhiteMatter учит AI контролировать друг друга",
       "score": 3,
-      "source_url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/"
+      "source_url": "https://www.techmeme.com/261114/p5#a261114p5"
     },
     {
       "n": 6,
-      "title": "OpenAI расформировала команду робототехники",
+      "title": "Operand автоматизирует due diligence для инвесторов",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p19#a261113p19"
+      "source_url": "https://www.techmeme.com/261114/p6#a261114p6"
     },
     {
       "n": 7,
-      "title": "Wall Street боится замедления AI-сделок после Huang",
+      "title": "Charta Health автоматизирует медицинское документирование",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p20#a261113p20"
+      "source_url": "https://www.techmeme.com/261114/p4#a261114p4"
     },
     {
       "n": 8,
-      "title": "Google DeepMind открыла датасеты для прогноза погоды",
+      "title": "Luminal нашла нишу в inference-облаках",
       "score": 3,
-      "source_url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/"
+      "source_url": "https://www.techmeme.com/261114/p3#a261114p3"
     },
     {
       "n": 9,
-      "title": "Инвестиции Nvidia в стартапы теперь под вопросом",
+      "title": "Директор Nvidia продал $1B акций за неделю до скандала",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261113/p24#a261113p24"
+      "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
+    },
+    {
+      "n": 10,
+      "title": "SBF потерял $36B в Anthropic из-за ранней продажи",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261113/p42#a261113p42"
     }
   ]
 }
