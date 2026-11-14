@@ -765,8 +765,9 @@
             "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
           ],
           "n": 1,
-          "status": "awaiting_focus",
-          "focus_msg_id": 165
+          "status": "written",
+          "focus_msg_id": 165,
+          "focus": "распиши только логику ключевых рисков и что может произойти"
         },
         {
           "title": "Databento поднял $100M для инфраструктуры AI-лаб",
