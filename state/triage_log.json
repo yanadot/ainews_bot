@@ -1,42 +1,48 @@
 {
-  "run_at": "2026-11-15T14:37:28Z",
-  "candidates": 16,
+  "run_at": "2026-11-15T20:15:09Z",
+  "candidates": 8,
   "offered": [
     {
       "n": 1,
-      "title": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
+      "title": "США и союзники согласовали защиту AI-технологий от Китая",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261115/p4#a261115p4"
+      "source_url": "https://techmeme.com/261115/p12"
     },
     {
       "n": 2,
-      "title": "Nvidia годами поддерживала высокие цены на GPU через финансовые схемы",
+      "title": "Конгресс ужесточает правила экспорта AI-чипов после скандала Nvidia",
       "score": 4,
-      "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
     },
     {
       "n": 3,
-      "title": "Nidus привлекла $30M для AI-роботов в оборонной промышленности",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261115/p5#a261115p5"
+      "title": "Apple планирует выпустить AR-очки с Siri на WWDC 2027",
+      "score": 4,
+      "source_url": "https://techmeme.com/261115/p10"
     },
     {
       "n": 4,
-      "title": "Студентка создала AI-Tamagotchi, которые учат носить гантели и ухаживать за цветами",
-      "score": 3,
-      "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+      "title": "Jensen Huang обсуждает возвращение в Nvidia с близкими",
+      "score": 4,
+      "source_url": "https://techmeme.com/261115/p14"
     },
     {
       "n": 5,
-      "title": "DeepSeek V3 переписали в 200 строк Jax на GitHub",
+      "title": "Nvidia обратилась к властям Тайваня из-за дела о контрабанде чипов",
       "score": 3,
-      "source_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+      "source_url": "https://techmeme.com/261115/p13"
     },
     {
       "n": 6,
-      "title": "Nebuly привлекла $21M Series A для измерения ROI AI-агентов в компаниях",
+      "title": "Министр финансов требует от Nvidia изменить руководство",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261115/p3#a261115p3"
+      "source_url": "https://techmeme.com/261115/p8"
+    },
+    {
+      "n": 7,
+      "title": "Министр торговли США летит в Китай из-за конфликта по чипам",
+      "score": 3,
+      "source_url": "https://techmeme.com/261115/p11"
     }
   ]
 }

@@ -1,114 +1,5 @@
 {
   "digests": {
-    "11121554": {
-      "created_at": "2026-11-12T15:54:34Z",
-      "message_id": 159,
-      "topics": [
-        {
-          "title": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
-          "what": "Основатель и CEO NVIDIA Jensen Huang подал в отставку после расследования его отношений с предполагаемым шпионом и сотрудником NVIDIA.",
-          "why": "Это потрясает AI-индустрию в разгар борьбы за GPU. Для продактов — неопределённость в управлении компанией, поставляющей критическую инфраструктуру.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "NVIDIA",
-          "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-            "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-            "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Colette Kress, CFO NVIDIA, займет место CEO временно",
-          "what": "CFO NVIDIA Colette Kress назначена интеримным CEO. Harvey Jones, бывший CEO Synopsys, стал первым chair of the board компании.",
-          "why": "Это раскрывает реструктуризацию на вершине. Kress как финансист может переориентировать стратегию; её критика санкций на Китай указывает на новый курс.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-          "candidate_urls": [
-            "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-            "https://www.techmeme.com/261112/p31"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Fireworks AI взломана второй раз за два месяца, раскрыты чаты пользователей",
-          "what": "Взлом платформы Fireworks позволил хакерам получить доступ к чатам клиентов Notion. Это вторая утечка компании за два месяца.",
-          "why": "Показывает риски в новых AI-платформах. Для продактов это аргумент за осторожность при выборе внешних сервисов и давление на поставщиков по security.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-          "candidate_urls": [],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "LangChain привлекла $300M для AI-агентов в компаниях",
-          "what": "LangChain, помогающая компаниям строить AI-агентов, привлекла $300M от CapitalG. Оценка выросла до $3B с $1.25B в 2025 году.",
-          "why": "Корпоративные AI-агенты становятся рынком масштаба. Для фаундеров: инфраструктура привлекает капитал, создавая спрос на product-layer решения.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261112/p35#a261112p35",
-          "candidate_urls": [],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Norwest запустил $4B фонд для AI-стартапов",
-          "what": "Инвестфонд Norwest Venture Partners запустил $4B фонд для AI-компаний. Это самый крупный фонд в истории компании.",
-          "why": "Крупные VC продолжают ставить на AI несмотря на волатильность. Для фаундеров: капитал остаётся доступным, конкуренция за фундирование не спадает.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-          "candidate_urls": [],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "United Airlines запретила AI-ассистентам бронировать билеты самостоятельно",
-          "what": "United объявила, что не разрешит AI-ассистентам пользователей бронировать билеты от их имени, ссылаясь на конфиденциальность и регуляцию.",
-          "why": "Крупные корпорации начинают прямо ограничивать действия AI-агентов. Для продактов это означает работу в рамках новых ограничений от бизнес-партнёров.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI выделила $2M на исследования безопасности AI для детей",
-          "what": "OpenAI выделила $2M на исследования рисков AI для молодёжи, включая инструменты для измерения влияния на детей.",
-          "why": "Это регуляторный сигнал: AI-лидеры финансируют safety, чтобы опередить госрегулирование. Для продактов: safety станет конкурентным преимуществом.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/children-first-declaration",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Decision models: Google, Cloudflare ищут альтернативу текстовым моделям",
-          "what": "Google, Cloudflare и TypeSafe показали, как использовать decision models — модели для структурированных решений без генерации текста в production.",
-          "why": "Новый тренд: компании ищут узкие, контролируемые AI-инструменты вместо универсальных LLM. Для продактов это альтернатива генеративным моделям.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Latent Space",
-          "source_url": "https://latent.space/p/ainews-d-day-decision-models-day/",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11122210": {
       "created_at": "2026-11-12T22:10:35Z",
       "message_id": 160,
@@ -779,6 +670,110 @@
             "https://www.techmeme.com/261115/p3#a261115p3"
           ],
           "n": 6,
+          "status": "offered"
+        }
+      ]
+    },
+    "11152015": {
+      "created_at": "2026-11-15T20:15:09Z",
+      "message_id": 171,
+      "topics": [
+        {
+          "title": "США и союзники согласовали защиту AI-технологий от Китая",
+          "what": "Pax Silica (США, Япония, UK, Индия) создали совместный список AI-технологий и цепочек поставок для защиты от Китая перед встречей Trump с Xi Jinping.",
+          "why": "Официальное соглашение между странами переводит экспортные ограничения в государственную политику, что напрямую повлияет на компании с глобальными операциями.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://techmeme.com/261115/p12",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p12"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Конгресс ужесточает правила экспорта AI-чипов после скандала Nvidia",
+          "what": "Демократы и республиканцы поддерживают несколько законопроектов для ужесточения экспортных ограничений на AI-чипы вслед за скандалом с Jensen Huang.",
+          "why": "Новые правила повлияют на чип-компании и тех, кто их экспортирует; может замедлить доступность GPU для AI-разработки за пределами США.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Apple планирует выпустить AR-очки с Siri на WWDC 2027",
+          "what": "Apple готовит умные очки с интеграцией Siri и третьесторонних приложений iPhone, планирует представить на конференции WWDC и запустить к концу 2027.",
+          "why": "Показывает, как крупные компании встраивают AI в аппаратное обеспечение; может вдохновить новые форм-факторы и модели для других продуктов.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Mark Gurman / Bloomberg",
+          "source_url": "https://techmeme.com/261115/p10",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p10"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Jensen Huang обсуждает возвращение в Nvidia с близкими",
+          "what": "После уходаа в ноябре Jensen Huang обсуждает возможность вернуться на пост CEO, его союзники создали боевую комнату для лоббирования возвращения.",
+          "why": "Показывает масштаб кризиса в Nvidia; финансовые рынки остро реагируют на статус ключевых фигур, что влияет на инвестиции и стратегию компаний.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://techmeme.com/261115/p14",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p14"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia обратилась к властям Тайваня из-за дела о контрабанде чипов",
+          "what": "Nvidia попросила помощь у тайванских чиновников и совета у TSMC после того как менеджер компании обвинён в помощи контрабанде чипов в Китай.",
+          "why": "Иллюстрирует, какие рычаги давления есть у государств на крупные компании и насколько серьёзны последствия экспортных нарушений.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://techmeme.com/261115/p13",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p13"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Министр финансов требует от Nvidia изменить руководство",
+          "what": "Scott Bessent потребовал от Nvidia пересмотреть лидерство и дал 10 дней на ответы о том, продвигала ли компания незаконные продажи чипов для роста выручки.",
+          "why": "Государственные чиновники напрямую вмешиваются в корпоративное управление — это необычно и показывает серьёзность давления на Nvidia.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://techmeme.com/261115/p8",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p8"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Министр торговли США летит в Китай из-за конфликта по чипам",
+          "what": "Howard Lutnick планирует полететь на Air Force One с президентом в Китай на встречу с Xi Jinping после столкновений с коллегами над ограничениями на чипы Nvidia.",
+          "why": "Показывает борьбу фракций в администрации США; политика экспорта чипов решается в реальном времени на высшем уровне и это влияет на весь рынок.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Semafor",
+          "source_url": "https://techmeme.com/261115/p11",
+          "candidate_urls": [
+            "https://techmeme.com/261115/p11"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]
