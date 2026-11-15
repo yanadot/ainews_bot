@@ -1,111 +1,5 @@
 {
   "digests": {
-    "11112149": {
-      "created_at": "2026-11-11T21:49:38Z",
-      "message_id": 153,
-      "topics": [
-        {
-          "title": "OpenAI превысила $10 млрд квартальной выручки",
-          "what": "Выручка OpenAI в Q3 2026 достигла $10 млрд, это рост на 50% от предыдущего квартала ($6,7 млрд).",
-          "why": "Сигнал о масштабе спроса на генеративный AI и готовности рынка платить премиум за качество моделей.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Grok Bot 1.0: боты для командной работы",
-          "what": "xAI запустила Grok Bot 1.0 — боты, которые работают с командой, берут задачи без указаний и ускоряют процессы.",
-          "why": "Практический пример AI-агентов в рабочих процессах; конкурентное давление между лабами на категорию персональных агентов.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "xAI",
-          "source_url": "https://x.ai/news/grok-bot-1-0",
-          "candidate_urls": [
-            "https://x.ai/news/grok-bot-1-0"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Gemini Decisions API: структурные решения вместо текста",
-          "what": "Google запустила API для быстрых решений через Gemini Decision 1, выдающую предопределённые ответы с оценками уверенности.",
-          "why": "Новый подход к использованию моделей — не генерация текста, а структурные выводы для бизнес-логики по доступной цене.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "candidate_urls": [
-            "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "AlphaGenome 2: как мутации влияют на клетки",
-          "what": "Google DeepMind выпустила AlphaGenome 2, предсказывающую влияние генетических вариаций на клетки разных типов, обучена на 100M профилей.",
-          "why": "AI выходит за пределы текста в медицину и биологию; показатель применимости моделей к практически важным научным задачам.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google DeepMind",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
-          ],
-          "n": 4,
-          "status": "written",
-          "focus_msg_id": 154,
-          "focus": "объясни простым языком как это работает и влияет на медицину. Не надо писать как продуктовые команды могут это использовать"
-        },
-        {
-          "title": "AWS Emulator: инструмент, написанный AI-агентами",
-          "what": "AWS выпустила бесплатный эмулятор 200+ сервисов, который полностью написан AI-агентами, инженеры не писали и не проверяли код.",
-          "why": "Практический пример AI-агентов, решающих реальные инженерные задачи, и вызов доверия к коду, сгенерированному моделями.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "AWS",
-          "source_url": "https://www.techmeme.com/261111/p41#a261111p41",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p41#a261111p41"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "United Airlines запретила AI-ассистентам бронировать билеты",
-          "what": "United Airlines блокирует личных AI-помощников при бронировании, ссылаясь на риски приватности и нарушение правил FAA и DOT.",
-          "why": "Первый случай явного ограничения AI-агентов в индустрии; сигнал о нарастающем регуляторном контроле над автоматизацией.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://www.techmeme.com/261111/p39#a261111p39",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p39#a261111p39"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Edelbyte: $70M на аналитику для AI-агентов",
-          "what": "Израильско-американская Edelbyte привлекла $70M (Series A + seed) за платформу аналитики данных, спроектированную для AI-агентов.",
-          "why": "Рост новой категории стартапов вокруг управления агентами; инвесторы ставят на инструменты понимания и контроля автономных систем.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://www.techmeme.com/261111/p33#a261111p33",
-          "candidate_urls": [
-            "https://www.techmeme.com/261111/p33#a261111p33"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "11121554": {
       "created_at": "2026-11-12T15:54:34Z",
       "message_id": 159,
@@ -795,6 +689,96 @@
             "https://www.techmeme.com/261114/p15#a261114p15"
           ],
           "n": 3,
+          "status": "offered"
+        }
+      ]
+    },
+    "11151437": {
+      "created_at": "2026-11-15T14:37:28Z",
+      "message_id": 170,
+      "topics": [
+        {
+          "title": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
+          "what": "Тайванская TSMC создает фонд объемом $500 млн для инвестирования в производителей чипов и их поставщиков, позиционируя себя как возможный «будущий Nvidia».",
+          "why": "Крупнейший производитель полупроводников переходит в инвестиционный бизнес и может определять направление развития AI-инфраструктуры после выхода Jensen Huang.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261115/p4#a261115p4",
+          "candidate_urls": [
+            "https://www.techmeme.com/261115/p4#a261115p4"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia годами поддерживала высокие цены на GPU через финансовые схемы",
+          "what": "TechSpot раскрыла, что Nvidia использовала циклические финансовые сделки для искусственного удержания высоких цен на графические процессоры.",
+          "why": "Раскрытие ценовой манипуляции подрывает нарратив о дефиците и заставляет пересмотреть модель ценообразования Nvidia и её конкурентов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechSpot",
+          "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+          "candidate_urls": [
+            "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Nidus привлекла $30M для AI-роботов в оборонной промышленности",
+          "what": "Стартап Nidus, разрабатывающий AI для производственных роботов оборонных подрядчиков, собрал $30M в pre-seed и seed раундах от Kleiner Perkins и Costanoa.",
+          "why": "Демонстрирует переток венчурного капитала в узкие ниши (defense AI, robotics) и достижение семизначных зарплат на ранних стадиях с оборонными компаниями.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261115/p5#a261115p5",
+          "candidate_urls": [
+            "https://www.techmeme.com/261115/p5#a261115p5"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Студентка создала AI-Tamagotchi, которые учат носить гантели и ухаживать за цветами",
+          "what": "OATs — компактные E Ink-гаджеты от Carnegie Mellon, дающие растениям, скейтбордам и гантелям виртуальные личности и побуждающие владельцев к здоровым привычкам.",
+          "why": "Оригинальный пример использования AI для поведенческого дизайна и персональных IoT-девайсов; может вдохновить на новые потребительские AI-продукты.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+          "candidate_urls": [
+            "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "DeepSeek V3 переписали в 200 строк Jax на GitHub",
+          "what": "Проект на GitHub реимплементирует архитектуру DeepSeek V3 минимальным кодом на фреймворке Jax, делая внутреннее устройство модели более прозрачным.",
+          "why": "Показывает, что сложные современные модели можно разложить на составные части; полезно для аналитиков, изучающих архитектуры конкурентов и открытых моделей.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hacker News",
+          "source_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+          "candidate_urls": [
+            "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Nebuly привлекла $21M Series A для измерения ROI AI-агентов в компаниях",
+          "what": "Платформа Nebuly помогает предприятиям измерять бизнес-ценность AI-агентов через анализ их влияния на производительность и доход; собрала раунд от ведущих инвесторов.",
+          "why": "Критическая инфраструктура для фаундеров: если компании не могут измерить ROI своих AI-агентов, они не будут их покупать — спрос на такие инструменты растет.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Techmeme",
+          "source_url": "https://www.techmeme.com/261115/p3#a261115p3",
+          "candidate_urls": [
+            "https://www.techmeme.com/261115/p3#a261115p3"
+          ],
+          "n": 6,
           "status": "offered"
         }
       ]

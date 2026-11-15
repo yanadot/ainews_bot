@@ -1,53 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI превысила $10 млрд квартальной выручки",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Grok Bot 1.0: боты для командной работы",
-      "url": "https://x.ai/news/grok-bot-1-0",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Gemini Decisions API: структурные решения вместо текста",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AlphaGenome 2: как мутации влияют на клетки",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AWS Emulator: инструмент, написанный AI-агентами",
-      "url": "https://www.techmeme.com/261111/p41#a261111p41",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "United Airlines запретила AI-ассистентам бронировать билеты",
-      "url": "https://www.techmeme.com/261111/p39#a261111p39",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Edelbyte: $70M на аналитику для AI-агентов",
-      "url": "https://www.techmeme.com/261111/p33#a261111p33",
-      "ts": "2026-11-11T21:49:38Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AlphaGenome 2: как мутации влияют на клетки",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "ts": "2026-11-11T22:13:43Z"
-    },
-    {
       "topic": "Jensen Huang ушел из NVIDIA после 33 лет и скандала со шпионажем",
       "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
       "ts": "2026-11-12T15:54:34Z",
@@ -333,6 +286,42 @@
       "topic": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
       "ts": "2026-11-14T19:16:15Z"
+    },
+    {
+      "topic": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
+      "url": "https://www.techmeme.com/261115/p4#a261115p4",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia годами поддерживала высокие цены на GPU через финансовые схемы",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nidus привлекла $30M для AI-роботов в оборонной промышленности",
+      "url": "https://www.techmeme.com/261115/p5#a261115p5",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Студентка создала AI-Tamagotchi, которые учат носить гантели и ухаживать за цветами",
+      "url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepSeek V3 переписали в 200 строк Jax на GitHub",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nebuly привлекла $21M Series A для измерения ROI AI-агентов в компаниях",
+      "url": "https://www.techmeme.com/261115/p3#a261115p3",
+      "ts": "2026-11-15T14:37:28Z",
+      "kind": "offered"
     }
   ]
 }

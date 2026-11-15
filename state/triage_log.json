@@ -1,24 +1,42 @@
 {
-  "run_at": "2026-11-14T19:00:13Z",
-  "candidates": 5,
+  "run_at": "2026-11-15T14:37:28Z",
+  "candidates": 16,
   "offered": [
     {
       "n": 1,
-      "title": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+      "title": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261115/p4#a261115p4"
     },
     {
       "n": 2,
-      "title": "Databento поднял $100M для инфраструктуры AI-лаб",
+      "title": "Nvidia годами поддерживала высокие цены на GPU через финансовые схемы",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261114/p16#a261114p16"
+      "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
     },
     {
       "n": 3,
-      "title": "Huang ушёл — финансирование опен-сурс AI рискует иссякнуть",
+      "title": "Nidus привлекла $30M для AI-роботов в оборонной промышленности",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261114/p15#a261114p15"
+      "source_url": "https://www.techmeme.com/261115/p5#a261115p5"
+    },
+    {
+      "n": 4,
+      "title": "Студентка создала AI-Tamagotchi, которые учат носить гантели и ухаживать за цветами",
+      "score": 3,
+      "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
+    },
+    {
+      "n": 5,
+      "title": "DeepSeek V3 переписали в 200 строк Jax на GitHub",
+      "score": 3,
+      "source_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
+    },
+    {
+      "n": 6,
+      "title": "Nebuly привлекла $21M Series A для измерения ROI AI-агентов в компаниях",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261115/p3#a261115p3"
     }
   ]
 }
