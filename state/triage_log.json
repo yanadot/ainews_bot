@@ -1,48 +1,54 @@
 {
-  "run_at": "2026-11-15T20:15:09Z",
-  "candidates": 8,
+  "run_at": "2026-11-16T16:52:50Z",
+  "candidates": 43,
   "offered": [
     {
       "n": 1,
-      "title": "США и союзники согласовали защиту AI-технологий от Китая",
-      "score": 4,
-      "source_url": "https://techmeme.com/261115/p12"
+      "title": "AI теперь автоматически генерирует эксплойты из патчей",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261116/p30"
     },
     {
       "n": 2,
-      "title": "Конгресс ужесточает правила экспорта AI-чипов после скандала Nvidia",
+      "title": "ChatGPT теперь помогает врачам: computer-use в медицине",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+      "source_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
     },
     {
       "n": 3,
-      "title": "Apple планирует выпустить AR-очки с Siri на WWDC 2027",
+      "title": "NVIDIA Vera Rubin: новая монополия на железо для AI",
       "score": 4,
-      "source_url": "https://techmeme.com/261115/p10"
+      "source_url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
     },
     {
       "n": 4,
-      "title": "Jensen Huang обсуждает возвращение в Nvidia с близкими",
+      "title": "Cohere научила AI поиск по видео с таймстемпами",
       "score": 4,
-      "source_url": "https://techmeme.com/261115/p14"
+      "source_url": "https://cohere.com/blog/video-intelligence-preview"
     },
     {
       "n": 5,
-      "title": "Nvidia обратилась к властям Тайваня из-за дела о контрабанде чипов",
-      "score": 3,
-      "source_url": "https://techmeme.com/261115/p13"
+      "title": "Corma привлекла $125M на защиту AI от AI",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261116/p28"
     },
     {
       "n": 6,
-      "title": "Министр финансов требует от Nvidia изменить руководство",
-      "score": 3,
-      "source_url": "https://techmeme.com/261115/p8"
+      "title": "Qwen4-Max от Alibaba отвечает на OpenAI",
+      "score": 4,
+      "source_url": "https://qwen.ai/blog?id=qwen4-max"
     },
     {
       "n": 7,
-      "title": "Министр торговли США летит в Китай из-за конфликта по чипам",
+      "title": "GPT-6 Astra доказала новую физическую теорию",
+      "score": 4,
+      "source_url": "https://openai.com/index/step-toward-defining-the-standard-model"
+    },
+    {
+      "n": 8,
+      "title": "Dreamteam бросает вызов Salesforce с AI-CRM",
       "score": 3,
-      "source_url": "https://techmeme.com/261115/p11"
+      "source_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
     }
   ]
 }

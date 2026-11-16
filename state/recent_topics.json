@@ -1,108 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Google запустила Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SpaceX инвестирует $74B в дата-центры для AI",
-      "url": "https://www.techmeme.com/261112/p54#a261112p54",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nebius планирует $40B на AI-инфраструктуру",
-      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "ChatGPT и Gemini рекомендуют поддельные магазины",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "IBM Granite 4.1 получила язык для управления данными",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SoftBank потеряла $3B на газовых турбинах для AI",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind просит помощь у UK-правительства в профсоюзе",
-      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI поддерживает ограничение экспорта чипов в Китай",
-      "url": "https://www.techmeme.com/261112/p59#a261112p59",
-      "ts": "2026-11-12T22:10:35Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Конгресс начал расследование Nvidia по Jensen Huang и его сделкам",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cohere расширила платформу суверенного AI для киберзащиты",
-      "url": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "llama.cpp выпустила версию 1.0 как стандарт локального AI",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic выпустила Claude Duet — массовый AI-агент",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI запустила Daybreak для безопасности веб-приложений",
-      "url": "https://www.techmeme.com/261113/p5#a261113p5",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google запустила Gemini 4 Hydrogen с функцией Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Edge0 выпустила 145B модель для запуска на обычных ПК",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepX создала чип для 100B моделей на роботах и дронах",
-      "url": "https://www.techmeme.com/261113/p8#a261113p8",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "xFusion готовится к IPO на $1.2 млрд в Шэньчжэне",
-      "url": "https://www.techmeme.com/261113/p6#a261113p6",
-      "ts": "2026-11-13T15:14:13Z",
-      "kind": "offered"
-    },
-    {
       "topic": "ChatGPT Wallet: агенты теперь совершают покупки",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "ts": "2026-11-13T21:33:30Z",
@@ -315,6 +213,54 @@
       "topic": "Министр торговли США летит в Китай из-за конфликта по чипам",
       "url": "https://techmeme.com/261115/p11",
       "ts": "2026-11-15T20:15:09Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI теперь автоматически генерирует эксплойты из патчей",
+      "url": "https://www.techmeme.com/261116/p30",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "ChatGPT теперь помогает врачам: computer-use в медицине",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA Vera Rubin: новая монополия на железо для AI",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cohere научила AI поиск по видео с таймстемпами",
+      "url": "https://cohere.com/blog/video-intelligence-preview",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Corma привлекла $125M на защиту AI от AI",
+      "url": "https://www.techmeme.com/261116/p28",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Qwen4-Max от Alibaba отвечает на OpenAI",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "GPT-6 Astra доказала новую физическую теорию",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Dreamteam бросает вызов Salesforce с AI-CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "ts": "2026-11-16T16:52:50Z",
       "kind": "offered"
     }
   ]
