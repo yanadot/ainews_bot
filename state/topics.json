@@ -500,7 +500,8 @@
             "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
           ],
           "n": 2,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 175
         },
         {
           "title": "Anthropic направляется в верхний край IPO; Amazon и Google скупают доли",
