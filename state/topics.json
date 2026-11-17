@@ -1,151 +1,5 @@
 {
   "digests": {
-    "11141400": {
-      "created_at": "2026-11-14T14:00:54Z",
-      "message_id": 163,
-      "topics": [
-        {
-          "title": "Уход Huang подрезал финансирование AI-стартапов",
-          "what": "После ухода CEO Jensen Huang из Nvidia VCs и фаундеры ожидают, что компания урежет инвестиции в стартапы, которые покупали её GPU.",
-          "why": "Показывает зависимость AI-стартапов от корпоративных инвесторов и концентрацию влияния; важно для фаундеров планировать диверсификацию источников финансирования.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon индексирует все товары интернета",
-          "what": "Amazon строит World Product Graph — базу данных каждого товара, продаваемого онлайн, включая конкурентов, для улучшения поиска.",
-          "why": "Стратегический ход против специализированного AI-поиска; показывает, как большие плееры захватывают данные для монополизации поиска.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "AI-powered ransomware опасен для новичков в хакинге",
-          "what": "Атакующие используют AI для создания и развёртывания ransomware, снижая барьер входа: уже наносит серьёзный урон без полной автоматизации.",
-          "why": "Критично для компаний с AI-стратегией безопасности; показывает, что защита от AI-оружия станет конкурентным преимуществом.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-          "candidate_urls": [
-            "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "AI переводит авиацию на автопилот",
-          "what": "Авиаиндустрия быстро внедряет AI для беспилотников и сокращает диспетчеров, что раньше казалось невозможным в консервативной отрасли.",
-          "why": "Показывает, как AI трансформирует критичные инфраструктуры; важно для инвесторов и регуляторов, ведущих дискуссию о рисках.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-          "candidate_urls": [
-            "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "WhiteMatter учит AI контролировать друг друга",
-          "what": "Стартап привлёк $20M Series A на guardian-агентов, которые мониторят и ограничивают действия других AI-систем.",
-          "why": "Новый подход к безопасности и управлению AI; интересно для компаний с множеством AI-агентов и для инвесторов в developer tools.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261114/p5#a261114p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261114/p5#a261114p5"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Operand автоматизирует due diligence для инвесторов",
-          "what": "Стартап привлёк $31M на AI-инструменты для анализа сделок в PE-фирмах, достигнув оценки $220M.",
-          "why": "Показывает, как AI трансформирует финансовые процессы; интересно для фаундеров в enterprise tools и инвесторов в финтех.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261114/p6#a261114p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261114/p6#a261114p6"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Charta Health автоматизирует медицинское документирование",
-          "what": "Стартап привлёк $55M Series B на AI для чартов, биллинга и кодирования в здравоохранении.",
-          "why": "Большой раунд в healthcare показывает, что AI-решения для административной нагрузки привлекают серьёзные инвестиции.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261114/p4#a261114p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261114/p4#a261114p4"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Luminal нашла нишу в inference-облаках",
-          "what": "Стартап привлёк $25M Series A на inference-облако и компилятор для запуска моделей на разных чипах.",
-          "why": "Интерес к альтернативе Nvidia для инференса; важно для стартапов, ищущих диверсификацию от зависимости одного вендора.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261114/p3#a261114p3",
-          "candidate_urls": [
-            "https://www.techmeme.com/261114/p3#a261114p3"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Директор Nvidia продал $1B акций за неделю до скандала",
-          "what": "Высокопоставленный сотрудник Nvidia избавился от акций незадолго до ухода CEO и разоблачения.",
-          "why": "Сигнальный инцидент о внутренней информированности; интересно для инвесторов, следящих за корпоративным управлением и рисками.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Hacker News",
-          "source_url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-          "candidate_urls": [
-            "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "SBF потерял $36B в Anthropic из-за ранней продажи",
-          "what": "Финансовая история: инвестиция в $500M в Anthropic в 2021 была бы стоила $37B при IPO на $1.5T, но Bankman-Fried продал её за $1.3B.",
-          "why": "Показывает волатильность оценок AI-компаний и важность времени входа-выхода для инвесторов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261113/p42#a261113p42",
-          "candidate_urls": [
-            "https://www.techmeme.com/261113/p42#a261113p42"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "11141900": {
       "created_at": "2026-11-14T19:00:13Z",
       "message_id": 164,
@@ -612,6 +466,127 @@
             "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
           ],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "11171648": {
+      "created_at": "2026-11-17T16:48:31Z",
+      "message_id": 174,
+      "topics": [
+        {
+          "title": "NVIDIA представила Nemotron for Science на SC26",
+          "what": "Анонсировала инструменты для AI-агентов, способных планировать эксперименты и проверять результаты, плюс новый GPU Rubin HPC.",
+          "why": "Исследователи и компании получат инструменты для научных AI-агентов; покажет, как будут строить AI-системы лаборатории.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/ian-buck-sc26/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
+          "what": "Компания из DeepMind, создающая AI для разработки лекарств, привлекла $5 млрд для клинических испытаний кандидатов.",
+          "why": "Демонстрирует масштабирование AI для конкретных результатов в биотеке; показывает рынку, что AI работает на реальные продукты.",
+          "category": "funding",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic направляется в верхний край IPO; Amazon и Google скупают доли",
+          "what": "Компания гайдит инвесторов на цену $78/акция (верхний край); SEC filing показал Amazon ~15%, Google ~14% после IPO и размещения.",
+          "why": "Крупная AI-компания выходит на публичный рынок; концентрация долей у гигантов показывает их ставку, но и риск зависимости.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg via Techmeme",
+          "source_url": "https://www.techmeme.com/261117/p28#a261117p28",
+          "candidate_urls": [
+            "https://www.techmeme.com/261117/p28#a261117p28",
+            "https://www.techmeme.com/261117/p25#a261117p25"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Jensen Huang готов вернуться CEO Nvidia, если попросит совет",
+          "what": "Основатель компании впервые публично заявил, что согласился бы вернуться на должность CEO по просьбе совета директоров.",
+          "why": "Сигнал возможного разрешения кризиса лидерства; важно для инвесторов и стратегии восстановления Nvidia после скандала.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+            "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+            "https://www.techmeme.com/261117/p37#a261117p37"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "DOJ подтверждает расследование Megaspeed, связанной с уходом Huang",
+          "what": "Минюстиция и Торговый департамент США подтвердили, что расследуют Megaspeed, сингапурский центр обработки, связанный с CEO.",
+          "why": "Показывает государственный контроль над AI-инфраструктурой; компании должны учитывать географию партнёров при расширении глобально.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+          "candidate_urls": [
+            "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Genesis AI собрала $500M для универсальных роботов",
+          "what": "Парижская компания привлекла Series A на разработку робота с высокой ловкостью для складов, производства и дома.",
+          "why": "Крупный капитал направляется в физические AI и робототехнику; показывает веру в воплощённые AI-системы и автоматизацию.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "Wall Street Journal via Techmeme",
+          "source_url": "https://www.techmeme.com/261117/p27#a261117p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261117/p27#a261117p27"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Science Corp достигла $3.5B на нейроимплантах для слепоты",
+          "what": "Компания привлекла $400M Series D для масштабирования нейроимплантов, помогающих слепым восстановить зрение.",
+          "why": "Демонстрирует масштабирование AI-решений в медицине; нейротех становится растущим направлением инвестиций и стартапов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Perplexity достигла $1B годовой выручки, выросла 4x за 2026",
+          "what": "AI-поисковик вышел на $1B годовой выручки с 4x ростом за год; добавил Monitor API и Computer Teammates.",
+          "why": "Демонстрирует зрелость рынка AI-агентов и поиска; показывает, как AI-компании масштабируются до venture-уровня выручки.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+          "candidate_urls": [
+            "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

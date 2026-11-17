@@ -1,48 +1,54 @@
 {
-  "run_at": "2026-11-17T00:42:58Z",
-  "candidates": 34,
+  "run_at": "2026-11-17T16:48:31Z",
+  "candidates": 26,
   "offered": [
     {
       "n": 1,
-      "title": "Калифорния подала в суд на OpenAI за рогу AI-агентов",
+      "title": "NVIDIA представила Nemotron for Science на SC26",
       "score": 5,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+      "source_url": "https://blogs.nvidia.com/blog/ian-buck-sc26/"
     },
     {
       "n": 2,
-      "title": "Anthropic готовит IPO: Altimeter вложит $5 млрд",
+      "title": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261116/p43#a261116p43"
+      "source_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/"
     },
     {
       "n": 3,
-      "title": "OpenAI даёт ChatGPT бесплатно 200k исследователей",
+      "title": "Anthropic направляется в верхний край IPO; Amazon и Google скупают доли",
       "score": 4,
-      "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+      "source_url": "https://www.techmeme.com/261117/p28#a261117p28"
     },
     {
       "n": 4,
-      "title": "Дата-центры США потребляют столько электричества, как целая страна",
+      "title": "Jensen Huang готов вернуться CEO Nvidia, если попросит совет",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+      "source_url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement"
     },
     {
       "n": 5,
-      "title": "OpenAI встроила учёных для контроля поведения моделей",
+      "title": "DOJ подтверждает расследование Megaspeed, связанной с уходом Huang",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
+      "source_url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update"
     },
     {
       "n": 6,
-      "title": "Artex: AI-инструмент для хакинга взломал сети за часы",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
+      "title": "Genesis AI собрала $500M для универсальных роботов",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261117/p27#a261117p27"
     },
     {
       "n": 7,
-      "title": "Apple тестирует платёж за сложные функции Siri",
+      "title": "Science Corp достигла $3.5B на нейроимплантах для слепоты",
       "score": 3,
-      "source_url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
+      "source_url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/"
+    },
+    {
+      "n": 8,
+      "title": "Perplexity достигла $1B годовой выручки, выросла 4x за 2026",
+      "score": 3,
+      "source_url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/"
     }
   ]
 }

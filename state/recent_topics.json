@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Уход Huang подрезал финансирование AI-стартапов",
-      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon индексирует все товары интернета",
-      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-powered ransomware опасен для новичков в хакинге",
-      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI переводит авиацию на автопилот",
-      "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "WhiteMatter учит AI контролировать друг друга",
-      "url": "https://www.techmeme.com/261114/p5#a261114p5",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Operand автоматизирует due diligence для инвесторов",
-      "url": "https://www.techmeme.com/261114/p6#a261114p6",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Charta Health автоматизирует медицинское документирование",
-      "url": "https://www.techmeme.com/261114/p4#a261114p4",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Luminal нашла нишу в inference-облаках",
-      "url": "https://www.techmeme.com/261114/p3#a261114p3",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Директор Nvidia продал $1B акций за неделю до скандала",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SBF потерял $36B в Anthropic из-за ранней продажи",
-      "url": "https://www.techmeme.com/261113/p42#a261113p42",
-      "ts": "2026-11-14T14:00:54Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
       "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
       "ts": "2026-11-14T19:00:13Z",
@@ -249,6 +189,54 @@
       "topic": "Apple тестирует платёж за сложные функции Siri",
       "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
       "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NVIDIA представила Nemotron for Science на SC26",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
+      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic направляется в верхний край IPO; Amazon и Google скупают доли",
+      "url": "https://www.techmeme.com/261117/p28#a261117p28",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jensen Huang готов вернуться CEO Nvidia, если попросит совет",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DOJ подтверждает расследование Megaspeed, связанной с уходом Huang",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Genesis AI собрала $500M для универсальных роботов",
+      "url": "https://www.techmeme.com/261117/p27#a261117p27",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Science Corp достигла $3.5B на нейроимплантах для слепоты",
+      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+      "ts": "2026-11-17T16:48:31Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Perplexity достигла $1B годовой выручки, выросла 4x за 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "ts": "2026-11-17T16:48:31Z",
       "kind": "offered"
     }
   ]
