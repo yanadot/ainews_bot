@@ -1,29 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "ts": "2026-11-14T19:00:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Databento поднял $100M для инфраструктуры AI-лаб",
-      "url": "https://www.techmeme.com/261114/p16#a261114p16",
-      "ts": "2026-11-14T19:00:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Huang ушёл — финансирование опен-сурс AI рискует иссякнуть",
-      "url": "https://www.techmeme.com/261114/p15#a261114p15",
-      "ts": "2026-11-14T19:00:13Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Huang уходит из NVIDIA — азиатские правительства мониторят риски",
-      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "ts": "2026-11-14T19:16:15Z"
-    },
-    {
       "topic": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
       "url": "https://www.techmeme.com/261115/p4#a261115p4",
       "ts": "2026-11-15T14:37:28Z",
@@ -243,6 +220,60 @@
       "topic": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
       "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
       "ts": "2026-11-17T16:53:47Z"
+    },
+    {
+      "topic": "Microsoft объявила о семи новых моделях MAI на Ignite 2026",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI выпустила GPT-6.2 Astra и Sol с computer use",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia прекращает продажи чипов в Китай",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Model ML привлекла $250M на автоматизацию инвестбанкинга",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia подтвердила commitment к open source и Hugging Face",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Calif нашла Java4Shell с помощью GPT-6 Cyber",
+      "url": "https://www.techmeme.com/261117/p55#a261117p55",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia отчитала Q3: выручка $115.8B, +103% год-в-год",
+      "url": "https://www.techmeme.com/261117/p56#a261117p56",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Suno запустила Visuals: видео к музыке за минуту",
+      "url": "https://www.techmeme.com/261117/p58#a261117p58",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI Astra for Law лидирует в юридическом анализе",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "ts": "2026-11-17T23:50:01Z",
+      "kind": "offered"
     }
   ]
 }
