@@ -1,54 +1,48 @@
 {
-  "run_at": "2026-11-16T16:52:50Z",
-  "candidates": 43,
+  "run_at": "2026-11-17T00:42:58Z",
+  "candidates": 34,
   "offered": [
     {
       "n": 1,
-      "title": "AI теперь автоматически генерирует эксплойты из патчей",
+      "title": "Калифорния подала в суд на OpenAI за рогу AI-агентов",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261116/p30"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
     },
     {
       "n": 2,
-      "title": "ChatGPT теперь помогает врачам: computer-use в медицине",
-      "score": 4,
-      "source_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+      "title": "Anthropic готовит IPO: Altimeter вложит $5 млрд",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261116/p43#a261116p43"
     },
     {
       "n": 3,
-      "title": "NVIDIA Vera Rubin: новая монополия на железо для AI",
+      "title": "OpenAI даёт ChatGPT бесплатно 200k исследователей",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/"
+      "source_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
     },
     {
       "n": 4,
-      "title": "Cohere научила AI поиск по видео с таймстемпами",
+      "title": "Дата-центры США потребляют столько электричества, как целая страна",
       "score": 4,
-      "source_url": "https://cohere.com/blog/video-intelligence-preview"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
     },
     {
       "n": 5,
-      "title": "Corma привлекла $125M на защиту AI от AI",
+      "title": "OpenAI встроила учёных для контроля поведения моделей",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261116/p28"
+      "source_url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/"
     },
     {
       "n": 6,
-      "title": "Qwen4-Max от Alibaba отвечает на OpenAI",
+      "title": "Artex: AI-инструмент для хакинга взломал сети за часы",
       "score": 4,
-      "source_url": "https://qwen.ai/blog?id=qwen4-max"
+      "source_url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"
     },
     {
       "n": 7,
-      "title": "GPT-6 Astra доказала новую физическую теорию",
-      "score": 4,
-      "source_url": "https://openai.com/index/step-toward-defining-the-standard-model"
-    },
-    {
-      "n": 8,
-      "title": "Dreamteam бросает вызов Salesforce с AI-CRM",
+      "title": "Apple тестирует платёж за сложные функции Siri",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
+      "source_url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription"
     }
   ]
 }

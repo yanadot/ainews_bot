@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "ChatGPT Wallet: агенты теперь совершают покупки",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Запрещённые Nvidia H100 обучают китайские AI-модели",
-      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia вела агрессивное лобби для экспорта чипов",
-      "url": "https://www.techmeme.com/261113/p29#a261113p29",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia ищет нового CEO вместо уходящего Huang",
-      "url": "https://www.techmeme.com/261113/p27#a261113p27",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Thinking Machines запустила 4-битное обучение",
-      "url": "https://thinkingmachines.ai/blog/end-to-end-4-bit-training/",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI расформировала команду робототехники",
-      "url": "https://www.techmeme.com/261113/p19#a261113p19",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Wall Street боится замедления AI-сделок после Huang",
-      "url": "https://www.techmeme.com/261113/p20#a261113p20",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind открыла датасеты для прогноза погоды",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Инвестиции Nvidia в стартапы теперь под вопросом",
-      "url": "https://www.techmeme.com/261113/p24#a261113p24",
-      "ts": "2026-11-13T21:33:30Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Уход Huang подрезал финансирование AI-стартапов",
       "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
       "ts": "2026-11-14T14:00:54Z",
@@ -261,6 +207,48 @@
       "topic": "Dreamteam бросает вызов Salesforce с AI-CRM",
       "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
       "ts": "2026-11-16T16:52:50Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Калифорния подала в суд на OpenAI за рогу AI-агентов",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic готовит IPO: Altimeter вложит $5 млрд",
+      "url": "https://www.techmeme.com/261116/p43#a261116p43",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI даёт ChatGPT бесплатно 200k исследователей",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Дата-центры США потребляют столько электричества, как целая страна",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI встроила учёных для контроля поведения моделей",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Artex: AI-инструмент для хакинга взломал сети за часы",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "ts": "2026-11-17T00:42:58Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple тестирует платёж за сложные функции Siri",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "ts": "2026-11-17T00:42:58Z",
       "kind": "offered"
     }
   ]
