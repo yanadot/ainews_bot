@@ -1,95 +1,5 @@
 {
   "digests": {
-    "11151437": {
-      "created_at": "2026-11-15T14:37:28Z",
-      "message_id": 170,
-      "topics": [
-        {
-          "title": "TSMC запустила $500M фонд для инвестирования в чип-стартапы",
-          "what": "Тайванская TSMC создает фонд объемом $500 млн для инвестирования в производителей чипов и их поставщиков, позиционируя себя как возможный «будущий Nvidia».",
-          "why": "Крупнейший производитель полупроводников переходит в инвестиционный бизнес и может определять направление развития AI-инфраструктуры после выхода Jensen Huang.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261115/p4#a261115p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261115/p4#a261115p4"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia годами поддерживала высокие цены на GPU через финансовые схемы",
-          "what": "TechSpot раскрыла, что Nvidia использовала циклические финансовые сделки для искусственного удержания высоких цен на графические процессоры.",
-          "why": "Раскрытие ценовой манипуляции подрывает нарратив о дефиците и заставляет пересмотреть модель ценообразования Nvidia и её конкурентов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechSpot",
-          "source_url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-          "candidate_urls": [
-            "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Nidus привлекла $30M для AI-роботов в оборонной промышленности",
-          "what": "Стартап Nidus, разрабатывающий AI для производственных роботов оборонных подрядчиков, собрал $30M в pre-seed и seed раундах от Kleiner Perkins и Costanoa.",
-          "why": "Демонстрирует переток венчурного капитала в узкие ниши (defense AI, robotics) и достижение семизначных зарплат на ранних стадиях с оборонными компаниями.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261115/p5#a261115p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261115/p5#a261115p5"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Студентка создала AI-Tamagotchi, которые учат носить гантели и ухаживать за цветами",
-          "what": "OATs — компактные E Ink-гаджеты от Carnegie Mellon, дающие растениям, скейтбордам и гантелям виртуальные личности и побуждающие владельцев к здоровым привычкам.",
-          "why": "Оригинальный пример использования AI для поведенческого дизайна и персональных IoT-девайсов; может вдохновить на новые потребительские AI-продукты.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-          "candidate_urls": [
-            "https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "DeepSeek V3 переписали в 200 строк Jax на GitHub",
-          "what": "Проект на GitHub реимплементирует архитектуру DeepSeek V3 минимальным кодом на фреймворке Jax, делая внутреннее устройство модели более прозрачным.",
-          "why": "Показывает, что сложные современные модели можно разложить на составные части; полезно для аналитиков, изучающих архитектуры конкурентов и открытых моделей.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hacker News",
-          "source_url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-          "candidate_urls": [
-            "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Nebuly привлекла $21M Series A для измерения ROI AI-агентов в компаниях",
-          "what": "Платформа Nebuly помогает предприятиям измерять бизнес-ценность AI-агентов через анализ их влияния на производительность и доход; собрала раунд от ведущих инвесторов.",
-          "why": "Критическая инфраструктура для фаундеров: если компании не могут измерить ROI своих AI-агентов, они не будут их покупать — спрос на такие инструменты растет.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Techmeme",
-          "source_url": "https://www.techmeme.com/261115/p3#a261115p3",
-          "candidate_urls": [
-            "https://www.techmeme.com/261115/p3#a261115p3"
-          ],
-          "n": 6,
-          "status": "offered"
-        }
-      ]
-    },
     "11152015": {
       "created_at": "2026-11-15T20:15:09Z",
       "message_id": 171,
@@ -659,6 +569,124 @@
           "source_url": "https://openai.com/index/astra-law-6-2",
           "candidate_urls": [],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11181618": {
+      "created_at": "2026-11-18T16:18:54Z",
+      "message_id": 181,
+      "topics": [
+        {
+          "title": "NVIDIA выпустила RTX Spark: компактные десктопы для локального AI",
+          "what": "NVIDIA совместно с ASUS, Dell и MSI запустила компактные десктопы RTX Spark для работы с AI: локальное создание картинок и видео, тонировка моделей, агенты на Windows с объёмом памяти до 128 ГБ.",
+          "why": "Демократизирует локальный AI для продактов: заказчики могут крутить модели на своём железе без облака, снимает комплекс про дорогую инфраструктуру.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+          "candidate_urls": [
+            "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Крупные чипо-компании игнорируют мораль AI: фактчек pause",
+          "what": "The Verge разбирает, как NVIDIA, AMD игнорируют призыв к паузе на пограничные модели. OpenAI летом паузила, но остальной рынок инвестирует агрессивнее, чем когда-либо.",
+          "why": "Важный сигнал: моральные паузы не работают без обязательности. Для инвесторов и фаундеров — рынок остаётся открыт для рисков, безопасность — на совести каждого.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA ставит $65 млрд на стартапы, но уход Huang шатает сделки",
+          "what": "Инвестпортфель NVIDIA вырос с $20 млрд до $65 млрд за 9 месяцев благодаря агрессивной стратегии Huang. Его уход с должности ставит под вопрос будущие инвестиции.",
+          "why": "Сигнал: лидер NVIDIA — ключ к её стратегии. Если поменяется руководство, портфель может переформатироваться, это повлияет на инвестиционный климат для AI-стартапов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "ByteDance добавляет $500 млн в Azure для доступа к OpenAI моделям",
+          "what": "ByteDance ведёт переговоры о дополнительных $500 млн на облаке Microsoft Azure, чтобы иметь доступ к моделям OpenAI. OpenAI против такой договорённости.",
+          "why": "Показывает войну за AI: китайская соперница готова платить огромные деньги за американские модели вместо своих. TikTok-корпорация бежит от рисков локального AI.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Information / Techmeme",
+          "source_url": "https://www.techmeme.com/261118/p21#a261118p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261118/p21#a261118p21"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Rumble-2-Flash: открытая модель для речи на 40+ языках",
+          "what": "Hugging Face выпустила Rumble-2-Flash — 500 млн параметров модель для распознавания и генерации речи на 40+ языках, доступна для коммерческого использования.",
+          "why": "Мейнстрим открытых моделей для речи: фаундеры могут встроить многоязычную речь без OpenAI, экономия на API.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/rumble-2-flash",
+          "candidate_urls": [
+            "https://huggingface.co/blog/rumble-2-flash"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Time-Series Models: новая граница для прогнозов и аналитики",
+          "what": "IBM Research с Hugging Face запустили семейство моделей для работы с временными рядами — прогнозы, аномалии, сезонность с привычным API.",
+          "why": "Критична для финтеха, энергетики, логистики: специальная модель лучше генерального AI для конкретной задачи, можно встроить в реальное приложение.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "candidate_urls": [
+            "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Humyn Labs привлекла $47 млн на данные для робототехники",
+          "what": "Индийский стартап Humyn Labs собрал $47 млн для подготовки тренировочных данных робототехнических компаний США. 90% выручки идёт в Америку.",
+          "why": "Аутсорс обучения роботов: Индия становится фабрикой данных для AI-робов, как раньше была фабрикой для заводов. Новая категория B2B-AI.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Osmo: AI-нос учится распознавать запахи как человек",
+          "what": "Стартап Osmo собрал 30 экспертов-парфюмеров у аэропорта Нью-Йорка, которые описывают запахи для обучения AI-модели распознаванию (вроде нейросети для запахов).",
+          "why": "Нишевой AI-продукт: подсказывает фаундерам, как взять специализацию (химия, аромат) + AI для создания конкурентного преимущества в неочевидных областях.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+          "candidate_urls": [
+            "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]
