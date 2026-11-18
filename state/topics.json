@@ -1,109 +1,5 @@
 {
   "digests": {
-    "11152015": {
-      "created_at": "2026-11-15T20:15:09Z",
-      "message_id": 171,
-      "topics": [
-        {
-          "title": "США и союзники согласовали защиту AI-технологий от Китая",
-          "what": "Pax Silica (США, Япония, UK, Индия) создали совместный список AI-технологий и цепочек поставок для защиты от Китая перед встречей Trump с Xi Jinping.",
-          "why": "Официальное соглашение между странами переводит экспортные ограничения в государственную политику, что напрямую повлияет на компании с глобальными операциями.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://techmeme.com/261115/p12",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p12"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Конгресс ужесточает правила экспорта AI-чипов после скандала Nvidia",
-          "what": "Демократы и республиканцы поддерживают несколько законопроектов для ужесточения экспортных ограничений на AI-чипы вслед за скандалом с Jensen Huang.",
-          "why": "Новые правила повлияют на чип-компании и тех, кто их экспортирует; может замедлить доступность GPU для AI-разработки за пределами США.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Apple планирует выпустить AR-очки с Siri на WWDC 2027",
-          "what": "Apple готовит умные очки с интеграцией Siri и третьесторонних приложений iPhone, планирует представить на конференции WWDC и запустить к концу 2027.",
-          "why": "Показывает, как крупные компании встраивают AI в аппаратное обеспечение; может вдохновить новые форм-факторы и модели для других продуктов.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Mark Gurman / Bloomberg",
-          "source_url": "https://techmeme.com/261115/p10",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p10"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Jensen Huang обсуждает возвращение в Nvidia с близкими",
-          "what": "После уходаа в ноябре Jensen Huang обсуждает возможность вернуться на пост CEO, его союзники создали боевую комнату для лоббирования возвращения.",
-          "why": "Показывает масштаб кризиса в Nvidia; финансовые рынки остро реагируют на статус ключевых фигур, что влияет на инвестиции и стратегию компаний.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://techmeme.com/261115/p14",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p14"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia обратилась к властям Тайваня из-за дела о контрабанде чипов",
-          "what": "Nvidia попросила помощь у тайванских чиновников и совета у TSMC после того как менеджер компании обвинён в помощи контрабанде чипов в Китай.",
-          "why": "Иллюстрирует, какие рычаги давления есть у государств на крупные компании и насколько серьёзны последствия экспортных нарушений.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Bloomberg",
-          "source_url": "https://techmeme.com/261115/p13",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p13"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Министр финансов требует от Nvidia изменить руководство",
-          "what": "Scott Bessent потребовал от Nvidia пересмотреть лидерство и дал 10 дней на ответы о том, продвигала ли компания незаконные продажи чипов для роста выручки.",
-          "why": "Государственные чиновники напрямую вмешиваются в корпоративное управление — это необычно и показывает серьёзность давления на Nvidia.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Bloomberg",
-          "source_url": "https://techmeme.com/261115/p8",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p8"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Министр торговли США летит в Китай из-за конфликта по чипам",
-          "what": "Howard Lutnick планирует полететь на Air Force One с президентом в Китай на встречу с Xi Jinping после столкновений с коллегами над ограничениями на чипы Nvidia.",
-          "why": "Показывает борьбу фракций в администрации США; политика экспорта чипов решается в реальном времени на высшем уровне и это влияет на весь рынок.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Semafor",
-          "source_url": "https://techmeme.com/261115/p11",
-          "candidate_urls": [
-            "https://techmeme.com/261115/p11"
-          ],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
     "11161652": {
       "created_at": "2026-11-16T16:52:50Z",
       "message_id": 172,
@@ -687,6 +583,153 @@
             "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11182303": {
+      "created_at": "2026-11-18T23:03:40Z",
+      "message_id": 182,
+      "topics": [
+        {
+          "title": "Anthropic прошла IPO с оценкой $1.5 трлн",
+          "what": "Anthropic ценится в $1.5 трлн на IPO при цене $83/share, выше прогнозируемого диапазона.",
+          "why": "Показывает как инвесторы оценивают перспективы лабов-разработчиков моделей в условиях конкуренции с OpenAI и Google.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI модели оптимизировали дизайн чипов",
+          "what": "GPT-6 Astra оптимизировала схемы в чипах Jalapeño и улучшила RISC-V ядра с помощью AI-дизайна.",
+          "why": "AI теперь напрямую влияет на аппаратное обеспечение, что может изменить динамику производства чипов.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "candidate_urls": [
+            "https://openai.com/index/advancing-chip-design-with-our-models",
+            "https://www.techmeme.com/261118/p45#a261118p45"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI объяснила как управляет рисками frontier AI",
+          "what": "OpenAI рассказала о практиках: alignment моделей, sandboxing, блокирующие механизмы и постоянный мониторинг.",
+          "why": "В условиях давления регуляторов это показывает серьёзность разработчика к безопасности развитых моделей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/managing-frontier-ai-risk",
+          "candidate_urls": [
+            "https://openai.com/index/managing-frontier-ai-risk"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "DaisyRose-27B: новая модель для efficient post-training",
+          "what": "Hugging Face представила DaisyRose-27B с инновационным подходом к post-training для 27-миллиардной модели.",
+          "why": "Открытые модели наступают на эффективность, конкурируя с закрытыми лабами на скорости обучения и качестве.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "candidate_urls": [
+            "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Palo Alto купила Applied Compute за $4.5B",
+          "what": "Компания по cybersecurity приобрела стартап, который помогает кастомизировать открытые модели ИИ.",
+          "why": "Enterprise уже считает специализацию под AI ядром своего будущего, покупая инструменты для адаптации моделей.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Wall Street Journal",
+          "source_url": "https://www.techmeme.com/261118/p41#a261118p41",
+          "candidate_urls": [
+            "https://www.techmeme.com/261118/p41#a261118p41"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила Gemini 4 Neon",
+          "what": "Новая версия Gemini 4 Neon с быстрым выполнением задач в программировании, работе с информацией и науке.",
+          "why": "Прямой ответ Google на GPT-6, показывает гонку скорости и способностей между лабами.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://www.techmeme.com/261118/p44#a261118p44",
+          "candidate_urls": [
+            "https://www.techmeme.com/261118/p44#a261118p44"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Google Gemini app работает на слабых Android",
+          "what": "Gemini Live и создание изображений теперь доступны на смартфонах с 4GB оперативной памяти.",
+          "why": "AI-функции становятся доступнее мобильной аудитории, создавая давление на конкурентов сделать то же.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Google",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+          "candidate_urls": [
+            "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "MoE модели: 180B параметров на 32GB памяти",
+          "what": "Hugging Face показала как запустить очень большую модель на обычном оборудовании через expert streaming.",
+          "why": "Инженеры получают инструменты для локального AI без облака, снижая зависимость от дорогих сервисов.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Hugging Face",
+          "source_url": "https://huggingface.co/blog/moe-expert-streaming",
+          "candidate_urls": [
+            "https://huggingface.co/blog/moe-expert-streaming"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI Codex может безопасно выполнять команды",
+          "what": "Codex sandbox позволяет ИИ запускать команды на вашей машине с контролируемыми ограничениями доступа.",
+          "why": "Computer use становится стандартом разработки, это показывает как делать это без рисков для безопасности.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/inside-the-codex-sandbox",
+          "candidate_urls": [
+            "https://openai.com/index/inside-the-codex-sandbox"
+          ],
+          "n": 9,
+          "status": "offered"
+        },
+        {
+          "title": "Sierra: $1.5B для customer support AI",
+          "what": "Стартап Bret Taylor Sierra привлекает $1.5B, валюация выросла с $15.8B в мае до ~$30B, годовая выручка $400M+.",
+          "why": "Enterprise AI становится отдельной инвестиционной категорией, стартапы растут быстрее традиционных SaaS-продуктов.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "The Information",
+          "source_url": "https://www.techmeme.com/261118/p40#a261118p40",
+          "candidate_urls": [
+            "https://www.techmeme.com/261118/p40#a261118p40"
+          ],
+          "n": 10,
           "status": "offered"
         }
       ]

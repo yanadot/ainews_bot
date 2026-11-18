@@ -1,54 +1,66 @@
 {
-  "run_at": "2026-11-18T16:18:54Z",
-  "candidates": 30,
+  "run_at": "2026-11-18T23:03:40Z",
+  "candidates": 36,
   "offered": [
     {
       "n": 1,
-      "title": "NVIDIA выпустила RTX Spark: компактные десктопы для локального AI",
-      "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
+      "title": "Anthropic прошла IPO с оценкой $1.5 трлн",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
     },
     {
       "n": 2,
-      "title": "Крупные чипо-компании игнорируют мораль AI: фактчек pause",
-      "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
+      "title": "OpenAI модели оптимизировали дизайн чипов",
+      "score": 5,
+      "source_url": "https://openai.com/index/advancing-chip-design-with-our-models"
     },
     {
       "n": 3,
-      "title": "NVIDIA ставит $65 млрд на стартапы, но уход Huang шатает сделки",
+      "title": "OpenAI объяснила как управляет рисками frontier AI",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
+      "source_url": "https://openai.com/index/managing-frontier-ai-risk"
     },
     {
       "n": 4,
-      "title": "ByteDance добавляет $500 млн в Azure для доступа к OpenAI моделям",
+      "title": "DaisyRose-27B: новая модель для efficient post-training",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261118/p21#a261118p21"
+      "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
     },
     {
       "n": 5,
-      "title": "Rumble-2-Flash: открытая модель для речи на 40+ языках",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/rumble-2-flash"
+      "title": "Palo Alto купила Applied Compute за $4.5B",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261118/p41#a261118p41"
     },
     {
       "n": 6,
-      "title": "Time-Series Models: новая граница для прогнозов и аналитики",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+      "title": "Google выпустила Gemini 4 Neon",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261118/p44#a261118p44"
     },
     {
       "n": 7,
-      "title": "Humyn Labs привлекла $47 млн на данные для робототехники",
+      "title": "Google Gemini app работает на слабых Android",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
     },
     {
       "n": 8,
-      "title": "Osmo: AI-нос учится распознавать запахи как человек",
+      "title": "MoE модели: 180B параметров на 32GB памяти",
       "score": 3,
-      "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+      "source_url": "https://huggingface.co/blog/moe-expert-streaming"
+    },
+    {
+      "n": 9,
+      "title": "OpenAI Codex может безопасно выполнять команды",
+      "score": 3,
+      "source_url": "https://openai.com/index/inside-the-codex-sandbox"
+    },
+    {
+      "n": 10,
+      "title": "Sierra: $1.5B для customer support AI",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261118/p40#a261118p40"
     }
   ]
 }

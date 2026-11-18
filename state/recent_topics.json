@@ -1,48 +1,6 @@
 {
   "topics": [
     {
-      "topic": "США и союзники согласовали защиту AI-технологий от Китая",
-      "url": "https://techmeme.com/261115/p12",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Конгресс ужесточает правила экспорта AI-чипов после скандала Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple планирует выпустить AR-очки с Siri на WWDC 2027",
-      "url": "https://techmeme.com/261115/p10",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jensen Huang обсуждает возвращение в Nvidia с близкими",
-      "url": "https://techmeme.com/261115/p14",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia обратилась к властям Тайваня из-за дела о контрабанде чипов",
-      "url": "https://techmeme.com/261115/p13",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Министр финансов требует от Nvidia изменить руководство",
-      "url": "https://techmeme.com/261115/p8",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Министр торговли США летит в Китай из-за конфликта по чипам",
-      "url": "https://techmeme.com/261115/p11",
-      "ts": "2026-11-15T20:15:09Z",
-      "kind": "offered"
-    },
-    {
       "topic": "AI теперь автоматически генерирует эксплойты из патчей",
       "url": "https://www.techmeme.com/261116/p30",
       "ts": "2026-11-16T16:52:50Z",
@@ -285,6 +243,66 @@
       "topic": "Osmo: AI-нос учится распознавать запахи как человек",
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "ts": "2026-11-18T16:18:54Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic прошла IPO с оценкой $1.5 трлн",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI модели оптимизировали дизайн чипов",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI объяснила как управляет рисками frontier AI",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DaisyRose-27B: новая модель для efficient post-training",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Palo Alto купила Applied Compute за $4.5B",
+      "url": "https://www.techmeme.com/261118/p41#a261118p41",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google выпустила Gemini 4 Neon",
+      "url": "https://www.techmeme.com/261118/p44#a261118p44",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google Gemini app работает на слабых Android",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "MoE модели: 180B параметров на 32GB памяти",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI Codex может безопасно выполнять команды",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "ts": "2026-11-18T23:03:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Sierra: $1.5B для customer support AI",
+      "url": "https://www.techmeme.com/261118/p40#a261118p40",
+      "ts": "2026-11-18T23:03:40Z",
       "kind": "offered"
     }
   ]
