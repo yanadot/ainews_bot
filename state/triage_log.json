@@ -1,66 +1,54 @@
 {
-  "run_at": "2026-11-18T23:03:40Z",
-  "candidates": 36,
+  "run_at": "2026-11-19T16:27:19Z",
+  "candidates": 27,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic прошла IPO с оценкой $1.5 трлн",
+      "title": "Anthropic прошла IPO — самый большой в истории ($107B)",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+      "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
     },
     {
       "n": 2,
-      "title": "OpenAI модели оптимизировали дизайн чипов",
+      "title": "Microsoft CEO объяснил $60K выкупов как ставку на AI",
       "score": 5,
-      "source_url": "https://openai.com/index/advancing-chip-design-with-our-models"
+      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
     },
     {
       "n": 3,
-      "title": "OpenAI объяснила как управляет рисками frontier AI",
+      "title": "OpenAI исследует как AI ускоряет научные работы",
       "score": 4,
-      "source_url": "https://openai.com/index/managing-frontier-ai-risk"
+      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier"
     },
     {
       "n": 4,
-      "title": "DaisyRose-27B: новая модель для efficient post-training",
+      "title": "ChatGPT добавила Live Dictation для работы с микрофоном",
       "score": 4,
-      "source_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
     },
     {
       "n": 5,
-      "title": "Palo Alto купила Applied Compute за $4.5B",
+      "title": "Европейская комиссия подтвердила взлом через ARTEX AI-инструмент",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261118/p41#a261118p41"
+      "source_url": "https://www.techmeme.com/261119/p32#a261119p32"
     },
     {
       "n": 6,
-      "title": "Google выпустила Gemini 4 Neon",
+      "title": "Google запустила Project Suncatcher — TPU-спутники с Blue Origin",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261118/p44#a261118p44"
+      "source_url": "https://www.techmeme.com/261119/p30#a261119p30"
     },
     {
       "n": 7,
-      "title": "Google Gemini app работает на слабых Android",
-      "score": 3,
-      "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+      "title": "Инвестиции в дата-центры достигнут $4 трлн к 2030",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261119/p24#a261119p24"
     },
     {
       "n": 8,
-      "title": "MoE модели: 180B параметров на 32GB памяти",
+      "title": "Apple запустила Siri Recap — постоянное слушание на часах",
       "score": 3,
-      "source_url": "https://huggingface.co/blog/moe-expert-streaming"
-    },
-    {
-      "n": 9,
-      "title": "OpenAI Codex может безопасно выполнять команды",
-      "score": 3,
-      "source_url": "https://openai.com/index/inside-the-codex-sandbox"
-    },
-    {
-      "n": 10,
-      "title": "Sierra: $1.5B для customer support AI",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261118/p40#a261118p40"
+      "source_url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
     }
   ]
 }

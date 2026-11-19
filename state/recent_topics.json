@@ -304,6 +304,54 @@
       "url": "https://www.techmeme.com/261118/p40#a261118p40",
       "ts": "2026-11-18T23:03:40Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Anthropic прошла IPO — самый большой в истории ($107B)",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft CEO объяснил $60K выкупов как ставку на AI",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI исследует как AI ускоряет научные работы",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "ChatGPT добавила Live Dictation для работы с микрофоном",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Европейская комиссия подтвердила взлом через ARTEX AI-инструмент",
+      "url": "https://www.techmeme.com/261119/p32#a261119p32",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google запустила Project Suncatcher — TPU-спутники с Blue Origin",
+      "url": "https://www.techmeme.com/261119/p30#a261119p30",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инвестиции в дата-центры достигнут $4 трлн к 2030",
+      "url": "https://www.techmeme.com/261119/p24#a261119p24",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Apple запустила Siri Recap — постоянное слушание на часах",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "ts": "2026-11-19T16:27:19Z",
+      "kind": "offered"
     }
   ]
 }
