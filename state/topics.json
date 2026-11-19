@@ -1,125 +1,5 @@
 {
   "digests": {
-    "11161652": {
-      "created_at": "2026-11-16T16:52:50Z",
-      "message_id": 172,
-      "topics": [
-        {
-          "title": "AI теперь автоматически генерирует эксплойты из патчей",
-          "what": "Google обнаружила первый случай, когда злоумышленники используют автономный AI для превращения патчей безопасности в рабочие эксплойты без участия человека.",
-          "why": "Это новый уровень угрозы: AI может быстро закрывать окно между публикацией патча и его применением на боевых системах.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Google TIG",
-          "source_url": "https://www.techmeme.com/261116/p30",
-          "candidate_urls": [
-            "https://www.techmeme.com/261116/p30"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "ChatGPT теперь помогает врачам: computer-use в медицине",
-          "what": "OpenAI запустила computer-use агенты для здравоохранения с поддержкой клинических плагинов для работы с медицинским софтом.",
-          "why": "Агенты переходят из логистики в критичные области; это показывает готовность к эксплуатации на реальных данных пациентов.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-          "candidate_urls": [
-            "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-            "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA Vera Rubin: новая монополия на железо для AI",
-          "what": "NVIDIA представила платформу Vera Rubin с GPU Rubin HPC; побеждает во всех тестах MLPerf Training и впервые участвует в категории Endpoints.",
-          "why": "Монополия NVIDIA на AI-инфраструктуру расширяется; конкуренты остаются значительно позади.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA",
-          "source_url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
-            "https://blogs.nvidia.com/blog/rubin-hpc/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Cohere научила AI поиск по видео с таймстемпами",
-          "what": "Cohere запустила Video Intelligence — поиск по видеоконтенту с точными таймстемпами для корпоративных агентов и систем поиска.",
-          "why": "Новая модальность (видео) становится доступна для enterprise; раньше это были только текст и изображения.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Cohere",
-          "source_url": "https://cohere.com/blog/video-intelligence-preview",
-          "candidate_urls": [
-            "https://cohere.com/blog/video-intelligence-preview"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Corma привлекла $125M на защиту AI от AI",
-          "what": "Компания Corma привлекла $125M Series A для AI-агентов, специализирующихся на киберзащите с защитой от известных атак.",
-          "why": "Инвесторы видят, что AI-системы сами стали мишенью для хакеров; защита AI становится отдельным многомиллиардным бизнесом.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "Wall Street Journal",
-          "source_url": "https://www.techmeme.com/261116/p28",
-          "candidate_urls": [
-            "https://www.techmeme.com/261116/p28"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Qwen4-Max от Alibaba отвечает на OpenAI",
-          "what": "Alibaba выпустила Qwen4-Max — языковую модель, которая конкурирует с лучшими моделями на рынке по мнению сообщества разработчиков.",
-          "why": "Китайские модели продолжают закрывать разницу в качестве; конкурентное давление на OpenAI и другие лаборатории усиливается.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Alibaba Qwen",
-          "source_url": "https://qwen.ai/blog?id=qwen4-max",
-          "candidate_urls": [
-            "https://qwen.ai/blog?id=qwen4-max"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "GPT-6 Astra доказала новую физическую теорию",
-          "what": "Исследователи использовали GPT-6 Astra для разработки определения Standard Model на решётке; первый крупный физический результат, доказанный AI.",
-          "why": "AI уже не помощник в науке, а генерирует и верифицирует новые теории; это качественный скачок в научных возможностях.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/step-toward-defining-the-standard-model",
-          "candidate_urls": [
-            "https://openai.com/index/step-toward-defining-the-standard-model"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Dreamteam бросает вызов Salesforce с AI-CRM",
-          "what": "Экс-сотрудники Freshworks создали Dreamteam — AI-native CRM; привлекли $53M и уже используют 100+ компаний в 13 странах.",
-          "why": "Первый успешный вызов Salesforce со стороны AI-первого подхода; показывает, что традиционные лидеры уязвимы к переиндексированию из-за AI.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11170042": {
       "created_at": "2026-11-17T00:42:58Z",
       "message_id": 173,
@@ -837,6 +717,106 @@
           "source_url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
           "candidate_urls": [],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11192311": {
+      "created_at": "2026-11-19T23:11:31Z",
+      "message_id": 184,
+      "topics": [
+        {
+          "title": "Anthropic начала торговлю на Nasdaq по $111.50 за акцию",
+          "what": "Компания Anthropic (создатель Claude) прошла листинг, открыв торги выше IPO-цены на 34%. Оценка компании — $1.3 трлн на закрытии торговой сессии.",
+          "why": "Самое крупное IPO в истории AI-компаний — сигнал инвесторам и рынку, что генеративный AI держится как долгоживущий бизнес, не пузырь.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+            "https://www.techmeme.com/261119/p40#a261119p40"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Meta Muse путает чужие разговоры и сливает приватные данные",
+          "what": "Сотрудники Meta обнаружили, что AI-агент Muse в разговорах подмешивает чужие сообщения, данные чужих счётов и личные запросы из других бесед. Серьёз инцидент.",
+          "why": "Это показывает, что для любого AI-агента в корпе нужна изоляция данных — проблему заметит любая компания, внедряющая подобное. Конкуренты будут подчёркивать фокус на privacy.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+          "candidate_urls": [],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
+          "what": "Бывший CEO NVIDIA Jensen Huang подал в отставку после раскрытия информации об романе с предполагаемой связью с шпионом. DOJ расследует компанию Megaspeed, связанную с уходом.",
+          "why": "Это встряска в верхушке главного поставщика AI-чипов — прямо влияет на стратегию NVIDIA и её инвестиции в стартапы. Мобильность руководства будет вопросом для партнёров.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "candidate_urls": [
+            "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too",
+            "https://www.techmeme.com/261119/p54#a261119p54"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Apple разрабатывает собственного AI-агента — видно по вакансии",
+          "what": "Job listing показывает, что Apple ищет engineer для создания AI-агента: он должен писать код, бродить по веб, управлять приложениями и координировать подагентов.",
+          "why": "Apple вводит своего конкурента OpenAI и Google в категорию AI-агентов. Для про-продактов это значит, что сертификация в экосистеме Apple станет ещё важнее.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "candidate_urls": [
+            "https://www.techmeme.com/261119/p52#a261119p52"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Google добавил computer use на Gemini для Mac — агент работает с приложениями",
+          "what": "Gemini на macOS теперь может выполнять многошаговые операции в фоне: заполнять формы, организовывать файлы, работать с веб-сайтами и приложениями.",
+          "why": "Google вводит computer use на десктоп вслед за Anthropic. Для фундеров это открывает локальную автоматизацию, для конкурентов — benchmark по решению проблемы доступа к OS API.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "NVIDIA и Microsoft расширили ускорение вычислений с Azure на Windows ПК",
+          "what": "На Microsoft Ignite NVIDIA и Microsoft объявили full-stack сотрудничество: теперь компании могут строить и деплоить AI-приложения на Azure, Windows-машинах и промышленных системах.",
+          "why": "Это открывает рынок локального AI на десктопах вне облака. Для стартапов это новый вектор дистрибьюции продакта без зависимости от облачных провайдеров.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "NVIDIA Blog",
+          "source_url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила Tool Retrieval в Gemini API — модель лучше выбирает инструменты",
+          "what": "Новая функция в Gemini API позволяет модели умнее выбирать, какой из доступных инструментов использовать для решения задачи.",
+          "why": "Для разработчиков это улучшает надёжность AI-агентов. Для продактов это означает более предсказуемое поведение, если модель сама решает, какой инструмент вызвать.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google Blog",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "candidate_urls": [],
+          "n": 7,
           "status": "offered"
         }
       ]

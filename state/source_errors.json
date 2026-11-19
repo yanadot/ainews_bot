@@ -1,11 +1,4 @@
 {
-  "checked_at": "2026-11-19T16:25:40Z",
-  "errors": [
-    {
-      "id": "hn_ai",
-      "name": "Hacker News (AI, 200+)",
-      "url": "https://hnrss.org/newest?points=200&count=50",
-      "error": "TimeoutError: The read operation timed out"
-    }
-  ]
+  "checked_at": "2026-11-19T23:09:53Z",
+  "errors": []
 }

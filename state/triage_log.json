@@ -1,54 +1,48 @@
 {
-  "run_at": "2026-11-19T16:27:19Z",
-  "candidates": 27,
+  "run_at": "2026-11-19T23:11:31Z",
+  "candidates": 36,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic прошла IPO — самый большой в истории ($107B)",
+      "title": "Anthropic начала торговлю на Nasdaq по $111.50 за акцию",
       "score": 5,
-      "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
+      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"
     },
     {
       "n": 2,
-      "title": "Microsoft CEO объяснил $60K выкупов как ставку на AI",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/"
+      "title": "Meta Muse путает чужие разговоры и сливает приватные данные",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
     },
     {
       "n": 3,
-      "title": "OpenAI исследует как AI ускоряет научные работы",
+      "title": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
       "score": 4,
-      "source_url": "https://openai.com/index/research-acceleration-jagged-frontier"
+      "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
     },
     {
       "n": 4,
-      "title": "ChatGPT добавила Live Dictation для работы с микрофоном",
+      "title": "Apple разрабатывает собственного AI-агента — видно по вакансии",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation"
+      "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
     },
     {
       "n": 5,
-      "title": "Европейская комиссия подтвердила взлом через ARTEX AI-инструмент",
+      "title": "Google добавил computer use на Gemini для Mac — агент работает с приложениями",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261119/p32#a261119p32"
+      "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
     },
     {
       "n": 6,
-      "title": "Google запустила Project Suncatcher — TPU-спутники с Blue Origin",
+      "title": "NVIDIA и Microsoft расширили ускорение вычислений с Azure на Windows ПК",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261119/p30#a261119p30"
+      "source_url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs"
     },
     {
       "n": 7,
-      "title": "Инвестиции в дата-центры достигнут $4 трлн к 2030",
+      "title": "Google выпустила Tool Retrieval в Gemini API — модель лучше выбирает инструменты",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261119/p24#a261119p24"
-    },
-    {
-      "n": 8,
-      "title": "Apple запустила Siri Recap — постоянное слушание на часах",
-      "score": 3,
-      "source_url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on"
+      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
     }
   ]
 }
