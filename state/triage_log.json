@@ -1,48 +1,66 @@
 {
-  "run_at": "2026-11-19T23:11:31Z",
-  "candidates": 36,
+  "run_at": "2026-11-20T15:59:39Z",
+  "candidates": 25,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic начала торговлю на Nasdaq по $111.50 за акцию",
+      "title": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price"
+      "source_url": "https://www.anthropic.com/news/ipo-close"
     },
     {
       "n": 2,
-      "title": "Meta Muse путает чужие разговоры и сливает приватные данные",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says"
+      "title": "Claude доказала гипотезу Римана, открытую 167 лет назад",
+      "score": 5,
+      "source_url": "https://alpo.ge/remark.pdf"
     },
     {
       "n": 3,
-      "title": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline"
+      "title": "Jensen Huang уходит из NVIDIA на фоне обвинений в жестоком обращении",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261120/p12#a261120p12"
     },
     {
       "n": 4,
-      "title": "Apple разрабатывает собственного AI-агента — видно по вакансии",
+      "title": "Signal блокирует AI-агентов от чтения скринов на смартфонах",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+      "source_url": "https://www.techmeme.com/261120/p9#a261120p9"
     },
     {
       "n": 5,
-      "title": "Google добавил computer use на Gemini для Mac — агент работает с приложениями",
+      "title": "NVIDIA прекращает продажи чипов H200 в Китай",
       "score": 4,
-      "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+      "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
     },
     {
       "n": 6,
-      "title": "NVIDIA и Microsoft расширили ускорение вычислений с Azure на Windows ПК",
+      "title": "Apple разрабатывает собственного AI-агента для Mac",
       "score": 4,
-      "source_url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs"
+      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
     },
     {
       "n": 7,
-      "title": "Google выпустила Tool Retrieval в Gemini API — модель лучше выбирает инструменты",
+      "title": "AI спроектировала и верифицировала новую CPU-архитектуру Frostbite",
       "score": 4,
-      "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval"
+      "source_url": "https://architectlabs.com/blog/frostbite"
+    },
+    {
+      "n": 8,
+      "title": "Hugging Face выпустила adapter-ы для адаптации моделей к инфраструктуре",
+      "score": 3,
+      "source_url": "https://huggingface.co/blog/harness-adapters-at-scale"
+    },
+    {
+      "n": 9,
+      "title": "Pragmatik Labs привлекла финансирование с оценкой $5B",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261120/p10#a261120p10"
+    },
+    {
+      "n": 10,
+      "title": "Gemini 4 Neon возглавила Models Engineering Index",
+      "score": 3,
+      "source_url": "https://git-aarvin.github.io/mei/"
     }
   ]
 }
