@@ -321,6 +321,66 @@
       "topic": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
       "url": "https://www.anthropic.com/news/ipo-close",
       "ts": "2026-11-20T17:05:49Z"
+    },
+    {
+      "topic": "Jensen Huang уходит из Nvidia: скандал с ложью",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Claude помогла доказать гипотезу Римана спустя 167 лет",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cognition собирает $2B на оценке $75B после уже $3B в 2026",
+      "url": "https://www.techmeme.com/261120/p36#a261120p36",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI создала MedChemBench для разработки лекарств",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia потеряла $2.5 трлн за 7 недель: акции упали на 44%",
+      "url": "https://www.techmeme.com/261120/p29#a261120p29",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Trump грозит налогом на дата-центры AI вне США",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SEC расследует финансовые практики Nvidia",
+      "url": "https://www.techmeme.com/261120/p31#a261120p31",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Inkling 2 Mini: 26.4B открытая модель для локального AI",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "METR: способности AI растут экспоненциально, суждение отстаёт",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI защищается от обратного дистиллирования способностей",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
     }
   ]
 }

@@ -1,66 +1,66 @@
 {
-  "run_at": "2026-11-20T15:59:39Z",
-  "candidates": 25,
+  "run_at": "2026-11-20T22:34:48Z",
+  "candidates": 23,
   "offered": [
     {
       "n": 1,
-      "title": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
+      "title": "Jensen Huang уходит из Nvidia: скандал с ложью",
       "score": 5,
-      "source_url": "https://www.anthropic.com/news/ipo-close"
+      "source_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
     },
     {
       "n": 2,
-      "title": "Claude доказала гипотезу Римана, открытую 167 лет назад",
-      "score": 5,
-      "source_url": "https://alpo.ge/remark.pdf"
+      "title": "Claude помогла доказать гипотезу Римана спустя 167 лет",
+      "score": 4,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
     },
     {
       "n": 3,
-      "title": "Jensen Huang уходит из NVIDIA на фоне обвинений в жестоком обращении",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261120/p12#a261120p12"
+      "title": "Cognition собирает $2B на оценке $75B после уже $3B в 2026",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261120/p36#a261120p36"
     },
     {
       "n": 4,
-      "title": "Signal блокирует AI-агентов от чтения скринов на смартфонах",
+      "title": "OpenAI создала MedChemBench для разработки лекарств",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261120/p9#a261120p9"
+      "source_url": "https://openai.com/index/introducing-medchembench"
     },
     {
       "n": 5,
-      "title": "NVIDIA прекращает продажи чипов H200 в Китай",
+      "title": "Nvidia потеряла $2.5 трлн за 7 недель: акции упали на 44%",
       "score": 4,
-      "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
+      "source_url": "https://www.techmeme.com/261120/p29#a261120p29"
     },
     {
       "n": 6,
-      "title": "Apple разрабатывает собственного AI-агента для Mac",
+      "title": "Trump грозит налогом на дата-центры AI вне США",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
+      "source_url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
     },
     {
       "n": 7,
-      "title": "AI спроектировала и верифицировала новую CPU-архитектуру Frostbite",
+      "title": "SEC расследует финансовые практики Nvidia",
       "score": 4,
-      "source_url": "https://architectlabs.com/blog/frostbite"
+      "source_url": "https://www.techmeme.com/261120/p31#a261120p31"
     },
     {
       "n": 8,
-      "title": "Hugging Face выпустила adapter-ы для адаптации моделей к инфраструктуре",
-      "score": 3,
-      "source_url": "https://huggingface.co/blog/harness-adapters-at-scale"
+      "title": "Inkling 2 Mini: 26.4B открытая модель для локального AI",
+      "score": 4,
+      "source_url": "https://huggingface.co/blog/inkling2mini"
     },
     {
       "n": 9,
-      "title": "Pragmatik Labs привлекла финансирование с оценкой $5B",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261120/p10#a261120p10"
+      "title": "METR: способности AI растут экспоненциально, суждение отстаёт",
+      "score": 4,
+      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
     },
     {
       "n": 10,
-      "title": "Gemini 4 Neon возглавила Models Engineering Index",
-      "score": 3,
-      "source_url": "https://git-aarvin.github.io/mei/"
+      "title": "OpenAI защищается от обратного дистиллирования способностей",
+      "score": 4,
+      "source_url": "https://openai.com/index/combatting-adversarial-distillation"
     }
   ]
 }
