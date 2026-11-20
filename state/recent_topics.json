@@ -1,59 +1,6 @@
 {
   "topics": [
     {
-      "topic": "NVIDIA представила Nemotron for Science на SC26",
-      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic направляется в верхний край IPO; Amazon и Google скупают доли",
-      "url": "https://www.techmeme.com/261117/p28#a261117p28",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jensen Huang готов вернуться CEO Nvidia, если попросит совет",
-      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DOJ подтверждает расследование Megaspeed, связанной с уходом Huang",
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Genesis AI собрала $500M для универсальных роботов",
-      "url": "https://www.techmeme.com/261117/p27#a261117p27",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Science Corp достигла $3.5B на нейроимплантах для слепоты",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Perplexity достигла $1B годовой выручки, выросла 4x за 2026",
-      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
-      "ts": "2026-11-17T16:48:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Isomorphic Labs привлекла $5B Series C для AI в медицине",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "ts": "2026-11-17T16:53:47Z"
-    },
-    {
       "topic": "Microsoft объявила о семи новых моделях MAI на Ignite 2026",
       "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
       "ts": "2026-11-17T23:50:01Z",
@@ -369,6 +316,11 @@
       "url": "https://git-aarvin.github.io/mei/",
       "ts": "2026-11-20T15:59:39Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "ts": "2026-11-20T17:05:49Z"
     }
   ]
 }

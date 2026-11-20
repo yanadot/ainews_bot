@@ -735,8 +735,9 @@
             "https://www.techmeme.com/261120/p14#a261120p14"
           ],
           "n": 1,
-          "status": "awaiting_focus",
-          "focus_msg_id": 191
+          "status": "written",
+          "focus_msg_id": 191,
+          "focus": ""
         },
         {
           "title": "Claude доказала гипотезу Римана, открытую 167 лет назад",
