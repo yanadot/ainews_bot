@@ -750,8 +750,9 @@
           "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
           "candidate_urls": [],
           "n": 2,
-          "status": "awaiting_focus",
-          "focus_msg_id": 185
+          "status": "written",
+          "focus_msg_id": 185,
+          "focus": "Фокус на фактических данных. Не делать выводы, а рассказать историю"
         },
         {
           "title": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
