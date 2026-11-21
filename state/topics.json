@@ -795,8 +795,9 @@
             "https://www.techmeme.com/261121/p4#a261121p4"
           ],
           "n": 1,
-          "status": "awaiting_focus",
-          "focus_msg_id": 197
+          "status": "written",
+          "focus_msg_id": 197,
+          "focus": "Расскажи про гипотезу и ее суть простыми словами"
         },
         {
           "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
