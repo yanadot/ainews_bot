@@ -795,7 +795,8 @@
             "https://www.techmeme.com/261121/p4#a261121p4"
           ],
           "n": 1,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 197
         },
         {
           "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
