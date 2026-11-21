@@ -1,4 +1,11 @@
 {
-  "checked_at": "2026-11-21T15:10:07Z",
-  "errors": []
+  "checked_at": "2026-11-21T21:00:00Z",
+  "errors": [
+    {
+      "id": "hn_ai",
+      "name": "Hacker News (AI, 200+)",
+      "url": "https://hnrss.org/newest?points=200&count=50",
+      "error": "HTTPError: HTTP Error 502: Bad Gateway"
+    }
+  ]
 }

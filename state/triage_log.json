@@ -1,54 +1,42 @@
 {
-  "run_at": "2026-11-21T15:11:40Z",
-  "candidates": 14,
+  "run_at": "2026-11-21T21:01:34Z",
+  "candidates": 7,
   "offered": [
     {
       "n": 1,
-      "title": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
+      "title": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
       "score": 5,
-      "source_url": "https://www.scientificamerican.com"
+      "source_url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/"
     },
     {
       "n": 2,
-      "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
+      "title": "Инвестиции китайских компаний в AI достигли $139B в 2026",
       "score": 4,
-      "source_url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+      "source_url": "https://www.techmeme.com/261121/p7#a261121p7"
     },
     {
       "n": 3,
-      "title": "США расширили запреты на экспорт чипов за пределы AI",
+      "title": "Amazon готовится купить AI-стартап Decart за $7.5 млрд",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261121/p2#a261121p2"
+      "source_url": "https://www.techmeme.com/261121/p8#a261121p8"
     },
     {
       "n": 4,
-      "title": "SEC проверяет Nvidia на финансовые ошибки",
-      "score": 4,
-      "source_url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627"
+      "title": "Alice Huang: контрабанда чипов Nvidia в Китай через множество компаний",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261121/p9#a261121p9"
     },
     {
       "n": 5,
-      "title": "Google DeepMind нанял философа для работы над сознанием AI",
+      "title": "ООН не согласовала правила для автономного оружия",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261121/p6#a261121p6"
+      "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
     },
     {
       "n": 6,
-      "title": "Ubisoft запустила студию для AI-персонажей в играх",
+      "title": "AI-агенты в мессенджерах: новая категория AI-продуктов",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261121/p1#a261121p1"
-    },
-    {
-      "n": 7,
-      "title": "Cursor пересматривает использование китайских моделей",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261120/p39#a261120p39"
-    },
-    {
-      "n": 8,
-      "title": "Oracle застраховала финансирование контракта с OpenAI",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261120/p43#a261120p43"
+      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
     }
   ]
 }

@@ -1,123 +1,5 @@
 {
   "digests": {
-    "11181618": {
-      "created_at": "2026-11-18T16:18:54Z",
-      "message_id": 181,
-      "topics": [
-        {
-          "title": "NVIDIA выпустила RTX Spark: компактные десктопы для локального AI",
-          "what": "NVIDIA совместно с ASUS, Dell и MSI запустила компактные десктопы RTX Spark для работы с AI: локальное создание картинок и видео, тонировка моделей, агенты на Windows с объёмом памяти до 128 ГБ.",
-          "why": "Демократизирует локальный AI для продактов: заказчики могут крутить модели на своём железе без облака, снимает комплекс про дорогую инфраструктуру.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
-          "candidate_urls": [
-            "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Крупные чипо-компании игнорируют мораль AI: фактчек pause",
-          "what": "The Verge разбирает, как NVIDIA, AMD игнорируют призыв к паузе на пограничные модели. OpenAI летом паузила, но остальной рынок инвестирует агрессивнее, чем когда-либо.",
-          "why": "Важный сигнал: моральные паузы не работают без обязательности. Для инвесторов и фаундеров — рынок остаётся открыт для рисков, безопасность — на совести каждого.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA ставит $65 млрд на стартапы, но уход Huang шатает сделки",
-          "what": "Инвестпортфель NVIDIA вырос с $20 млрд до $65 млрд за 9 месяцев благодаря агрессивной стратегии Huang. Его уход с должности ставит под вопрос будущие инвестиции.",
-          "why": "Сигнал: лидер NVIDIA — ключ к её стратегии. Если поменяется руководство, портфель может переформатироваться, это повлияет на инвестиционный климат для AI-стартапов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "ByteDance добавляет $500 млн в Azure для доступа к OpenAI моделям",
-          "what": "ByteDance ведёт переговоры о дополнительных $500 млн на облаке Microsoft Azure, чтобы иметь доступ к моделям OpenAI. OpenAI против такой договорённости.",
-          "why": "Показывает войну за AI: китайская соперница готова платить огромные деньги за американские модели вместо своих. TikTok-корпорация бежит от рисков локального AI.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Information / Techmeme",
-          "source_url": "https://www.techmeme.com/261118/p21#a261118p21",
-          "candidate_urls": [
-            "https://www.techmeme.com/261118/p21#a261118p21"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Rumble-2-Flash: открытая модель для речи на 40+ языках",
-          "what": "Hugging Face выпустила Rumble-2-Flash — 500 млн параметров модель для распознавания и генерации речи на 40+ языках, доступна для коммерческого использования.",
-          "why": "Мейнстрим открытых моделей для речи: фаундеры могут встроить многоязычную речь без OpenAI, экономия на API.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/rumble-2-flash",
-          "candidate_urls": [
-            "https://huggingface.co/blog/rumble-2-flash"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Time-Series Models: новая граница для прогнозов и аналитики",
-          "what": "IBM Research с Hugging Face запустили семейство моделей для работы с временными рядами — прогнозы, аномалии, сезонность с привычным API.",
-          "why": "Критична для финтеха, энергетики, логистики: специальная модель лучше генерального AI для конкретной задачи, можно встроить в реальное приложение.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "candidate_urls": [
-            "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Humyn Labs привлекла $47 млн на данные для робототехники",
-          "what": "Индийский стартап Humyn Labs собрал $47 млн для подготовки тренировочных данных робототехнических компаний США. 90% выручки идёт в Америку.",
-          "why": "Аутсорс обучения роботов: Индия становится фабрикой данных для AI-робов, как раньше была фабрикой для заводов. Новая категория B2B-AI.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Osmo: AI-нос учится распознавать запахи как человек",
-          "what": "Стартап Osmo собрал 30 экспертов-парфюмеров у аэропорта Нью-Йорка, которые описывают запахи для обучения AI-модели распознаванию (вроде нейросети для запахов).",
-          "why": "Нишевой AI-продукт: подсказывает фаундерам, как взять специализацию (химия, аромат) + AI для создания конкурентного преимущества в неочевидных областях.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11182303": {
       "created_at": "2026-11-18T23:03:40Z",
       "message_id": 182,
@@ -895,6 +777,96 @@
             "https://www.techmeme.com/261120/p43#a261120p43"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11212101": {
+      "created_at": "2026-11-21T21:01:34Z",
+      "message_id": 202,
+      "topics": [
+        {
+          "title": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
+          "what": "Исследователи нашли уязвимость в сервисах-роутерах (OpenRouter, Vercel и др.), где API-ключи утекают даже при включенной защите Zero Data Retention; затронуты миллионы запросов.",
+          "why": "Компаниям нужно пересмотреть безопасность при использовании AI-роутеров — риск кражи ключей реален и шире, чем казалось.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Ars Technica",
+          "source_url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p10#a261121p10"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Инвестиции китайских компаний в AI достигли $139B в 2026",
+          "what": "Крупнейшие компании Китая удваивают капитальные расходы до $139 млрд в 2026, но AI-лаборатории составляют менее 8% — основной фокус на инфраструктуру.",
+          "why": "Показывает масштаб конкуренции между США и Китаем в AI; несмотря на экспортные ограничения на чипы, Китай инвестирует беспрецедентно в вычислительную мощность.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Rhodium Group / New York Times",
+          "source_url": "https://www.techmeme.com/261121/p7#a261121p7",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p7#a261121p7"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon готовится купить AI-стартап Decart за $7.5 млрд",
+          "what": "Amazon близка к завершению сделки по приобретению Decart — стартапа, работающего над оптимизацией вычислений для AI; сделка может закрыться в течение недели.",
+          "why": "Показывает, что даже гигантам типа AWS нужны специализированные решения для конкуренции с Nvidia; вычисления становятся критическим конкурентным преимуществом.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261121/p8#a261121p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p8#a261121p8"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Alice Huang: контрабанда чипов Nvidia в Китай через множество компаний",
+          "what": "Financial Times выявила, что Alice Huang (близкая к бывшему CEO Jensen) имела связи со множеством shell-компаний и игроков, перенаправлявших чипы Nvidia в Китай.",
+          "why": "Иллюстрирует реальные риски экспортного контроля и санкций; компания должна строже верифицировать цепи поставок и партнёров при работе с критичными технологиями.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261121/p9#a261121p9",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p9#a261121p9"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "ООН не согласовала правила для автономного оружия",
+          "what": "После неделе переговоров дипломаты ООН в Женеве не пришли к согласию по регуляции автономного оружия; согласились только продолжить обсуждение.",
+          "why": "Для разработки автономных систем и AI нужно отслеживать регуляторный контекст; отсутствие норм усиливает риск и неопределённость для компаний в этой области.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "AI-агенты в мессенджерах: новая категория AI-продуктов",
+          "what": "TechCrunch составила обзор AI-агентов, которые живут в text messages — от универсальных ассистентов до специализированных для семей, путешествий и работы.",
+          "why": "Новый формат взаимодействия с AI, доступный для широкой аудитории; вдохновляет на идеи для AI-ассистентов, встроенных в мессенджеры и контактные каналы.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+          ],
+          "n": 6,
           "status": "offered"
         }
       ]
