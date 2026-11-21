@@ -1,125 +1,5 @@
 {
   "digests": {
-    "11172350": {
-      "created_at": "2026-11-17T23:50:01Z",
-      "message_id": 180,
-      "topics": [
-        {
-          "title": "Microsoft объявила о семи новых моделях MAI на Ignite 2026",
-          "what": "Microsoft представила семь новых моделей: Code 2, Cyber 2 Flash, Image 2.7, Licensed Weights, Realtime 1 и другие с конкурентными ценами.",
-          "why": "Прямой ответ OpenAI и конкурентам: Microsoft ставит на масштабируемость и доступность вместо гонки исключительно на производительность.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Microsoft AI",
-          "source_url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-          "candidate_urls": [
-            "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-            "https://microsoft.ai/news/introducing-mai-cyber-2-flash/",
-            "https://microsoft.ai/news/introducing-mai-image-2-7/",
-            "https://microsoft.ai/news/introducing-mai-licensed-weights/",
-            "https://microsoft.ai/news/introducing-mai-realtime-1/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI выпустила GPT-6.2 Astra и Sol с computer use",
-          "what": "OpenAI анонсировала две новые модели: Astra (полнофункциональная) и Sol (облегчённая) с улучшенной работой с компьютером и кодированием.",
-          "why": "Модели доступны в ChatGPT Work, Codex и API; улучшения в автоматизации компьютера критичны для агентов нового поколения.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia прекращает продажи чипов в Китай",
-          "what": "Временный CEO Nvidia объявила, что компания прекращает поставки чипов в Китай после увольнения Jensen Huang.",
-          "why": "Геополитический разворот: пересматривается экосистема поставок, открываются окна для конкурентов типа AMD в других странах и регионах.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-          "candidate_urls": [],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Model ML привлекла $250M на автоматизацию инвестбанкинга",
-          "what": "Стартап Model ML закрыл раунд в $250M для AI-агентов, автоматизирующих работу с финансовыми моделями и презентациями при M&A.",
-          "why": "Новая категория: AI-агенты берут на себя работу бизнес-аналитиков; это показатель спроса на автоматизацию офисной работы.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-          "candidate_urls": [],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia подтвердила commitment к open source и Hugging Face",
-          "what": "Временный CEO Nvidia заявила, что компания остаётся привержена open source и продолжит попытки приобрести Hugging Face.",
-          "why": "Убирает неопределённость для экосистемы: CUDA, PyTorch и open source модели остаются приоритетом Nvidia независимо от кадровых изменений.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-          "candidate_urls": [],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Calif нашла Java4Shell с помощью GPT-6 Cyber",
-          "what": "Компания Calif использовала модель GPT-6 Cyber для обнаружения критической RCE-уязвимости в Java (Java4Shell); Oracle выпустил патч.",
-          "why": "AI берёт на себя работу пентестеров — но ставит вопрос: кто первый найдёт уязвимость, защитники или злоумышленники?",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "New York Times / Techmeme",
-          "source_url": "https://www.techmeme.com/261117/p55#a261117p55",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia отчитала Q3: выручка $115.8B, +103% год-в-год",
-          "what": "Nvidia объявила Q3 выручку $115.8B (+103% YoY), выше прогноза $109.1B; Data Center вырос на 110% до $107.6B.",
-          "why": "Скандал с Jensen Huang не повредил результатам; это показатель силы спроса на GPU, но теперь привлекает внимание SEC (расследование).",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Nvidia / Techmeme",
-          "source_url": "https://www.techmeme.com/261117/p56#a261117p56",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Suno запустила Visuals: видео к музыке за минуту",
-          "what": "Suno добавила функцию Visuals, которая генерирует 15-секундные видеоклипы к сгенерированной музыке, собираемые в полный музклип.",
-          "why": "Расширяет scope: один инструмент покрывает музыку + видео; конкурирует с Runway и Synthesia на рынке медиа-генерации.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "Suno / Techmeme",
-          "source_url": "https://www.techmeme.com/261117/p58#a261117p58",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI Astra for Law лидирует в юридическом анализе",
-          "what": "OpenAI выпустила специализированную версию Astra для юридического анализа, ранжирующуюся первой в оценке на 24 областях права.",
-          "why": "Показывает специализацию моделей: каждая вертикаль (право, медицина, финансы) получает оптимизированную версию; LegalTech становится плацдармом.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/astra-law-6-2",
-          "candidate_urls": [],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11181618": {
       "created_at": "2026-11-18T16:18:54Z",
       "message_id": 181,
@@ -895,6 +775,124 @@
             "https://openai.com/index/combatting-adversarial-distillation"
           ],
           "n": 10,
+          "status": "offered"
+        }
+      ]
+    },
+    "11211511": {
+      "created_at": "2026-11-21T15:11:40Z",
+      "message_id": 196,
+      "topics": [
+        {
+          "title": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
+          "what": "Математики из NYU и инженер Anthropic опубликовали AI-помощь доказательство, закрывшее лазейку в решении OpenAI.",
+          "why": "Показывает, что AI становится серьёзным инструментом для прорывов в фундаментальной науке, а не только для приложений.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Scientific American",
+          "source_url": "https://www.scientificamerican.com",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p4#a261121p4"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
+          "what": "AI ускоряет поиск багов в коде, но мировое сообщество хакеров сразу их эксплуатирует; компании вынуждены патчить в спешке.",
+          "why": "Превращает безопасность в гонку вооружений; готовьтесь к годам chaos в сетях и DevOps.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+          "candidate_urls": [
+            "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "США расширили запреты на экспорт чипов за пределы AI",
+          "what": "Новые правила экспорта теперь затрагивают SoC в потребительской электронике, а не только чипы для моделей.",
+          "why": "Санкции охватывают весь хардвэр; переломит глобальные цепочки поставок и логику дистрибуции.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Nikkei Asia",
+          "source_url": "https://www.techmeme.com/261121/p2#a261121p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p2#a261121p2"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "SEC проверяет Nvidia на финансовые ошибки",
+          "what": "Федеральная комиссия расследует потенциальные проблемы в учёте Nvidia.",
+          "why": "Nvidia — столп инфраструктуры AI; её проблемы усилят волатильность на рынке уже после проседания на 44%.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "MarketScreener",
+          "source_url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+          "candidate_urls": [
+            "https://www.techmeme.com/261120/p31#a261120p31"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Google DeepMind нанял философа для работы над сознанием AI",
+          "what": "Компания найма Henry Shevlin, специалиста по философии сознания, на работу над машинным сознанием и подготовкой к AGI.",
+          "why": "Сигнал того, что крупные лабы начинают инвестировать в философское основание AI; важно для понимания их приоритетов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261121/p6#a261121p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p6#a261121p6"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Ubisoft запустила студию для AI-персонажей в играх",
+          "what": "Компания Motherbrain разрабатывает умные NPC с памятью и AI game masters для управления большими игровыми мирами.",
+          "why": "Показывает, как геймдев применяет AI не для рендеринга, а для логики; интересно для продактов, которые увязывают AI с UX.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "GamesIndustry.biz",
+          "source_url": "https://www.techmeme.com/261121/p1#a261121p1",
+          "candidate_urls": [
+            "https://www.techmeme.com/261121/p1#a261121p1"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Cursor пересматривает использование китайских моделей",
+          "what": "IDE Cursor говорит законодателям о планах отказаться от открытых китайских моделей (их Composer 2 использует Kimi K2.5) из-за геориска.",
+          "why": "Первый инструмент для разработчиков открыто обсуждает геополитику моделей; ожидай волны аналогичных ограничений.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "CNBC",
+          "source_url": "https://www.techmeme.com/261120/p39#a261120p39",
+          "candidate_urls": [
+            "https://www.techmeme.com/261120/p39#a261120p39"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Oracle застраховала финансирование контракта с OpenAI",
+          "what": "Oracle заявила, что полностью финансировала свой инфраструктурный контракт с OpenAI и открыта к альтернативным вендорам.",
+          "why": "Показывает, как облачные провайдеры конкурируют за контракты с лидерами AI; важно для инфра-стартапов.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Oracle",
+          "source_url": "https://www.techmeme.com/261120/p43#a261120p43",
+          "candidate_urls": [
+            "https://www.techmeme.com/261120/p43#a261120p43"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]

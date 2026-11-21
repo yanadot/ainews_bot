@@ -1,60 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Microsoft объявила о семи новых моделях MAI на Ignite 2026",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI выпустила GPT-6.2 Astra и Sol с computer use",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia прекращает продажи чипов в Китай",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Model ML привлекла $250M на автоматизацию инвестбанкинга",
-      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia подтвердила commitment к open source и Hugging Face",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Calif нашла Java4Shell с помощью GPT-6 Cyber",
-      "url": "https://www.techmeme.com/261117/p55#a261117p55",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia отчитала Q3: выручка $115.8B, +103% год-в-год",
-      "url": "https://www.techmeme.com/261117/p56#a261117p56",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Suno запустила Visuals: видео к музыке за минуту",
-      "url": "https://www.techmeme.com/261117/p58#a261117p58",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI Astra for Law лидирует в юридическом анализе",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "ts": "2026-11-17T23:50:01Z",
-      "kind": "offered"
-    },
-    {
       "topic": "NVIDIA выпустила RTX Spark: компактные десктопы для локального AI",
       "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "ts": "2026-11-18T16:18:54Z",
@@ -380,6 +326,54 @@
       "topic": "OpenAI защищается от обратного дистиллирования способностей",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
       "ts": "2026-11-20T22:34:48Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
+      "url": "https://www.scientificamerican.com",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
+      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "США расширили запреты на экспорт чипов за пределы AI",
+      "url": "https://www.techmeme.com/261121/p2#a261121p2",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SEC проверяет Nvidia на финансовые ошибки",
+      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google DeepMind нанял философа для работы над сознанием AI",
+      "url": "https://www.techmeme.com/261121/p6#a261121p6",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Ubisoft запустила студию для AI-персонажей в играх",
+      "url": "https://www.techmeme.com/261121/p1#a261121p1",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Cursor пересматривает использование китайских моделей",
+      "url": "https://www.techmeme.com/261120/p39#a261120p39",
+      "ts": "2026-11-21T15:11:40Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Oracle застраховала финансирование контракта с OpenAI",
+      "url": "https://www.techmeme.com/261120/p43#a261120p43",
+      "ts": "2026-11-21T15:11:40Z",
       "kind": "offered"
     }
   ]

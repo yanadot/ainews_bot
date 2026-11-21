@@ -1,66 +1,54 @@
 {
-  "run_at": "2026-11-20T22:34:48Z",
-  "candidates": 23,
+  "run_at": "2026-11-21T15:11:40Z",
+  "candidates": 14,
   "offered": [
     {
       "n": 1,
-      "title": "Jensen Huang уходит из Nvidia: скандал с ложью",
+      "title": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
       "score": 5,
-      "source_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/"
+      "source_url": "https://www.scientificamerican.com"
     },
     {
       "n": 2,
-      "title": "Claude помогла доказать гипотезу Римана спустя 167 лет",
+      "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
       "score": 4,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+      "source_url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
     },
     {
       "n": 3,
-      "title": "Cognition собирает $2B на оценке $75B после уже $3B в 2026",
+      "title": "США расширили запреты на экспорт чипов за пределы AI",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261120/p36#a261120p36"
+      "source_url": "https://www.techmeme.com/261121/p2#a261121p2"
     },
     {
       "n": 4,
-      "title": "OpenAI создала MedChemBench для разработки лекарств",
+      "title": "SEC проверяет Nvidia на финансовые ошибки",
       "score": 4,
-      "source_url": "https://openai.com/index/introducing-medchembench"
+      "source_url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627"
     },
     {
       "n": 5,
-      "title": "Nvidia потеряла $2.5 трлн за 7 недель: акции упали на 44%",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261120/p29#a261120p29"
+      "title": "Google DeepMind нанял философа для работы над сознанием AI",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261121/p6#a261121p6"
     },
     {
       "n": 6,
-      "title": "Trump грозит налогом на дата-центры AI вне США",
-      "score": 4,
-      "source_url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+      "title": "Ubisoft запустила студию для AI-персонажей в играх",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261121/p1#a261121p1"
     },
     {
       "n": 7,
-      "title": "SEC расследует финансовые практики Nvidia",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261120/p31#a261120p31"
+      "title": "Cursor пересматривает использование китайских моделей",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261120/p39#a261120p39"
     },
     {
       "n": 8,
-      "title": "Inkling 2 Mini: 26.4B открытая модель для локального AI",
-      "score": 4,
-      "source_url": "https://huggingface.co/blog/inkling2mini"
-    },
-    {
-      "n": 9,
-      "title": "METR: способности AI растут экспоненциально, суждение отстаёт",
-      "score": 4,
-      "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-    },
-    {
-      "n": 10,
-      "title": "OpenAI защищается от обратного дистиллирования способностей",
-      "score": 4,
-      "source_url": "https://openai.com/index/combatting-adversarial-distillation"
+      "title": "Oracle застраховала финансирование контракта с OpenAI",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261120/p43#a261120p43"
     }
   ]
 }
