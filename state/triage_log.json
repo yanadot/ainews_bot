@@ -1,42 +1,42 @@
 {
-  "run_at": "2026-11-21T21:01:34Z",
-  "candidates": 7,
+  "run_at": "2026-11-22T15:09:46Z",
+  "candidates": 12,
   "offered": [
     {
       "n": 1,
-      "title": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
+      "title": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
       "score": 5,
-      "source_url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/"
+      "source_url": "https://www.techmeme.com/261122/p5#a261122p5"
     },
     {
       "n": 2,
-      "title": "Инвестиции китайских компаний в AI достигли $139B в 2026",
+      "title": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261121/p7#a261121p7"
+      "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
     },
     {
       "n": 3,
-      "title": "Amazon готовится купить AI-стартап Decart за $7.5 млрд",
+      "title": "AI помогает злоумышленникам планировать кибератаки на промышленное оборудование",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261121/p8#a261121p8"
+      "source_url": "https://www.techmeme.com/261122/p6#a261122p6"
     },
     {
       "n": 4,
-      "title": "Alice Huang: контрабанда чипов Nvidia в Китай через множество компаний",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261121/p9#a261121p9"
+      "title": "Tesla FSD v15 использует AI для видеогенерации в реальном времени",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261122/p4#a261122p4"
     },
     {
       "n": 5,
-      "title": "ООН не согласовала правила для автономного оружия",
+      "title": "Anthropic планирует питать дата-центры газом и углём к 2028 году",
       "score": 3,
-      "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
+      "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
     },
     {
       "n": 6,
-      "title": "AI-агенты в мессенджерах: новая категория AI-продуктов",
+      "title": "Производители AI-серверов повышают цены спустя месяцы после контрактов",
       "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
+      "source_url": "https://www.techmeme.com/261122/p2#a261122p2"
     }
   ]
 }

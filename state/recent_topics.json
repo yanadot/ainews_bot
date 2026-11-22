@@ -1,66 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic прошла IPO с оценкой $1.5 трлн",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI модели оптимизировали дизайн чипов",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI объяснила как управляет рисками frontier AI",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DaisyRose-27B: новая модель для efficient post-training",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Palo Alto купила Applied Compute за $4.5B",
-      "url": "https://www.techmeme.com/261118/p41#a261118p41",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google выпустила Gemini 4 Neon",
-      "url": "https://www.techmeme.com/261118/p44#a261118p44",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google Gemini app работает на слабых Android",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "MoE модели: 180B параметров на 32GB памяти",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI Codex может безопасно выполнять команды",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Sierra: $1.5B для customer support AI",
-      "url": "https://www.techmeme.com/261118/p40#a261118p40",
-      "ts": "2026-11-18T23:03:40Z",
-      "kind": "offered"
-    },
-    {
       "topic": "Anthropic прошла IPO — самый большой в истории ($107B)",
       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "ts": "2026-11-19T16:27:19Z",
@@ -367,6 +307,42 @@
       "topic": "AI-агенты в мессенджерах: новая категория AI-продуктов",
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "ts": "2026-11-21T21:01:34Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
+      "url": "https://www.techmeme.com/261122/p5#a261122p5",
+      "ts": "2026-11-22T15:09:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "ts": "2026-11-22T15:09:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI помогает злоумышленникам планировать кибератаки на промышленное оборудование",
+      "url": "https://www.techmeme.com/261122/p6#a261122p6",
+      "ts": "2026-11-22T15:09:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Tesla FSD v15 использует AI для видеогенерации в реальном времени",
+      "url": "https://www.techmeme.com/261122/p4#a261122p4",
+      "ts": "2026-11-22T15:09:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic планирует питать дата-центры газом и углём к 2028 году",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "ts": "2026-11-22T15:09:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Производители AI-серверов повышают цены спустя месяцы после контрактов",
+      "url": "https://www.techmeme.com/261122/p2#a261122p2",
+      "ts": "2026-11-22T15:09:46Z",
       "kind": "offered"
     }
   ]
