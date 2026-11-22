@@ -726,7 +726,8 @@
             "https://www.techmeme.com/261122/p9#a261122p9"
           ],
           "n": 1,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 210
         },
         {
           "title": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
