@@ -301,6 +301,18 @@
       "topic": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
       "url": "https://en.sedaily.com/world/2026/11/22/chinas-spy-agency-runs-secret-push-to-obtain-ai-chips",
       "ts": "2026-11-22T16:51:58Z"
+    },
+    {
+      "topic": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "ts": "2026-11-22T21:11:27Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
+      "url": "https://www.techmeme.com/261122/p11#a261122p11",
+      "ts": "2026-11-22T21:11:27Z",
+      "kind": "offered"
     }
   ]
 }

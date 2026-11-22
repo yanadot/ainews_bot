@@ -1,42 +1,18 @@
 {
-  "run_at": "2026-11-22T15:09:46Z",
-  "candidates": 12,
+  "run_at": "2026-11-22T21:11:27Z",
+  "candidates": 8,
   "offered": [
     {
       "n": 1,
-      "title": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
-      "score": 5,
-      "source_url": "https://www.techmeme.com/261122/p5#a261122p5"
+      "title": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
+      "score": 4,
+      "source_url": "https://openai.com/index/perplexity-and-intelligence"
     },
     {
       "n": 2,
-      "title": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
+      "title": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
       "score": 4,
-      "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
-    },
-    {
-      "n": 3,
-      "title": "AI помогает злоумышленникам планировать кибератаки на промышленное оборудование",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261122/p6#a261122p6"
-    },
-    {
-      "n": 4,
-      "title": "Tesla FSD v15 использует AI для видеогенерации в реальном времени",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261122/p4#a261122p4"
-    },
-    {
-      "n": 5,
-      "title": "Anthropic планирует питать дата-центры газом и углём к 2028 году",
-      "score": 3,
-      "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
-    },
-    {
-      "n": 6,
-      "title": "Производители AI-серверов повышают цены спустя месяцы после контрактов",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261122/p2#a261122p2"
+      "source_url": "https://www.techmeme.com/261122/p11#a261122p11"
     }
   ]
 }

@@ -1,112 +1,5 @@
 {
   "digests": {
-    "11191627": {
-      "created_at": "2026-11-19T16:27:19Z",
-      "message_id": 183,
-      "topics": [
-        {
-          "title": "Anthropic прошла IPO — самый большой в истории ($107B)",
-          "what": "Anthropic стала самой дорогой компанией при IPO (обогнала SpaceX), привлекла $81.3B, дебютировала с рекордной оценкой и оказалась в топе самых крупных выходов.",
-          "why": "Первый выход лабы на публику меняет ландшафт инвестиций в AI; важно для инвесторов чтобы понять масштаб рынка и модель бизнеса лабы.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-            "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-            "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-            "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft CEO объяснил $60K выкупов как ставку на AI",
-          "what": "Сатья Наделла раскрыл что предложения buyout 60 тыс сотрудникам — не сокращение, а переориентация компании на специалистов в области AI.",
-          "why": "Большой сигнал о том как крупные корпорации меняют структуру под AI; важно для фаундеров чтобы понять кадровые тренды и конкуренцию за таланты.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI исследует как AI ускоряет научные работы",
-          "what": "OpenAI опубликовала исследование где coding-агенты помогают ускорять научные исследования, но производительность остаётся неровной (jagged frontier).",
-          "why": "Показывает реальный потенциал AI как инструмента исследования и честно про ограничения; важно для тех кто планирует AI в своих продуктах.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "candidate_urls": [],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "ChatGPT добавила Live Dictation для работы с микрофоном",
-          "what": "OpenAI запустила Live Dictation — функция которая транскрибирует речь в реальном времени, распускается на всех платформах и всех планах ChatGPT.",
-          "why": "Снижает барьер входа в ChatGPT для мобильных пользователей и показывает тренд на аудио-интерфейсы как основной способ работы с AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
-          "candidate_urls": [],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Европейская комиссия подтвердила взлом через ARTEX AI-инструмент",
-          "what": "EC подвергалась кибератаке с использованием ARTEX — открытого инструмента для тестирования безопасности; хакеры взломали системы за часы.",
-          "why": "Первый крупный инцидент где AI-инструмент использован для вброса в критическую инфру; показывает реальные риски и двойственность open-source AI-tools.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme / Politico",
-          "source_url": "https://www.techmeme.com/261119/p32#a261119p32",
-          "candidate_urls": [],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Google запустила Project Suncatcher — TPU-спутники с Blue Origin",
-          "what": "Google объявила о проекте запуска TPU-спутников на новых ракетах Blue Origin (New Glenn) в Q1 2029 для глобального распределенного AI-compute.",
-          "why": "Гигантский инфра-проект про конкуренцию за compute и энергоресурсы; показывает как лабы борются за глобальный контроль над мощностями.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme / The Verge",
-          "source_url": "https://www.techmeme.com/261119/p30#a261119p30",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Инвестиции в дата-центры достигнут $4 трлн к 2030",
-          "what": "МЭА прогнозирует что инвестиции в дата-центры вырастут до $4 трлн; 100 крупных AI проектов потребуют мощности как вся Британия.",
-          "why": "Показывает масштаб инвестиций и инфра-constraints которые станут бутылнеком для AI; важно для стратегии фаундеров про энергоёмкость.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Techmeme / Bloomberg",
-          "source_url": "https://www.techmeme.com/261119/p24#a261119p24",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Apple запустила Siri Recap — постоянное слушание на часах",
-          "what": "Apple добавила Siri Recap на Apple Watch Ultra 4 — функцию которая постоянно слушает разговоры и суммирует их с помощью AI.",
-          "why": "Показывает как крупные tech-компании внедряют ambient AI в массовые продукты; спорно с приватностью, но отражает реальный тренд.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11192311": {
       "created_at": "2026-11-19T23:11:31Z",
       "message_id": 184,
@@ -812,6 +705,41 @@
             "https://www.techmeme.com/261122/p2#a261122p2"
           ],
           "n": 6,
+          "status": "offered"
+        }
+      ]
+    },
+    "11222111": {
+      "created_at": "2026-11-22T21:11:27Z",
+      "message_id": 209,
+      "topics": [
+        {
+          "title": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
+          "what": "OpenAI опубликовала подход к измерению того, как хорошо AI-модели предсказывают данные, и предлагает использовать перплексность как общий язык для оценки возможностей моделей.",
+          "why": "Единая метрика может помочь лабораториям сравнивать развитие моделей объективно, вместо набора разных тестов, и помочь согласовать регулирующий подход.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/perplexity-and-intelligence",
+          "candidate_urls": [
+            "https://openai.com/index/perplexity-and-intelligence",
+            "https://www.techmeme.com/261122/p9#a261122p9"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
+          "what": "После сбоев FAA, Microsoft и банков директор национальной разведки заявил, что американцы должны готовиться к проблемам при обновлении критических систем под AI.",
+          "why": "На уровне госструктур растёт беспокойство о рисках внедрения AI в критическую инфраструктуру — это может влиять на регуляцию, стандарты безопасности и инвестиции.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "CNBC (via Techmeme)",
+          "source_url": "https://www.techmeme.com/261122/p11#a261122p11",
+          "candidate_urls": [
+            "https://www.techmeme.com/261122/p11#a261122p11"
+          ],
+          "n": 2,
           "status": "offered"
         }
       ]
