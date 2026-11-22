@@ -740,7 +740,8 @@
             "https://www.techmeme.com/261122/p5#a261122p5"
           ],
           "n": 1,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 204
         },
         {
           "title": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
