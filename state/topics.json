@@ -508,8 +508,9 @@
             "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
           ],
           "n": 1,
-          "status": "awaiting_focus",
-          "focus_msg_id": 215
+          "status": "written",
+          "focus_msg_id": 215,
+          "focus": ""
         },
         {
           "title": "Amazon купила Decart за $7.5 млрд",
