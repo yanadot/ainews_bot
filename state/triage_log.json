@@ -1,18 +1,60 @@
 {
-  "run_at": "2026-11-22T21:11:27Z",
-  "candidates": 8,
+  "run_at": "2026-11-23T19:05:36Z",
+  "candidates": 36,
   "offered": [
     {
       "n": 1,
-      "title": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
-      "score": 4,
-      "source_url": "https://openai.com/index/perplexity-and-intelligence"
+      "title": "Jensen Huang вернулся в NVIDIA",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
     },
     {
       "n": 2,
-      "title": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
+      "title": "Amazon купила Decart за $7.5 млрд",
       "score": 4,
-      "source_url": "https://www.techmeme.com/261122/p11#a261122p11"
+      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+      "n": 3,
+      "title": "Google Search с личным интеллектом",
+      "score": 4,
+      "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+    },
+    {
+      "n": 4,
+      "title": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
+      "score": 4,
+      "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+    },
+    {
+      "n": 5,
+      "title": "Философ критикует аргумент Anthropic про сознание AI",
+      "score": 4,
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+    },
+    {
+      "n": 6,
+      "title": "Microsoft развивает инфраструктуру для Reinforcement Learning",
+      "score": 3,
+      "source_url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"
+    },
+    {
+      "n": 7,
+      "title": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
+      "score": 3,
+      "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+    },
+    {
+      "n": 8,
+      "title": "Sierra удвоила оценку до $30 млрд за полгода",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+    },
+    {
+      "n": 9,
+      "title": "Meta Muse теперь может купить товары на Walmart",
+      "score": 3,
+      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
     }
   ]
 }

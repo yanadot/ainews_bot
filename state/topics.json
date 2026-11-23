@@ -1,263 +1,5 @@
 {
   "digests": {
-    "11192311": {
-      "created_at": "2026-11-19T23:11:31Z",
-      "message_id": 184,
-      "topics": [
-        {
-          "title": "Anthropic начала торговлю на Nasdaq по $111.50 за акцию",
-          "what": "Компания Anthropic (создатель Claude) прошла листинг, открыв торги выше IPO-цены на 34%. Оценка компании — $1.3 трлн на закрытии торговой сессии.",
-          "why": "Самое крупное IPO в истории AI-компаний — сигнал инвесторам и рынку, что генеративный AI держится как долгоживущий бизнес, не пузырь.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-            "https://www.techmeme.com/261119/p40#a261119p40"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Meta Muse путает чужие разговоры и сливает приватные данные",
-          "what": "Сотрудники Meta обнаружили, что AI-агент Muse в разговорах подмешивает чужие сообщения, данные чужих счётов и личные запросы из других бесед. Серьёз инцидент.",
-          "why": "Это показывает, что для любого AI-агента в корпе нужна изоляция данных — проблему заметит любая компания, внедряющая подобное. Конкуренты будут подчёркивать фокус на privacy.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "written",
-          "focus_msg_id": 185,
-          "focus": "Фокус на фактических данных. Не делать выводы, а рассказать историю"
-        },
-        {
-          "title": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
-          "what": "Бывший CEO NVIDIA Jensen Huang подал в отставку после раскрытия информации об романе с предполагаемой связью с шпионом. DOJ расследует компанию Megaspeed, связанную с уходом.",
-          "why": "Это встряска в верхушке главного поставщика AI-чипов — прямо влияет на стратегию NVIDIA и её инвестиции в стартапы. Мобильность руководства будет вопросом для партнёров.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-          "candidate_urls": [
-            "https://www.wired.com/story/jensen-huangs-favorite-restaurants-are-caught-up-in-his-scandals-too",
-            "https://www.techmeme.com/261119/p54#a261119p54"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Apple разрабатывает собственного AI-агента — видно по вакансии",
-          "what": "Job listing показывает, что Apple ищет engineer для создания AI-агента: он должен писать код, бродить по веб, управлять приложениями и координировать подагентов.",
-          "why": "Apple вводит своего конкурента OpenAI и Google в категорию AI-агентов. Для про-продактов это значит, что сертификация в экосистеме Apple станет ещё важнее.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-          "candidate_urls": [
-            "https://www.techmeme.com/261119/p52#a261119p52"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Google добавил computer use на Gemini для Mac — агент работает с приложениями",
-          "what": "Gemini на macOS теперь может выполнять многошаговые операции в фоне: заполнять формы, организовывать файлы, работать с веб-сайтами и приложениями.",
-          "why": "Google вводит computer use на десктоп вслед за Anthropic. Для фундеров это открывает локальную автоматизацию, для конкурентов — benchmark по решению проблемы доступа к OS API.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA и Microsoft расширили ускорение вычислений с Azure на Windows ПК",
-          "what": "На Microsoft Ignite NVIDIA и Microsoft объявили full-stack сотрудничество: теперь компании могут строить и деплоить AI-приложения на Azure, Windows-машинах и промышленных системах.",
-          "why": "Это открывает рынок локального AI на десктопах вне облака. Для стартапов это новый вектор дистрибьюции продакта без зависимости от облачных провайдеров.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "NVIDIA Blog",
-          "source_url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Google выпустила Tool Retrieval в Gemini API — модель лучше выбирает инструменты",
-          "what": "Новая функция в Gemini API позволяет модели умнее выбирать, какой из доступных инструментов использовать для решения задачи.",
-          "why": "Для разработчиков это улучшает надёжность AI-агентов. Для продактов это означает более предсказуемое поведение, если модель сама решает, какой инструмент вызвать.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google Blog",
-          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        }
-      ]
-    },
-    "11201559": {
-      "created_at": "2026-11-20T15:59:39Z",
-      "message_id": 190,
-      "topics": [
-        {
-          "title": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
-          "what": "Anthropic закрыла историческое IPO по $83/акция; underwriters упражнили greenshoe, доведя привлечение до $93.5B от изначальных $80.9B.",
-          "why": "Это самый крупный IPO для AI-компании; определяет рыночную оценку лидера LLM-индустрии и даёт ресурсы на конкуренцию с OpenAI и Google.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Anthropic",
-          "source_url": "https://www.anthropic.com/news/ipo-close",
-          "candidate_urls": [
-            "https://www.anthropic.com/news/ipo-close",
-            "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-            "https://www.techmeme.com/261120/p14#a261120p14"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 191,
-          "focus": ""
-        },
-        {
-          "title": "Claude доказала гипотезу Римана, открытую 167 лет назад",
-          "what": "Математик Anthropic Levent Alpöge использовал Claude для доказательства гипотезы Римана и опубликовал верификацию на языке Lean.",
-          "why": "Показывает, что LLM дошли до уровня научных инструментов для решения классических задач; важно для команд, которые ищут применение AI в STEM.",
-          "category": "lab_launch",
-          "score": 5,
-          "source_name": "Anthropic / Scientific American",
-          "source_url": "https://alpo.ge/remark.pdf",
-          "candidate_urls": [
-            "https://alpo.ge/remark.pdf",
-            "https://www.techmeme.com/261120/p17#a261120p17",
-            "https://news.ycombinator.com/item?id=50574968"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Jensen Huang уходит из NVIDIA на фоне обвинений в жестоком обращении",
-          "what": "Текущие и бывшие сотрудники описали жестокое поведение Jensen Huang; NVIDIA урегулировала с двумя руководителями за allegations of abuse.",
-          "why": "Скандал подрывает доверие к NVIDIA-лидерству и может сломать стратегии компании; влияет на инвестиции и партнёрства в AI-индустрии.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "New York Times",
-          "source_url": "https://www.techmeme.com/261120/p12#a261120p12",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p12#a261120p12",
-            "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Signal блокирует AI-агентов от чтения скринов на смартфонах",
-          "what": "Signal ограничит по умолчанию возможность снимать скрины на Android и iOS, чтобы помешать AI-агентам читать приватные сообщения.",
-          "why": "Первая крупная оборона от computer-use AI; показывает, что приватность и регуляция будут давить на агентские возможности.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Signal / Reuters",
-          "source_url": "https://www.techmeme.com/261120/p9#a261120p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p9#a261120p9",
-            "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "NVIDIA прекращает продажи чипов H200 в Китай",
-          "what": "На фоне расследования и санкций NVIDIA остановила продажи высокопроизводительных чипов H200 в Китай.",
-          "why": "Открывает рынок для китайских альтернатив и может нарушить цепи поставок; влияет на конкурентоспособность NVIDIA в AI-инфраструктуре.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "NVIDIA / TechCrunch",
-          "source_url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-          "candidate_urls": [
-            "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Apple разрабатывает собственного AI-агента для Mac",
-          "what": "Apple в разработке AI-агента для macOS, конкурирующего с Meta Muse, Instinct, Claude и OpenAI Dots.",
-          "why": "Apple вступает в гонку агентских ассистентов; может сдвинуть игру на рынке desktop AI, если покажет преимущество интеграции.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "AI спроектировала и верифицировала новую CPU-архитектуру Frostbite",
-          "what": "Компания ArchitectLabs использовала AI для разработки и верификации архитектуры процессора Frostbite.",
-          "why": "AI начинает решать сложные инженерные задачи в hardware; ускоряет инновации в микросхемотехнике и снижает цикл разработки.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "ArchitectLabs",
-          "source_url": "https://architectlabs.com/blog/frostbite",
-          "candidate_urls": [
-            "https://architectlabs.com/blog/frostbite",
-            "https://news.ycombinator.com/item?id=50572503"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Hugging Face выпустила adapter-ы для адаптации моделей к инфраструктуре",
-          "what": "Hugging Face представила harness adapters для быстрой адаптации моделей к железу, улучшая производительность и снижая затраты на вычисления.",
-          "why": "Инструмент для команд, которые оптимизируют расходы на работу моделей; особенно полезен для стартапов на бюджетах.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/harness-adapters-at-scale",
-          "candidate_urls": [
-            "https://huggingface.co/blog/harness-adapters-at-scale"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Pragmatik Labs привлекла финансирование с оценкой $5B",
-          "what": "Стартап Pragmatik Labs (основана бывшим главой Qwen Junyang Lin) привлекла раунд с оценкой $5B, выросла с $2B в августе.",
-          "why": "Китайский AI-стартап быстро растёт; показывает усиление конкуренции азиатских компаний в рынке языковых моделей.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.techmeme.com/261120/p10#a261120p10",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p10#a261120p10"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "Gemini 4 Neon возглавила Models Engineering Index",
-          "what": "Google Gemini 4 Neon достигла первого места в Models Engineering Index, обойдя конкурентов.",
-          "why": "Показывает, что Google Gemini наравне с OpenAI и Anthropic в гонке за SOTA модели; важно для команд при выборе API для приложений.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Models Engineering Index",
-          "source_url": "https://git-aarvin.github.io/mei/",
-          "candidate_urls": [
-            "https://git-aarvin.github.io/mei/",
-            "https://news.ycombinator.com/item?id=50568130"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
     "11202234": {
       "created_at": "2026-11-20T22:34:48Z",
       "message_id": 195,
@@ -742,6 +484,128 @@
             "https://www.techmeme.com/261122/p11#a261122p11"
           ],
           "n": 2,
+          "status": "offered"
+        }
+      ]
+    },
+    "11231905": {
+      "created_at": "2026-11-23T19:05:36Z",
+      "message_id": 214,
+      "topics": [
+        {
+          "title": "Jensen Huang вернулся в NVIDIA",
+          "what": "Совет директоров NVIDIA переизбрал Huang на пост CEO спустя неделю после его отставки на фоне скандала с личной жизнью.",
+          "why": "Политическое давление Трампа и критичность Huang для AI-индустрии сигнализируют о неизбежности лидеров даже на фоне контроверсий.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+          "candidate_urls": [
+            "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+            "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
+            "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+            "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+            "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon купила Decart за $7.5 млрд",
+          "what": "Amazon приобрела стартап по оптимизации AI-тренинга, готовясь продавать собственные чипы Trainium для конкуренции с NVIDIA.",
+          "why": "Вертикальная интеграция как у NVIDIA: от чипов к софту. Показывает, как облачные провайдеры строят собственные AI-стеки.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "candidate_urls": [],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Google Search с личным интеллектом",
+          "what": "Google добавила персонализированного AI-помощника в поиск, который интегрирует данные из Wallet, Drive, Gmail, Photos и Calendar.",
+          "why": "Переход от поиска информации к персональному агенту меняет модель взаимодействия; новое поле боя для OpenAI и Claude.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Google",
+          "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+          "candidate_urls": [],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
+          "what": "Генпрокуроры штатов обвиняют Musk и SpaceX в игнорировании защиты от сексуализированного контента и deepfakes реальных людей, включая детей.",
+          "why": "Первый крупный судебный вызов к AI-компании за создание порно-deepfakes; знак будущего регулирования.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+          "candidate_urls": [
+            "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Философ критикует аргумент Anthropic про сознание AI",
+          "what": "После IPO Anthropic указала на риск AI-сознания как фактор инвестиционного риска; философ Daniel Dennett это отвергает.",
+          "why": "Дебат про сознание AI из философии переходит в инвестиционные документы и инвесторскую дискуссию.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "MIT Technology Review",
+          "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "candidate_urls": [],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Microsoft развивает инфраструктуру для Reinforcement Learning",
+          "what": "Microsoft AI опубликовала подробности RL-инфраструктуры для масштабирования тренинга моделей через обратную связь.",
+          "why": "RL становится ключевым для продвижения способностей моделей (как OpenAI показала с o1); Microsoft играет в основную лигу.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "Microsoft AI",
+          "source_url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+          "candidate_urls": [],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
+          "what": "DeepMind применила AI-агентов к разработке квантовых алгоритмов через формальную верификацию и поиск.",
+          "why": "Показывает применение AI-агентов к фундаментальной науке; выходит за пределы LLM в физику и математику.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "DeepMind",
+          "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "candidate_urls": [],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Sierra удвоила оценку до $30 млрд за полгода",
+          "what": "Компания по AI для обслуживания клиентов собрала $1.75 млрд в раунде Series F, удвоив оценку за 6 месяцев.",
+          "why": "Взрывной рост спроса на AI для customer support; Sierra стала Unicorn x30. Показывает куда текут деньги в AI.",
+          "category": "funding",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+          "candidate_urls": [],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Meta Muse теперь может купить товары на Walmart",
+          "what": "Walmart интегрировал Meta Muse в своего AI-ассистента Sparky для автоматического поиска и покупки Black Friday предложений.",
+          "why": "Первая масштабная реализация AI-агентов в реальном онлайн-шопинге; агенты переходят из лаб в production.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+          "candidate_urls": [],
+          "n": 9,
           "status": "offered"
         }
       ]

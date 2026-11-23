@@ -1,118 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Anthropic начала торговлю на Nasdaq по $111.50 за акцию",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta Muse путает чужие разговоры и сливает приватные данные",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jensen Huang уходит из NVIDIA — разворачивается скандал с расследованием",
-      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple разрабатывает собственного AI-агента — видно по вакансии",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google добавил computer use на Gemini для Mac — агент работает с приложениями",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA и Microsoft расширили ускорение вычислений с Azure на Windows ПК",
-      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google выпустила Tool Retrieval в Gemini API — модель лучше выбирает инструменты",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "ts": "2026-11-19T23:11:31Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta Muse путает чужие разговоры и сливает приватные данные",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "ts": "2026-11-20T00:55:18Z"
-    },
-    {
-      "topic": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Claude доказала гипотезу Римана, открытую 167 лет назад",
-      "url": "https://alpo.ge/remark.pdf",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jensen Huang уходит из NVIDIA на фоне обвинений в жестоком обращении",
-      "url": "https://www.techmeme.com/261120/p12#a261120p12",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Signal блокирует AI-агентов от чтения скринов на смартфонах",
-      "url": "https://www.techmeme.com/261120/p9#a261120p9",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NVIDIA прекращает продажи чипов H200 в Китай",
-      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Apple разрабатывает собственного AI-агента для Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI спроектировала и верифицировала новую CPU-архитектуру Frostbite",
-      "url": "https://architectlabs.com/blog/frostbite",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Hugging Face выпустила adapter-ы для адаптации моделей к инфраструктуре",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Pragmatik Labs привлекла финансирование с оценкой $5B",
-      "url": "https://www.techmeme.com/261120/p10#a261120p10",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Gemini 4 Neon возглавила Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "ts": "2026-11-20T15:59:39Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic завершила IPO: $93.5B привлечено, акции выросли до $97",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "ts": "2026-11-20T17:05:49Z"
-    },
-    {
       "topic": "Jensen Huang уходит из Nvidia: скандал с ложью",
       "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
       "ts": "2026-11-20T22:34:48Z",
@@ -318,6 +206,60 @@
       "topic": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "ts": "2026-11-22T22:01:06Z"
+    },
+    {
+      "topic": "Jensen Huang вернулся в NVIDIA",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon купила Decart за $7.5 млрд",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google Search с личным интеллектом",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
+      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Философ критикует аргумент Anthropic про сознание AI",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Microsoft развивает инфраструктуру для Reinforcement Learning",
+      "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Sierra удвоила оценку до $30 млрд за полгода",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta Muse теперь может купить товары на Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "ts": "2026-11-23T19:05:36Z",
+      "kind": "offered"
     }
   ]
 }
