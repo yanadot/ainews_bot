@@ -1,119 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Jensen Huang уходит из Nvidia: скандал с ложью",
-      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Claude помогла доказать гипотезу Римана спустя 167 лет",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cognition собирает $2B на оценке $75B после уже $3B в 2026",
-      "url": "https://www.techmeme.com/261120/p36#a261120p36",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI создала MedChemBench для разработки лекарств",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Nvidia потеряла $2.5 трлн за 7 недель: акции упали на 44%",
-      "url": "https://www.techmeme.com/261120/p29#a261120p29",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Trump грозит налогом на дата-центры AI вне США",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SEC расследует финансовые практики Nvidia",
-      "url": "https://www.techmeme.com/261120/p31#a261120p31",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Inkling 2 Mini: 26.4B открытая модель для локального AI",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "METR: способности AI растут экспоненциально, суждение отстаёт",
-      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI защищается от обратного дистиллирования способностей",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "ts": "2026-11-20T22:34:48Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
-      "url": "https://www.scientificamerican.com",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
-      "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "США расширили запреты на экспорт чипов за пределы AI",
-      "url": "https://www.techmeme.com/261121/p2#a261121p2",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "SEC проверяет Nvidia на финансовые ошибки",
-      "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google DeepMind нанял философа для работы над сознанием AI",
-      "url": "https://www.techmeme.com/261121/p6#a261121p6",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Ubisoft запустила студию для AI-персонажей в играх",
-      "url": "https://www.techmeme.com/261121/p1#a261121p1",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Cursor пересматривает использование китайских моделей",
-      "url": "https://www.techmeme.com/261120/p39#a261120p39",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Oracle застраховала финансирование контракта с OpenAI",
-      "url": "https://www.techmeme.com/261120/p43#a261120p43",
-      "ts": "2026-11-21T15:11:40Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
-      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
-      "ts": "2026-11-21T15:38:46Z"
-    },
-    {
       "topic": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
       "url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/",
       "ts": "2026-11-21T21:01:34Z",
@@ -265,6 +152,54 @@
       "topic": "Jensen Huang вернулся в NVIDIA",
       "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
       "ts": "2026-11-23T19:12:35Z"
+    },
+    {
+      "topic": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "AI решила одну из самых сложных задач математики, но её никто не поняет",
+      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
+      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Meta интегрировала AI-ассистента прямо в Instagram DM",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
     }
   ]
 }

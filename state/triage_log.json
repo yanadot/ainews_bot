@@ -1,60 +1,54 @@
 {
-  "run_at": "2026-11-23T19:05:36Z",
-  "candidates": 36,
+  "run_at": "2026-11-24T18:45:46Z",
+  "candidates": 38,
   "offered": [
     {
       "n": 1,
-      "title": "Jensen Huang вернулся в NVIDIA",
+      "title": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
       "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+      "source_url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
     },
     {
       "n": 2,
-      "title": "Amazon купила Decart за $7.5 млрд",
+      "title": "AI решила одну из самых сложных задач математики, но её никто не поняет",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      "source_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
     },
     {
       "n": 3,
-      "title": "Google Search с личным интеллектом",
+      "title": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
       "score": 4,
-      "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
     },
     {
       "n": 4,
-      "title": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
+      "title": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
       "score": 4,
-      "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/"
+      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
     },
     {
       "n": 5,
-      "title": "Философ критикует аргумент Anthropic про сознание AI",
+      "title": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
       "score": 4,
-      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+      "source_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
     },
     {
       "n": 6,
-      "title": "Microsoft развивает инфраструктуру для Reinforcement Learning",
-      "score": 3,
-      "source_url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/"
+      "title": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
     },
     {
       "n": 7,
-      "title": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
-      "score": 3,
-      "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/"
+      "title": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
     },
     {
       "n": 8,
-      "title": "Sierra удвоила оценку до $30 млрд за полгода",
-      "score": 3,
-      "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
-    },
-    {
-      "n": 9,
-      "title": "Meta Muse теперь может купить товары на Walmart",
-      "score": 3,
-      "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday"
+      "title": "Meta интегрировала AI-ассистента прямо в Instagram DM",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
     }
   ]
 }

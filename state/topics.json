@@ -1,274 +1,5 @@
 {
   "digests": {
-    "11202234": {
-      "created_at": "2026-11-20T22:34:48Z",
-      "message_id": 195,
-      "topics": [
-        {
-          "title": "Jensen Huang уходит из Nvidia: скандал с ложью",
-          "what": "Совет директоров вынудил Jensen Huang покинуть компанию из-за недостатка откровенности в личных делах, включая связь с подчинённой.",
-          "why": "Кризис в главной AI-компании может повлиять на стратегию продуктов, партнёрства и доверие инвесторов по всему сектору.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-          "candidate_urls": [
-            "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
-            "https://www.techmeme.com/261120/p30#a261120p30"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Claude помогла доказать гипотезу Римана спустя 167 лет",
-          "what": "Математик Levent Alpöge из Anthropic заявил, что доказал гипотезу Римана с помощью Claude.",
-          "why": "Демонстрирует возможности AI в фундаментальных научных открытиях, если верифицируется — переоценка того что AI может.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Anthropic (Levent Alpöge)",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-            "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Cognition собирает $2B на оценке $75B после уже $3B в 2026",
-          "what": "Coding AI стартап Cognition на новом раунде может привлечь $2B+ на оценке $75B после уже более $3B в текущем году.",
-          "why": "Показывает как быстро растут оценки AI стартапов и насколько активны инвесторы в поиске следующего лидера.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Bloomberg",
-          "source_url": "https://www.techmeme.com/261120/p36#a261120p36",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p36#a261120p36"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI создала MedChemBench для разработки лекарств",
-          "what": "OpenAI выпустила бенчмарк для оценки как AI интерпретирует молекулярные структуры в ранних фазах разработки препаратов.",
-          "why": "Демонстрирует как языковые модели помогают в фармацевтике и показывает направление научных инвестиций в AI.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/introducing-medchembench",
-          "candidate_urls": [
-            "https://openai.com/index/introducing-medchembench"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Nvidia потеряла $2.5 трлн за 7 недель: акции упали на 44%",
-          "what": "Акции Nvidia за семь недель упали на 44%, сбросив рыночную капитализацию на $2.5 трлн на фоне кризиса лидерства.",
-          "why": "Масштабный кризис в главной AI-инфраструктуре может переформатировать инвестиции и конкуренцию во всём секторе.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "CNBC",
-          "source_url": "https://www.techmeme.com/261120/p29#a261120p29",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p29#a261120p29"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Trump грозит налогом на дата-центры AI вне США",
-          "what": "Trump пообещал ввести большой налог на компании, строящие дата-центры вне США несмотря на локальные ограничения.",
-          "why": "Регуляторика которая может переформатировать глобальную инфраструктуру и стоимость вычислений для AI компаний.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
-          "candidate_urls": [
-            "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "SEC расследует финансовые практики Nvidia",
-          "what": "Регуляторы SEC расследуют Nvidia: компания в прошлом году переменила методы отчётности и убрала данные по Сингапуру.",
-          "why": "Регуляторный риск для крупнейшей AI-компании может повлиять на доверие инвесторов и оценку акций.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Reuters",
-          "source_url": "https://www.techmeme.com/261120/p31#a261120p31",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p31#a261120p31"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Inkling 2 Mini: 26.4B открытая модель для локального AI",
-          "what": "Thinking Machines Lab выпустила открытую модель Inkling 2 Mini которая циклирует слои три раза на токен для экономии вычислений.",
-          "why": "Показывает как достичь хорошего качества на слабом железе — важно для локальных AI приложений в продактах.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Hugging Face",
-          "source_url": "https://huggingface.co/blog/inkling2mini",
-          "candidate_urls": [
-            "https://huggingface.co/blog/inkling2mini",
-            "https://www.techmeme.com/261120/p33#a261120p33"
-          ],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "METR: способности AI растут экспоненциально, суждение отстаёт",
-          "what": "METR показал что некоторые AI способности растут экспоненциально но в задачах требующих суждения модели отстают.",
-          "why": "Помогает продактам понять где AI хороша и где нужна человеческая проверка при интеграции в приложения.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-          "candidate_urls": [
-            "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-          ],
-          "n": 9,
-          "status": "offered"
-        },
-        {
-          "title": "OpenAI защищается от обратного дистиллирования способностей",
-          "what": "OpenAI представила подход к защите от adversarial distillation — попыток извлечь способности из моделей через обучение на выходы.",
-          "why": "Показывает как компании защищают ценность моделей от конкурентов в эпоху когда модели продаются как API.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/combatting-adversarial-distillation",
-          "candidate_urls": [
-            "https://openai.com/index/combatting-adversarial-distillation"
-          ],
-          "n": 10,
-          "status": "offered"
-        }
-      ]
-    },
-    "11211511": {
-      "created_at": "2026-11-21T15:11:40Z",
-      "message_id": 196,
-      "topics": [
-        {
-          "title": "NYU и Anthropic доказали гипотезу Navier-Stokes с помощью AI",
-          "what": "Математики из NYU и инженер Anthropic опубликовали AI-помощь доказательство, закрывшее лазейку в решении OpenAI.",
-          "why": "Показывает, что AI становится серьёзным инструментом для прорывов в фундаментальной науке, а не только для приложений.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Scientific American",
-          "source_url": "https://www.scientificamerican.com",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p4#a261121p4"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 197,
-          "focus": "Расскажи про гипотезу и ее суть простыми словами"
-        },
-        {
-          "title": "Компании захлёбываются в лавине уязвимостей, которые находит AI",
-          "what": "AI ускоряет поиск багов в коде, но мировое сообщество хакеров сразу их эксплуатирует; компании вынуждены патчить в спешке.",
-          "why": "Превращает безопасность в гонку вооружений; готовьтесь к годам chaos в сетях и DevOps.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
-          "candidate_urls": [
-            "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "США расширили запреты на экспорт чипов за пределы AI",
-          "what": "Новые правила экспорта теперь затрагивают SoC в потребительской электронике, а не только чипы для моделей.",
-          "why": "Санкции охватывают весь хардвэр; переломит глобальные цепочки поставок и логику дистрибуции.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Nikkei Asia",
-          "source_url": "https://www.techmeme.com/261121/p2#a261121p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p2#a261121p2"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "SEC проверяет Nvidia на финансовые ошибки",
-          "what": "Федеральная комиссия расследует потенциальные проблемы в учёте Nvidia.",
-          "why": "Nvidia — столп инфраструктуры AI; её проблемы усилят волатильность на рынке уже после проседания на 44%.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "MarketScreener",
-          "source_url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p31#a261120p31"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Google DeepMind нанял философа для работы над сознанием AI",
-          "what": "Компания найма Henry Shevlin, специалиста по философии сознания, на работу над машинным сознанием и подготовкой к AGI.",
-          "why": "Сигнал того, что крупные лабы начинают инвестировать в философское основание AI; важно для понимания их приоритетов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261121/p6#a261121p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p6#a261121p6"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Ubisoft запустила студию для AI-персонажей в играх",
-          "what": "Компания Motherbrain разрабатывает умные NPC с памятью и AI game masters для управления большими игровыми мирами.",
-          "why": "Показывает, как геймдев применяет AI не для рендеринга, а для логики; интересно для продактов, которые увязывают AI с UX.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "GamesIndustry.biz",
-          "source_url": "https://www.techmeme.com/261121/p1#a261121p1",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p1#a261121p1"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Cursor пересматривает использование китайских моделей",
-          "what": "IDE Cursor говорит законодателям о планах отказаться от открытых китайских моделей (их Composer 2 использует Kimi K2.5) из-за геориска.",
-          "why": "Первый инструмент для разработчиков открыто обсуждает геополитику моделей; ожидай волны аналогичных ограничений.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "CNBC",
-          "source_url": "https://www.techmeme.com/261120/p39#a261120p39",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p39#a261120p39"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Oracle застраховала финансирование контракта с OpenAI",
-          "what": "Oracle заявила, что полностью финансировала свой инфраструктурный контракт с OpenAI и открыта к альтернативным вендорам.",
-          "why": "Показывает, как облачные провайдеры конкурируют за контракты с лидерами AI; важно для инфра-стартапов.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Oracle",
-          "source_url": "https://www.techmeme.com/261120/p43#a261120p43",
-          "candidate_urls": [
-            "https://www.techmeme.com/261120/p43#a261120p43"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11212101": {
       "created_at": "2026-11-21T21:01:34Z",
       "message_id": 202,
@@ -608,6 +339,129 @@
           "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
           "candidate_urls": [],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11241845": {
+      "created_at": "2026-11-24T18:45:46Z",
+      "message_id": 219,
+      "topics": [
+        {
+          "title": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
+          "what": "Вернувшийся в должность CEO Nvidia Дженсен Хуанг на встрече с сотрудниками признал нарушения кодекса поведения и назвал свои ошибки «очень серьёзными».",
+          "why": "Показывает как индустрия разруливает кризисы управления, и что ждёт лидеров компаний на фоне срочных политических решений.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+          "candidate_urls": [
+            "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+            "https://www.techmeme.com/261124/p28#a261124p28"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "AI решила одну из самых сложных задач математики, но её никто не поняет",
+          "what": "Исследователь Anthropic использовал AI для доказательства гипотезы Римана — результат занимает 17 млн строк кода, которые математики только начинают разбирать.",
+          "why": "Показывает новую роль AI в фундаментальной науке и создаёт вызов: когда решение существует, но человеческий разум не может его проверить.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
+          "candidate_urls": [
+            "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
+          "what": "Акции Anthropic упали на 12% ниже цены IPO ($83) до ~$76, давая сигнал о переоценке AI-стартапов на рынке.",
+          "why": "Прямой риск для фаундеров AI-компаний: оценки давят вниз, даже у лидеров вроде Anthropic, после выхода на IPO.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+            "https://www.techmeme.com/261124/p21#a261124p21"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
+          "what": "Британское агентство кибербезопасности предупредило, что AI-инструменты для атак активно эксплуатируют старые проблемы безопасности в системах.",
+          "why": "Волна AI-усиленных кибератак становится конкретным риском для продуктовых команд и показывает, почему базовая гигиена безопасности критична.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
+          "what": "Tidal объявил, что с 9 декабря запретит полностью сгенерированную AI музыку, удалив ~29 млн треков и отклоняя ~80–85 тыс. в день.",
+          "why": "Показывает реакцию крупных платформ на засоренность контентом и может вдохновить аналогичные ходы в других сервисах, меняя игру для AI-музыканов.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "The Verge",
+          "source_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+          "candidate_urls": [
+            "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+            "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+            "https://www.techmeme.com/261124/p29#a261124p29"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
+          "what": "Amazon приобрела стартап Decart (сумма $7.5 млрд) для оптимизации своих AI-чипов Trainium и снижения зависимости от Nvidia.",
+          "why": "Показывает масштаб инвестиций крупных компаний в чипы и стратегию Amazon вести войну с Nvidia на поле собственных решений.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
+          "what": "Anthropic запустила Claude Ship, набор инструментов для разработчиков, где AI-агенты могут проверять, исправлять и одобрять pull requests.",
+          "why": "Показывает как AI-агенты встраиваются в процессы разработки и берут на себя рутинные одобрения кода, ускоряя доставку.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+            "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Meta интегрировала AI-ассистента прямо в Instagram DM",
+          "what": "Meta добавила AI-ассистента Muse в прямые сообщения Instagram, убрав необходимость переключаться между приложениями.",
+          "why": "Показывает как крупные платформы встраивают AI в основные юзер-флоу, и новый канал для AI-агентов становится конкурентным преимуществом.",
+          "category": "startup_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+          ],
+          "n": 8,
           "status": "offered"
         }
       ]
