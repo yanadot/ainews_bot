@@ -1,187 +1,5 @@
 {
   "digests": {
-    "11212101": {
-      "created_at": "2026-11-21T21:01:34Z",
-      "message_id": 202,
-      "topics": [
-        {
-          "title": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
-          "what": "Исследователи нашли уязвимость в сервисах-роутерах (OpenRouter, Vercel и др.), где API-ключи утекают даже при включенной защите Zero Data Retention; затронуты миллионы запросов.",
-          "why": "Компаниям нужно пересмотреть безопасность при использовании AI-роутеров — риск кражи ключей реален и шире, чем казалось.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Ars Technica",
-          "source_url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p10#a261121p10"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "Инвестиции китайских компаний в AI достигли $139B в 2026",
-          "what": "Крупнейшие компании Китая удваивают капитальные расходы до $139 млрд в 2026, но AI-лаборатории составляют менее 8% — основной фокус на инфраструктуру.",
-          "why": "Показывает масштаб конкуренции между США и Китаем в AI; несмотря на экспортные ограничения на чипы, Китай инвестирует беспрецедентно в вычислительную мощность.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Rhodium Group / New York Times",
-          "source_url": "https://www.techmeme.com/261121/p7#a261121p7",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p7#a261121p7"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon готовится купить AI-стартап Decart за $7.5 млрд",
-          "what": "Amazon близка к завершению сделки по приобретению Decart — стартапа, работающего над оптимизацией вычислений для AI; сделка может закрыться в течение недели.",
-          "why": "Показывает, что даже гигантам типа AWS нужны специализированные решения для конкуренции с Nvidia; вычисления становятся критическим конкурентным преимуществом.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261121/p8#a261121p8",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p8#a261121p8"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Alice Huang: контрабанда чипов Nvidia в Китай через множество компаний",
-          "what": "Financial Times выявила, что Alice Huang (близкая к бывшему CEO Jensen) имела связи со множеством shell-компаний и игроков, перенаправлявших чипы Nvidia в Китай.",
-          "why": "Иллюстрирует реальные риски экспортного контроля и санкций; компания должна строже верифицировать цепи поставок и партнёров при работе с критичными технологиями.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261121/p9#a261121p9",
-          "candidate_urls": [
-            "https://www.techmeme.com/261121/p9#a261121p9"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "ООН не согласовала правила для автономного оружия",
-          "what": "После неделе переговоров дипломаты ООН в Женеве не пришли к согласию по регуляции автономного оружия; согласились только продолжить обсуждение.",
-          "why": "Для разработки автономных систем и AI нужно отслеживать регуляторный контекст; отсутствие норм усиливает риск и неопределённость для компаний в этой области.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1039554/un-regulations-killer-robots"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "AI-агенты в мессенджерах: новая категория AI-продуктов",
-          "what": "TechCrunch составила обзор AI-агентов, которые живут в text messages — от универсальных ассистентов до специализированных для семей, путешествий и работы.",
-          "why": "Новый формат взаимодействия с AI, доступный для широкой аудитории; вдохновляет на идеи для AI-ассистентов, встроенных в мессенджеры и контактные каналы.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/"
-          ],
-          "n": 6,
-          "status": "offered"
-        }
-      ]
-    },
-    "11221509": {
-      "created_at": "2026-11-22T15:09:46Z",
-      "message_id": 203,
-      "topics": [
-        {
-          "title": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
-          "what": "Разведывательное агентство MSS запустило скрытую операцию по помощи китайским компаниям в приобретении продвинутых AI-чипов через контрабанду и другие каналы.",
-          "why": "Это показывает масштаб геополитической борьбы за AI-инфраструктуру и влияет на стратегию экспорта и конкурентоспособность западных компаний.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "New York Times",
-          "source_url": "https://www.techmeme.com/261122/p5#a261122p5",
-          "candidate_urls": [
-            "https://www.techmeme.com/261122/p5#a261122p5"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 204,
-          "focus": "Поясни откуда вообще эта операция взялась, предпосылки, их задачу"
-        },
-        {
-          "title": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
-          "what": "Крупные финансовые учреждения США запретили третьим лицам и AI-агентам подключаться к банковским аккаунтам, снимая с себя ответственность за ошибки.",
-          "why": "Это подчёркивает технические и юридические риски AI-агентов в критичных финансовых системах и может замедлить их внедрение.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired AI",
-          "source_url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-          "candidate_urls": [
-            "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "AI помогает злоумышленникам планировать кибератаки на промышленное оборудование",
-          "what": "Эксперты обнаружили, что языковые модели ускоряют планирование атак на промышленное оборудование, помогая анализировать техническую документацию.",
-          "why": "Это выявляет неизученный способ применения AI криминальными группами и поднимает вопросы о защите критической инфраструктуры.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261122/p6#a261122p6",
-          "candidate_urls": [
-            "https://www.techmeme.com/261122/p6#a261122p6"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Tesla FSD v15 использует AI для видеогенерации в реальном времени",
-          "what": "Tesla выпустила обновление Full Self-Driving v15 с системой визуализации, которая генерирует фотореалистичные образы окружения машины на лету.",
-          "why": "Это демонстрирует применение генеративной AI в критичных системах управления и может вдохновить новые подходы к визуализации в других приложениях.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Gizmodo",
-          "source_url": "https://www.techmeme.com/261122/p4#a261122p4",
-          "candidate_urls": [
-            "https://www.techmeme.com/261122/p4#a261122p4"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic планирует питать дата-центры газом и углём к 2028 году",
-          "what": "По данным, Anthropic планирует использовать газ для 87% и уголь для 11% электроэнергии своих дата-центров в 2028 году.",
-          "why": "Это показывает масштаб энергопотребления современных AI-компаний и экологические вызовы масштабирования моделей.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Better Data Center Project",
-          "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-          "candidate_urls": [
-            "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Производители AI-серверов повышают цены спустя месяцы после контрактов",
-          "what": "Dell, HPE, Lenovo и Supermicro требуют существенно более высокие цены у клиентов за серверы, несмотря на уже подписанные контракты.",
-          "why": "Это может повлиять на затраты компаний, планирующих закупку инфраструктуры для AI-приложений, и показывает извлечение краткосрочной стоимости.",
-          "category": "big_news",
-          "score": 3,
-          "source_name": "Financial Times",
-          "source_url": "https://www.techmeme.com/261122/p2#a261122p2",
-          "candidate_urls": [
-            "https://www.techmeme.com/261122/p2#a261122p2"
-          ],
-          "n": 6,
-          "status": "offered"
-        }
-      ]
-    },
     "11222111": {
       "created_at": "2026-11-22T21:11:27Z",
       "message_id": 209,
@@ -462,6 +280,112 @@
             "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
           ],
           "n": 8,
+          "status": "offered"
+        }
+      ]
+    },
+    "11251753": {
+      "created_at": "2026-11-25T17:53:26Z",
+      "message_id": 220,
+      "topics": [
+        {
+          "title": "GPT-6 демонстрирует встроенные способности к дизайну белков",
+          "what": "GPT-6 может проектировать структуры и последовательности белков, используя рассуждения и код. Лабораторные тесты подтвердили связывание с пятью целевыми белками.",
+          "why": "Это показывает, как языковые модели начинают решать научные задачи биотеха, потенциально ускоряя разработку лекарств и материалов.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "OpenAI",
+          "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "candidate_urls": [
+            "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "OpenAI опубликовала доказательство решения классической задачи математики",
+          "what": "OpenAI выпустила препринт, который якобы доказывает, что показатель матричного умножения (ω) равен ровно 9/4 — решение открытой математической проблемы.",
+          "why": "Это демонстрирует возможность AI решать фундаментальные научные проблемы, которые не удавались человеческим математикам десятилетиями.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "OpenAI",
+          "source_url": "https://www.techmeme.com/261125/p21#a261125p21",
+          "candidate_urls": [
+            "https://www.techmeme.com/261125/p21#a261125p21"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Google выпустила Gemini 4 Neon — новый рекорд в бенчмарках",
+          "what": "Gemini 4 Neon опередила Astra и Fable на LiveBench, сократив время выполнения Rust-бенчмарка на 48,6%.",
+          "why": "Google вернулась в гонку после месяцев без компетитивных запусков. Это показывает, что frontier-лаборатории продолжают улучшение.",
+          "category": "lab_launch",
+          "score": 5,
+          "source_name": "Latent Space",
+          "source_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+          "candidate_urls": [
+            "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Jensen Huang вернулся CEO Nvidia — новый поворот в саге",
+          "what": "После увольнения Huang вернулся в пост CEO Nvidia и извинился перед сотрудниками на первом all-hands meeting.",
+          "why": "Это показывает нестабильность управления даже в главной AI-компании и влияние политических сил на корпоративные решения.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch/Verge/Bloomberg",
+          "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+            "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Генпрокуроры штатов борются против продажи приватных чатов Character AI",
+          "what": "Генпрокуроры 15 штатов требуют остановить продажу приватных данных 21 млн пользователей Character.ai, включая 2,1 млн несовершеннолетних.",
+          "why": "Это показывает ужесточение регуляции вокруг приватности AI-компаний и риск, которому подвергаются компании с неправильной политикой данных.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Amazon и Meta обсуждают интеграцию AI-агента Muse в е-коммерс",
+          "what": "Amazon якобы ведёт переговоры о разрешении AI-агенту Meta Muse покупать товары на своей площадке после двухмесячного блокирования.",
+          "why": "Крупные компании начинают встраивать AI-агентов в е-коммерс. Это показатель готовности рынка к автоматизированным покупкам.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch/Verge",
+          "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+            "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Новый бенчмарк: даже лучшие AI-агенты плохо справляются с бытом",
+          "what": "Исследование показало, что продвинутые AI-модели часто не могут надежно завершить повседневные задачи и могут создавать новые проблемы.",
+          "why": "Это дает реалистичную картину того, насколько AI-агенты готовы к использованию в реальной жизни — и выясняется, что недостаточно готовы.",
+          "category": "lab_launch",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]

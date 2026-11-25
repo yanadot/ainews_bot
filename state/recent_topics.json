@@ -1,83 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Утечка ключей API из сервисов AI: исследование выявило массовую проблему",
-      "url": "https://arstechnica.com/security/2026/11/researchers-found-api-keys-exposed-in-ai-router-services/",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Инвестиции китайских компаний в AI достигли $139B в 2026",
-      "url": "https://www.techmeme.com/261121/p7#a261121p7",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon готовится купить AI-стартап Decart за $7.5 млрд",
-      "url": "https://www.techmeme.com/261121/p8#a261121p8",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Alice Huang: контрабанда чипов Nvidia в Китай через множество компаний",
-      "url": "https://www.techmeme.com/261121/p9#a261121p9",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "ООН не согласовала правила для автономного оружия",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI-агенты в мессенджерах: новая категория AI-продуктов",
-      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "ts": "2026-11-21T21:01:34Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
-      "url": "https://www.techmeme.com/261122/p5#a261122p5",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Крупные американские банки запрещают AI-агентам доступ к аккаунтам",
-      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI помогает злоумышленникам планировать кибератаки на промышленное оборудование",
-      "url": "https://www.techmeme.com/261122/p6#a261122p6",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Tesla FSD v15 использует AI для видеогенерации в реальном времени",
-      "url": "https://www.techmeme.com/261122/p4#a261122p4",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic планирует питать дата-центры газом и углём к 2028 году",
-      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Производители AI-серверов повышают цены спустя месяцы после контрактов",
-      "url": "https://www.techmeme.com/261122/p2#a261122p2",
-      "ts": "2026-11-22T15:09:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Китайское разведывательное ведомство MSS помогает компаниям получать AI-чипы",
-      "url": "https://en.sedaily.com/world/2026/11/22/chinas-spy-agency-runs-secret-push-to-obtain-ai-chips",
-      "ts": "2026-11-22T16:51:58Z"
-    },
-    {
       "topic": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "ts": "2026-11-22T21:11:27Z",
@@ -199,6 +122,48 @@
       "topic": "Meta интегрировала AI-ассистента прямо в Instagram DM",
       "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
       "ts": "2026-11-24T18:45:46Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "GPT-6 демонстрирует встроенные способности к дизайну белков",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "OpenAI опубликовала доказательство решения классической задачи математики",
+      "url": "https://www.techmeme.com/261125/p21#a261125p21",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Google выпустила Gemini 4 Neon — новый рекорд в бенчмарках",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jensen Huang вернулся CEO Nvidia — новый поворот в саге",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Генпрокуроры штатов борются против продажи приватных чатов Character AI",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Amazon и Meta обсуждают интеграцию AI-агента Muse в е-коммерс",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "ts": "2026-11-25T17:53:26Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Новый бенчмарк: даже лучшие AI-агенты плохо справляются с бытом",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "ts": "2026-11-25T17:53:26Z",
       "kind": "offered"
     }
   ]

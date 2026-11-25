@@ -1,54 +1,48 @@
 {
-  "run_at": "2026-11-24T18:45:46Z",
-  "candidates": 38,
+  "run_at": "2026-11-25T17:53:26Z",
+  "candidates": 31,
   "offered": [
     {
       "n": 1,
-      "title": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
+      "title": "GPT-6 демонстрирует встроенные способности к дизайну белков",
       "score": 5,
-      "source_url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/"
+      "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
     },
     {
       "n": 2,
-      "title": "AI решила одну из самых сложных задач математики, но её никто не поняет",
-      "score": 4,
-      "source_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
+      "title": "OpenAI опубликовала доказательство решения классической задачи математики",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261125/p21#a261125p21"
     },
     {
       "n": 3,
-      "title": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+      "title": "Google выпустила Gemini 4 Neon — новый рекорд в бенчмарках",
+      "score": 5,
+      "source_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
     },
     {
       "n": 4,
-      "title": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
+      "title": "Jensen Huang вернулся CEO Nvidia — новый поворот в саге",
+      "score": 5,
+      "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
     },
     {
       "n": 5,
-      "title": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
+      "title": "Генпрокуроры штатов борются против продажи приватных чатов Character AI",
       "score": 4,
-      "source_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban"
+      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
     },
     {
       "n": 6,
-      "title": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
+      "title": "Amazon и Meta обсуждают интеграцию AI-агента Muse в е-коммерс",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
+      "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
     },
     {
       "n": 7,
-      "title": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
+      "title": "Новый бенчмарк: даже лучшие AI-агенты плохо справляются с бытом",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
-    },
-    {
-      "n": 8,
-      "title": "Meta интегрировала AI-ассистента прямо в Instagram DM",
-      "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
+      "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
     }
   ]
 }
