@@ -328,7 +328,8 @@
             "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
           ],
           "n": 3,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 221
         },
         {
           "title": "Jensen Huang вернулся CEO Nvidia — новый поворот в саге",
