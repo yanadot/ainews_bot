@@ -1,48 +1,60 @@
 {
-  "run_at": "2026-11-25T17:53:26Z",
-  "candidates": 31,
+  "run_at": "2026-11-26T17:38:44Z",
+  "candidates": 27,
   "offered": [
     {
       "n": 1,
-      "title": "GPT-6 демонстрирует встроенные способности к дизайну белков",
+      "title": "42 генпрокуроры блокируют продажу приватных чатов Character.AI",
       "score": 5,
-      "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
+      "source_url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
     },
     {
       "n": 2,
-      "title": "OpenAI опубликовала доказательство решения классической задачи математики",
+      "title": "Jensen Huang нарушил внутренний кодекс Nvidia",
       "score": 5,
-      "source_url": "https://www.techmeme.com/261125/p21#a261125p21"
+      "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it"
     },
     {
       "n": 3,
-      "title": "Google выпустила Gemini 4 Neon — новый рекорд в бенчмарках",
-      "score": 5,
-      "source_url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/"
+      "title": "S&P рассматривает снижение кредитного рейтинга Nvidia",
+      "score": 4,
+      "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
     },
     {
       "n": 4,
-      "title": "Jensen Huang вернулся CEO Nvidia — новый поворот в саге",
-      "score": 5,
-      "source_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+      "title": "SAP сокращает 10 тысяч сотрудников на трансформацию в AI-era",
+      "score": 4,
+      "source_url": "https://www.techmeme.com/261126/p22#a261126p22"
     },
     {
       "n": 5,
-      "title": "Генпрокуроры штатов борются против продажи приватных чатов Character AI",
+      "title": "Avicena привлекла $100M+ на микроLED-коннекторы для AI-чипов",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+      "source_url": "https://www.techmeme.com/261126/p20#a261126p20"
     },
     {
       "n": 6,
-      "title": "Amazon и Meta обсуждают интеграцию AI-агента Muse в е-коммерс",
+      "title": "Британский регулятор требует от Meta поделиться Muse для тестирования",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+      "source_url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains"
     },
     {
       "n": 7,
-      "title": "Новый бенчмарк: даже лучшие AI-агенты плохо справляются с бытом",
+      "title": "Крупные AI-лабы хранят секретные алгоритмы, которые могут взломать криптографию",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
+      "source_url": "https://www.techmeme.com/261126/p8#a261126p8"
+    },
+    {
+      "n": 8,
+      "title": "Нью-Йорк запретил AI-игрушки на 5 лет",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
+    },
+    {
+      "n": 9,
+      "title": "Инвесторы бросают старые VC-фонды 2021 года и кидаются в новые AI-фонды",
+      "score": 3,
+      "source_url": "https://www.techmeme.com/261126/p14#a261126p14"
     }
   ]
 }

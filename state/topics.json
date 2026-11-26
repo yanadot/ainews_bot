@@ -1,42 +1,5 @@
 {
   "digests": {
-    "11222111": {
-      "created_at": "2026-11-22T21:11:27Z",
-      "message_id": 209,
-      "topics": [
-        {
-          "title": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
-          "what": "OpenAI опубликовала подход к измерению того, как хорошо AI-модели предсказывают данные, и предлагает использовать перплексность как общий язык для оценки возможностей моделей.",
-          "why": "Единая метрика может помочь лабораториям сравнивать развитие моделей объективно, вместо набора разных тестов, и помочь согласовать регулирующий подход.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "OpenAI",
-          "source_url": "https://openai.com/index/perplexity-and-intelligence",
-          "candidate_urls": [
-            "https://openai.com/index/perplexity-and-intelligence",
-            "https://www.techmeme.com/261122/p9#a261122p9"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 210,
-          "focus": ""
-        },
-        {
-          "title": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
-          "what": "После сбоев FAA, Microsoft и банков директор национальной разведки заявил, что американцы должны готовиться к проблемам при обновлении критических систем под AI.",
-          "why": "На уровне госструктур растёт беспокойство о рисках внедрения AI в критическую инфраструктуру — это может влиять на регуляцию, стандарты безопасности и инвестиции.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "CNBC (via Techmeme)",
-          "source_url": "https://www.techmeme.com/261122/p11#a261122p11",
-          "candidate_urls": [
-            "https://www.techmeme.com/261122/p11#a261122p11"
-          ],
-          "n": 2,
-          "status": "offered"
-        }
-      ]
-    },
     "11231905": {
       "created_at": "2026-11-23T19:05:36Z",
       "message_id": 214,
@@ -388,6 +351,138 @@
             "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/"
           ],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "11261738": {
+      "created_at": "2026-11-26T17:38:44Z",
+      "message_id": 225,
+      "topics": [
+        {
+          "title": "42 генпрокуроры блокируют продажу приватных чатов Character.AI",
+          "what": "Коалиция генпрокуроров требует запретить Character.AI продавать данные о личных разговорах пользователей во время банкротства.",
+          "why": "Прецедент: регуляторы впервые открыто защищают пользовательские данные AI-компании — ориентир для других стартапов, работающих с чатами.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "The Verge",
+          "source_url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "candidate_urls": [
+            "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Jensen Huang нарушил внутренний кодекс Nvidia",
+          "what": "Генеральный директор Nvidia нарушил корпоративные правила, которые устанавливает сама компания.",
+          "why": "Поднимает вопрос о культуре на вершине лидера AI-индустрии — важно для инвесторов и сотрудников, оценивающих риск.",
+          "category": "big_news",
+          "score": 5,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "S&P рассматривает снижение кредитного рейтинга Nvidia",
+          "what": "Агентство S&P может понизить рейтинг Nvidia из-за проблем с управлением компанией и зависимости от одного человека.",
+          "why": "Удорожание заимствований для Nvidia — сигнал инвесторам о рисках для цепи поставок AI-инфраструктуры.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "SAP сокращает 10 тысяч сотрудников на трансформацию в AI-era",
+          "what": "Корпорация убирает 9% сотрудников, переориентируя бизнес на AI и облачные сервисы.",
+          "why": "Конкретный пример того, как крупные корпорации видят будущее — автоматизация реально берёт рабочие места на легасах.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261126/p22#a261126p22",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p22#a261126p22"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Avicena привлекла $100M+ на микроLED-коннекторы для AI-чипов",
+          "what": "Стартап получил финансирование от SK Hynix, Samsung и AMD на технологию связи AI-чипов через микроLED вместо лазеров.",
+          "why": "Конкуренция Nvidia за будущую топологию дата-центров — новый подход к аппаратной инфраструктуре, который может изменить пропускную способность.",
+          "category": "funding",
+          "score": 4,
+          "source_name": "The Next Web",
+          "source_url": "https://www.techmeme.com/261126/p20#a261126p20",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p20#a261126p20"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Британский регулятор требует от Meta поделиться Muse для тестирования",
+          "what": "FCA обеспокоен агентом Muse и попросил Meta пройти совместное тестирование перед запуском в UK.",
+          "why": "Первый случай, когда регулятор открыто требует тестирования AI-агента перед запуском — новая планка для продуктов с действиями в реале.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+          "candidate_urls": [
+            "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Крупные AI-лабы хранят секретные алгоритмы, которые могут взломать криптографию",
+          "what": "По информации Scott Aaronson, ведущие AI-лаборатории сидят на крупных не раскрытых алгоритмических прорывах, потенциально угрожающих текущей криптографии.",
+          "why": "Поднимает вопросы о информационной безопасности, координации между лабами и скорости научных открытий в AI — риск для инвесторов в cybersecurity.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Scott Aaronson",
+          "source_url": "https://www.techmeme.com/261126/p8#a261126p8",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p8#a261126p8"
+          ],
+          "n": 7,
+          "status": "offered"
+        },
+        {
+          "title": "Нью-Йорк запретил AI-игрушки на 5 лет",
+          "what": "Штат наложил мораторий на продажу AI-чатботов-игрушек из-за проблем безопасности, включая доступ к неподходящему контенту.",
+          "why": "Первый штат, вводящий мораторий на категорию AI-продуктов — прецедент для других регионов и компаний, работающих с детьми.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
+          ],
+          "n": 8,
+          "status": "offered"
+        },
+        {
+          "title": "Инвесторы бросают старые VC-фонды 2021 года и кидаются в новые AI-фонды",
+          "what": "Пенсионные фонды и эндаументы продают старые VC-фонды 2021 года со скидками и инвестируют в новые AI-специализированные фонды.",
+          "why": "Переток капитала от старых в новые AI-фонды — ориентир, куда пойдут деньги и какие стартапы получат финансирование в следующем раунде.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261126/p14#a261126p14",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p14#a261126p14"
+          ],
+          "n": 9,
           "status": "offered"
         }
       ]

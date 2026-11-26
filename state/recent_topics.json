@@ -1,23 +1,6 @@
 {
   "topics": [
     {
-      "topic": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "ts": "2026-11-22T21:11:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Директор разведки США предупредил об сбоях при переходе на AI-системы",
-      "url": "https://www.techmeme.com/261122/p11#a261122p11",
-      "ts": "2026-11-22T21:11:27Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "OpenAI предложила метрику Perplexity для оценки прогресса в AI",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "ts": "2026-11-22T22:01:06Z"
-    },
-    {
       "topic": "Jensen Huang вернулся в NVIDIA",
       "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
       "ts": "2026-11-23T19:05:36Z",
@@ -170,6 +153,60 @@
       "topic": "Google выпустила Gemini 4 Neon — новый рекорд в бенчмарках",
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
       "ts": "2026-11-25T18:38:46Z"
+    },
+    {
+      "topic": "42 генпрокуроры блокируют продажу приватных чатов Character.AI",
+      "url": "https://theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Jensen Huang нарушил внутренний кодекс Nvidia",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "S&P рассматривает снижение кредитного рейтинга Nvidia",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "SAP сокращает 10 тысяч сотрудников на трансформацию в AI-era",
+      "url": "https://www.techmeme.com/261126/p22#a261126p22",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Avicena привлекла $100M+ на микроLED-коннекторы для AI-чипов",
+      "url": "https://www.techmeme.com/261126/p20#a261126p20",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Британский регулятор требует от Meta поделиться Muse для тестирования",
+      "url": "https://wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Крупные AI-лабы хранят секретные алгоритмы, которые могут взломать криптографию",
+      "url": "https://www.techmeme.com/261126/p8#a261126p8",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Нью-Йорк запретил AI-игрушки на 5 лет",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инвесторы бросают старые VC-фонды 2021 года и кидаются в новые AI-фонды",
+      "url": "https://www.techmeme.com/261126/p14#a261126p14",
+      "ts": "2026-11-26T17:38:44Z",
+      "kind": "offered"
     }
   ]
 }
