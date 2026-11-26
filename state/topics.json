@@ -413,8 +413,9 @@
             "https://www.techmeme.com/261126/p22#a261126p22"
           ],
           "n": 4,
-          "status": "awaiting_focus",
-          "focus_msg_id": 226
+          "status": "written",
+          "focus_msg_id": 226,
+          "focus": "Без контекста что это значит для продуктовых команд"
         },
         {
           "title": "Avicena привлекла $100M+ на микроLED-коннекторы для AI-чипов",
