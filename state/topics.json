@@ -413,7 +413,8 @@
             "https://www.techmeme.com/261126/p22#a261126p22"
           ],
           "n": 4,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 226
         },
         {
           "title": "Avicena привлекла $100M+ на микроLED-коннекторы для AI-чипов",
