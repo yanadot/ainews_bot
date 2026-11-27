@@ -381,7 +381,8 @@
             "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
           ],
           "n": 1,
-          "status": "offered"
+          "status": "awaiting_focus",
+          "focus_msg_id": 232
         },
         {
           "title": "Nvidia остановила поставки чипов в Юго-Восточную Азию",
