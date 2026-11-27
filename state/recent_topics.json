@@ -1,54 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
-      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "AI решила одну из самых сложных задач математики, но её никто не поняет",
-      "url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
-      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
-      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
-      "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta интегрировала AI-ассистента прямо в Instagram DM",
-      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-      "ts": "2026-11-24T18:45:46Z",
-      "kind": "offered"
-    },
-    {
       "topic": "GPT-6 демонстрирует встроенные способности к дизайну белков",
       "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
       "ts": "2026-11-25T17:53:26Z",
@@ -195,6 +147,11 @@
       "url": "https://www.techmeme.com/261126/p26#a261126p26",
       "ts": "2026-11-27T17:20:32Z",
       "kind": "offered"
+    },
+    {
+      "topic": "Q.ANT создала чипы на основе света для AI вычислений",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "ts": "2026-11-27T18:59:16Z"
     }
   ]
 }
