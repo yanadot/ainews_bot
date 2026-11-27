@@ -1,65 +1,6 @@
 {
   "topics": [
     {
-      "topic": "Jensen Huang вернулся в NVIDIA",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Amazon купила Decart за $7.5 млрд",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Google Search с личным интеллектом",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
-      "url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Философ критикует аргумент Anthropic про сознание AI",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Microsoft развивает инфраструктуру для Reinforcement Learning",
-      "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Sierra удвоила оценку до $30 млрд за полгода",
-      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Meta Muse теперь может купить товары на Walmart",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-      "ts": "2026-11-23T19:05:36Z",
-      "kind": "offered"
-    },
-    {
-      "topic": "Jensen Huang вернулся в NVIDIA",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-      "ts": "2026-11-23T19:12:35Z"
-    },
-    {
       "topic": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
       "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "ts": "2026-11-24T18:45:46Z",
@@ -212,6 +153,48 @@
       "topic": "SAP сокращает 10 тысяч сотрудников на трансформацию в AI-era",
       "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
       "ts": "2026-11-26T17:46:51Z"
+    },
+    {
+      "topic": "Q.ANT создала чипы на основе света для AI вычислений",
+      "url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Nvidia остановила поставки чипов в Юго-Восточную Азию",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Запреты Трампа сделали Huawei центром AI-амбиций Китая",
+      "url": "https://www.techmeme.com/261127/p7#a261127p7",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Restricted Blackwell чипы Nvidia найдены в центре обработки Шанхая",
+      "url": "https://www.techmeme.com/261127/p6#a261127p6",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Dante Security привлекла $10М на мониторинг AI-агентов",
+      "url": "https://www.techmeme.com/261126/p27#a261126p27",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Инвесторы на рекорде выходят из акций Тайваня из-за опасений AI-валюации",
+      "url": "https://www.techmeme.com/261127/p2#a261127p2",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
+    },
+    {
+      "topic": "Конгресс ускоряет работу над регулированием AI, но законы идут медленно",
+      "url": "https://www.techmeme.com/261126/p26#a261126p26",
+      "ts": "2026-11-27T17:20:32Z",
+      "kind": "offered"
     }
   ]
 }

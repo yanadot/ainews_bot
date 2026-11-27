@@ -1,129 +1,5 @@
 {
   "digests": {
-    "11231905": {
-      "created_at": "2026-11-23T19:05:36Z",
-      "message_id": 214,
-      "topics": [
-        {
-          "title": "Jensen Huang вернулся в NVIDIA",
-          "what": "Совет директоров NVIDIA переизбрал Huang на пост CEO спустя неделю после его отставки на фоне скандала с личной жизнью.",
-          "why": "Политическое давление Трампа и критичность Huang для AI-индустрии сигнализируют о неизбежности лидеров даже на фоне контроверсий.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-          "candidate_urls": [
-            "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
-            "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/",
-            "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
-            "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-            "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/"
-          ],
-          "n": 1,
-          "status": "written",
-          "focus_msg_id": 215,
-          "focus": ""
-        },
-        {
-          "title": "Amazon купила Decart за $7.5 млрд",
-          "what": "Amazon приобрела стартап по оптимизации AI-тренинга, готовясь продавать собственные чипы Trainium для конкуренции с NVIDIA.",
-          "why": "Вертикальная интеграция как у NVIDIA: от чипов к софту. Показывает, как облачные провайдеры строят собственные AI-стеки.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-          "candidate_urls": [],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Google Search с личным интеллектом",
-          "what": "Google добавила персонализированного AI-помощника в поиск, который интегрирует данные из Wallet, Drive, Gmail, Photos и Calendar.",
-          "why": "Переход от поиска информации к персональному агенту меняет модель взаимодействия; новое поле боя для OpenAI и Claude.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Google",
-          "source_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-          "candidate_urls": [],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Oregon и Virginia судят SpaceX за deepfakes в Grok",
-          "what": "Генпрокуроры штатов обвиняют Musk и SpaceX в игнорировании защиты от сексуализированного контента и deepfakes реальных людей, включая детей.",
-          "why": "Первый крупный судебный вызов к AI-компании за создание порно-deepfakes; знак будущего регулирования.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/states-sue-spacex-over-grok-deepfakes/",
-          "candidate_urls": [
-            "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Философ критикует аргумент Anthropic про сознание AI",
-          "what": "После IPO Anthropic указала на риск AI-сознания как фактор инвестиционного риска; философ Daniel Dennett это отвергает.",
-          "why": "Дебат про сознание AI из философии переходит в инвестиционные документы и инвесторскую дискуссию.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "MIT Technology Review",
-          "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
-          "candidate_urls": [],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Microsoft развивает инфраструктуру для Reinforcement Learning",
-          "what": "Microsoft AI опубликовала подробности RL-инфраструктуры для масштабирования тренинга моделей через обратную связь.",
-          "why": "RL становится ключевым для продвижения способностей моделей (как OpenAI показала с o1); Microsoft играет в основную лигу.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "Microsoft AI",
-          "source_url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai/",
-          "candidate_urls": [],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "DeepMind: AI-агенты находят быстрые квантовые алгоритмы",
-          "what": "DeepMind применила AI-агентов к разработке квантовых алгоритмов через формальную верификацию и поиск.",
-          "why": "Показывает применение AI-агентов к фундаментальной науке; выходит за пределы LLM в физику и математику.",
-          "category": "lab_launch",
-          "score": 3,
-          "source_name": "DeepMind",
-          "source_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-          "candidate_urls": [],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Sierra удвоила оценку до $30 млрд за полгода",
-          "what": "Компания по AI для обслуживания клиентов собрала $1.75 млрд в раунде Series F, удвоив оценку за 6 месяцев.",
-          "why": "Взрывной рост спроса на AI для customer support; Sierra стала Unicorn x30. Показывает куда текут деньги в AI.",
-          "category": "funding",
-          "score": 3,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-          "candidate_urls": [],
-          "n": 8,
-          "status": "offered"
-        },
-        {
-          "title": "Meta Muse теперь может купить товары на Walmart",
-          "what": "Walmart интегрировал Meta Muse в своего AI-ассистента Sparky для автоматического поиска и покупки Black Friday предложений.",
-          "why": "Первая масштабная реализация AI-агентов в реальном онлайн-шопинге; агенты переходят из лаб в production.",
-          "category": "startup_launch",
-          "score": 3,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
-          "candidate_urls": [],
-          "n": 9,
-          "status": "offered"
-        }
-      ]
-    },
     "11241845": {
       "created_at": "2026-11-24T18:45:46Z",
       "message_id": 219,
@@ -485,6 +361,110 @@
             "https://www.techmeme.com/261126/p14#a261126p14"
           ],
           "n": 9,
+          "status": "offered"
+        }
+      ]
+    },
+    "11271720": {
+      "created_at": "2026-11-27T17:20:32Z",
+      "message_id": 231,
+      "topics": [
+        {
+          "title": "Q.ANT создала чипы на основе света для AI вычислений",
+          "what": "Немецкая Q.ANT представила процессор на фотонике, использующий световые волны для AI-вычислений вместо электричества, снижая энергопотребление.",
+          "why": "Решает центральную проблему энергопотребления при масштабировании AI-инфраструктуры — будет критична для экономики больших моделей.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Wired",
+          "source_url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+          "candidate_urls": [
+            "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Nvidia остановила поставки чипов в Юго-Восточную Азию",
+          "what": "Компания приказала производителям приостановить отправки серверов в Малайзию, Сингапур, Таиланд и Индонезию в рамках ужесточения санкций против Китая.",
+          "why": "Показывает масштаб торговых ограничений и затрудняет доступ конкурентов к чипам в регионе — сжимает рынок вне США и Европы.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "TechCrunch",
+          "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Запреты Трампа сделали Huawei центром AI-амбиций Китая",
+          "what": "CEO Huawei Жэнь Чжэнфэй рассказал, как американские санкции вынудили компанию к независимости и сделали её ключевой для AI-планов Китая.",
+          "why": "Показывает стратегический поворот в геополитике AI — Huawei теперь центр альтернативной экосистемы независимо от Nvidia.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "New York Times",
+          "source_url": "https://www.techmeme.com/261127/p7#a261127p7",
+          "candidate_urls": [
+            "https://www.techmeme.com/261127/p7#a261127p7"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "Restricted Blackwell чипы Nvidia найдены в центре обработки Шанхая",
+          "what": "По данным Bloomberg, серийные номера подтвердили установку ограниченных чипов Blackwell в центре обработки данных, связанном с китайскими компаниями.",
+          "why": "Демонстрирует проблемы с обеспечением санкций и способность обходить ограничения — актуально для понимания реального влияния торговых правил.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261127/p6#a261127p6",
+          "candidate_urls": [
+            "https://www.techmeme.com/261127/p6#a261127p6"
+          ],
+          "n": 4,
+          "status": "offered"
+        },
+        {
+          "title": "Dante Security привлекла $10М на мониторинг AI-агентов",
+          "what": "Платформа Dante Security, дающая видимость в действия автономных AI-агентов в организациях, привлекла $10М seed от NFX и других инвесторов.",
+          "why": "Новая категория продуктов — контроль и безопасность AI-агентов становятся критичными по мере их развертывания в компаниях.",
+          "category": "startup_launch",
+          "score": 3,
+          "source_name": "CTech",
+          "source_url": "https://www.techmeme.com/261126/p27#a261126p27",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p27#a261126p27"
+          ],
+          "n": 5,
+          "status": "offered"
+        },
+        {
+          "title": "Инвесторы на рекорде выходят из акций Тайваня из-за опасений AI-валюации",
+          "what": "В ноябре иностранные инвесторы вывели рекордные $33,1 млрд из тайваньских акций, превысив октябрьский отток на фоне беспокойства по AI-оценкам.",
+          "why": "Сигнализирует о переоценке в AI-секторе и корректировке рынка — показатель риска для инвесторов и фаундеров, работающих в регионе.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "Bloomberg",
+          "source_url": "https://www.techmeme.com/261127/p2#a261127p2",
+          "candidate_urls": [
+            "https://www.techmeme.com/261127/p2#a261127p2"
+          ],
+          "n": 6,
+          "status": "offered"
+        },
+        {
+          "title": "Конгресс ускоряет работу над регулированием AI, но законы идут медленно",
+          "what": "Двухпартийные усилия в Конгрессе по регулированию AI набирают обороты, но процесс затруднен разногласиями и медленным темпом работы.",
+          "why": "Регуляторная неопределенность замедляет развитие продуктов — компаниям нужно следить за процессом, чтобы подготовиться к новым правилам.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "New York Times",
+          "source_url": "https://www.techmeme.com/261126/p26#a261126p26",
+          "candidate_urls": [
+            "https://www.techmeme.com/261126/p26#a261126p26"
+          ],
+          "n": 7,
           "status": "offered"
         }
       ]
