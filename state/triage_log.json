@@ -1,48 +1,30 @@
 {
-  "run_at": "2026-11-27T17:20:32Z",
-  "candidates": 18,
+  "run_at": "2026-11-28T16:03:40Z",
+  "candidates": 11,
   "offered": [
     {
       "n": 1,
-      "title": "Q.ANT создала чипы на основе света для AI вычислений",
-      "score": 4,
-      "source_url": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/"
+      "title": "Embo выходит из режима секретности с $110М инвестиций на мир-модели",
+      "score": 5,
+      "source_url": "https://www.techmeme.com/261128/p1#a261128p1"
     },
     {
       "n": 2,
-      "title": "Nvidia остановила поставки чипов в Юго-Восточную Азию",
+      "title": "Энергосети нашли способ выжать ёмкость под растущий спрос AI",
       "score": 4,
-      "source_url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+      "source_url": "https://www.techmeme.com/261128/p5#a261128p5"
     },
     {
       "n": 3,
-      "title": "Запреты Трампа сделали Huawei центром AI-амбиций Китая",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261127/p7#a261127p7"
+      "title": "Sakana AI: Япония строит модели не только ради безопасности",
+      "score": 3,
+      "source_url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
     },
     {
       "n": 4,
-      "title": "Restricted Blackwell чипы Nvidia найдены в центре обработки Шанхая",
-      "score": 4,
-      "source_url": "https://www.techmeme.com/261127/p6#a261127p6"
-    },
-    {
-      "n": 5,
-      "title": "Dante Security привлекла $10М на мониторинг AI-агентов",
+      "title": "MATCH Act может навредить сам себе и подтолкнуть Китай в ревертаж",
       "score": 3,
-      "source_url": "https://www.techmeme.com/261126/p27#a261126p27"
-    },
-    {
-      "n": 6,
-      "title": "Инвесторы на рекорде выходят из акций Тайваня из-за опасений AI-валюации",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261127/p2#a261127p2"
-    },
-    {
-      "n": 7,
-      "title": "Конгресс ускоряет работу над регулированием AI, но законы идут медленно",
-      "score": 3,
-      "source_url": "https://www.techmeme.com/261126/p26#a261126p26"
+      "source_url": "https://www.techmeme.com/261127/p16#a261127p16"
     }
   ]
 }

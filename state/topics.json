@@ -1,128 +1,5 @@
 {
   "digests": {
-    "11241845": {
-      "created_at": "2026-11-24T18:45:46Z",
-      "message_id": 219,
-      "topics": [
-        {
-          "title": "Jensen Huang вернулся CEO Nvidia и извинился перед сотрудниками",
-          "what": "Вернувшийся в должность CEO Nvidia Дженсен Хуанг на встрече с сотрудниками признал нарушения кодекса поведения и назвал свои ошибки «очень серьёзными».",
-          "why": "Показывает как индустрия разруливает кризисы управления, и что ждёт лидеров компаний на фоне срочных политических решений.",
-          "category": "big_news",
-          "score": 5,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-          "candidate_urls": [
-            "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
-            "https://www.techmeme.com/261124/p28#a261124p28"
-          ],
-          "n": 1,
-          "status": "offered"
-        },
-        {
-          "title": "AI решила одну из самых сложных задач математики, но её никто не поняет",
-          "what": "Исследователь Anthropic использовал AI для доказательства гипотезы Римана — результат занимает 17 млн строк кода, которые математики только начинают разбирать.",
-          "why": "Показывает новую роль AI в фундаментальной науке и создаёт вызов: когда решение существует, но человеческий разум не может его проверить.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "Wired",
-          "source_url": "https://www.wired.com/story/ai-solved-maths-most-famous-problem/",
-          "candidate_urls": [
-            "https://www.wired.com/story/ai-solved-maths-most-famous-problem/"
-          ],
-          "n": 2,
-          "status": "offered"
-        },
-        {
-          "title": "Акции Anthropic упали ниже цены IPO, что беспокоит весь AI-сектор",
-          "what": "Акции Anthropic упали на 12% ниже цены IPO ($83) до ~$76, давая сигнал о переоценке AI-стартапов на рынке.",
-          "why": "Прямой риск для фаундеров AI-компаний: оценки давят вниз, даже у лидеров вроде Anthropic, после выхода на IPO.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-            "https://www.techmeme.com/261124/p21#a261124p21"
-          ],
-          "n": 3,
-          "status": "offered"
-        },
-        {
-          "title": "Британское агентство: AI-инструменты хакеров нашли массив уязвимостей",
-          "what": "Британское агентство кибербезопасности предупредило, что AI-инструменты для атак активно эксплуатируют старые проблемы безопасности в системах.",
-          "why": "Волна AI-усиленных кибератак становится конкретным риском для продуктовых команд и показывает, почему базовая гигиена безопасности критична.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/"
-          ],
-          "n": 4,
-          "status": "offered"
-        },
-        {
-          "title": "Tidal удалит 29 млн песен и запретит AI-сгенерированную музыку",
-          "what": "Tidal объявил, что с 9 декабря запретит полностью сгенерированную AI музыку, удалив ~29 млн треков и отклоняя ~80–85 тыс. в день.",
-          "why": "Показывает реакцию крупных платформ на засоренность контентом и может вдохновить аналогичные ходы в других сервисах, меняя игру для AI-музыканов.",
-          "category": "big_news",
-          "score": 4,
-          "source_name": "The Verge",
-          "source_url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-          "candidate_urls": [
-            "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-            "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-            "https://www.techmeme.com/261124/p29#a261124p29"
-          ],
-          "n": 5,
-          "status": "offered"
-        },
-        {
-          "title": "Amazon купила Decart за $7.5 млрд, чтобы составить конкуренцию Nvidia",
-          "what": "Amazon приобрела стартап Decart (сумма $7.5 млрд) для оптимизации своих AI-чипов Trainium и снижения зависимости от Nvidia.",
-          "why": "Показывает масштаб инвестиций крупных компаний в чипы и стратегию Amazon вести войну с Nvidia на поле собственных решений.",
-          "category": "funding",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/"
-          ],
-          "n": 6,
-          "status": "offered"
-        },
-        {
-          "title": "Anthropic выпустила Claude Ship — агенты теперь могут одобрять код",
-          "what": "Anthropic запустила Claude Ship, набор инструментов для разработчиков, где AI-агенты могут проверять, исправлять и одобрять pull requests.",
-          "why": "Показывает как AI-агенты встраиваются в процессы разработки и берут на себя рутинные одобрения кода, ускоряя доставку.",
-          "category": "lab_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-            "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests"
-          ],
-          "n": 7,
-          "status": "offered"
-        },
-        {
-          "title": "Meta интегрировала AI-ассистента прямо в Instagram DM",
-          "what": "Meta добавила AI-ассистента Muse в прямые сообщения Instagram, убрав необходимость переключаться между приложениями.",
-          "why": "Показывает как крупные платформы встраивают AI в основные юзер-флоу, и новый канал для AI-агентов становится конкурентным преимуществом.",
-          "category": "startup_launch",
-          "score": 4,
-          "source_name": "TechCrunch",
-          "source_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-          "candidate_urls": [
-            "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/"
-          ],
-          "n": 8,
-          "status": "offered"
-        }
-      ]
-    },
     "11251753": {
       "created_at": "2026-11-25T17:53:26Z",
       "message_id": 220,
@@ -467,6 +344,68 @@
             "https://www.techmeme.com/261126/p26#a261126p26"
           ],
           "n": 7,
+          "status": "offered"
+        }
+      ]
+    },
+    "11281603": {
+      "created_at": "2026-11-28T16:03:40Z",
+      "message_id": 236,
+      "topics": [
+        {
+          "title": "Embo выходит из режима секретности с $110М инвестиций на мир-модели",
+          "what": "Стартап Embo привлёк $110М seed раунд (a16z лидирует) для разработки world models — моделей, которые учатся управлять физическими объектами из интернет-видео.",
+          "why": "Для продактов в робототехнике это может переиграть правила — модели, понимающие физику, заменят людей в управлении неэффективными процессами.",
+          "category": "startup_launch",
+          "score": 5,
+          "source_name": "Embo",
+          "source_url": "https://www.techmeme.com/261128/p1#a261128p1",
+          "candidate_urls": [
+            "https://www.techmeme.com/261128/p1#a261128p1"
+          ],
+          "n": 1,
+          "status": "offered"
+        },
+        {
+          "title": "Энергосети нашли способ выжать ёмкость под растущий спрос AI",
+          "what": "Операторы сетей используют датчики и софт для динамической регулировки лимитов безопасности, чтобы увеличить ёмкость под растущий спрос AI.",
+          "why": "Энергия стала узким местом для AI — на эту инфраструктуру смотреть нужно так же, как на GPU. Вывод: AI-планы нужно соотносить с энергобюджетом.",
+          "category": "big_news",
+          "score": 4,
+          "source_name": "Financial Times",
+          "source_url": "https://www.techmeme.com/261128/p5#a261128p5",
+          "candidate_urls": [
+            "https://www.techmeme.com/261128/p5#a261128p5"
+          ],
+          "n": 2,
+          "status": "offered"
+        },
+        {
+          "title": "Sakana AI: Япония строит модели не только ради безопасности",
+          "what": "CEO Sakana AI подчёркивает, что гомогенные японские модели — это не просто стратегия нацбезопасности, но ставка на индустриальную конкурентоспособность в AI.",
+          "why": "Если Япония создаст конкурентные модели, это изменит картину — сейчас все смотрят на США/Китай. Сигнал: региональные игроки претендуют на место в игре.",
+          "category": "lab_launch",
+          "score": 3,
+          "source_name": "TechCrunch AI",
+          "source_url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+          "candidate_urls": [
+            "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/"
+          ],
+          "n": 3,
+          "status": "offered"
+        },
+        {
+          "title": "MATCH Act может навредить сам себе и подтолкнуть Китай в ревертаж",
+          "what": "Запрет ASML продавать в Китай может привести к обратному: соперники получат 350 сканеров, станут их обслуживать, переделывать и нанимать инженеров ASML.",
+          "why": "Это показывает риск регуляторных войн в AI — попытка урезать конкурентов может привести к противоположному результату, если нет общей стратегии.",
+          "category": "big_news",
+          "score": 3,
+          "source_name": "LithoWar",
+          "source_url": "https://www.techmeme.com/261127/p16#a261127p16",
+          "candidate_urls": [
+            "https://www.techmeme.com/261127/p16#a261127p16"
+          ],
+          "n": 4,
           "status": "offered"
         }
       ]
